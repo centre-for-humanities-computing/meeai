@@ -1,0 +1,942 @@
+OPINION OF THE EUROPEAN GROUP ON ETHICS
+
+IN SCIENCE AND NEW TECHNOLOGIES
+
+TO THE EUROPEAN COMMISSION
+
+1R(cid:3)(cid:20)(cid:24)
+(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:3)(cid:20)(cid:23)(cid:3)1RYHPEHU(cid:3)(cid:21)(cid:19)(cid:19)(cid:19)
+(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)
+
+(cid:3)(cid:3)(cid:3)(cid:3)
+
+(7+,&$/(cid:3)$63(&76(cid:3)2)(cid:3)+80$1(cid:3)67(0(cid:3)&(//(cid:3)5(6($5&+(cid:3)$1’(cid:3)86(
+
+Reference: 
+Initiative of the Group
+Rapporteurs:  Anne McLaren and Göran Hermerén
+
+(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)(cid:13)
+
+The European Group on Ethics in Science and New Technologies (EGE),
+
+Having regard to the Treaty on European Union as amended by the Treaty of
+Amsterdam,  and  in  particular  Article  6  (formerly  Article  F)  of  the  common
+provisions,  concerning  the  respect  for  fundamental  rights,  Article  152
+(formerly Article 129) of the  EC Treaty on public  health,  (namely  paragraph
+4(a) referring to substances of  human origin) and  Articles 163-173  (formerly
+Articles 130F-130P) on research and technological development;
+
+Having  regard  to  the  European  Parliament  and  Council  Directive  65/65/CEE
+of 26 January 1965 and the modified Directive 75/319/CEE of  20  May 1975
+concerning medicinal products;
+
+Having  regard  to  the  Council  Directive  93/42/EEC  of  14  June  1993
+concerning  medical  devices  and  the  European  Parliament  and  Council
+Directive 98/79/EC of 27 October 1998 concerning LQ(cid:3)YLWUR(cid:3)diagnostic medical
+devices, in particular Article 1-4 which refers to ethics and requires the respect
+of the principles of the Convention of the Council of Europe on Human Rights
+and  Biomedicine,  with  regard  to  the  removal,  collection  and  use  of  tissues,
+cells and substances of human origin;
+
+Having regard to the Council Directive 98/44/EC of 6 July 1998 on the legal
+protection  of  biotechnological  inventions  and  in  particular  Article  6,
+concerning  certain  inventions  excluded  from  patentability,  and  Article  7
+giving mandate to the European Group on Ethics (EGE) to evaluate "all ethical
+aspects of biotechnology”;
+
+Having regard to the Parliament and Council Decision of 22 December 1998
+concerning  the  5th  Framework  Programme  of  the  European  Community  for
+research, technological development and demonstration activities (1998-2002)
+and  in  particular  Article  7  requesting  compliance  with  fundamental  ethical
+principles;
+
+Having  regard  to  the  Council  Decision  of  25  January  1999  adopting  the
+specific  programme 
+and
+demonstration activities on quality of life and management of living resources
+and in particular the ethical requirements mentioned in its Annex II;
+
+technological  development 
+
+research, 
+
+for 
+
+Having regard to the Charter of 28 September 2000 on Fundamental Rights of
+the European Union, approved by the European Council in Biarritz on October
+14th 2000, in particular Article 1 on “Human dignity”, Article 3 on the “Right
+to  the  integrity  of  the  person”,  which  refers  to  the  principle  of  "free  and
+informed  consent"  and  prohibits  "the  reproductive  cloning  of  human  beings"
+and Article 22 on “Cultural, religious and linguistic diversity”;
+
+Having  regard  to  the Council of Europe’s  Convention  on  Human  Rights  and
+Biomedicine,  signed  on  4  April  1997  in  Oviedo,  in  particular  Article  18  on
+embryo  research,  and  to  the  additional  protocol  to  the  Convention  on  the
+prohibition of cloning human beings signed on 12 January 1998 in Paris;
+
+Having  regard  to  the  Universal  Declaration  on  the  Human  Genome  and
+Human  Rights  adopted  by  the  United  Nations  on  11  December  1998,  in
+particular  Article  11  which  recommends  to  prohibit  reproductive  cloning  of
+human  beings,  and  Article  13  which  refers  to  the  responsibilities  of
+researchers as well as of science policy makers;
+
+Having regard to national regulations on stem cell and on embryo research and
+to  national  ethics  bodies  opinions,  at  the  European  Union  level,  concerning
+these subjects;
+
+Having  regard  to  the  reports  of  the  US  National  Bioethics  Advisory
+Committee dated September 13, 1999 on the "Ethical Issues on Human Stem
+Cell Research", the hearings on the same subject by the US Congress, on April
+2000 and the guidelines published by the Clinton administration on August 26,
+2000 to be forwarded to a NIH (National Institutes of Health) scientific review
+in 2001;
+
+Having regard to the Round Table organised by the Group on 26 June 2000 in
+Brussels  with  members  of  the  European  Parliament,  jurists,  philosophers,
+scientists,  representatives  of  industries,  of  religions,  of  patients'  associations,
+and of international organisations (Council of Europe, UNESCO, WHO);
+
+Having  regard to the  Hearings  of  scientific experts on 6 June 2000 and on 2
+October  2000,  and  to  the  Hearings  of  representatives  of  religions  on  8
+September 2000;
+
+Having heard the rapporteurs Anne McLaren and Goran Hermerén;
+
+2
+
+(cid:20)(cid:3)(cid:16) :+(5($6
+
+6&,(17,),&(cid:3)%$&.*5281’
+
+(cid:20)(cid:17)(cid:20)(cid:17) +RZ(cid:3)WR(cid:3)GHILQH(cid:3)VWHP(cid:3)FHOOV"
+
+Stem  cells  are  cells  that  can  divide  to  produce  either  cells  like  themselves  (self-
+renewal), or cells of one or several specific differentiated types.  Stem cells are not yet
+fully differentiated and therefore can reconstitute one or several types of tissues.
+
+(cid:20)(cid:17)(cid:21)(cid:17) :KDW(cid:3)DUH(cid:3)WKH(cid:3)GLIIHUHQW(cid:3)NLQGV(cid:3)RI(cid:3)VWHP(cid:3)FHOOV"
+
+Different  kinds  of  stem  cells  can  be  distinguished  according  to  their  potential  to
+differentiate.  They are progenitor, multipotent or pluripotent stem cells.
+
+•  3URJHQLWRU(cid:3) VWHP(cid:3) FHOOV  are  those  whose  terminally  differentiated  progeny
+consist  of  a  single  cell  type  only.    For  instance,  epidermal  stem  cells  or
+spermatogonial  stem  cells  can  differentiate  respectively 
+into  only
+keratinocytes and spermatozoa.
+
+•  0XOWLSRWHQW(cid:3)VWHP(cid:3)FHOOV are those which can give rise to several terminally
+differentiated cell types constituting a specific tissue or organ.  Examples
+are  skin  stem  cells  which  give  rise  to  epidermal  cells,  sebaceous  glands
+and  hair  follicles  or  haematopoietic  stem  cells,  which  give  rise  to  all  the
+diverse  blood  cells  (erythrocytes,  lymphocytes,  antibody-producing  cells
+and so on), and neural stem cells, which give rise to all the cell types in the
+nervous system, including glia (sheath cells), and the many different types
+of neurons.
+
+•  3OXULSRWHQW(cid:3) VWHP(cid:3) FHOOV  are  able  to  give  rise  to  all  different  cell  types  LQ
+YLWUR(cid:17) Nevertheless, they cannot on their own form an embryo.  Pluripotent
+stem cells, which are isolated from primordial germ cells in the foetus, are
+called:  embryonic  germ  cells  ("EG  cells").    Those  stem  cells,  which  are
+isolated from the inner cell mass of a blastocyst-stage embryo, are called:
+embryonic stem cells ("ES cells”).
+
+It should be noted that scientists do not yet all agree on the  terminology concerning
+these types of stem cells.
+
+3
+
+(cid:20)(cid:17)(cid:22)(cid:17) :KDW(cid:3)DUH(cid:3)WKH(cid:3)FKDUDFWHULVWLFV(cid:3)RI(cid:3)WKH(cid:3)GLIIHUHQW(cid:3)VWHP(cid:3)FHOOV"
+
+3URJHQLWRU(cid:3)DQG(cid:3)PXOWLSRWHQW(cid:3)VWHP(cid:3)FHOOV PD\(cid:3)SHUVLVW(cid:3)WKURXJKRXW(cid:3)OLIH.  In the foetus,
+these stem cells are essential to the formation of tissues and organs.  In the adult, they
+replenish  tissues  whose  cells  have  a  limited  life  span,  for  instance  skin  stem  cells,
+intestinal stem cells and haematopoietic stem cells.  In the absence of stem cells, our
+various  tissues  would  wear  out  and  we  would  die.    They  are  more  abundant  in  the
+foetus than in the adult. For instance haematopoietic stem cells can be derived  from
+adult bone marrow but they are particularly abundant in umbilical cord blood.
+
+3OXULSRWHQW(cid:3) VWHP(cid:3) FHOOV(cid:3) GR(cid:3) QRW(cid:3) RFFXU(cid:3) QDWXUDOO\(cid:3) LQ(cid:3) WKH(cid:3) ERG\(cid:15)(cid:3) which  distinguishes
+them from progenitor and multipoten stem cells.
+
+(cid:20)(cid:17)(cid:23)(cid:17)
+
+:KHUH(cid:3)FDQ(cid:3)VWHP(cid:3)FHOOV(cid:3)EH(cid:3)IRXQG"
+
+The  possible  sources  of  stem  cells  include  adult,  foetus  and  embryos.  Accordingly,
+there are:
+
+•  $GXOW(cid:3) VWHP(cid:3) FHOOV(cid:29)  progenitor  and  multipotent  stem  cells  are  present  in  adults.
+Mammals  appear  to  contain some  20  major  types  of  somatic  stem  cells  that  can
+generate liver, pancreas, bone and cartilage but they are rather difficult to find and
+isolate.  For instance, access to neural stem cells is limited since they are located
+in  the  brain.  Haematopoietic  stem  cells  are  present  in  the  blood,  but  their
+harvesting  requires  stimulatory  treatment  of  the  donor’s  bone  marrow.    By  and
+large, adult stem cells are rare and do not have the same developmental potential
+as embryonic or(cid:3)foetal stem cells(cid:17)
+
+•  6WHP(cid:3)FHOOV(cid:3)RI(cid:3)IRHWDO(cid:3)RULJLQ(cid:29)
+
+-(cid:3)Haematopoietic stem cells can be retrieved from the umbilical cord blood.
+
+-  Foetal  tissue  obtained  after  pregnancy  termination  can  be  used  to  derive
+multipotent stem cells like neural stem cells which can be isolated from foetal
+neural  tissue  and  multiplied  in  culture,  though  they  have  a  limited  life  span.
+Foetal  tissue  can  also  give  rise  to  pluripotent  EG  cells  isolated  from  the
+primordial germ cells of the foetus.
+
+•  6WHP(cid:3)FHOOV(cid:3)RI(cid:3)HPEU\RQLF(cid:3)RULJLQ(cid:29)(cid:3)Pluripotent ES cells are those which are derived
+from an embryo at the blastocyst stage. Embryos  could be produced either by LQ
+YLWUR(cid:3)fertilisation (IVF) or by transfer of an adult nucleus to an enucleated egg cell
+or oocyte (somatic cell nuclear transfer – SCNT).
+
+4
+
+(cid:20)(cid:17)(cid:24)(cid:17)(cid:3)+XPDQ(cid:3)HPEU\RQLF(cid:3)GHYHORSPHQW
+
+•  $W(cid:3) WZR(cid:3) WR(cid:3) WKUHH(cid:3) GD\V  after  fertilisation,  an  embryo  consists  of  identical  cells
+which are WRWLSRWHQW(cid:17)(cid:3)That is to say that each could give rise to an embryo on its
+own  producing  for  example  identical  twins  or  quadruplets.  They  are  totally
+unspecialised and have the capacity to differentiate into any of the cells which will
+constitute the foetus as well as the placenta and membranes around the foetus.
+
+•  $W(cid:3)IRXU(cid:3)WR(cid:3)ILYH(cid:3)GD\V after fertilisation (cid:11)PRUXOD(cid:3)VWDJH(cid:12), the embryo is still made up
+of  unspecialised  embryonic  cells,  but  these  cells  can  no  longer  give  rise  to  an
+embryo on their own.
+
+•  $W(cid:3)ILYH(cid:3)WR(cid:3)VHYHQ(cid:3)GD\V after fertilisation (cid:11)EODVWRF\VW(cid:3)VWDJH(cid:12), a hollow appears in the
+centre  of  the  morula,  and  the  cells  constituting  the  embryo  start  to  be
+differentiated into inner and outer cells:
+
+-  The  outer  cells  will  constitute  the  tissues  around  the  foetus,  including  the
+placenta.
+
+- The inner cells (20 to 30 cells) will give rise to the foetus itself as well as to
+some of the surrounding tissues. If these inner cells are isolated and grown in
+the presence of certain chemical substances (growth factors), SOXULSRWHQW ES
+cells can be derived. ES cells are pluripotent, not totipotent since they cannot
+develop into an embryo on their own. If they are transferred to a uterus, they
+would neither implant nor develop into an embryo.
+
++,6725,&$/(cid:3)%$&.*5281’
+
+(cid:20)(cid:17)(cid:25)(cid:17)
+
+5HVHDUFK(cid:3)RQ(cid:3)DQLPDOV
+
+•  (PEU\RQLF(cid:3)VWHP(cid:3)FHOOV
+
+Scientists have been working with mouse embryonic stem cells LQ(cid:3)YLWUR(cid:3)for more
+than 20 years, noting very early their remarkable capacity to divide. Some mouse
+ES  cell  lines  have  been  cultured  for  more  than  10  years,  while  retaining  their
+ability to differentiate.
+
+7KHUH(cid:3)LV(cid:3)WRGD\(cid:3)VRPH(cid:3)HYLGHQFH(cid:3)IURP(cid:3)DQLPDO(cid:3)PRGHOV(cid:3)WKDW(cid:3)PXOWLSRWHQW(cid:3)VWHP(cid:3)FHOOV
+FDQ(cid:3) EH(cid:3) XVHG(cid:3) IRU(cid:3) VRPDWLF(cid:3) WKHUDS\(cid:17)  Convincing  evidence  however  has  been
+provided  up  until  now  from  ES  cell-derived, and not adult  derived multipotent
+
+5
+
+somatic cells. For instance neural differentiated mouse ES cells when transplanted
+into  a  rat  spinal  cord  several  days  after  a  traumatic  injury  can  reconstitute
+neuronal  tissue  resulting  in  the  (partial)  recovery  of  hindlimb  co-ordinated
+motility. Similarly, selected cardiomyocytes obtained from differentiating ES cells
+can  be  grafted  into  the  heart  of  dystrophic  mice  to  effect  myocardial  repair.
+Whether the same cellular derivatives when obtained from adult stem cells would
+be able to correct for the deficiencies induced in those animal models remains to
+be determined.
+
+0XFK(cid:3)UHVHDUFK(cid:3)RQ(cid:3)PRXVH(cid:3)(6(cid:3)FHOOV(cid:3)KDV(cid:3)DOVR(cid:3)EHHQ(cid:3)IRFXVHG(cid:3)RQ(cid:3)XVLQJ(cid:3)WKHVH(cid:3)FHOOV(cid:3)WR
+FUHDWH(cid:3) WUDQVJHQLF(cid:3) DQLPDOV(cid:15)(cid:3) LQ(cid:3) SDUWLFXODU(cid:3) DV(cid:3) GLVHDVH(cid:3) PRGHOV(cid:3) WR(cid:3) VWXG\(cid:3) KXPDQ
+JHQHWLF(cid:3)GLVRUGHUV(cid:17)
+
+(cid:17)
+•  $GXOW(cid:3)VWHP(cid:3)FHOOV
+
+Research is also carried out on mouse adult stem cells.  While many scientists had
+assumed  that  these  cells  were  programmed  to  produce  specific  tissues  and  were
+thus no longer  able to produce other sorts  of tissue,  UHFHQW(cid:3)VWXGLHV(cid:3) VXJJHVW(cid:3)WKDW
+DGXOW(cid:3) VWHP(cid:3) FHOOV(cid:3) PD\(cid:3) EH(cid:3) DEOH(cid:3) WR(cid:3) VKRZ(cid:3) PRUH(cid:3) PDOOHDELOLW\(cid:3) WKDQ(cid:3) SUHYLRXVO\
+EHOLHYHG.  For instance, it has been shown that mouse neural stem cells could give
+rise,  in  specific  conditions  of  culture,  to  cells  of  other  organs  such  as  blood,
+muscle,  intestine,  liver  and  heart.  Moreover  marrow  stromal  cells  can  generate
+astrocytes,  a  non-neuronal  type  of  cells  of  the  central  nervous  system  and
+haematopoietic stem cells can give rise to myocytes.
+
+(cid:20)(cid:17)(cid:26)(cid:17)
+
+)LUVW(cid:3)JUDIWV(cid:3)RI(cid:3)KXPDQ(cid:3)IRHWDO(cid:3)FHOOV
+
+Stem  cells  in  tissues  such  as  skin  or  blood  are  able  to  repair  the  tissues  throughout
+life.    By  contrast,  the  nervous  system  has  a  very  limited  capacity  for  self-repair
+because  the  neural  stem  cells  in  the  adult  brain  are  few  in  number  and  have  a  poor
+capacity to generate new neurons for instance to repair injury.
+
+Based  on  the  positive  results  of  experimentation  on  rodents  and  primates,  FOLQLFDO
+WULDOV(cid:3) LQ(cid:3) SDWLHQWV(cid:3) ZLWK(cid:3) 3DUNLQVRQ(cid:10)V(cid:3) GLVHDVH(cid:3) KDYH(cid:3) EHHQ(cid:3) SHUIRUPHG(cid:3) RQ(cid:3) DURXQG(cid:3) (cid:21)(cid:19)(cid:19)
+SDWLHQWV(cid:3)RYHU(cid:3)WKH(cid:3)ODVW(cid:3)(cid:20)(cid:19)(cid:3)\HDUV especially in Sweden and the USA.  They have shown
+that  the  transplantation  of  neural  cells  derived  from  the  human  foetus  can  have  a
+therapeutic effect, with an important reduction of the symptoms of the disease in the
+treated  patients.    The  clinical  improvement  among  these  patients  has  been  observed
+for 6-24 months after transplantation and in some cases for 5-10 years.  It has recently
+been  shown  that  10  years  after  the  transplantation  surgery,  the  transplanted  neural
+cells were still alive and producing dopamine, the compound which is deficient in the
+brain of patients with Parkinson’s disease.
+
+6
+
+However,  WKLV(cid:3) WKHUDSHXWLF(cid:3) DSSURDFK(cid:3) VWLOO(cid:3) UHPDLQV(cid:3) H[SHULPHQWDO.    In  addition,  the
+availability  of  neural  foetal  tissue  is  very  limited.    Five  to  six  aborted  foetuses  are
+needed to provide enough neural tissue to treat one Parkinson’s patient.  That is why
+new sources of neural cells have been explored in some countries such as the US and
+Sweden.  The aim is to derive neural stem cells from foetuses: these stem cells could
+be induced to SUROLIHUDWH LQ(cid:3)FXOWXUH, providing much greater amounts of neural tissue
+for transplantation.
+
+(cid:20)(cid:17)(cid:27)(cid:17)
+
+7UDQVSODQWDWLRQ(cid:3)RI(cid:3)KXPDQ(cid:3)KDHPDWRSRLHWLF(cid:3)VWHP(cid:3)FHOOV
+
+The  transplantation  of  human  haematopoietic  stem  cells  is  routinely  used  to  restore
+the  production  of  blood  cells  in  patients  affected  by  leukaemia  or  aplastic  anaemia
+after chemotherapy.  There are two sources of haematopoietic stem cells:
+
+•  $GXOW(cid:3)VWHP(cid:3)FHOOV(cid:29) they can be retrieved under anaesthesia, from the bone marrow
+of donors, or from the patients themselves (before chemotherapy). Haematopoietic
+stem cells can also be retrieved directly from the blood, which requires a treatment
+to  induce  the  passage  of  stem  cells  from  the  bone  marrow  into  the  blood
+circulation.
+
+•  6WHP(cid:3)FHOOV(cid:3)RI(cid:3)IRHWDO(cid:3)RULJLQ(cid:29) haematopoietic stem cells can be  retrieved  from the
+umbilical cord blood at birth, though  care  must  be  taken to  ensure that  the baby
+receives enough cord blood. There are at present cord blood banks designated to
+facilitate  haematopoietic  stem  cell  transplantation.  The  systematic  retrieval  and
+cryopreservation of cord blood, at birth, has even been considered in order to have
+autologous  stem  cells  available  in  case  of  later  need.  Stem  cells  of  foetal  origin
+give rise to less rejection reaction than adult stem cells.
+
+(cid:20)(cid:17)(cid:28)(cid:17)
+
+’LVFRYHULHV(cid:3)RQ(cid:3)KXPDQ(cid:3)VWHP(cid:3)FHOOV
+
+,Q(cid:3)WKH(cid:3)ODWH(cid:3)(cid:26)(cid:19)(cid:10)V(cid:15) the SURJUHVV(cid:3)RI(cid:3)LQIHUWLOLW\(cid:3)WUHDWPHQW led to the birth of the first child
+by LQ(cid:3)YLWUR(cid:3)fertilisation.  The formation of human embryos LQ(cid:3)YLWUR(cid:3)during the course
+of  infertility  treatment  has  made  possible  the  study  of  human  embryogenesis
+following  fertilisation,  and  thus  has  increased  our  knowledge  of  the  behaviour  and
+characteristics of embryonic cells at a very early stage.
+
+6LQFH(cid:3) (cid:20)(cid:28)(cid:28)(cid:27)(cid:15)  GHULYDWLRQ(cid:3) DQG(cid:3) FXOWXUH(cid:3) RI(cid:3) HPEU\RQLF(cid:3) DQG(cid:3) IRHWDO(cid:3) KXPDQ(cid:3) SOXULSRWHQW
+VWHP(cid:3)FHOOV has been performed, a process which had never been achieved before with
+human cells.  A team at the 8QLYHUVLW\(cid:3)RI(cid:3):LVFRQVLQ(cid:3)in Madison (USA) announced
+in  November  1998  that  it  had  successfully  isolated  and  cultured  for  several  months
+cells from 14 human blastocysts obtained from donated surplus embryos  produced by
+
+7
+
+LQ(cid:3) YLWUR(cid:3) fertilisation.  This  team  established  five  embryonic  ES  cell  lines  with  the
+ability to be grown continuously without losing their capacity to differentiate into the
+many kinds of  cells that constitute the  body.  At the  same  time, a  team  at the  -RKQV
++RSNLQV(cid:3) 8QLYHUVLW\(cid:3) in  Baltimore  (USA)  reported  that  foetal  primordial  germ  cells
+had  been  isolated  from  the  gonads  of  foetuses  obtained  after  pregnancy  termination
+and  cultured  to  make  EG  cells.    Cell  lines  derived  from  these  cells  were  grown  for
+many months while maintaining the same capacity to differentiate as the ES cell lines.
+
+,Q(cid:3)(cid:20)(cid:28)(cid:28)(cid:28)(cid:15) UHVHDUFK(cid:3)RQ(cid:3)DGXOW(cid:3)VWHP(cid:3)FHOOV revealed that their plasticity was much higher
+than  previously  thought.    Adult  neural  stem  cells  have  been  reported  to  give  rise
+occasionally  to  other  cell  types  including  blood  cells.  A  team  at  the  8QLYHUVLW\(cid:3) RI
+0LQQHVRWD(cid:3) in(cid:3) Minneapolis,  (USA)  has  shown  that  cells  isolated  from  the  bone
+marrow  of  adults  or  children  were  able  to  become  neural  or  muscle  cells.
+Nevertheless,  bone  marrow  cells  with  such  extraordinary  malleability  are  extremely
+rare.  In any case, these recent findings still require to be substantiated.
+
+7KH(cid:3)IXWXUH(cid:3)FKDOOHQJH(cid:3)LV(cid:3)WR(cid:3)FRQWURO(cid:3)WKH(cid:3)GLIIHUHQWLDWLRQ(cid:3)RI(cid:3)KXPDQ(cid:3)VWHP(cid:3) FHOOV. It has
+been shown in animals that by culturing stem cells in the presence of certain chemical
+substances referred to as "JURZWK(cid:3)IDFWRUV", it is possible to induce differentiation of
+specific  cell  types.  Experiments  on  human  stem  cells  are  less  advanced  but  finding
+ways to direct differentiation is presently an active focus of research.
+
+(cid:20)(cid:17)(cid:20)(cid:19)(cid:17) :KDW(cid:3)LV(cid:3)WKH(cid:3)PDLQ(cid:3)LQWHUHVW(cid:3)RI(cid:3)VWHP(cid:3)FHOO(cid:3)UHVHDUFK(cid:3)DQG(cid:3)ZKDW(cid:3)DUH(cid:3)WKH(cid:3)KRSHV"
+
+The main interests at present include:
+
+•  %DVLF(cid:3)GHYHORSPHQWDO(cid:3)ELRORJ\. Culturing of human stem cells offers insights that
+cannot be studied directly in the human embryo or understood through the use of
+animal models. For instance, basic research on stem cells could help to understand
+the causes of birth defects, infertility and pregnancy loss. It could also be useful to
+give a better understanding of normal and abnormal human development.
+
+•  6WXGLHV(cid:3)RI(cid:3)KXPDQ(cid:3)GLVHDVHV(cid:3)RQ(cid:3)DQLPDO(cid:3)PRGHOV(cid:17)(cid:3)For example, mouse ES cells can
+be engineered  to incorporate human  mutated  genes  known  to  be  associated  with
+particular diseases and then used to make transgenic mouse strains. If such mice
+express the pathology of the human disease, this confirms the hypothesis that the
+gene  is  involved  with  the  etiology  of  the  disease.  This  strategy  also  yields  an
+animal  model  of  the  human  disease  which  has  in  most  cases  a  much  better
+predictability for the human situation than more conventional animal models. One
+of the most illustrative examples of that method is its use in order to address the
+potential causes of Alzheimer’s disease.
+
+8
+
+•  &XOWXULQJ(cid:3) VSHFLILF(cid:3) GLIIHUHQWLDWHG(cid:3) FHOO(cid:3) OLQHV(cid:3) WR(cid:3) EH(cid:3) XVHG(cid:3) IRU(cid:3) SKDUPDFRORJ\
+VWXGLHV(cid:3) DQG(cid:3) WR[LFRORJ\(cid:3) WHVWLQJ(cid:17)(cid:3) This(cid:3) is  the  most  likely  immediate  biomedical
+application,  making  possible  the  rapid  screening  of  large  numbers  of  chemicals.
+By  measuring  how  pure  populations  of  specific  differentiated  cells  respond  to
+potential  drugs,  it  will  be  possible  to  sort  out  medicinal  products  that  may  be
+either useful or on the contrary problematic in human medicine.
+
+•  8VH(cid:3) RI(cid:3) VWHP(cid:3) FHOOV(cid:3) LQ(cid:3) JHQH(cid:3) WKHUDS\(cid:17)(cid:3) Stem  cells  could  be  used  as  vectors  for  the
+delivery  of  gene  therapy.  One  current  application  in  clinical  trials  is  the  use  of
+haematopoietic stem cells genetically modified to make them resistant to the HIV
+(virus responsible for AIDS).
+
+•  3URGXFWLRQ(cid:3) RI(cid:3) VSHFLILF(cid:3) FHOO(cid:3) OLQHV(cid:3) IRU(cid:3) WKHUDSHXWLF(cid:3) WUDQVSODQWDWLRQ(cid:17)(cid:3) If  feasible,
+this would be the PRVW(cid:3)SURPLVLQJ(cid:3)WKHUDSHXWLF(cid:3)DSSOLFDWLRQ(cid:3)RI(cid:3)(6(cid:3)FHOOV. Research
+is  being  actively  pursued,  mostly  in  the  mouse,  with  the  aim  of  directing  the
+differentiation of pluripotent stem cells to produce pure populations of particular
+cell types to be used for the repair of diseased or damaged  tissues.  For instance,
+the aim would be to produce cardiac muscle cells to be used to alleviate ischaemic
+heart  disease,  pancreatic  islet  cells  for  treatment  of  diabetes  (juvenile  onset
+diabetes  mellitus),  liver  cells  for  hepatitis,  neural  cells  for  degenerative  brain
+diseases  such  as  Parkinson’s  disease,  and  perhaps  even  cells  for  treating  some
+forms of cancer. The transplantation of stem cells could also help, for example, to
+repair spinal cord damage which occurs frequently, mainly following trauma (for
+instance  car  accidents)  and  is  responsible  for  paraplegia.  Results  of  that  kind  of
+cell  therapy  on  animals  are  promising,  but  DUH(cid:3) VWLOO(cid:3) \HDUV(cid:3) DZD\(cid:3) IURP(cid:3) FOLQLFDO
+DSSOLFDWLRQ. Even more remote (possibly decades away) is the prospect of being
+able to grow whole organs LQ(cid:3)YLWUR, but if tissues for the repair of organs become
+available,  it  would  greatly  relieve  the  existing  unsatisfied  demand  for  donated
+organs for transplantation. In providing a potentially unlimited source of specific
+clinically  important  cells  such  as  bone,  muscle,  liver  or  blood  cells,  the  use  of
+human stem cells could open the way to a new "regenerative medicine".
+
+(cid:20)(cid:17)(cid:20)(cid:20)(cid:17) :K\(cid:3)LV(cid:3)VRPDWLF(cid:3)FHOO(cid:3)QXFOHDU(cid:3)WUDQVIHU(cid:3)(cid:11)6&17(cid:12)(cid:3)FRQVLGHUHG"
+
+Apart from its interest for EDVLF(cid:3)UHVHDUFK, SCNT is considered as a possible strategy,
+in  "regenerative  medicine",  for  the(cid:3) DYRLGDQFH(cid:3) RI(cid:3) LPPXQRORJLFDO(cid:3) SUREOHPV  after
+transplantation. Neural tissues can sometimes be transplanted from one individual to
+another without suffering immunological rejection, but for all other tissues, stem cell
+therapy  would  need 
+treatments  with
+immunosuppressive  drugs,  leading  to  increased  susceptibility  to  infections  and  even
+to cancer.
+
+to  be  accompanied  by 
+
+long-term 
+
+9
+
+•  2QH(cid:3) DSSURDFK  to  avoid  this  immune  rejection  problem  would  involve  genetic
+engineering  of  stem  cells  to  render  them  non-antigenic,  or  immunological
+manipulation of the patients to render them tolerant.
+
+•  $Q(cid:3)DOWHUQDWLYH(cid:3)DSSURDFK is based on somatic cell nuclear transfer. It consists of
+transferring nuclei from the patient’s own body cells into donated human or even
+animal  unfertilised  eggs  from  which  the  nuclei  have  been  removed.  If  these
+reconstructed eggs were stimulated for example with electricity to develop to the
+blastocyst stage, pluripotent stem cells could be derived from them to form cells
+genetically  identical  to  the  patient.  No  rejection  of  any  transplanted  cells  would
+then occur.
+
+•  5HODWHG(cid:3) WHFKQRORJ\  could  lead  to  the  cloning  of  human  individuals  if  the
+reconstructed  embryos  were  transferred  to  a  woman’s  uterus.  However,  this  is
+contrary to European Community law and prohibited in most European countries.
+
+(cid:20)(cid:17)(cid:20)(cid:21)(cid:17)(cid:3) 3RVVLEOH(cid:3)RULJLQV(cid:3)RI(cid:3)WKH(cid:3)HPEU\RV(cid:3)LQ(cid:3)FRXQWULHV(cid:3)ZKLFK(cid:3)DOORZ(cid:3)HPEU\R(cid:3)UHVHDUFK
+
+These embryos are:
+
+•  either  'VSDUH(cid:3) HPEU\RV“(cid:3) (cid:11)L(cid:17)H(cid:17)(cid:3) VXSHUQXPHUDU\(cid:3) HPEU\RV(cid:12)  created  for
+infertility  treatment  to  enhance  the  success  rate  of  IVF,  but  no  longer
+needed  for  this  purpose.  They  are  intended  to  be  discarded  but,  instead,
+may be donated for research by the couples concerned,
+
+•  or(cid:3)UHVHDUFK(cid:3)HPEU\RV(cid:15) created for the sole purpose of research.
+
+- These may either be produced with donated gametes, i.e. they
+are derived from the fertilisation LQ(cid:3)YLWUR(cid:3)of a human oocyte by a
+human sperm,
+
+-  or  they  may  be  produced  by  embryo  splitting  or  nuclear
+transfer. In the latter case they would be derived by introducing
+the  nucleus  of  an  adult  somatic  cell  into  an  enucleated  human
+oocyte  (sometimes  misleadingly  termed  “embryo  cloning”  or
+“therapeutic cloning”).
+
+10
+
+/(*$/(cid:3)%$&.*5281’
+
+(cid:20)(cid:17)(cid:20)(cid:22)(cid:17) /HJDO(cid:3)VLWXDWLRQ(cid:3)LQ(cid:3)WKH(cid:3)0HPEHU(cid:3)6WDWHV
+
+At national level, stem cell research is not regulated as such.
+
+With  regard  to  embryonic  stem  cell  research,  it  is  thus  necessary  to  refer  to  the
+general legislation on embryo research. In this respect, WKH(cid:3)VLWXDWLRQ(cid:3)LQ(cid:3)WKH(cid:3)0HPEHU
+6WDWHV(cid:3)LV(cid:3)GLYHUVH:
+
+- Ireland is the only country of the EU whose Constitution affirms the right to
+life of the “unborn” and that this right is equal to that of the mother.
+
+- In some Member States no legislation on embryo research exists. This is the
+case  of  Belgium  and  of  the  Netherlands,  where  embryo  research  is
+nevertheless carried out. In Portugal however, in the absence of legislation, no
+embryo research seems to be performed. This also seems to be the case in Italy
+although artificial reproductive techniques are widely practised.
+
+- Where embryo research is legislated, legislation either prohibits any kind of
+embryo  research  (Austria,  Germany),  or  authorises  this  research  under
+specified  conditions  (Finland,  Spain,  Sweden,  and  UK).  In  France,  where
+embryo  research  is  still  prohibited,  the  law  authorises  “the  study  of  embryos
+without prejudicing their integrity” as well as preimplantation diagnosis.
+
+- In some countries the Constitutional Courts have dealt with the use of human
+embryos  (judgement  of  the  French  Constitutional  Court  of  July  27,  1994  on
+Bioethics, and judgement of the Spanish Constitutional Court of July 10, 1999
+on the legislation concerning assisted human reproduction techniques).
+
+The  legal  situation  of  many  countries  in  Europe  is  under  development.  1HZ
+OHJLVODWLRQ(cid:3) LV(cid:3) EHLQJ(cid:3) GUDIWHG(cid:3) PDLQO\(cid:3) LQ(cid:3) UHVSRQVH(cid:3) WR(cid:3) WKH(cid:3) FKDOOHQJH(cid:3) RI(cid:3) VWHP(cid:3) FHOO
+UHVHDUFK(cid:17)
+
+-  In  some  countries,  draft  legislation  is  being  prepared  to  allow  research  on
+stem cells derived from supernumerary embryos after LQ(cid:3)YLWUR(cid:3)fertilisation (The
+Netherlands).
+
+-  In  other  countries,  draft  legislation  provides  for  the  possibility  of  creating
+embryos by nuclear transfer, for the sole purpose of stem cell research. This is
+the  case  in  Belgium,  and  in  the  UK.  (In  the  latter  case,  legislation  allowed
+creation  of  embryos  for  the  purpose  of  research,  but  only  in  relation  to  the
+treatment  of  infertility,  to  contraception  or  to  the  avoidance  of  genetic
+disease). In France legislation is under preparation.
+
+11
+
+(cid:20)(cid:17)(cid:20)(cid:23)(cid:17)(cid:3)(XURSHDQ(cid:3)OHJLVODWLRQ(cid:3)LQ(cid:3)WKH(cid:3)ILHOG
+
+$W(cid:3) WKH(cid:3) &RXQFLO(cid:3) RI(cid:3) (XURSH¶V(cid:3) OHYHO(cid:15)(cid:3) the  Convention  on  Human  Rights  and
+Biomedicine signed in Oviedo in 1997 in its $UWLFOH(cid:3)(cid:20)(cid:27)(cid:3)establishes that it is up to each
+country to decide whether to authorise or not embryo research. Each country is only
+obliged to respect two conditions: “to ensure adequate protection of the embryo”, that
+is to say to adopt a legislation fixing the conditions and limits of such research; and to
+prohibit “the creation  of  human  embryos  for  research  purposes”.  The  Convention  is
+binding only for the States which have ratified it. In the European Union so far only
+three countries have completed the procedure and some are in the process of doing so.
+
+$W(cid:3) (8(cid:3) OHYHO(cid:15)(cid:3) DOWKRXJK(cid:3) WKHUH(cid:3) LV(cid:3) QR(cid:3) OHJLVODWLYH(cid:3) FRPSHWHQFH(cid:3) WR(cid:3) UHJXODWH(cid:3) UHVHDUFK(cid:15)
+VRPH(cid:3)’LUHFWLYHV(cid:3)DOOXGH(cid:3)WR(cid:3)WKH(cid:3)LVVXH(cid:3)RI(cid:3)HPEU\R(cid:3)UHVHDUFK(cid:3)DQG(cid:3)XVH(cid:17) For instance, the
+Directive 98/44/EC on the  legal protection  of  biotechnological  inventions (patenting
+on  life)  stipulates  that  “processes  for  cloning  human  beings”  and  “uses  of  human
+embryos for industrial or commercial purposes”… “shall be considered unpatentable”.
+The Directive 98/79/EC on LQ(cid:3)YLWUR(cid:3) diagnostic medical devices (including the use of
+human  tissues)  provides  that  “  the  removal,  collection  and  use  of  tissues,  cells  and
+substances of human origin shall be governed, in relation to ethics, by the principles
+laid  down  in  the  Convention  of  the  Council  of  Europe  for  the  protection  of  human
+rights and dignity of the  human being  with  regard  to  the  application  of  biology  and
+medicine and by any Member States regulations on this matter”.
+
+$W(cid:3) WKLV(cid:3) VDPH(cid:3) OHYHO(cid:15)(cid:3) WKH(cid:3) &KDUWHU(cid:3) RQ(cid:3) )XQGDPHQWDO(cid:3) ULJKWV(cid:3) RI(cid:3) WKH(cid:3) (XURSHDQ(cid:3) 8QLRQ
+DSSURYHG(cid:3) E\(cid:3) WKH(cid:3) (XURSHDQ(cid:3) &RXQFLO(cid:3) LQ(cid:3) %LDUULW](cid:3) (cid:11))UDQFH(cid:12)(cid:3) RQ(cid:3) 2FWREHU(cid:3) (cid:20)(cid:23)(cid:15)(cid:3) (cid:21)(cid:19)(cid:19)(cid:19)
+prohibits  different  kinds  of  practices  possibly  related  to  embryo  research,  namely
+“eugenic  practices,  in  particular  those  aiming  at  the  selection  of  persons  ”  and  “the
+reproductive cloning of human beings”.
+
+(cid:20)(cid:17)(cid:20)(cid:24)(cid:17)(cid:3)86(cid:3)DSSURDFK(cid:3)UHODWHG(cid:3)WR(cid:3)HPEU\R(cid:3)UHVHDUFK(cid:3)DQG(cid:3)VWHP(cid:3)FHOO(cid:3)UHVHDUFK
+
+7KH(cid:3)VLWXDWLRQ(cid:3)LQ(cid:3)WKH(cid:3)86(cid:3)FRQWUDVWV(cid:3)ZLWK(cid:3)WKDW(cid:3)LQ(cid:3)(XURSH(cid:17)(cid:3)$(cid:3)VXEVWDQWLDO(cid:3)GLIIHUHQFH(cid:3)LV
+D(cid:3)VKDUS(cid:3)GLVWLQFWLRQ(cid:3)EHWZHHQ(cid:3)WKH(cid:3)SXEOLF(cid:3)DQG(cid:3)WKH(cid:3)SULYDWH(cid:3)VHFWRU(cid:17) Since 1995 the US
+Congress has been adopting each year a provision in the Appropriation Bill to prohibit
+public  funding  for  embryo  research.  Thus,  the  National  Institutes  of  Health  (NIH)
+cannot carry out embryo research,  which, in the  absence  of legislation,  remains free
+and beyond control in the private sector.
+
+New discoveries concerning the culturing of human stem cells in 1998 have led to the
+reopening of the debate. The National Bioethics Advisory Committee (NBAC) issued
+a  report  on  September  1999;  hearings  took  place  in  1999  and  2000  before  the
+competent  Committees  of  the  US  Congress  and  finally  the Clinton administration
+
+12
+
+proposed  that,  under  certain  conditions,  the  funding  of  research  to  derive  and  study
+human ES cells be permitted. New  guidelines  of  the NIH  were  published  in  August
+2000  according to which  research  on  human  ES cells can be publicly funded if two
+conditions  are  respected.  First,  the  cells  must  be  taken  from  frozen  spare  embryos
+from fertility clinics and already destined to be discarded; second, Federal funds could
+not  be  used  to  destroy  the  embryos  to  obtain  the  cells;  privately  funded  researchers
+will have to pass them on to Federally supported scientists.
+
+(7+,&$/(cid:3)%$&.*5281’
+
+(cid:20)(cid:17)(cid:20)(cid:25)(cid:17) 0DLQ(cid:3)HWKLFDO(cid:3)LVVXHV(cid:3)ZLWK(cid:3)UHJDUG(cid:3)WR(cid:3)VWHP(cid:3)FHOO(cid:3)UHVHDUFK
+
++XPDQ(cid:3)VWHP(cid:3)FHOO(cid:3)UHVHDUFK(cid:3)LV(cid:3)DQ(cid:3)H[DPSOH(cid:3)RI(cid:3)ELRHWKLFDO(cid:3)YDOXH(cid:3)FRQIOLFWV.  On
+the one hand, the prospect of new therapies, even in the far future, is attractive
+in  offering  an  alternative  to  organ  and  tissue  donation.  On  the  other  hand,
+when this research involves the use of human embryos, it raises the question of
+its  ethical  acceptability  and  of  the  limits  and  conditions  for  such  research.
+Embryo  research  has  been  extensively  debated  in  the  context  of  research
+carried out to improve IVF as a treatment for infertility.  Embryonic stem cell
+research raises the following specific additional ethical questions:
+
+1HZ(cid:3)W\SHV(cid:3)RI(cid:3)UHVHDUFK(cid:3)WR(cid:3)EH(cid:3)SHUIRUPHG(cid:3)RQ(cid:3)KXPDQ(cid:3)HPEU\RV(cid:17) Up until now,
+research that involved destroying embryos, if allowed, was limited to research
+on  reproduction,  contraception  or  congenital  diseases.  With  human  stem  cell
+research, a much wider scope of research is being considered.
+
+7KH(cid:3) XVH(cid:3) RI(cid:3) (6(cid:3) FHOOV(cid:3) DQG(cid:3) VWHP(cid:3) FHOO(cid:3) OLQHV(cid:3) IRU(cid:3) WKHUDSHXWLF(cid:3) SXUSRVHV(cid:17)  Human
+embryos  used  for  research  were  destroyed  after  the  research  was  completed
+and  therefore  were  never  used  for  fertility  treatment.    What  remained  was
+additional  knowledge.    Human  embryonic  stem  cell  research  is  aimed  at
+creating  cell  lines  with  appropriate  characteristics,  in  terms  of  purity  and
+specificity. There is thus continuity from the embryonic cells to the therapeutic
+material obtained by culture.
+
+7KH(cid:3)FUHDWLRQ(cid:3)RI(cid:3)HPEU\RV(cid:3)IRU(cid:3) UHVHDUFK(cid:3)SXUSRVHV(cid:17)(cid:3)This delicate  issue  is now
+raised again since there is a scientific justification of this practice, namely the
+possibility  of  producing  stem  cells  identical  to  the  patient’s  cells  and  thus
+avoiding  problems  of  rejection  in  the  context  of  the  future  “regenerative
+medicine”.  At  the  same  time,  creating  human  embryos  raises  new  ethical
+concerns.  The  ethical  acceptability  of stem cell research depends not only on
+
+13
+
+the  objectives  but  also  on  the  source  of  the  stem  cells;  each  source  raising
+partly  different  ethical  questions.    Those  who  condemn  embryo  research  in
+general will not accept this difference, but for those who accept it, this issue is
+of major importance.
+
+(cid:20)(cid:17)(cid:20)(cid:26)(cid:17) (WKLFDO(cid:3)LVVXHV(cid:3)LQ(cid:3)WUDQVSODQWDWLRQ(cid:3)RI(cid:3)VWHP(cid:3)FHOOV
+
+Clinical research  and potential future applications  in  this  field  raise  the  same
+ethical  issues  as  those  dealt  with  in  the  EGE’s  Opinion  on  Human  Tissue
+Banking  (21/07/1998),  concerning  the  respect  of  the  donor,  who  should  give
+informed consent to this use of the donated cells, the respect of the autonomy
+of the patients, their right to safety and to the protection of their private life and
+the right to a fair and equal access to new therapies.
+
+(cid:21)(cid:3)(cid:16)
+
+23,1,21
+
+The Group submits the following Opinion:
+
+6&23((cid:3)2)(cid:3)7+((cid:3)23,1,21
+
+(cid:21)(cid:17)(cid:20)
+
+(WKLFDO(cid:3)LVVXHV(cid:3)RI(cid:3)VWHP(cid:3)FHOO(cid:3)UHVHDUFK(cid:3)DQG(cid:3)XVH(cid:3)IRU(cid:3)FOLQLFDO(cid:3)SXUSRVHV.
+
+This Opinion reviews ethical issues raised by human stem cell research  and use, in
+the context of the European Union research policy and European Community public
+health competence to improve human health and to set high standards for the safety
+of substances of human origin.
+
+With  regard  to  the  specific  ethical  questions  related  to  the  patenting  of  inventions
+involving human stem cells, on which President Prodi requested an Opinion from the
+Group on 18 October 2000, this will be made public in Brussels at a later date. The
+following Opinion therefore excludes the patenting issue.
+
+*(1(5$/(cid:3)$3352$&+
+
+(cid:21)(cid:17)(cid:21)(cid:17)
+
+)XQGDPHQWDO(cid:3)HWKLFDO(cid:3)SULQFLSOHV(cid:3)DW(cid:3)VWDNH
+
+The fundamental ethical principles applicable are those already recognised in former
+opinions of the EGE, and more specifically:
+
+- the principle of respect for human dignity
+-  the  principle  of  individual  autonomy  (entailing  the  giving  of  informed
+consent, and respect for privacy and confidentiality of personal data)
+-  the  principle  of  justice  and  of  beneficence  (namely  with  regard  to  the
+improvement and protection of health)
+
+14
+
+- the principle of freedom of research (which is to be balanced against other
+fundamental principles)
+-  the  principle  of  proportionality  (including  that  research  methods  are
+necessary  to  the  aims  pursued  and  that  no  alternative  more  acceptable
+methods are available).
+
+In  addition,  the  Group  considers  it  important  to  take  into  account,  based  on  a
+precautionary approach, the potential long-term consequences of stem cell research
+and use for individuals and the society.
+
+(cid:21)(cid:17)(cid:22)(cid:17)
+
+3OXUDOLVP(cid:3)DQG(cid:3)(XURSHDQ(cid:3)HWKLFV
+
+Pluralism  is  characteristic  of  the  European  Union,  mirroring  the  richness  of  its
+tradition  and  adding  a  need  for  mutual  respect  and  tolerance.  Respect  for  different
+philosophical,  moral  or  legal  approaches  and  for  diverse  cultures  is  implicit  in  the
+HWKLFDO(cid:3)GLPHQVLRQ(cid:3)RI(cid:3)EXLOGLQJ(cid:3)D(cid:3)GHPRFUDWLF(cid:3)(XURSHDQ(cid:3)VRFLHW\(cid:17)
+
+)URP(cid:3) D(cid:3) OHJDO(cid:3) SRLQW(cid:3) RI(cid:3) YLHZ,  respect  for  pluralism  is  in  line  with  Article  22  of  the
+Charter  on  Fundamental  Rights  on  “Cultural,  religious  and  linguistic  diversity”  and
+with Article 6 of the Amsterdam Treaty which ensures the protection of fundamental
+rights  at  EU  level,  notably  based  on  international  instruments  as  well  as  common
+constitutional traditions, while also stressing the respect for the national identity of all
+Member States.
+
+%$6,&(cid:3)5(6($5&+(cid:3)21(cid:3)+80$1(cid:3)67(0(cid:3)&(//6
+
+(cid:21)(cid:17)(cid:23)(cid:17)
+
+3ULQFLSDO(cid:3)UHTXLUHPHQWV(cid:3)DFFRUGLQJ(cid:3)WR(cid:3)WKH(cid:3)GLYHUVH(cid:3)VRXUFHV(cid:3)RI(cid:3)VWHP(cid:3)FHOOV(cid:17)
+
+•  The  retrieval  of  DGXOW(cid:3) VWHP(cid:3) FHOOV(cid:3) requires  the  same  conditions  as  those
+required in the case of tissue donation, based on respect for the integrity
+of the human body and the free and informed consent of the donor.
+
+•  The retrieval of stem cells IURP(cid:3)WKH(cid:3)XPELOLFDO(cid:3)FRUG(cid:3)EORRG(cid:3)after delivery
+requires that the donor (the woman or the couple concerned) is informed
+of possible uses of the cells for this specific purpose of research and that
+the consent of the donor is obtained.
+
+•  The  retrieval  of  IRHWDO(cid:3) WLVVXHV  to  derive  stem  cells  requires,
+besides informed consent, that no abortion is induced for the
+purpose  of  obtaining  the  tissues  and  that  the  termination
+timing and the way it is carried out are not influenced by this
+retrieval.
+
+15
+
+•  The derivation of VWHP(cid:3)FHOOV(cid:3)IURP(cid:3)HPEU\RQLF(cid:3)EODVWRF\VWV raises the issue of
+the  moral  status  of  the  human  embryo.  In  the  context  of  European
+pluralism,  it  is  up  to  each  Member  State  to  forbid  or  authorise  embryo
+research. In the latter case, respect for human dignity requires regulation of
+embryo  research and the provision of  guarantees against risks  of  arbitrary
+experimentation and instrumentalisation of human embryos.
+
+(cid:21)(cid:17)(cid:24)(cid:17)
+
+(WKLFDO(cid:3)DFFHSWDELOLW\(cid:3)RI(cid:3)WKH(cid:3)ILHOG(cid:3)RI(cid:3)WKH(cid:3)UHVHDUFK(cid:3)FRQFHUQHG(cid:17)
+
+The Group notes that in some countries embryo research is forbidden. But when this
+research is allowed, with the purpose of improving treatment for infertility, LW(cid:3)LV(cid:3)KDUG
+WR(cid:3) VHH(cid:3) DQ\(cid:3) VSHFLILF(cid:3) DUJXPHQW(cid:3) ZKLFK(cid:3) ZRXOG(cid:3)SURKLELW(cid:3) H[WHQGLQJ(cid:3) WKH(cid:3) VFRSH(cid:3) RI(cid:3) VXFK
+UHVHDUFK in order to develop new treatments to cure severe diseases or injuries. As in
+the case of research on infertility, stem  cell  research  aims to alleviate severe  human
+suffering. In any case, the embryos that have been used for research are required to be
+destroyed. Consequently, there  is no argument for excluding funding of this kind  of
+research  from  the  Framework  Programme  of  research  of  the  European  Union  if  it
+complies with ethical and legal requirements as defined in this programme.
+
+(cid:21)(cid:17)(cid:25)(cid:17)
+
+3XEOLF(cid:3)FRQWURO(cid:3)RI(cid:3)(6(cid:3)FHOO(cid:3)UHVHDUFK(cid:17)
+
+The  Group  deems  it  essential  to  underline  the  sensitivity  attached  to  the  use  of
+embryonic stem cells, since this use may change our vision of the respect due to the
+human embryo.
+
+According to the Group, it is crucial to place ES cell research, in the countries where
+it  is  permitted,  under  VWULFW(cid:3) SXEOLF(cid:3) FRQWURO(cid:3) E\(cid:3) D(cid:3) FHQWUDOLVHG(cid:3) DXWKRULW\(cid:3) (cid:16)  following,
+for  instance,  the  pattern  of  the  UK  licensing  body  (the  Human  Fertilisation  and
+Embryology Authority) - and to provide that authorisations given to such research are
+highly  selective  and  based  on  a  case  by  case  approach,  while  ensuring  maximum
+transparency. This must apply whether the research in question is carried out by either
+the public or the private sector.
+
+$OWHUQDWLYH(cid:3) PHWKRGV(cid:3) WR(cid:3) WKH(cid:3) FUHDWLRQ(cid:3) RI(cid:3) HPEU\RV(cid:3) IRU(cid:3) WKH(cid:3) SXUSRVH(cid:3) RI(cid:3) VWHP
+
+(cid:21)(cid:17)(cid:26)(cid:17)
+FHOO(cid:3)UHVHDUFK(cid:17)
+
+The  Group  considers  that  the  creation  of  embryos  for  the  sole  purpose  of  research
+raises serious concerns since it represents a further step in the instrumentalisation of
+human life.
+
+•  The Group deems the FUHDWLRQ(cid:3)RI(cid:3)HPEU\RV(cid:3)with gametes donated for the purpose
+of stem cell procurement ethically unacceptable, when spare embryos represent a
+ready alternative source.
+
+16
+
+•  The  Group  takes  into  account  interest  in  performing  VRPDWLF(cid:3) FHOO(cid:3) QXFOHDU
+WUDQVIHU  (SCNT)  with  the  objective  of  studying  the  conditions  necessary  for
+"reprogramming"  adult  human  cells.  It  is  also  aware  that,  in  view  of  future  cell
+therapy, WKH(cid:3)FUHDWLRQ(cid:3)RI(cid:3)HPEU\RV(cid:3)E\(cid:3)WKLV(cid:3)WHFKQLTXH(cid:3)PD\(cid:3)EH(cid:3)WKH(cid:3) PRVW(cid:3) HIIHFWLYH
+ZD\  to  derive  pluripotent  stem  cells  genetically  identical  to  the  patient  and
+consequently  WR(cid:3) REWDLQ(cid:3) SHUIHFWO\(cid:3) KLVWRFRPSDWLEOH(cid:3) WLVVXHV,  with  the  aim  of
+WKHUDSHXWLF
+avoiding  rejection  after 
+SHUVSHFWLYHV(cid:3) PXVW(cid:3) EH(cid:3) EDODQFHG(cid:3) DJDLQVW(cid:3) FRQVLGHUDWLRQV(cid:3) UHODWHG(cid:3) WR(cid:3) WKH(cid:3) ULVNV(cid:3) RI
+WULYLDOLVLQJ(cid:3)WKH(cid:3)XVH(cid:3)RI(cid:3)HPEU\RV(cid:3)DQG(cid:3)H[HUWLQJ(cid:3)SUHVVXUH(cid:3)RQ(cid:3)ZRPHQ(cid:15)(cid:3)DV(cid:3)VRXUFHV(cid:3)RI
+RRF\WHV(cid:15)(cid:3) DQG(cid:3) LQFUHDVLQJ(cid:3) WKH(cid:3) SRVVLELOLW\(cid:3) RI(cid:3) WKHLU(cid:3) LQVWUXPHQWDOLVDWLRQ(cid:17)  Given
+current  high  levels  of  inefficiency  in  SCNT,  the  provision  of  cell  lines  would
+require large numbers of oocytes.
+
+transplantation.  %XW(cid:15)(cid:3) WKHVH(cid:3) UHPRWH(cid:3)
+
+• 
+
+In the opinion of the Group, in such a highly sensitive matter, WKH(cid:3)SURSRUWLRQDOLW\
+SULQFLSOH(cid:3)DQG(cid:3)D(cid:3)SUHFDXWLRQDU\(cid:3)DSSURDFK must(cid:3)be(cid:3)applied: it is not sufficient to
+consider the  legitimacy  of  the  pursued  aim  of  alleviating  human  sufferings,  it  is
+also  essential  to  consider  the  means  employed.  In  particular,  the  hopes  of
+regenerative  medicine  are  still  very  speculative  and  debated  among  scientists.
+Calling  for  prudence,  the  Group  considers  that,  at  present,  WKH(cid:3) FUHDWLRQ(cid:3) RI
+HPEU\RV(cid:3) E\(cid:3) VRPDWLF(cid:3) FHOO(cid:3) QXFOHDU(cid:3) WUDQVIHU(cid:3) IRU(cid:3) UHVHDUFK(cid:3) RQ(cid:3) VWHP(cid:3) FHOO(cid:3) WKHUDS\
+ZRXOG(cid:3)EH(cid:3)SUHPDWXUH(cid:15)(cid:3)since there is a wide field of research to be carried out with
+alternative  sources  of  human  stem  cells  (from  spare  embryos,  foetal  tissues  and
+adult stem cells).
+
+(cid:21)(cid:17)(cid:27)(cid:17)
+
+6WHP(cid:3)FHOO(cid:3)UHVHDUFK(cid:3)LQ(cid:3)WKH(cid:3)(XURSHDQ(cid:3))UDPHZRUN(cid:3)3URJUDPPH(cid:3)RI(cid:3)UHVHDUFK
+
+Stem  cell  research  based  on  alternative  sources  (spare  embryos,  foetal  tissues  and
+adult stem cells) requires D(cid:3)VSHFLILF(cid:3)&RPPXQLW\(cid:3)UHVHDUFK(cid:3)EXGJHW(cid:17)(cid:3),Q(cid:3)SDUWLFXODU(cid:15)(cid:3)(8
+IXQGLQJ VKRXOG(cid:3)EH(cid:3)GHYRWHG(cid:3)WR(cid:3)WHVWLQJ(cid:3)WKH(cid:3)YDOLGLW\(cid:3)RI(cid:3)UHFHQW(cid:3)GLVFRYHULHV(cid:3)DERXW(cid:3)WKH
+SRWHQWLDO(cid:3)RI(cid:3)GLIIHUHQWLDWLRQ(cid:3)RI(cid:3)DGXOW(cid:3)VWHP(cid:3)FHOOV.  The EU should insist that the results
+of  such  research  be  widely  disseminated  and  not  hidden  for  reasons  of  commercial
+interest.
+
+$W(cid:3)(XURSHDQ(cid:3)8QLRQ(cid:3)OHYHO, ZLWKLQ(cid:3)WKH(cid:3))UDPHZRUN(cid:3)3URJUDPPH(cid:3)RI(cid:3)UHVHDUFK(cid:15) there is
+a specific  responsibility  to provide  funding  for  VWHP(cid:3) FHOO(cid:3) UHVHDUFK(cid:17)(cid:3) This implies  the
+establishment of appropriate  procedures  and  provision  of  sufficient  means  to  permit
+ethical assessment not only before the launching of a project but also in monitoring its
+implementation.
+
+(cid:21)(cid:17)(cid:28)(cid:17)
+
+6WHP(cid:3)FHOO(cid:3)UHVHDUFK(cid:3)DQG(cid:3)ULJKWV(cid:3)RI(cid:3)ZRPHQ
+
+Women  who  undergo  infertility  treatment  are  subject  to  high  psychological  and
+physical  strain.  The  Group  stresses  the  necessity  WR(cid:3) HQVXUH(cid:3) WKDW(cid:3) WKH(cid:3) GHPDQG(cid:3) IRU
+VSDUH(cid:3)HPEU\RV(cid:3)DQG(cid:3)RRF\WH(cid:3)GRQDWLRQ(cid:3)GRHV(cid:3)QRW(cid:3)LQFUHDVH(cid:3)WKH(cid:3)EXUGHQ(cid:3)RQ(cid:3)ZRPHQ.
+
+17
+
+&/,1,&$/(cid:3)5(6($5&+(cid:3)21(cid:3)+80$1(cid:3)67(0(cid:3)&(//6
+
+The  speed  with  which  researchers,  throughout  the  world,  are  moving  to  test
+stem cells in patients is remarkable, even if ES cell transplantation is unlikely
+to be attempted in the near future. Clinical trials with stem cells other than ES
+carried  out  on  patients  suffering  from  severe  conditions  such  as  Parkinson’s
+disease, heart disease or diabetes raise the following issues:
+
+(cid:21)(cid:17)(cid:20)(cid:19)(cid:17) )UHH(cid:3)DQG(cid:3)LQIRUPHG(cid:3)FRQVHQW
+
+Free and informed consent is required not only from the donor but  also  from
+the  recipient  as  stated  in  the  Group's  opinion  on  Human  Tissue  Banking
+(21/07/1998). In each case, it is necessary to inform the donor (the woman or
+the couple) of the possible use of the embryonal cells for the specific purpose
+in question before requesting consent.
+
+(cid:21)(cid:17)(cid:20)(cid:20)(cid:17) 5LVN(cid:16)EHQHILW(cid:3)DVVHVVPHQW
+
+Risk-benefit assessment is crucial in stem cell research, as in any research, but
+is  more  difficult  as  the  uncertainties  are  considerable  given  the  gaps  in  our
+knowledge.  Attempts  to  minimise  the  risks  and  increase  the  benefits  should
+include optimising the strategies for safety. It is not enough to test the cultured
+stem cells or tissues derived from them for bacteria, viruses or toxicity. Safety
+and  security  aspects  are  of  utmost  importance  in  the  transplantation  of
+genetically modified cells and when stem cells are derived from somatic cells.
+For  example,  the  risks  that  transplanted  stem  cells  cause  abnormalities  or
+induce creation of tumours or cancer have to be assessed. It is important that
+the  potential  benefits  for  the  patients  should  be  taken  into  account  but  not
+exaggerated.  The  grounds  of  a  precautionary  approach  need  to  be  taken  into
+account.
+
+(cid:21)(cid:17)(cid:20)(cid:21)(cid:17) 3URWHFWLRQ(cid:3)RI(cid:3)WKH(cid:3)KHDOWK(cid:3)RI(cid:3)SHUVRQV(cid:3)LQYROYHG(cid:3)LQ(cid:3)FOLQLFDO(cid:3)WULDOV
+
+The possibility that irreversible and potentially harmful changes are introduced
+in clinical applications of stem cell research should be minimised. Techniques
+enhancing the possibilities of reversibility should  be  used whenever  possible.
+If,  for  example,  genetically  modified  cells  were  encapsulated  when  they  are
+transplanted in order to stimulate neural cell growth, it should be possible for
+the procedure to be reversed if something goes wrong.
+
+18
+
+(cid:21)(cid:17)(cid:20)(cid:22)(cid:17) 6FLHQWLILF(cid:3)HYDOXDWLRQ(cid:3)RI(cid:3)VWHP(cid:3)FHOO(cid:3)XVH(cid:3)IRU(cid:3)WKHUDSHXWLF(cid:3)SXUSRVHV
+
+It  is  urgent  to  outline  strategies  and  specific  requirements  for  the  best
+evaluation  of  ethically  sound  and  safe  use  of  stem  cells  as  means  of  therapy
+(gene  therapy,  transplantation,  etc.).  Such  an  evaluation  should  be  done  in
+collaboration  with  the  European  Agency  for  the  Evaluation  of  Medicinal
+Products.
+
+(cid:21)(cid:17)(cid:20)(cid:23)(cid:17) $QRQ\PLW\(cid:3)RI(cid:3)WKH(cid:3)GRQDWLRQ
+
+Steps must be taken to protect and preserve the identity of both the donor and
+the recipient in stem cell research and use. As stated in the EGE’s Opinion on
+Human  Tissue  Banking  (21/07/1998):  "in  the  interests  of  anonymity,  it  is
+prohibited  to  disclose  information  that  could  identify  the  donor,  and  the
+recipient.  In  general,  the  donor  should not know  the identity of  the recipient,
+nor should the recipient know the identity of the donor".
+
+(cid:21)(cid:17)(cid:20)(cid:24)(cid:17) 6WHP(cid:3)FHOO(cid:3)EDQNV(cid:3)DQG(cid:3)VDIHW\
+
+Procurement and storage of stem cells in stem cell banks leads to the collection
+and  storage  of  a  growing  number  of  personal  and  familial  data.  Cell  banks
+should be regulated at European level in order to facilitate the implementation
+of a precautionary  approach.  If  unsatisfactory side  effects  occur,  it  should  be
+possible  to  trace  donor  and  recipient  and  to  reach  their  medical  files.
+Traceability must be one of the conditions required for the authorisation of cell
+banks at national or European level.
+
+(cid:21)(cid:17)(cid:20)(cid:25)(cid:17) 6WHP(cid:3)FHOO(cid:3)EDQNV(cid:3)DQG(cid:3)FRQILGHQWLDOLW\
+
+In  order  to  reconcile  the  traceability  requirement  and  the  need  to  protect  the
+donor’s rights - medical confidentiality and privacy - cell banks must take the
+necessary steps to protect confidentiality of the data.
+
+(cid:21)(cid:17)(cid:20)(cid:26)(cid:17) 3URKLELWLRQ(cid:3)RI(cid:3)FRPPHUFH(cid:3)LQ(cid:3)HPEU\RV(cid:3)DQG(cid:3)FDGDYHULF(cid:3)IRHWDO(cid:3)WLVVXH
+
+The  potential  for  coercive  pressure  should  not  be  underestimated  when  there
+are financial incentives. Embryos as well as cadaveric foetal tissue must not be
+bought or sold not even offered for sale. Measures should be taken to prevent
+such commercialisation.
+
+19
+
+(cid:21)(cid:17)(cid:20)(cid:27)(cid:17) ([SRUW(cid:3)DQG(cid:3)LPSRUW(cid:3)RI(cid:3)VWHP(cid:3)FHOO(cid:3)SURGXFWV
+
+Stem cell imports or exports should be licensed by public authorities either at
+national or European level. Authorisation should be subject to ethical as  well
+as safety rules.
+
+(cid:21)(cid:17)(cid:20)(cid:28)(cid:17) (GXFDWLRQ(cid:3)DQG(cid:3)GLDORJXH
+
+There  is  a  need  for  continuing  dialogue  and  education  to  promote  the
+participation of citizens, including patients, in scientific governance, namely in
+the social choices created by new scientific developments.
+
+The European Group on Ethics in Science and New Technologies:
+
+The Members
+
+Paula Martinho da Silva
+
+Anne McLaren
+
+Marja Sorsa
+
+Ina Wagner
+
+Goran Hermerén
+
+Gilbert Hottois
+
+Dietmar Mieth
+
+Octavi Quintana Trias 
+
+Stefano Rodota
+
+Egbert Schroten
+
+Peter Whittaker
+
+The Chairperson
+
+Noëlle Lenoir
+
+20
+
+

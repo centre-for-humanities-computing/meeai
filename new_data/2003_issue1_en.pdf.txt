@@ -1,0 +1,3536 @@
+A Newsletter providing information on the
+activities of the National Ethics Committees
+
+compiled by the Secretariat of the European Group 
+on Ethics in Science and New Technologies 
+to the European Commission
+
+Issue n°1 – February 2003
+
+  
+Table of contents
+
+Editorial 
+by  Christiane  Bardoux,  Secretary  of  the  European  Group  on  Ethics  in  Science
+and Technologies to the European Commission
+
+The European Group on Ethics in Science and New Technologies to the
+European Commission has just published its Opinion on “The ethical aspects
+of clinical research in developing countries”.
+
+The German National Ethics Council will publish its Opinion on “Genetic
+diagnosis prior to and during pregnancy (PGD/PND)” early 2003.
+The  German  National  Ethics  Commission  and  the  French  Consultative  Ethics
+Committee  intend  to  present  a  joint  Opinion  on  “Collection  and  storage  of
+biological data and materials (biobanks)”.
+
+The Australian Health Ethics Committee (AHEC) will hold in April 2003 a
+national conference on “Ethics in human research”.
+
+The most important subjects on the Austria Bioethics Commission´s agenda
+are: Reproductive Medicine; the Austrian Act for Reproductive Medicine
+and human embryonic stem cells research; Ethical problems of selected
+fields of genetic testing.
+
+La Commission de l’éthique de la science et de la technologie, Quebec (Canada)
+a deux comités deux travail actuellement à l’oeuvre sur “Les enjeux éthiques
+des banques de données génétiques” et “Les enjeux éthiques des
+organismes génétiquement modifiés (OGM)”.
+
+The  Nordic  Committee  on  Bioethics  has  planned  a  workshop  for  2003  on
+bioethics teaching methods and a symposium on biotechnology and law.
+
+The Hellenic National Bioethics Commission  is currently discussing the issue of
+patents in biotechnology and a recommendation on this issue is expected by
+March 2003.
+
+The Norwegian model
+The three independent but coordinated national committees for research ethics
+cover all scientific disciplines.
+
+The last mandate of the Portuguese National Council of Ethics for the Life
+Sciences expired some months ago. The new President and new members have
+not been appointed yet.
+
+The Nuffield Council on Bioethics will publish a report in the autumn of 2003 on
+the ethical issues of Pharmacogenetics.   A Workshop on end-of-life issues is
+planned for early 2003.
+
+The Belgian Advisory Committee on Bioethics draws up an annual report
+containing its opinions, a list of the pending requests for advice and a survey of
+activities of the local ethical committees of hospitals and universities.
+
+1
+
+2
+
+5
+
+7
+
+10
+
+11
+
+13
+
+15
+
+17
+
+20
+
+23
+
+26
+
+Newsletter coordinator: 
+Marie Chirol 
+Secretariat of the European Group on Ethics in Science and New Technologies 
+European Commission
+BREY 10/128     Tel : 32 2 296 2584, Fax : 32 2 299 4565, email : marie.chirol@cec.eu.int
+
+ 
+EDITORIAL
+
+Since  the  creation  of  the  first  national  ethics  committee  in  France  in  1993,
+many  national  instances  have  been  set  up.    Even  if  these  committees  may
+differ  in  their  composition  or  working  methods,  they  are  all  independant
+bodies and have a consultative role in advising decision-makers.
+
+The  issues  addressed  by  these  instances  reflect  the  questions  and  concerns
+largely shared by all European and non-European citizens.  Therefore, it may
+be  beneficial  for  all  to  share  experience  and  exchange  information  on  the
+work already carried out on specific issues.
+
+The  objective  of  this  newsletter,  initiated  by  the  secretariat  of  the  European
+Group on Ethics, is to facilitate these exchanges.
+
+We  are  grateful  to  all  those  who  have  contributed  to  this  first  issue  of  the
+newsletter  and  we  welcome  comments,  suggestions,  or  additional
+contributions from any interested committee in the next issue.
+
+I hope that this initiative will be seen as a useful tool for all persons involved
+in the ethical debate.
+
+Christiane Bardoux
+Secretary of the European Group on Ethics
+in Science and New Technologies to the
+European Commission
+
+1
+
+The European Group on
+Ethics in Science and New
+Technologies
+
+pluralist 
+
+independent, 
+
+The  European  Group  on  Ethics 
+in
+Science  and  New  Technologies  (EGE)  is
+an 
+and
+multidisciplinary  body,  which  advises  the
+European Commission on the ethical aspects
+technologies  with
+of  science  and  new 
+respect 
+and
+preparation 
+to 
+implementation  of  Community  legislation
+and  policies.  It  can  do  so  either  at  the
+request  of  the  Commission  or  on  its  own
+initiative.  The  European  Parliament  and  the
+Council  may  draw 
+the  Commission's
+attention  to  questions  which  they  consider
+of major ethical importance.
+
+the 
+
+for 
+
+and 
+
+biology 
+
+On  the  24th  of  April  2001,  the  Commission
+appointed  the  twelve  Members  for  the
+period  2001-2004.  The  members  of  the
+EGE  are  appointed  by 
+the  European
+Commission 
+their  competence  and
+personal qualities. They come from different
+countries and are experts in disciplines such
+as 
+genetics,  medicine,
+information  technology,  law,  philosophy  or
+theology.  Its  President  and  Vice-President
+are respectively, Göran Hermerén (Sweden),
+Philosopher  and  Linda  Nielsen  (Denmark),
+Professor  of  Law.  The  other  members  are  :
+Nicos C.ALIVIZATOS  (Greece),  Professor  of
+Inez  DE  BEAUFORT  (The
+Public  Law, 
+Netherlands),  Philosopher,  Rafael  CAPURRO
+(Germany),  Philosopher,  Yvon  ENGLERT
+(Belgium),  Medical  Doctor,  Catherine
+LABRUSSE-RIOU (France), Professor of Law,
+Anne McLAREN 
+Kingdom),
+Geneticist,  Pere  PUIGDOMÈNECH  ROSELL
+(Spain),  Molecular 
+Stefano
+RODOTA  (Italy),  Professor  of  Civil  Law,
+Günter  VIRT  (Austria),  Theologian,  Peter
+WHITTAKER (Ireland), Biologist.
+
+Biologist, 
+
+(United 
+
+EGE Activities in 2002
+
+Traditionally,  every  semester,  the  Group
+visits  the  country  assuming  the  Presidency
+of  the  EU 
+in  order  to  meet  national
+instances, and representatives of parliament
+or  government 
+in  the  ethical
+involved 
+debate.
+
+Under  the  Spanish  Presidency,  on  April
+18th  and  19th  2002,  the  Group  held  in
+Barcelona  a  working  meeting  and  met
+Members  of  the  Spanish  Parliament  and  of
+Spanish  working  groups  on  Bioethics.  The
+
+2
+
+Group  also  took  part 
+in  the  Platform
+"European  African  partnership  on  clinical
+trials program for poverty related diseases". 
+
+Under  the  Danish  Presidency,  on  October
+24th  and  25th,  2002,  the  Group  held  a
+working  meeting  in  Copenhagen  and  met
+members  of  the  Danish  Consumer  Agency
+and  of  the  National  Ethics  Committee.  The
+Group  also  had  a  debate  with  researchers
+within  the  area  of  developing  countries  and
+took part in the Conference on "Future Food
+on Bioethics". 
+
+Opinion published in 2002
+
+Opinion  n°  16  Ethical  aspects  of  patenting
+inventions 
+involving  human  stem  cells
+(07/05/2002)
+
+In accordance with the 1998 EU Directive on
+the  Legal  Protection  of  Biotechnological
+Inventions  and  in  particular  its  article  7,
+President Prodi requested the EGE to submit
+an opinion aiming at defining the  conditions
+and the limits of patenting of stem cells, not
+only in relation to ethical considerations, but
+also  in  the  relevant  processes  securing
+ethical evaluations.
+
+The  opinion  seeks  to  address  the  basic
+ethical dilemmas arising due to the fact that
+patents  can  encourage  scientific  progress
+which  can  be  used  to  the  benefit  of  better
+healthcare  and,  at  the  same  time,  can  also
+impair access to the health care due to fees
+that  will  have  to  be  paid  to  the  patent
+holder. The EGE considers that the recourse
+to compulsory licence should be encouraged
+when the access to diagnostic and treatment
+is  blocked  by  misuse  of  patent  rights  and
+stresses  the  fact  that  it  is  the  responsibility
+of the States to establish legal procedure for
+the  delivery  of  compulsory  licence  and  to
+examine  if  fair  access  to  health  care  justify
+such a procedure. 
+
+It  is  then  necessary  to  secure  the  right
+balance between the inventors interests and
+society’s  interests,  in  the  sense  that  one
+task  for  the  community  is  to  secure  ethical
+principles  and  values  in  the  context  of
+possible conflicting interests of stakeholders,
+namely:  patients  and  patient  associations,
+inventors,  and  other  researchers,  donors,
+industry, 
+inventors,  healthcare  providers
+and social insurance. 
+
+specific 
+
+The  Group  considers  that  only  human  stem
+cells  lines  which  have  been  modified  by  an
+inventive  process  to  get  new  characteristics
+for 
+industrial  application  are
+patentable.  However,  that  stem  cell  which
+are  been  isolated  and  cultured  but  which
+have  not  been  modified  should  not  be
+considers as patentable inventions.
+
+Concerning  cloning  techniques  aiming  at
+obtaining  human  embryonic  stem  cells  for
+therapeutic  purposes,  the  Group  calls  for  a
+cautious  approach  taking  into  account  the
+excluding such invention from patentability.
+
+The  EGE  finds  important  that  patents  on
+stem  cells  enables  further  research.  In  this
+sense the EGE calls for the creation of an EU
+Registry  of  unmodified  human  stem  cell
+lines.  The  Registry  should  include  both
+embryonic  stem  and  embryonic  germ  cells
+lines.  Such  a  Registry  would  ensure
+transparency  and  facilitate  access  by  the
+research community.
+
+Opinion published in 2003
+
+Opinion  n°  17  :  Ethical  aspects  of  clinical
+research 
+countries
+(04/02/2003)
+
+developing 
+
+in 
+
+funding 
+a 
+
+The  6th  Framework  Programme,  which
+covers  the  period  2002  –2006  opens  now
+the  possibility  for  developing  countries  to
+in  all  research  areas.
+get  EU 
+long-term  partnership
+Furthermore, 
+between Europe and developing countries to
+join  efforts 
+combat  poverty-linked
+diseases  such  as  AIDS,  malaria  and
+tuberculosis  has  been  initiated.  It  is  in  this
+context  that  the  European  Commission
+requested  the  EGE  to  submit  an  opinion  on
+“The ethical aspects of clinical research
+in developing countries”.
+
+to 
+
+Clinical  trials  in  developing  countries  give
+rise to ethical questions specifically linked to
+socio-economic 
+inequalities,  poverty  and
+cultural diversity. The EGE  stresses that the
+huge economic inequalities are the cause  of
+most  of  the  problems  raised  in  this  Opinion
+and 
+public
+in
+investigators  who  do  their  research 
+developing  countries  have  a  moral  duty  to
+make  a  concrete  contribution  to  overcome
+inequalities ».
+
+that  « the 
+
+private 
+
+or 
+
+The Group stresses that the implementation
+of  EU  research  programmes  in  developing
+countries  should  be  based  on  solidarity,  in
+line with the Charter of Fundamental Rights.
+
+3
+
+research  activities 
+
+“Therefore, 
+involving
+human  subjects  cannot  exclusively  be
+assimilated  to  an  economic  activity  subject
+to  market  rules.  Health  should  be  regarded
+as a public good rather than a commodity.” 
+
+The general approach chosen in this Opinion
+fundamental  ethical  rules
+is  that  “the 
+applied  to  clinical  trials  in  industrialised
+countries  are  to  be  applicable  everywhere”,
+namely : 
+
+(cid:1) 
+
+(cid:1) 
+
+(cid:1) 
+
+(cid:1) 
+
+for  human
+the  principle  of  respect 
+dignity  and 
+the  principles  of  non-
+exploitation, non-discrimination and non-
+instrumentalisation,
+the  principle  of  individual  autonomy,
+entailing the giving of free and informed
+consent  by  each  individual  involved  in  a
+trial,
+the  principle  of  justice  and  the  principle
+of  beneficence  and  non-maleficence,
+namely  with  regard  to  the  improvement
+and protection of health,
+the  principle  of  proportionality,  between
+methods and aims of research.
+
+(cid:2)  The  Group  stresses  that  clinical  research
+should  only  be  carried  out  in  developing
+countries  with  good  justification;  when
+the  research  has  a  specific  interest  and
+complies  with  the  health  priorities  of  the
+host  country  and  not  for  reasons  of  pure
+convenience. 
+
+(cid:2)  The  Group  underlined  the  importance  of
+partnership stating that “the involvement
+of  local  scientists  from  the  host  country
+at  the  very  early  stage  of  the  planning
+and 
+the  research
+activities is crucial to develop a culture of
+from
+collaboration  which 
+charity help”.
+
+implementation  of 
+
+is  different 
+
+(cid:2)  The Group insists that the evaluation both
+scientific  and  ethical  of  research  protocol
+should  involve  local  committees,  or  local
+independent  experts.  The  Group  states
+that  “Where  it  is  not  possible  to  involve
+such  an  independent  local  representative
+in  the  evaluation,  then  no  clinical  trial
+should be implemented in the country”.
+
+(cid:2) 
+Concerning  the  use  of  placebo  in
+clinical  trials,  the  Group  considers  that  the
+use  of  placebos  should  be  regulated  in
+developing  countries  in  principle  by  the
+same  rules  as  in  European  countries.  Any
+justified  and  “the
+exception  must  be 
+justification  clearly  demonstrated  in  the
+research  protocol  submitted  to  the  ethical
+committees  and  especially  approved  by  the
+a
+local 
+
+committee”. 
+
+instance, 
+
+For 
+
+Contact Information
+
+Christiane Bardoux, EGE Secretary, 
+tel. 32 2 295 45 47, 
+e-mail : christiane.bardoux@cec.eu.int
+
+Patricia Mommens, 
+tel. 32 2 296 84 74, 
+e-mail : patricia.mommens@cec.eu.int
+
+Joëlle Bezzan, 
+tel. 32 2 296 19 48, 
+e-mail : joelle.bezzan@cec.eu.int 
+
+Marie Chirol, 
+tel. 32 2 296 25 84, 
+e-mail : marie.chirol@cec.eu.int
+
+Fax : 32 2 299 45 65
+
+Website:
+http://europa.eu.int/comm/european_group_ethics
+
+justification  could  be  that  the  goal  of  the
+research  is  to  develop  low  cost  treatment
+when  the  existing  standard  treatment  is
+unaffordable 
+countries.
+Nevertheless,  two  members  of  the  Group
+consider  that  the  use  of  a  placebo  for  the
+purpose  of  developing  low  cost  treatment
+could  mean  accepting  a  “double  standard”
+for poor and rich countries.
+
+poor 
+
+to 
+
+(cid:2)  In  the  context  of  cultural  diversity,  the
+Group  emphasized  that  “both  the  values
+and  ethical  principles  of  the  funding
+agencies and of the host  country have to
+be  considered”  and  “in  the  case  of
+conflicting  views  between  parties,  every
+effort  should  be  made  to  negotiate
+solutions  but  without  compromising  the
+respect of fundamental ethical principles”.
+
+Opinions in preparation
+
+The Group will address in 2003 the question
+of  Genetic  Testing  in  the  work  place
+which  raises  not  only  ethical  issues  related
+to genetic testing and predictive medicine in
+general but also ethical issues related to the
+principle of justice and non-discrimination in
+access  to  work.  This  issue  has  a  particular
+European  dimension  as  workers  can  freely
+cross borderlines within the EU.
+
+Then,  the  Group  plans  to  have  a  reflection
+on  the  Ethical  aspects  on  Cord  Blood
+Banks.  Indeed,  the  development  of  private
+banks  as  well  as  their  publicity  on  the  web
+raises  concerns  and  it  is  at  the  request  of
+the  Commission  that  the  EGE  will  submit
+this opinion.
+
+4
+
+The German 
+National Ethics Council
+
+Following the German Federal Government’s
+decision of 2 May 2001 the National Ethics
+Council was established on 8 June 2001 as a
+national forum for dialogue about ethical
+issues in the life sciences. It provides an
+umbrella for interdisciplinary discourse relating
+to science, medicine, theology, philosophy and
+the social and legal sciences, expressing its
+views on both the ethical aspects of new
+developments in the life sciences and their
+impact on individuals and society as a whole.
+The National Ethics Council consists of up to
+25 Members who represent the fields of
+science, medicine, theology, philosophy,
+society, law, ecology and economy, and are
+appointed by the Federal Chancellor for a
+period of four years. The Members generally
+convene once a month in Berlin.
+
+The National Ethics Council is an independent
+body, bound only by its purpose as stipulated
+in the Government decision that established it.
+It determines the scope and organisation of its
+work independently.
+The Ethics Council puts great emphasis on its
+work with the community and makes its
+opinions, recommendations and reports public.
+
+The National Ethics Council cooperates with
+other ethics bodies in Germany as well as with
+comparable institutions of other countries and
+international organisations.
+
+The General Secretariat of the National Ethics
+Council is located on the premises of the Berlin
+Brandenburg Academy of Sciences and
+Humanities. The Council and its General
+Secretariat are funded by the German Federal
+Government.
+
+The import of human embryonic stem
+cells
+
+Following intensive debate the National Ethics
+Council published its Opinion on the import of
+human embryonic stem cells for research
+purposes on 20 December 2001.
+
+In conclusion, the comprehensive document
+offers the following options:
+
+A  The temporary import of pluripotent human
+stem cells is deemed ethically acceptable
+under strict conditions (described in detail
+
+5
+
+in the Opinion), as the production of
+such stem cells using surplus embryos
+is held to be ethically permissible.
+Therefore, the production of such stem
+cells using surplus embryos within
+Germany would also be acceptable. The
+import conditions mentioned would
+have to apply in equal measure to both
+publicly and privately funded research.
+
+B  The Council advocates the provisional
+
+and temporary import of human
+embryonic stem cells under strict
+conditions as described in the Opinion.
+All conditions shall apply in equal
+measure to both publicly and privately
+funded research, and must be met prior
+to import.
+
+C  A provisional ban (moratorium) should
+be imposed on stem cell import. The
+legislator must arrive at an explicit
+decision on imports, yet not before
+clarifying a number of issues,
+individually listed in the Opinion. These
+issues should be examined before the
+end of 2004.
+
+D  Stem cell import is deemed ethically
+
+impermissible, mainly due to the basic
+considerations surrounding the
+production of stem cells using human
+embryos. As this is deemed an
+impermissible instrumentalisation
+(destruction) of human life, it follows
+that the import of such stem cells must
+be rejected. The imported cells carry
+the stigma of the conditions under
+which they were produced. Their import
+will lead to an increase in demand,
+thereby directly promoting consumption
+of embryos in the exporting countries.
+Eventually the level of protection
+afforded to embryos will be lowered
+also in Germany.
+
+Bearing in mind that the National Ethics
+Council is yet to express its opinions on
+the basic issues surrounding stem cell
+research, and while decisions regarding
+the import of embryonic stem cells are still
+pending, fifteen Members have moved in
+favour of a tightly restricted temporary
+import of embryonic stem cells (Option B).
+Nine among these fifteen also advocated
+Option A. Ten Members favour a
+moratorium on stem cell imports for the
+time being (Option C), among these four
+who are also in favour of Option D.
+
+Biobanks and the biomedical, ethical and
+legal implications of storing human bodily
+substances and genetic data were also
+discussed at a joint session with the
+French Consultative Ethics Committee for
+Health and Life Sciences (CCNE) on 28
+June, 2002 in Berlin
+
+The treatment of biobanks is increasingly
+becoming a topic of public debate, and not
+just in Germany.
+
+Researchers anticipate the emergence of
+new approaches to diagnostic and
+therapeutic methods. The procurement,
+storage and use of bodily materials and
+genetic data, however, impacts strongly
+on the patients and donors’ rights as
+individuals, right to information, and their
+psychological and physical wellbeing. The
+economic significance of biobanks also
+raises the issue of how the ethical
+principle of non-commercialisation of the
+human body can be upheld.
+
+The German National Ethics Commission
+and the French Consultative Ethics
+Committee intend to present a joint
+Opinion on this matter. Both bodies plan
+to continue issuing joint statements on
+subjects that are in discussion both in
+Germany and in France. 
+
+HOW TO CONTACT US
+
+URL:  http://www.ethikrat.org/
+
+Contact person:
+
+Frauke Albers
+
+Tel. +49/30/20370-242
+
+Fax: +49/30/20370-252
+
+Email: albers@ethikrat.org
+
+Genetic diagnosis prior to and during
+pregnancy (PGD/PND)
+
+Preimplantation genetic diagnosis (PGD) is not
+performed in Germany. It is generally held
+that PGD is prohibited under the Embryo
+Protection Act.
+The ethical and legal issues arising in
+connection with PID relate to the moral and
+constitutional status of the embryo in
+question, the rights of the couples wishing to
+have PGD, and possible conflicting values in
+dealing with an abortion following pre-natal
+diagnosis (PND) and a ban on PGD.
+
+The Ethics Council will publish its Opinion in
+early 2003.
+
+Collection and storage of biological data
+and materials (biobanks)
+
+The National Ethics Council has been debating
+this issue since May 2002 and will continue to
+do so during the coming months. A joint
+debate with the French National Consultative
+Ethics Committee (Comité Consultatif National
+d’Ethique) has been planned, with the first
+session scheduled to take place during the
+Franco-German meeting in late June 2002 in
+Berlin. 
+
+From the perspective of biomedical research,
+biobanks are instrumental in the acquisition of
+important knowledge that enables the
+dedicated, continued development of
+therapeutic and diagnostic methods and
+applications. The economic potential of
+biobanks is substantial and as such of great
+interest to the pharmaceuticals industry, for
+instance.
+In this context, the role of patients and
+donors, their basic rights as individuals as well
+as their right to information must be given due
+consideration.
+
+The ethical and legal implications of biobanks
+become particularly apparent e.g. when
+considering the possible reuse of collected
+bodily materials for other purposes. In this
+respect, it is still unclear to what extent the
+patients and donors, or their families, must be
+informed in order to gain their consent.
+
+6
+
+THE AUSTRALIAN  HEALTH
+ETHICS  COMMITTEE (AHEC),
+A PRINCIPAL COMMITTEE OF
+AUSTRALIA’S NHMRC
+
+The Australian Health Ethics Committee
+(AHEC) is one of the principal committees of
+the National Health and Medical Research
+Council (NHMRC).  Established under an Act of
+Parliament, the NHMRC is Australia’s leading
+expert body promoting the development and
+maintenance of public health standards
+through the provision of evidence-based
+health advice, investment in high-impact
+health and medical research ,and the
+consideration of ethical issues in health.
+
+The Minister for Health and Ageing appoints as
+members to AHEC people with expertise,
+knowledge or experience in philosophy;
+ethics;  medical research;  public health;
+social science research;  clinical medical
+practice;  nursing or allied health;  law;
+religion;  people with understanding of health
+consumer issues;  and of the concerns of
+people with disabilities.
+
+The main functions of AHEC are:
+
+(cid:2) 
+
+to advise the NHMRC on ethical issues
+relating to health.
+
+Important recent AHEC publications containing
+examples of this advice are listed below.
+
+AHEC’s public consultation processes and
+its publications are the primary means of
+fulfilling this function.
+
+(cid:2) 
+
+to monitor the work of Human
+Research Ethics Committees
+(HRECs).
+
+The task of the 210 or more HRECs in
+institutions across Australia is to review
+proposals for research involving humans,
+to ensure that such research is soundly
+designed and conducted according to high
+ethical standards, so that the welfare of
+participants is protected.  HRECs are
+guided in this work by the National
+Statement (see above).
+
+(cid:2) 
+
+to monitor and advise on
+international developments in
+health ethics.
+
+AHEC monitors and advises on
+international developments in health
+ethics issues through liaison with relevant
+international organisations and
+individuals, including the World Health
+Organization, and by attending
+international fora.
+
+AHEC PUBLICATIONS AND
+CURRENT ACTIVITES
+
+Publications
+This is not an exhaustive publications list.
+For  additional information, visit the
+NHMRC Internet site at
+http://www.nhmrc.gov.au/publications
+or contact the Publications Officer,
+NHMRC, MDP 100, GPO Box 9848,
+CANBERRA.  ACT.  2601  AUSTRALIA.  or
+phone: 61 2 6289 9520 
+or fax 61 2 6289 9197).
+
+(cid:2) 
+
+to develop guidelines for the conduct
+of medical research involving humans. 
+
+(cid:1)  Human Research Ethics Handbook.
+
+Published in 2002.
+
+The National Statement on Ethical Conduct in
+Research involving Humans (1999) is the
+primary guideline for Australia’s Human
+Research Ethics Committees, researchers, and
+others on the ethical principles and values
+which should govern research involving
+humans.  The National Statement derives from
+a revision of the NHMRC Statement on Human
+Experimentation and Supplementary Notes
+1992.
+
+(cid:2) 
+
+to promote community debate on
+health ethics issues.
+
+Assists Australia’s Human Research Ethics
+Committees and researchers in the use of the
+National Statement on Ethical Conduct in
+Research Involving Humans.  The Handbook is
+the result of contributions from over 50
+authors and has three parts:  a commentary
+on the National Statement;  a research ethics
+collection;  and a research law collection.  The
+‘collections’ discuss ethical and legal issues
+which are relevant to the review and conduct
+of research involving humans.
+
+(cid:1)  Guidelines for Genetic Registers and
+
+Associated Genetic Material.  Published
+in 1999.
+
+7
+
+Provides guidelines covering all aspects of
+genetic register operations, including the
+recruitment of registrants;  consent;
+confidentiality and privacy;  and the storage of
+genetic material.
+
+(cid:1)  Ethical Aspects of Human Genetic Testing:
+an Information Paper.  Published in 2000.
+
+Deals principally with operational issues such
+as obtaining consent, counselling, privacy and
+confidentiality. Aims to promote consideration
+by health professionals about the best way to
+proceed, by identifying issues and options.
+
+(cid:1)  Protection of Human Genetic Information:
+Discussion paper.  Published in 2002
+jointly with the Australian Law Reform
+Commission.
+
+This joint inquiry is being undertaken at the
+direction of the Commonwealth Minister for
+Health and the Commonwealth Attorney-
+General.  Due to report to these Ministers in
+March 2003, the Inquiry is considering, with
+respect to human genetic samples and
+information, how best to protect privacy;
+protect against unfair discrimination;  and
+ensure the highest ethical standards in
+research and practice.  Copies at
+http://www.alrc.gov.au
+
+(cid:1)  Ethical guidelines on assisted reproductive
+technology. Published in 1996 (currently
+under review).
+
+The revision of these guidelines will reflect the
+rapid developments in science that have
+occurred since publication of the 1996
+guidelines, such as the isolation of human
+embryonal stem cells.  On 25 September
+2002, the Australian House of Representatives
+voted to pass the Research Involving Embryos
+Bill 2002.  The Bill was subsequently
+introduced into the Senate on 15 October
+2002.  Assuming the Bill becomes legislation,
+it is proposed that the revised guidelines will
+underpin the new regulatory regime which will
+govern research involving embryos.
+
+(cid:1)  Guidelines for Ethical Review of Research
+Proposals for Human Somatic Cell Gene
+Therapy and Related Therapies.  Published
+in 1999.
+
+Provides guidance to Australia’s Human
+Research Ethics Committees, which may be
+asked to review and approve research
+proposals involving this therapy.
+
+8
+
+(cid:1)  Guidelines on Ethical Matters in
+
+Aboriginal and Torres Strait Islander
+Health Research. Published in 1991
+(currently under review).
+
+Provides advice to researchers on the
+values, needs and customs of Aboriginal
+and Torres Strait Islander communities,
+addressing the need for consultation and
+community involvement, and ownership
+and publication of research data.
+
+(cid:1)  Ethical Issues in Organ Donation
+
+discussion papers:
+
+1  Donating organs after death: ethical 
+
+issues
+
+2  Ethical issues in donation of organs or 
+
+tissues by living donors
+
+3  Ethical issues raised by allocation of 
+
+transplant resources
+
+4  Certifying death: the brain function 
+
+criterion.
+
+Published in 1997 (currently under
+review).
+
+Provide balanced discussions aimed at
+helping the community and health
+professionals to think through the ethical
+issues surrounding organ donation well in
+advance of decisions having to be made.
+
+(cid:1)  Ethical and practical issues concerning
+ashed bones from the Commonwealth
+of Australia’s Strontium 90 Program
+1957-1978.  Published in 2001.
+
+Advice to the Commonwealth Minister for
+Health on ethical issues arising from the
+Strontium 90 program, including how
+information should be conveyed to next-
+of-kin who enquire about their relatives
+whose samples were included in the
+program.
+
+(cid:1)  Organs retained at autopsy: ethical
+and practical issues. Published in
+2001.
+
+Advice to the Commonwealth Minister for
+Health on what should be done about
+tissues and organs held by institutions as
+a result of autopsies.
+
+(cid:1)  Guidelines under Section 95 of the
+
+Privacy Act 1988. Published in 2000.
+(cid:1)  Guidelines under Section 95A of the
+
+Privacy Act 1988.   Published in 2001.
+
+These guidelines provide for the protection
+of privacy in the conduct of medical
+research, and present a framework for
+weighing the public interest in medical
+
+research against the public interest in the
+protection of privacy.
+
+across the values and practices of
+ethical research and review.  The
+program includes presentations from
+international speakers on ethical
+review systems in other countries.
+
+HOW TO CONTACT AHEC
+
+AHEC can be contacted at:
+
+Telephone:
+Facsimile:
+Email:
+
+(02) 6289 9154
+(02) 6289 9198
+
+ahec.nhmrc@health.gov.au
+
+-  or  -
+
+by mail:
+
+The Secretary
+Australian Health Ethics Committee
+National Health and Medical Research
+Council
+GPO Box 9848
+CANBERRA  ACT  2601  AUSTRALIA
+
+Some current activities and events
+
+(cid:1)  Draft guidelines and discussion paper on
+
+xenotransplantation research
+
+The NHMRC recently concluded a public
+consultation phase on the draft guidelines.
+The conduct of a second round of community
+and stakeholder consultation on the proposed
+guidelines, together with community education
+activities, is currently being considered.
+
+(cid:1)  When does quality assurance in health care
+
+require independent ethical review?
+
+AHEC has prepared draft advice on this issue
+for research institutions, human research
+ethics committees and health care
+professionals .  It provides advice on how
+these groups can determine whether a quality
+assurance proposal raises ethical issues that
+require some form of ethical review.
+
+(cid:1)  An integral part of AHEC’s role is to
+
+provide ongoing support for the work of
+Australia’s Human Research Ethics
+Committees.  AHEC does this in several
+ways, for example, by
+
+(cid:2)  holding training workshops;
+
+(cid:2) 
+
+issuing bulletins which offer advice on
+current issues, and responding to
+individual inquiries from these
+Committees;
+
+(cid:2)  Developing a national application form for
+use by researchers when submitting
+research proposals to Australia’s Human
+Research Ethics Committees.  In addition
+to facilitating multi-centre research, this
+form will provide a mechanism by which
+consistent an comprehensive information
+will be submitted by researchers;  and
+
+(cid:2)  Holding, in April 2003, a national
+
+conference, ‘Ethics in human research’,
+This conference will provide a forum to
+discuss the ethical conduct and review of
+research involving humans, ranging widely
+
+9
+
+AUSTRIA Bioethics
+Commission
+
+Robert  Gmeiner,    head  of  the  secretariat  of
+the Bioethics Commission
+
+By  an  order  issued  by  the  Federal  Chancellor
+on 29 June 2001, a Bioethics Commission was
+established  at  the  Federal  Chancellery.  The
+constituent  meeting  was  held  on  2  July  2001.
+The  task  of  the  Bioethics  Commission  is  to
+advise  the  Federal  Chancellor  from  an  ethical
+point  of  view  on  all  social,  natural  scientific
+and  legal  issues  arising  from    the  scientific
+developments  in  human  medicine  and  human
+biology.
+
+This  includes  in  particular  the  submission  of
+recommendations 
+for  practical  use  and
+suggestions  for  enacting  the  necessary  legal
+provisions as well as the preparation of expert
+opinions  on  specific  issues.  The  Commission
+exercises its advisory function independently.
+
+field 
+
+(in  particular 
+
+The  Commission  consists  of  19  experts  in  the
+medical 
+reproductive
+medicine, gynaecology, psychiatrics, oncology,
+pathology),  legal  experts,  sociologists  and
+experts 
+and
+microbiology.  The  members  do  not  serve  as
+representatives of any group or interest.
+The  Bioethics  Commission 
+is  headed  by
+UnivProf  DDr  Johannes  Huber  and  his  deputy
+UnivProf Dr Günther Pöltner. 
+
+philosophy, 
+
+theology 
+
+in 
+
+The  members  of 
+the  Commission  are
+appointed for a period of two years. They may
+be  re-appointed;  the  maximum  total  period
+being  six  years.  The  Commission  is  convened
+by  the  Federal  Chancellor  or  its  chairman,  if
+necessary, and otherwise meets at least every
+three  months.  The  Bioethics  Commission  has
+its office at the Federal Chancellery.
+
+The  Commission  has  so  far  provided  opinions
+in relation to the following issues:
+(cid:2) 
+
+Recommendation for Austria´s accession
+to  the  Convention  on  human  Rights  and
+Biomedicine  of  the  Council  of  Europe  (11
+February 2002);
+
+(cid:2)  Statement in relation to the question of  the
+implementation  of  the  Council  Directive
+98/44/EC  on 
+legal  protection  of
+biotechnological  inventions  in  Austria  (6
+March 2002);
+
+the 
+
+(cid:2)  Statement  on  questions  of  stem  cell
+research  in  the  context  with  the  Sixth
+Framework  Programme  of  the  European
+technological
+Community 
+
+research, 
+
+for 
+
+development 
+demonstration
+and 
+activities,  contributing  to  the  creation
+of  the  European  Research  Area  and  to
+innovation (2002-2006) (8 May 2002).
+
+Having regard to the order of appointment
+on 29 June 2001 the Commission adopted
+Rules of Procedure. 
+The  (1st)  Annual  Report  2001/2002  gives
+a review over the Commission´s activities
+2001 to the  middle of the year 2002.  The
+report  shows,  that  during  this  period  the
+Commission has met formally each month
+and  has  established  working  partys  to
+examine  and  report  the  ethical,  social,
+legal  and  practical  issues  raised  by  the
+selected topics.
+There  are 
+the
+Commission´s  agenda  now  and  for  the
+following  months.  The  most  important
+subjects are:
+
+issues  on 
+
+several 
+
+(cid:2)  Reproductive 
+
+Medicine, 
+the
+Austrian  Act 
+for  Reproductive
+Medicine  and  human  embryonic
+stem cells research;
+
+(cid:2)  Ethical  problems  of  selected  fields
+
+of genetic testing.
+
+For  further  informations  please  contact
+our website:
+ http://www.bka.gv.at/bioethik/.
+
+The  secretariat  is  pleased  to  help,  if  you
+need further informations on the Bioethics
+Commission´s work:
+
+Robert Gmeiner
+Secretariat of the Bioethics Commission
+Federal Chancellery
+Hohenstaufengasse 3
+A-1010 Vienna
+
+Tel.: +43-1-53115/4319
+Fax: +43-1-53115/4307
+E-MAIL: robert.gmeiner@bka.gv.at
+
+10
+
+gouvernement  et  aux  divers  acteurs
+concernés ;
+(cid:2)  en  conseillant  le  gouvernement  et
+les  organismes 
+concernés  en
+matière de besoins de formation en
+éthique  de  la  science  et  de  la
+technologie ;
+
+(cid:2)  en  présentant  annuellement  un
+
+rapport de ses activités ;
+
+(cid:2)  en  établissant  des  liens  formels
+avec  des  organismes  de  même
+vocation dans divers pays.
+
+LA COMPOSITION DE LA CEST
+
+La CEST se compose de treize membres
+réguliers et de deux membres invités,
+répartis comme suit :
+
+(cid:2)  un président nommé par le 
+
+gouvernement, qui est aussi 
+membre d’office du CST ;
+
+des 
+
+la  santé,  de 
+
+(cid:2)  quatre  scientifiques  des  secteurs
+universitaire et industriel  (dans les
+domaines  de 
+la
+biotechnologie-bioalimentaire,  de
+sciences
+l’environnement, 
+physiques, 
+nouvelles
+des 
+technologies  de  l’information  et  de
+la communication, etc.);
+(cid:2)  quatre  spécialistes  de 
+
+l’éthique
+(dans les domaines de l’éthique ou
+la  philosophie,  des  grands
+de 
+courants 
+ou
+spirituels,  du  droit,    des  sciences
+sociales, etc.) ;
+
+philosophiques 
+
+de 
+
+pratique 
+
+(cid:2)  quatre  personnes  venant  des
+(comité
+milieux 
+d’éthique,  administration  de 
+la
+santé,  etc.),  des  médias,  des
+réseaux de l’éducation ou du grand
+public ;
+
+(cid:2)  deux  personnes  invitées,  membres
+fonction  publique,  qui
+de 
+participent  aux  délibérations  mais
+sans droit de vote.
+
+la 
+
+La Commission peut également
+s’adjoindre, si besoin est, des
+observateurs qui, à un titre ou à un autre,
+et pour une durée déterminée,
+contribueront à l’enrichissement de ses
+travaux sur un sujet donné.
+
+La Commission de l’éthique
+de la science et de la
+technologie, QUÉBEC (CANADA)
+
+La Commission québécoise de l’éthique de la
+science et de la technologie (CEST) est un lieu
+de réflexion et de discussion sur les grandes
+questions éthiques suscitées par le progrès de
+la science et de la technologie.
+
+Créée  en  septembre  2001,  la  CEST  relève  du
+Conseil  québécois  de  la  science  et  de  la
+technologie  (CST),  en  conformité  avec  la
+politique  de  la  science  et  de  l’innovation  du
+gouvernement  québécois Savoir  changer  le
+monde. 
+totale
+indépendance  morale  et  son  rattachement  au
+CST est uniquement d’ordre administratif.
+
+La  CEST 
+
+d’une 
+
+jouit 
+
+LA MISSION DE LA CEST
+
+La mission de la CEST consiste, d’une part, à
+informer, sensibiliser, recevoir des opinions,
+susciter la réflexion et organiser des débats
+sur les enjeux éthiques du développement de
+la science et de la technologie, tant dans le
+domaine du vivant que du non-vivant; d’autre
+part, la Commission doit proposer des
+orientations susceptibles de guider les acteurs
+concernés dans leur prise de décision.
+
+LE MANDAT DE LA CEST
+
+La CEST s’acquitte de sa mission dans le cadre
+d’une auto-saisine ou de saisines en
+provenance de son ministère de rattachement
+– le ministère de la Recherche, de la Science
+et de la Technologie –  ou du Conseil de la
+science et de la technologie :
+
+(cid:2)  en  colligeant  l’information  pertinente  aux
+l’échelle
+questions  qu’elle  aborde,  à 
+nationale  et  internationale,  et  en  diffusant
+largement cette information par les moyens
+qu’elle juge appropriés ;
+
+(cid:2)  en  organisant  des  débats  publics  sur  les
+enjeux  éthiques  du  développement  de  la
+science et de la technologie, dans le but de
+connaître  les  valeurs  propres  à  la  société
+québécoise et de dégager les perceptions et
+les attentes de la population ;
+
+(cid:2)  en  prenant  position  sur  ces  enjeux,
+notamment  sous  forme  d’avis  adressés  au
+
+11
+
+Les  membres  de  la  Commission  pour
+l’exercice 2001-2003 sont les suivants :
+
+en 
+
+(spécialisation 
+
+André  Beauchamp,  président  de 
+la
+Commission,  théologien  et  spécialiste  de
+l’environnement, directeur d’Enviro-Sage inc. ;
+Sabin Boily, spécialiste des nanotechnologies,
+président-fondateur  du  Groupe  Minutia,  une
+entreprise  spécialisée  dans  la  technologie  des
+poudres nanométriques ;
+Yves Boisvert, professeur-chercheur à l’École
+nationale  d’administration  publique  (ÉNAP)  et
+directeur  du  Laboratoire  d’éthique  publique
+ÉNAP-INRS ;
+David  Boucher,  étudiant  à  la  maîtrise  en
+éthique 
+bioéthique),
+Université du Québec à Rimouski ;
+Édith  Deleury,  professeure-chercheure  à  la
+Faculté  de  droit  de 
+l’Université  Laval,
+présidente  de  divers  comités  d’éthique en
+recherche et en santé, membre du Barreau du
+Québec ;
+Jean-Claude  Guédon,  professeur-chercheur
+à  la  Faculté  des  sciences  de  l’Université  de
+Montréal,  spécialiste  de  la  communication  en
+réseaux et de l’Internet ;
+Michèle  Jean,  conseillère  en  développement
+de  programmes  à  la  Faculté  des  études
+supérieures  de  l’Université  de  Montréal  et
+vice-présidente  du  Comité  international  de
+bioéthique de l’UNESCO ;
+Dr Thomas Maniatis, professeur à la Faculté
+de  médecine  de  l’Université  McGill,  spécialiste
+de  médecine  interne  et  membre  de  divers
+comités d’éthique dans le milieu hospitalier ;
+Isabelle  Montpetit,  journaliste  scientifique
+pour  la  Société  Radio-Canada,  spécialiste  en
+biologie cellulaire et moléculaire ;
+Nicole O’Bomsawin, directrice du Musée des
+Abénakis  d’Odanak,  membre  des  Premières
+Nations ;
+Johane  Patenaude,  professeure-chercheure
+à  la  Faculté  de  médecine  de  l’Université  de
+Sherbrooke, 
+éthique
+spécialiste 
+biomédicale ;
+François  Pothier,  professeur-chercheur  à  la
+Faculté  des  sciences  de  l’Université  Laval,
+spécialiste  de 
+transgenèse  animale,
+la 
+cofondateur de la firme TGN Biotech ;
+l’organisme
+Louise  Rozon,  directrice  de 
+Options consommateurs et chargée de cours à
+l’Université du Québec à Montréal, membre du
+Barreau du Québec ; 
+Anne  Marcoux,  membre  invitée,  spécialiste
+du  droit  médical,  Conseil  de  la  santé  et  du
+bien-être ;
+Guy  Turcotte,  membre  invité,  sous-ministre
+associé à  la  Gestion  de  l’identité  et  des  lois
+
+en 
+
+d’accès  et  de  protection  au  ministère  des
+Relations  avec 
+citoyens  et  de
+les 
+l’Immigration.
+LES  PROJETS  DE  LA  CEST  POUR  L’EXERCICE
+2001-2003
+
+Deux comités de travail sont actuellement
+à l’œuvre sur les problématiques
+suivantes :
+
+(cid:2) 
+
+(cid:2) 
+
+enjeux 
+
+éthiques 
+
+des
+les 
+banques 
+données
+de 
+génétiques,  en  réponse  à  une
+saisine  ministérielle  pour  un  avis
+qui  doit  être  déposé  à  la  fin  de
+l’année 2002 ;
+éthiques 
+des
+les 
+enjeux 
+organismes 
+génétiquement
+modifiés (OGM), une auto-saisine
+de  la  Commission  qui  prévoit  le
+dépôt d’un avis à l’automne 2003.
+
+Par  ailleurs,  la  Commission  a  demandé  à
+internes  d’amorcer  une
+des  comités 
+réflexion 
+des
+et 
+recommandations sur les sujets suivants : 
+
+faire 
+
+de 
+
+lui 
+
+(cid:1) 
+
+consultation  du  public,
+la 
+notamment  sur 
+les  modes  de
+consultation que pourrait privilégier
+leurs  modalités
+la  CEST 
+d’organisation  et  de  réalisation  –
+des  travaux  sont  actuellement  en
+cours ;
+
+et 
+
+(cid:2)  éducation, information,
+
+sensibilisation de la population,
+aux fins de développement d’une
+stratégie d’intervention appropriée
+dans le contexte de la mission
+d’animation du débat public de la
+CEST – les travaux commenceront
+en janvier 2003.
+
+POUR PLUS D’INFORMATION
+
+http://www.éthique.gouv.qc.ca
+
+La coordonnatrice de la
+Commission :
+Diane Duquet, Ph.D.
+Coordonnatrice
+Commission  de 
+sciencet de la technologie
+1200 route de l’Église, 3e étage
+Bureau 3.45
+Sainte-Foy (Québec) G1V 4Z2
+
+l’éthique  de 
+
+la
+
+Téléphone : (418) 528-0965
+
+12
+
+Télécopieur : (418) 646-0920
+Courriel : ethique@ethique.gouv.qc.ca
+
+13
+
+be renewed once. Members shall, if
+possible, be members of the national
+councils of ethics.
+The committee has adopted a system of
+yearly chairmanship rotation among the
+member countries.   
+
+TASKS 
+
+The Committee’s tasks are:
+
+- to identify ethical problems arising from
+genetic engineering and other
+biotechnology research, development and
+modification of micro organisms, plants,
+animals and humans.
+- to promote Nordic collaboration among
+researchers, opinion formers and
+parliamentarians on bioethical issues by
+cooperating with national research
+institutions, authorities and ethics
+committees, and by the same token
+creating opportunities for the exchange of
+information.
+- to contribute to a joint Nordic debate on
+bioethical questions by disseminating
+material that can be used in constructive
+discussions of bioethics issues.
+- to monitor biotechnological
+developments in the Nordic region and
+internationally.
+- to keep abreast of Nordic and
+international debate on ethical questions
+issuing from biotechnology research,
+development and application.
+- to follow legislative developments within
+the sphere of biotechnology in the Nordic
+countries. 
+
+WORKING APPROACHES
+
+The Nordic Committee on Bioethics
+arranges workshops, hearings,
+conferences, symposia and public
+talks/lectures in order to contribute to the
+exchange of information between
+researchers, parliamentarians and opinion
+leaders on current issues in bioethics.
+The Committee publishes reports and
+other publications to promote Nordic and
+international debate on issues of bioethics.  
+
+THE NORDIC COMMITTEE ON
+BIOETHICS
+
+The Nordic Committee on Bioethics was
+formed out of the ”Nordic Committee on
+Ethics”, which was set up in 1989 by the
+Nordic Council of Ministers in connection with
+a Nordic collaborative project on
+biotechnology. In 1996 the Committee
+changed its name to the Nordic Committee on
+Bioethics. 
+
+Nordic cooperation on bioethics is considered
+important because 
+
+-  ethical issues in biotechnology and
+
+-
+
+- 
+
+- 
+
+- 
+
+genetic engineering are increasingly
+important topics today and in the
+future.
+the Nordic countries have highly
+developed biotechnology and bioethical
+knowledge. Progress in all areas is not
+equal in the Nordic countries. Thus it is
+of great value that there is a Nordic
+forum where the development of the
+individual countries in the area of
+bioethics and the public discussion on
+these issues can be monitored.
+the Nordic region has common cultural
+and ethical considered opinions which it
+is important to abide by.
+this requires the exchange of
+information, interdisciplinary
+cooperation and joint conferences. 
+it is important to bring to the attention
+shared Nordic values in dealings with
+the Council of Europe and the European
+Union.
+
+MANDATE
+
+To further promote Nordic cooperation and
+exchange of information between scientists,
+parliamentarians and opinion leaders on
+ethical aspects of biotechnological research,
+development and application a Nordic
+committee on Bioethics was formed in 1989.
+The committee’s mandate has been renewed
+several times. The present mandate is for the
+years 2002-2004.
+
+The Committee has two members from each
+of the Nordic countries Denmark, Finland,
+Iceland, Norway and Sweden and represents
+broad-based knowledge in biotechnology and
+bioethics. Members are nominated by the
+national ministries for education/ research and
+they are appointed by the Nordic Council of
+Ministers for a period of three years that can
+
+14
+
+EVENTS AND PUBLICATIONS
+
+Events
+
+Planned for 2003: 
+A workshop on bioethics teaching methods
+A symposium on biotechnology and law
+
+2001 Teaching Bioethics
+2000 The ethical issues in human stem  cell
+research
+1999 Who owns our genes?
+1998  Bioethics committees in the Nordic 
+
+countries
+1997  Biobanks
+1996  Transgenic animals and 
+
+xenotransplantation
+
+1995  Gene therapy
+
+Publications
+
+Teaching Bioethics, 2002
+The Ethical Issues in Human Stem Cell
+Research, 2000
+Who owns our genes?, 1999
+Transgenic Animals – Why?, 1998
+Human Biobanks, 1997
+
+CONTACT INFORMATION
+
+Secretary General: Helena von Troil
+
+e-mail: helena.troil@clarinet.fi
+phone: + 358 40 5449981
+
+Address: 
+Rikhard Nymanintie 9 B
+00370 Helsinki,
+Finland
+
+Website:
+
+www.ncbio.org
+
+15
+
+HELLENIC NATIONAL
+
+BIOETHICS COMMISSION
+
+A. Function – Objectives of the 
+
+Commission
+
+The  National  Bioethics  Commission  is  an
+independent  advisory  body  of  experts,
+established by law 2667/1998.
+
+The  Commission  is  expected  to  be  aware
+about  the  possible  applications  of  biological
+sciences. Its mission is to explore their ethical,
+social and legal impact.
+
+More specifically the Commission:
+
+a)  Investigates  the  ethical,  social  and
+legal  aspects  that  arise  from  scientific
+advances 
+in  biology,  biotechnology,
+medicine and genetics.
+
+b)  Outlines, 
+
+in  collaboration  with 
+
+the
+respective  ministries,  proposals  of
+general  policy  and  provides  specific
+recommendations on related issues.
+
+c)  Collaborates 
+
+international
+with 
+organizations  and  related  bodies  and
+represents Greece to international fora.
+d)  Informs  the  public  on  issues  related  to
+biotechnological  advances  and 
+the
+impact of their applications and
+e)  Orientates  and  coordinates 
+
+related
+governmental  advisory  bodies  in  the
+field of bioethics.
+
+Professor of Science and Philosophy,
+University of Athens
+
+- Professor John Vlahoyannis, Professor in
+Medical Pathology and Nephrology,
+University of Patras
+
+- Professor Dimitris Roupakias, Professor
+
+of Plant Breeding, Agricultural
+University of Thessaloniki 
+
+- Professor John Manoledakis, Professor of
+Criminal Law, University of Thessaloniki
+
+- Professor Myrto Dragona – Monachou,
+
+Professor of Philosophy, University of   
+
+   Athens 
+- Professor Constantinos Tsoukalas,
+
+Professor of Sociology, University of
+Athens 
+
+- Professor Savas Agouridis, Emeritus
+
+Professor of Theology, University of
+Athens
+
+2. The Commission is supported by
+
+two (2) scientific assistants:
+Dr. Takis Vidalis (Jurist) and  Dr. Katerina
+Manolakou (Geneticist)
+
+C. Secretariat of the Commission
+The Commission is supported by an
+
+executive secretary Ms Marianna
+Dracopoulou, who is the person in charge
+for the Secretariat. 
+
+D. Presentation of opinions 
+
+recently published
+Commission 
+
+has 
+
+The 
+
+recently
+elaborated  a  recommendation  on  the
+collection and use of genetic data and has
+expressed  its  comments  on  the  draft  bill
+concerning  medically  assisted  human
+reproduction.
+
+B. Composition of the Commission
+
+  1.  The  Commission  is  composed  of  nine
+members, 
+personalities,
+academic 
+appointed  by  the  Prime  Minister  for  a  term  of
+five years.
+
+all 
+
+Currently the Commission’s members are as
+follows:
+
+- Professor George Koumantos, Emeritus
+Professor of Civil Law, University of
+Athens, Chairman 
+
+- Professor George Maniatis, Professor of
+
+Medical Genetics, University of Patras,
+Deputy Chairman
+
+- Professor Costas Krimbas, Emeritus
+Professor of Genetics, Agricultural
+University of Athens, and Emeritus
+
+16
+
+In  respect  to  the  above-mentioned
+recommendation 
+Commission
+the 
+endorsed the generally accepted principles
+of informed consent prior to collection and
+use  of  genetic  data  and  confidentiality  for
+identifiable  biological  samples  or  genetic
+information.  The  Commission  stressed
+that  population  genetic  research  requires
+the  prior 
+informed  consent  of  each
+member  individually  and  thus  in  cases
+where  special  power  relations  prevail,  i.e.
+in  facilities  associated  with  mandatory
+attendance  or  confinement,  hierarchical
+orders  to  conduct  research  must  be
+prohibited.  Furthermore,  the  Commission
+emphasized  that  disclosure  of  genetic
+information 
+labour
+relations  is  unacceptable  even  with  the
+consent  of  the  employees  or  applicants,
+given  the  usually  unequal  position  of
+
+in  the  context  of 
+
+Important notice : At the beginning of
+2003, the Commission is going to move at
+the following address : Evelpidon Str. 47,
+Kypseli, T.K. 11362, Athens, Greece, Tel.
++30-210- 88.47.700-1
+
+HELLENIC NATIONAL BIOETHICS
+COMMISSION
+
+Herodotou Str. 1, 
+T.K. 10674 Athens, 
+Greece
+Tel. +30- 210-33.85.533, 
+fax +30- 210-72.54.050
+E-mail: Secretariat@bioethics.gr
+
+URL: www.bioethics.gr
+
+employees  vis-à-vis to employers.  Equally  the
+Commission  regards  as  unacceptable  the
+disclosure  of  genetic  information,  even  with
+the  consent  of  the  insured  or  prospective
+insured, 
+in  the  context  of  public  social
+insurance  or  private  insurance  when  the
+concerned  person  is  not  covered  by  public
+social  security.  Finally, 
+the  Commission
+stressed  the  need  for  clear  operation  rules  of
+biobanks and databases regarding the storage
+of biological samples and genetic information.
+
+Regarding  the  draft  bill  on  medically
+assisted human reproduction; the Commission
+welcomed  the  government’s  initiative  and
+stressed that the right to reproduction and the
+right  to  family  allow  of  limits  because  of  their
+connection  with  the  rights  of  a  third  person
+and the interests of the child to be born. Thus,
+the  Commission  endorsed  the  view  that
+recourse  to  methods  of  assisted  reproduction
+should  be  permitted  only  for  medical  reasons
+and  considered  legitimate  the  prohibition  of
+reproductive  cloning  and  sex-selection.  Most
+the  provisions
+members  considered 
+related  to  the  right  of  single  or  unmarried
+persons to recourse for medical reasons to the
+methods of assisted reproduction are ethically
+acceptable,  while  two  members  expressed
+reservations  because  they  consider  that  law
+should  not  either  encourage  or  explicitly
+permit  alternative 
+family  schemes.  With
+respect  to  the  provision  permitting  surrogate
+motherhood  with  a  court  authorization,  the
+Commission was divided. Reservations on this
+matter  related  either  to  the  psychological  and
+or
+of 
+biological 
+commercialization issues of both embryos and
+carrier women.   
+
+pregnancy 
+
+that 
+
+cost 
+
+The Commission is currently discussing the
+issue  of  patents  in  biotechnology  and  a
+recommendation  on  this  issue  is  expected  by
+March 2003.
+
+E. Website address and contact persons
+
+Ms Marianna Dracopoulou, Executive Secretary
+of the Hellenic National Bioethics Commission
+e-mail : Secretariat@bioethics.gr
+
+Dr. Katerina Manolakou, Scientific Assistant of
+the Hellenic National Bioethics Commission
+e-mail: K.Manolakou@bioethics.gr
+
+Dr. Takis Vidalis, Scientific Assistant of the
+Hellenic National Bioethics Commission
+e-mail: T.Vidalis@bioethics.gr
+
+URL: www.bioethics.gr
+
+17
+
+ 
+THE NORWEGIAN MODEL 
+
+The Norwegian model of organizing national
+research committees is unique. While medical
+ethics and bioethics have received a lot of
+attention and are institutionalized in many
+countries, ethical issues in other areas of
+research have traditionally played a
+subordinate role. 
+
+In 1988-89 the Norwegian Government
+proposed the establishment of three national
+committees for research ethics. This proposal
+was approved by Parliament in 1990, and a
+mandate was worked out by the Ministry of
+Education, Research and Church Affairs. 
+
+The three independent but coordinated
+national committees for research ethics cover
+all scientific disciplines. It is a characteristic
+feature of the Norwegian model that the
+committees do not only deal with issues within
+the more narrowly defined field of research
+ethics, but include the broader field of the
+ethics of science. This includes issues of
+scientific responsibility for larger social
+concerns.
+
+The members of the committees are appointed
+by the Ministry of Education, Reseach and
+Chrurch Affairs upon recommendation from
+the Research Council of Norway. This
+procedure ensures both political independence
+and scientific competence. All members are
+selected on the basis of personal
+qualifications, none function as
+representatives of interest groups. In each
+committee the main fields of the committee’s
+area of responsibility are covered. In addition,
+representation from the fields of ethics and
+law is included, as well as a number of lay
+members. 
+
+The committees work is open to public
+inspection.
+
+Tasks
+
+(cid:2) 
+
+(cid:2) 
+
+(cid:2) 
+
+to be a resource of competence in
+ethics in all fields of scientific research 
+
+to function as a watchtower and an
+adviser at the national level
+
+to inform and advise scientific
+communities, governmental authorities
+and the general public
+
+18
+
+(cid:2) 
+
+to coordinate relevant national
+activities and represent Norway in
+related international fora 
+
+The committees’ work is aimed at:
+
+(cid:2) 
+
+researchers and research
+institutions
+
+(cid:2)  politicians and civil servants
+
+(cid:2) 
+
+(cid:2) 
+
+relevant professions and
+organizations
+
+the general public
+
+The National Committee for Medical
+Research Ethics, NEM
+
+NEM’s work is based on the Helsinki
+declaration, a set of international
+principles for medical research, drawn up
+by the World Medical Association in 1964
+and revised in 2000. NEM coordinates the
+efforts of the Norwegian Regional
+Committees for Reviewing Medical
+Research on Humans, that were
+established in 1985, covering Norway’s
+five health regions. These committees
+review all projects in medicine that involve
+medical research on humans.
+
+The Norwegian system for ethical
+reviewing of research projects differs from
+systems in other countries:
+
+(cid:2) 
+
+the committees are regional 
+
+(cid:2)  medical experts are not in the
+
+majority 
+
+(cid:2) 
+
+(cid:2) 
+
+(cid:2) 
+
+the committees are advisory 
+
+there is no possibility for appeal 
+
+the committees are autonomous 
+
+NEM has prepared several reports and
+recommendations, bases on own initiative
+or as a result of consultations. The
+committee arranges conferences,
+workshops and hearings.
+
+The National Committee for Research
+Ethics in Science and Technology,
+NENT
+
+NENT has selected four areas of special
+concern for its work:
+
+(cid:2)  biotechnology and genetic engineering 
+
+(cid:2) 
+
+scientific misconduct
+
+(cid:2) 
+
+risk and safety 
+
+(cid:2)  ethics in litterature research
+
+(cid:2)  environment, sustainability and
+
+resource allocation 
+
+(cid:2) 
+
+confidentiality and the protection of
+informants in research 
+
+(cid:2) 
+
+information technology, privacy, safety
+and security issues 
+
+NENT has been instrumental in establishing an
+internal ethical review process for all project
+proposals within the fields of science and
+technology at The Research Council of Norway
+
+Although the committee does not routinely
+involve itself in ethical evaluations of projects,
+it does give advice in problematic cases.
+
+The National Committee for Research
+Ethics in the Social Sciences and the
+Humanities, NESH
+
+NESH concerns itself with research ethics
+within the fields of social science, the
+humanities, law and theology. The committee
+holds seminars, conferences and hearings on
+research ethical questions within its field of
+expertise, advises authorities and researchers,
+and submits statements on projects upon
+request. The committee’s guidelines for
+research ethics in the social sciences, law and
+the humanities was first published in 1993 and
+revised in 1999. They are available in English.
+
+Appendix to the Guidelines for research ethics
+in the social sciences, law and the humanities:
+Check List for Research Ethics of Task
+Contracts
+
+The committee has worked on:
+
+(cid:2) 
+
+research and data protection 
+
+(cid:2)  ethical questions in foreign policy
+
+research
+
+(cid:2)  ethical problems in developing
+
+countries research
+
+(cid:2) 
+
+(cid:2) 
+
+(cid:2) 
+
+calculation of cost and value in relation
+to immigration
+
+research ethics and press ethics
+
+the aim and responsibility of social
+science and the humanities
+
+(cid:2)  ethical questions in research in a
+
+multicultural society
+
+(cid:2)  ethics in research with children 
+
+19
+
+NESH arranges an annual seminar on
+research ethics for researchers, tutors,
+doctorate candidates and others
+concerned with research ethics questions.
+
+Contact Information
+
+The National Committees for Research
+Ethics
+Street address: Prinsensgate 18
+Postal address: P.O. Box 522,
+Sentrum, N-0105 Oslo, Norway
+
+Phone: +47 23 31 83 00 
+
+Fax: +47 23 31 83 01
+e-mail: post@etikkom.no
+
+Media Contact:
+Senior information officer Lise Ekern,
+phone: +47 23 31 83 11, fax: +47 23 31
+83 01
+e-mail:lise.ekern@etikkom.no
+
+The National Committee for Medical
+Research Ethics, NEM
+
+Chair professor Georg Høyer, 
+University of Tromsø,
+phone: +47 77 64 48 29,
+fax +47 77 64 48 31,
+e-mail: georg.hoyer@ism.uit.no
+georg.hoyer@ism.uit.no
+
+Director Knut W. Ruyter
+Phone: +47 23 31 83 03,
+fax: +47 23 31 83 01
+e-mail: knut.ruyter@etikkom.no 
+
+The National Committee for Research
+Ethics in the Social Sciences and the
+Humanities, NESH
+
+Chair associate professor Ragnvald
+Kalleberg, University of Oslo,
+Phone: +47 22 85 83 37,
+fax: +47 22 85 52 53,
+e-mail:
+ragnvald.kalleberg@sosiologi.uio.no
+Director (substitute) Micheline Egge
+Grung,
+
+Phone:+47 23 31 83 02,
+Fax: +47 23 31 83 01,
+e-mail: micheline.grung@etikkom.no
+
+The National Committee for Research
+Ethics in Science and Technology, NENT
+
+Chair professor Bent Natvig, University of
+Oslo,
+phone: +47 22 85 58 72/87,
+ax: +47 22 85 43 49,
+e-mail:bent@math.uio.no
+
+Director Matthias Kaiser,
+Phone: +47 23 31 83 04,
+Fax: +47 23 31 83 01,
+e-mail: matthias.kaiser@etikkom.no
+
+20
+
+ 
+(cid:2)  Prof. Joaquim Pinto Machado;
+MEDICINE/ANATOMY
+
+(cid:2)  Prof. António Falcão de Freitas;
+MEDICINE/CARDIOLOGY
+
+(cid:2)  Father  Vítor  Feytor  Pinto;  SYSTEMATIC
+
+THEOLOGY/SOCIAL PASTORAL THEOLOGY
+
+(cid:2)  Dr. Pedro Roseta; LAW/POLITICAL SCIENCE
+
+Executive Secretary
+
+(cid:2)  Dra. Sónia Taveira
+
+PELOUROS [Functional Divisions]
+
+Documentation, Publications,
+Administrative Actions and Execution of
+Council Deliberations:
+
+(cid:2)  Prof. Michel Renaud
+(cid:2)  Dr. Jorge Biscaia
+(cid:2)  Prof. Falcão de Freitas
+
+Co-operation  and  Relations  with  National
+and International Bodies:
+
+(cid:2)  The  Hon.  Judge  Lopes
+
+Rocha
+
+(cid:2)  Prof. Daniel Serrão
+(cid:2)  Dr. Pedro Roseta
+
+Promotion  of  Conferences,  Seminars  and
+Analogous Activities:
+
+(cid:2)  Dr.  Paula  Martinho  da
+
+Silva
+
+(cid:2)  Prof. Walter Osswald
+(cid:2)  Father  Victor 
+
+Feytor
+
+Pinto
+
+The National Council of
+
+Ethics for the Life Sciences
+
+COMPOSITION OF THE CNECV
+(second tenure of the Council)
+
+Professional areas list members,
+as per Art. 3 of Law no. 14/90 of the 9th of
+June
+
+President  –  Appointed  by  the  Prime  Minister
+
+(Art.3, §1)
+
+(cid:2)  Prof.  Luís  Archer;  MOLECULAR  GENETICS  /
+
+BIOLOGY
+
+Human and Social Sciences (Art.3, §2)
+(cid:2)  Dr.  Manuel Silvério Marques;
+
+MEDICINE/HAEMATOLOGY
+
+(cid:2)  Hon. Judge Manuel Lopes Rocha; PENAL LAW
+(cid:2)  Prof. Michel Renaud; PHILOSOPHY/
+
+ONTOLOGY/POLITICAL
+PHILOSOPHY/PHILOSOPHICAL
+ANTHROPOLOGY/HERMENEUTICS
+
+(cid:2)  Dr. José Marques Boquinhas;
+MEDICINE/NEPHROLOGY
+
+(cid:2)  Prof. Lúcio Craveiro da Silva; PHILOSOPHY
+(cid:2)  Dr. Paula Martinho da Silva; LAW/BIOETHICS
+(cid:2)  Prof. Teresa Joaquim;
+
+PHILOSOPHY/ANTHROPOLOGY
+
+Medicine and Biology (Art.3, §3)
+(cid:2)  Dr. Jorge Biscaia; MEDICINE/PAEDIATRICS
+(cid:2)  Prof. José Esperança Pina;
+
+MEDICINE/ANATOMY
+
+(cid:2)  Prof.  Daniel  Serrão;  MEDICINE/PATHOLOGICAL
+
+ANATOMY
+
+(cid:2)  Prof. Carlos Soares Ribeiro;
+
+MEDICINE/CARDIOLOGY (REPLACED AS
+PRESIDENT OF THE PORT.MED.ASSOC. BY
+DR.GERMANO DE SOUSA ON FEBRUARY 2,
+1999)
+
+(cid:2)  Prof. José David Ferreira;
+
+MEDICINE/HISTOLOGY/EMBRYOLOGY
+
+(cid:2)  Prof. Walter Osswald;
+
+MEDICINE/PHARMACOLOGY/THERAPEUTICS
+
+(cid:2)  Prof. Lesseps Reys; MEDICINE/FORENSIC
+
+MEDICINE
+
+Appointed by Parliament (Art.3, §4)
+(cid:2)  Eng. Maria de Lourdes  Pintasilgo;  CHEMICAL
+
+ENGINEERING (FORMER PM)
+
+(cid:2)  Prof. Mário Ruivo; BIOLOGICAL
+
+OCEANOGRAPHY/MANAGEMENT OF OCEANS
+
+21
+
+CNECV – National Council of Ethics for the
+Life Sciences
+
+AIMS, STRUCTURE and WORKING
+PROCEDURE
+
+AIMS
+
+The  National  Council  of  Ethics  for  the  Life
+Sciences  (CNECV)  was  instituted  by  Law  no.
+14/90  of  the  9th  of  June;  its  aims  are  the
+following:
+
+a)  to  analyse  systematically  the  moral
+problems  arising  from  scientific  advances
+in the fields of biology, medicine or Health;
+b)  to issue  Opinions and other documents
+concerning such problems;
+c)  to  raise  public  awareness,  through
+public  conferences  and  debates,  of  the
+ethical problems in the general field of the
+life sciences.
+Besides  ethical  problems  in  medicine  and
+Health,  the  Council  must  also  analyse  the
+moral issues arising from problems in biology,
+which  encompasses  the  study  of  non-human
+living beings, ecology and our relationship with
+the natural environment.
+
+National  Councils  of  Ethics  are  particularly
+
+called for by three facts:
+
+First  of  all,  the  advances  in  science  and
+scientific  applications  relating  to  life.  These
+open up a wide range of ethical interrogations
+which,  formulated  in  the  negative,  refer  to
+in  the  past  or  being
+abuses  committed 
+committed  at  present 
+the
+manipulation of human beings.
+
+involve 
+
+that 
+
+Secondly,  a  new  awareness 
+
+that  a
+multidisciplinary  approach  is  indispensable  to
+the assessment of the ethical consequences of
+such scientific and technical advances. Science
+has  multiple  entrance  gates,  none  of  which
+offers access to one single centre where some
+“super-knowledge” is focussed.
+
+fashion  by 
+
+Third, the  emergence  of  democratic  debate
+in  the  heart  of  lived  ethics.  Ethical  decisions
+that  produce  a  visible,  tangible  impact  on
+everyday  social  behaviour  cannot  be  imposed
+in  purely  authoritarian 
+the
+established  authorities,  be  they  political  or
+scientific.  That  is  why,  ensuing  from  the  two
+facts  mentioned  above,  ethical  debates
+emerged 
+democratic
+societies.  What  is  needed,  however,  is  that
+such  debates  be  organised  so  as  to  render
+them  as  convenient  as  possible,  so  that  the
+therefrom  may  be  duly
+opinions 
+grounded 
+This
+thought 
+organisation  of  the  ethical  debate  is  all  the
+
+issued 
+and 
+
+spontaneously 
+
+through. 
+
+in 
+
+important  considering 
+
+more 
+the
+issues  at  stake  in  the  life  sciences  have
+decisive or immediate consequences  upon
+daily  life  and  upon  the  elaboration  of
+legislation appropriate to each society.
+
+that 
+
+It cannot be the intention of a National
+Council  of  Ethics  for  the  Life  Sciences  to
+impose  on  society  the  conclusions  of  its
+work  but  only  to  issue  duly  pondered
+recommendations.  Its  authority  is  one  of
+influence,  not  coercion;  its  aim  is  not  the
+exercise  of  political  power  but 
+the
+acquisition  and  spreading  of  wisdom  that
+may  help  society  make  the  decisions  it
+deems to be convenient.
+
+STRUCTURE
+
+of 
+
+Besides 
+
+is  made  up 
+
+its  President,  the  National
+Council  of  Ethics  for  the  Life  Sciences
+(CNECV) 
+twenty
+personalities  of  recognised  merit:  seven
+are  chosen  from  the  field  of  the  human
+and  social  sciences,  seven  from  biology
+and  medicine,  and  the  remaining  six  are
+chosen bearing in mind the leading ethical
+this
+religious  currents.  Through 
+and 
+composition,  Law  no.14/90  intends  to
+foster 
+trans-disciplinary
+and 
+dialogue.
+
+inter- 
+
+Aiming  at  the  constitution  of  a  Council
+that  is  open  to  all  relevant  sectors  of
+Portuguese  society,  this  Law  stipulates
+that the twenty CNECV members are to be
+appointed  by  fourteen  different  entities
+(Parliament,  five  Ministers,  the  Council  of
+Deans  of  Portuguese  Universities,  the
+Lisbon  Academy  of  Science,  the  Lawyers’
+and  Medical  Associations,  INIC  (National
+Institute  of  Scientific  Research),  JNICT
+(National  Commission  for  Scientific  and
+Technological  Research), 
+the  Higher
+Council  of  Forensic  Medicine  and  the
+Commission for the Equality and Rights of
+Women). 
+
+The Prime Minister appoints the CNECV
+President.  The  Council  as  a  whole  has  a
+tenure  of  five  years.  The  Law  does  not
+restrict the re-appointment of members at
+the end  of their term of office. A  member
+who  resigns  during  his/her  term  of  office
+is  to  be  replaced  by  the  entity  that
+appointed him/her but such a replacement
+shall  have  effect  only  until  the  end  of
+tenure of the whole Council.
+
+The Council’s Opinions have produced a
+impact  on  the  elaboration  of
+visible 
+legislation. 
+“an
+Moreover, 
+independent body” (Art.1 of Law no.14/90
+
+being 
+
+22
+
+of  the  9th  of  June),  the  Council  is  entitled  to
+emit  critical  appreciations  of  an  ethical  nature
+on  the  legal  instruments  that  come  out.  In
+fact, it has done so a number of times.
+
+The  independent  character  of  the  CNECV
+also  entails 
+its  members  are  not
+dependent,  regarding  their  actions,  on  the
+entities that appointed them.
+
+that 
+
+From  1991  up  to  June  1999,  the  CNECV
+issued 
+five
+twenty-seven  Opinions,  held 
+Seminars  and  published  five  books  containing
+Documentation,  as  well  as 
+five  others
+containing  the  Acts  of  the  Seminars.  All  of
+these publications are available on request.
+
+The  CNECV  has  its  own  Head  Office  on  the
+8th 
+floor  of  the  Prime  Minister’s  Office
+Building, run by an Executive Secretary with a
+rank  equal  to  ministerial  office  secretary
+(Decree-Law 193/99 of the 7th of June).
+
+Besides  possible  expense  allowances,
+members  of  the  Council  receive  “attendance
+vouchers”  (Art.10  of  Law  no.14/90  of  the  9th
+of  June).  All  discharge  their  duties  over  and
+above  their  own  work  and  none  works  at  the
+Council full-time.
+
+WORKING PROCEDURE
+
+Pursuant 
+
+Internal
+to  Art.  4  of 
+Regulations  (By-Laws),  the  CNECV  holds  its
+plenary  meetings  once  a  month  in  the  Prime
+Minister’s  Office  Building,  at  Rua  Prof.  Gomes
+Teixeira, 1350 Lisbon. 
+
+its 
+
+Usually,  the  plenary  sessions  run  for  three
+and a half-hours, followed by a meeting of the
+Council’s  Co-ordination  Committee. 
+The
+Council  does  not  delegate 
+its  principal
+capacities to the Co-ordination Committee (cf.
+Art.  2,  §  2  of  Law  no.14/90  of  the  9th  of
+June);  the  priority  task  of  the  latter  is  the
+formal  preparation  of  meetings,  publications
+and  Seminars,  as  well  as  the  analysis  of  the
+Council’s financial management.
+
+A  few  supplementary  meetings  have  been
+held  (Art.4  of  the  by-laws)  for  the  purpose  of
+finalising 
+the  elaboration  and  voting  of
+Opinions that should not be delayed. 
+
+A  simple  majority  of  the  CNECV,  that  is  to
+the
+
+constitutes 
+
+say 
+eleven  members, 
+“quorum” for a plenary meeting.
+
+In  the  course  of  its  first  tenure  –  i.e.  not
+from  the  start  –,  the  Council  gradually
+instituted the habit of hearing, for the sake of
+a  multidisciplinary  perspective,  experts  who
+specialise  in  areas  pertinent  to  the  matter  of
+each Opinion.
+
+Pursuant  to  Art.  7  of  Law  14/90  of  the  9th
+of June, the  following public entities or bodies
+may  request  an  Opinion:  the  President  of  the
+
+Republic, Parliament, Government officials
+or  other  entities  who  have  the  right  to
+appoint  Council  members,  and  “public  or
+private  institutions  wherein  are  practised
+techniques with  ethical implications  in  the
+fields of biology, medicine or health care.”
+The Council may also issue Opinions on its
+own initiative.
+
+At  the  start  and  at  any  time  during  its
+tenure,  the  Council  elaborates  a  list  of
+their
+working  matters  by  order  of 
+importance,  their  urgency,  their  present
+relevance  and  their  scientific  and  social
+impact.  This  priority  list  may  be  changed
+due  to  requests  by  the  above-mentioned
+entities, or to the occurrence of some new
+“urgency”.
+
+The time an Opinion takes to be issued
+is  variable,  and  bears  no  correspondence
+with  its  length.  An  Opinion  that  takes  up
+several  working  sessions  may  be  quite
+shorts (e.g. the Opinion on death criteria)
+or  quite 
+the  Opinion  on
+medically assisted procreation).
+
+long  (e.g. 
+
+Usually,  an  Opinion  is  preceded  by  a
+special Report. The Council charges one or
+more  of  its  members  with  the  task  of
+writing  a  Report  and  a  draft  Opinion  on  a
+given  subject.  The  debate  of  each  Report
+in a plenary meeting incised only upon its
+global  organisation  and 
+the  overall
+grounding  of  its  arguments.  The  style  of
+each  Report  maintains  a  close  connection
+with 
+it  bears  the
+author’s  signature  (although  there  were
+exceptions in the first works presented by
+the  Council).  The  text  of  the  Opinion,  on
+the contrary, is thoroughly debated by the
+Council,  for  it  reflects  the  Council’s  stand
+on  the  matter  –  and  thus  the  President
+signs  it.  Any  member  of  the  Council  who
+so  wishes  may  append  a  personal
+declaration of vote to the final Opinion.
+
+its  author;  hence 
+
+to 
+
+endeavours 
+
+be
+The  CNECV 
+least  one  of 
+its
+represented  by  at 
+members  at 
+international  meetings,
+seminars,  conferences  and  congresses
+bearing on medical ethics and bioethics.
+Pursuant to Law no. 14/90, the Council
+submits yearly a Report of Activities to the
+President of the Republic, the Chairman of
+Parliament and the Prime Minister. The
+latter also receives a Report on the
+Application of New Technologies to Human
+Life, likewise elaborated yearly by the
+Council.
+
+The last mandate of the Portuguese
+National Council of Ethics for the Life
+Sciences expired some months ago. The
+
+23
+
+new President and new members have not
+been appointed yet.
+
+24
+
+New  developments  in  medicine  and  biology
+raise  important  ethical  issues.    The  Nuffield
+Council  on  Bioethics  was  established  in  1991
+to  identify,  examine  and  report  on  the  ethical
+questions  raised  by  recent  advances 
+in
+biological  and  medical  research.  Now  in  its
+eleventh  year,  the  Council  has  achieved  an
+international  reputation,  providing  advice  that
+assists 
+public
+concerns and stimulates debate. The Council is
+funded  jointly  by  the  Nuffield  Foundation,  the
+Medical  Research  Council  and  The  Wellcome
+Trust.
+
+policy-making, 
+
+addresses 
+
+ethical 
+
+scientists, 
+
+a  major 
+
+theologians.  Once 
+
+Membership  of  the  Council  includes  clinicians,
+lawyers, 
+philosophers,
+anthropologists,  journalists,  political  scientists
+the  Council  has
+and 
+identified 
+for
+consideration, it establishes a multidisciplinary
+Working  Party  with  the  relevant  expertise  to
+examine  and  report  on  ethical,  social,  legal
+and  practical  issues.  Each  Working  Party
+produces  a  Report  which,  once  approved  by
+the  Council,  becomes  a  publication  of  the
+Council.  Since 1991 the Council has produced
+seven Reports and three Discussion Papers.
+
+issue 
+
+TERMS OF REFERENCE
+
+(cid:2)  To  identify  and  define  ethical
+recent
+questions 
+and
+advances 
+medical  research  in  order  to
+respond  to,  and  to  anticipate
+public concern.
+
+raised  by 
+in  biological 
+
+(cid:2)  To  make  arrangements 
+
+for
+examining and reporting on such
+questions  with  a  view 
+to
+promoting  public  understanding
+and  discussion;  this  may  lead,
+where 
+the
+formulation of new  guidelines  by
+the  appropriate  regulatory  or
+other body.
+
+needed, 
+
+to 
+
+(cid:2) 
+
+In the light of the outcome of its
+work,  to  publish  reports;  and  to
+make  representations,  as  the
+Council may judge appropriate.
+
+25
+
+CURRENT WORK
+
+Pharmacogenetics:  Ethical Issues
+
+People  often  respond  differently  to  the
+same  medicine.  Some  medicines  are  not
+effective  for  everyone;  others  may  cause
+adverse side-effects, or even death. These
+different  responses  may  be  partly  due  to
+our  different  genetic  make-up.  Research
+investigates  how
+in  pharmacogenetics 
+genetic  variation  between 
+individuals
+affects  their  responses  to  medicine.  The
+clinical  applications  of  this  research  may
+not  be  widespread  for  some  years,  but  it
+is  important  to  consider  ethical  and  legal
+issues  which  may  arise.    The  Nuffield
+Council has recently established a Working
+Party  which  will  consider  these  issues.    A
+consultation  paper  has  been  issued,  with
+responses  invited  by  19  February  2003.
+The  Council  will  publish  a  Report  in  the
+autumn of 2003.
+
+Ethics of Research involving animals
+
+trend 
+
+The Council held a Workshop on the ethics
+of research involving animals in November
+2001.    As  a  result  of  this  meeting,  the
+Council has decided to establish a Working
+Party  to  consider  the  issues  in  more
+depth.  A number of factors were regarded
+as  warranting  consideration,  particularly
+the  rising 
+the  number  of
+in 
+genetically  modified  animals,  and  the
+developments  regarding  Huntingdon  Life
+Sciences and the activities of animal rights
+organisations.    Certain  issues,  whilst  not
+necessarily 
+from
+clarification,  for  example  whether  or  not
+there  are  morally  relevant  distinctions  to
+be  made  between  different  species,  and
+questions  raised  by  genetic  modification.
+A  chair  of  the  Working  Party  has  been
+
+‘new’,  would  benefit 
+
+appointed,  and  other  members  are  currently
+being selected.
+
+Genetics and human behaviour: the
+ethical context 
+Published October 2002
+
+Future topics:
+
+The  Council  will  also  continue  to  identify
+potential  topics  for  further  examination,  and
+expects  to  hold  a  further  two  Workshops  in
+2003  to  allow  preliminary  discussion  of  the
+issues.      A  Workshop  on  end-of-life  issues  is
+planned for early 2003.
+
+RECENT PUBLICATIONS
+
+The ethics of research related to
+healthcare in developing countries
+Published April 2002
+
+Developing  countries  urgently  need  research
+to  help  relieve  the  enormous  burden  of
+disease that they carry. It is vital that those in
+wealthy  countries,  both  in  the  public  and
+private sector, help sponsor this research. But
+rigorous ethical safeguards must be in place to
+prevent  the  exploitation  of  those  who  take
+part in the research.   This Report defines the
+ethical  standards  for  healthcare  research  in
+developing  countries. 
+It  will  provide  a
+framework  for  anyone  who  is  designing  or
+research.  The  Report's
+conducting  such 
+recommendations  focus  on  standards  of  care,
+consent,  ethical  review  of  research  and  what
+happens when the research is over.
+
+The ethics of patenting DNA: a discussion
+paper
+Published July 2002
+
+Several  thousand  patent  applications  have
+been  made  on  human  genes.  But 
+the
+substantial increase in the rate of patenting of
+DNA sequences has led to considerable debate
+about  the  acceptability  of  this  practice.  This
+Discussion Paper argues that patents involving
+DNA sequences should be the exception rather
+than  the  rule.  It  makes  recommendations  for
+future  policy  in  the  area,  including  a  number
+of  significant changes to the way that  patents
+are  granted  involving  DNA  sequences.  Most
+importantly,  the  tests  of  inventiveness  and
+usefulness  should  be  more  rigorously  applied
+when  considering  if  a  patent  should  be
+granted.  The  Paper  also  notes  that  some
+patents that have already been granted are of
+doubtful  validity  and  makes  recommendations
+to  limit  the  possible  adverse  effects  of  these
+patents.
+
+26
+
+research 
+
+Researchers  in  the  field  of  behavioural
+genetics  are  attempting  to  locate  specific
+genes, or groups of genes, associated with
+behavioural  traits  and  to  understand  the
+complex  relationship  between  genes  and
+the  environment.  This  Report  considers
+the ethical, legal and social issues that are
+raised  by 
+into  behavioural
+genetics.  It  focuses  on  human  behaviour
+within  the  normal  range  of  variation,
+looking  at  traits  such  as  intelligence,
+antisocial  behaviour,  personality  and
+sexual  orientation.  After  discussing  the
+historical and scientific background to this
+research, 
+its
+implications  and  possible  applications.    It
+considers the issues raised by changing or
+selecting behavioural traits on the basis of
+genetic  information  and  examines  the
+possible  uses  of  such  information  in  the
+criminal 
+the
+justice  system,  and 
+contexts  of  education,  employment  and
+insurance. 
+
+the  Report 
+
+considers 
+
+in 
+
+PREVIOUS PUBLICATIONS:
+
+(cid:2)  Genetic  screening:  ethical  issues
+
+(December 1993)
+
+(cid:2)  Human  Tissue:  ethical  and  legal
+
+issues (April 1995)
+
+(cid:2)  Animal-to-human  transplants:  the
+xenotransplantation
+
+of 
+
+ethics 
+(March 1996)
+
+(cid:2)  Mental disorders and genetics:  the
+ethical context (September 1998)
+
+(cid:2)  Genetically  modified  crops: 
+
+the
+issues  (May
+
+ethical  and  social 
+1999)
+
+(cid:2)  The  ethics  of  clinical  research  in
+developing countries – a discussion
+paper (October 1999)
+
+(cid:2)  Stem  cell  therapy:  the  ethical
+
+issues (April 2000)
+
+For further information:
+
+Nuffield Council on Bioethics
+28 Bedford Square, 
+London  WC1B 3JS
+Tel:  +44 207 681 9619
+Fax: +44 207 637 1712
+
+Website :www.nuffieldbioethics.org
+
+Email : bioethics@nuffieldfoundation.org
+
+Further information about Council
+
+members is available on the Council’s web
+
+site.
+
+Secretariat
+
+The Secretariat is the executive arm of the
+Council.  Dr Sandy Thomas is the Council's
+Director.  The other members of the
+Secretariat are Tor Lezemore, Harald
+Schmidt, Julia Fox, Nicola Perrin, Natalie
+Bartle, Elaine Talaat-Abdalla and Maria
+Gonzalez-Nogal.
+
+MEMBERSHIP OF THE COUNCIL:
+
+Chairman
+
+Until 31/12/02:
+Professor Sir Ian Kennedy 
+Emeritus Professor of Health Law, Ethics and
+Policy at University College London
+
+From 1/1/03:
+Professor Bob Hepple QC
+Master of Clare College and Professor of Law,
+University of Cambridge
+
+Deputy Chairman
+
+Professor Martin Bobrow CBE 
+Head  of  Department  of  Medical  Genetics,
+
+University of Cambridge
+
+Members:
+
+Professor Tom Baldwin 
+
+Professor Martin Raff FRS
+
+Ms Rebecca Burke 
+
+Mr Nick Ross
+
+Professor Sir Kenneth Calman KCB FRSE
+
+Professor Herbert Sewell 
+
+Rt  Rev  Richard  Harries  DDFKC  FRSL
+
+Professor Dame Marilyn Strathern FBA  
+
+Professor John Ledingham 
+
+Professor Albert Weale FBA
+
+Professor Catherine Peckham CBE
+
+Dr Alan Williamson  FRSE
+
+27
+
+      
+The Committee is composed of 43
+members, all of which are appointed
+according to the following: 
+there are twenty-six ordinary members,
+with the right to vote, appointed by means
+of the Royal Decree of 29 May 2000
+conferred in the Council of Ministers Each
+ordinary member has an alternate, who is
+appointed according to the same
+procedure. 
+
+(cid:2)  Sixteen are leading figures from
+academia, recommended by the
+various university councils
+
+(cid:2)  Six practising doctors of medicine
+
+recommended by the National Council
+of the Medical Association
+
+(cid:2)  Two lawyers recommended by the
+
+National Council of the Bar
+
+(cid:2)  Two magistrates from the magistrature
+
+There are nine members recommended by
+the King and by the executive authorities
+of the three Communities and the United
+Assembly of the Joint ComMrsion for
+Community Matters: 
+
+(cid:2)  2 members recommended by the King 
+(cid:2)  2 members recommended by the 
+
+executive authorities of the Flemish 
+Community 
+
+(cid:2)  2 members recommended by the 
+
+executive authorities of the French-
+language Community 
+
+(cid:2)  1 member recommended by the 
+
+executive authorities of the German-
+language Community 
+
+(cid:2)  2 members recommended by the 
+
+executive authorities of the United 
+Assembly of the Joint Commission for 
+Community Matters
+
+There are eight members
+participating in the work of the
+Committee in an advisory capacity:
+
+(cid:2)  1 representative of the federal Minister
+
+of Justice
+
+(cid:2)  1 representative of the federal Minister
+
+responsible for science policy
+
+(cid:2)  1 representative of the federal Minister
+
+responsible for public health
+(cid:2)  1 representative of the Flemish
+
+Community
+
+(cid:2)  1 representative of the French-
+
+language Community
+
+(cid:2)  1 representative of the German-
+
+language Community
+
+BELGIAN ADVISORY COMMITTEE
+ON BIOETHICS
+
+The Belgian Advisory Committee on Bioethics
+was established by the co-operation
+agreement of 15 January 1993 signed by the
+federal Government, the French-speaking
+Community, the Flemish Community, the
+German-speaking Community and the Joint
+ComMrsion for Community Matters1. The
+Committee is completely independent of the
+authorities that created it.
+
+The Committee’s duties are twofold:
+
+(cid:2)  To provide advice on the problems raised
+by research and research applications in
+the fields of biology, medicine and health
+care; these problems are studied from the
+ethical, social and legal points of view,
+particularly from the angle of the respect
+for human rights;
+
+(cid:2)  To inform the public and the authorities
+
+about these problems. 
+
+COMPOSITION OF THE COMMITTEE
+
+1 This Co-operation Agreement was published in the
+Belgisch Staatsblad/Moniteur belge of 12 May 1993; it
+was approved by the federal Government through an Act
+of 6 March 1995, and by the three Communities
+mentioned above through a Decree respectively dated 6
+December 1993, 16 March 1994 and 15 June 1994, and
+by the Joint ComMrsion for Community Matters through
+an Ordinance of 30 March 1995.  
+
+28
+
+                                                
+(cid:2)  2 representatives of the Joint ComMrsion
+
+for Community Matters 
+
+When composing the Committee, attention is
+paid to a balanced representation of the
+various ideological and philosophical
+movements, to a balanced number of men and
+women and to an equal number of Dutch- and
+French-speaking members. The same applies
+to a balance between members from academia
+and the medical professions and those from
+the philosophical, legal and life science
+communities.
+
+session of the Committee are intended to
+open up the debate, to provoke any
+possible amendments that the select
+committee takes into account in its final
+opinion.
+
+The meetings of the Committee and of
+the select committee are not open to the
+public. In principle, the Committee
+expresses its opinion within six months
+following the request. The approved
+opinions reflect the various positions
+put forward.
+
+Members of the Committee are appointed for a
+period of 4 years.
+
+THE  DISSEMINATION  OF  THE  WORK  OF
+THE COMMITTEE
+
+THE FUNCTIONING OF THE COMMITTEE 
+
+The Committee has a Bureau, composed of 4
+vice-chairpersons chosen from among its
+members; each vice-chair in turn fills the
+chairmanship for one year.
+
+Seventy-five per cent of the Committee’s
+operational costs are borne by the federal
+authorities; the remaining 25 per cent are split
+up equally among the Communities.
+
+The Committee has a Secretariat, consisting
+of 6 civil servants seconded from the clerical
+staff of the signatories to the Agreement
+following a call for candidates published in the
+Belgisch Staatsblad/Moniteur belge. The
+Secretariat carries out technical and
+administrative tasks.
+
+TERMS OF REFERENCE
+
+The Committee is required to give its opinion
+at the request of the chairs of the various
+parliaments or of any member of their
+governments, as well as at the request of a
+research institute, a hospital, a higher-
+education establishment and of the local
+ethical committee of either a hospital or a
+university or an ethical committee approved
+by any of the Communities.
+
+The Committee may also give advice on its
+own initiative. In most cases, the Committee
+entrusts the task of preparing the opinion to a
+select committee. The latter’s composition
+reflects that of the Committee. The select
+committees may rely on outside experts for
+some specific hearing as well as to permanent
+experts. The select committee sends a report
+of its work to the Committee together with a
+draft opinion. The discussions at the plenary
+
+29
+
+The Committee draws up an annual
+report containing its opinions, a list of the
+pending requests for advice and a survey
+of activities of the local ethical committees
+of hospitals and universities. This report is
+sent to the Belgian political authorities
+(notably to the presidents of the Senate
+and the Chamber of Representatives, the
+Prime Minister, the Minister of Justice, the
+Ministers responsible for science policy
+and public health, the presidents of the
+community parliaments and to the Prime
+ministers of their governments) and to
+everyone who so request. 
+
+The Committee automatically sends its
+opinions to the persons who posed the
+question underlying the opinion. They are
+also systematically sent to the presidents
+of the various legislative assemblies, to
+the Prime Ministers, Vice-Prime Ministers
+and concerned Ministers of the various
+governments. Finally, the Committee’s
+opinions are sent in full to the Belga press
+agency and to individuals on simple
+demand.
+
+Since the Committee is eager to
+disseminate its work on as large a scale as
+possible, it 
+
+(cid:2)  publishes a brochure called
+
+« Bioethica Belgica », available on
+written request from the Committee’s
+Secretariat, which contains all the
+opinions and annual reports;
+runs an internet site :
+www.health.fgov.be/bioeth
+
+(cid:2) 
+
+(cid:2)  holds press conferences where it
+explains some of the opinions and
+reviews the annual activities;
+
+Opinion no. 19 of 14 October 2002 on
+the use of frozen embryos
+Opinion No. 20 of 18 November 2002
+on predictive genetic testing and HIV
+testing in labour relations
+
+PUBLICATIONS
+
+L’Embryon humain in vitro
+
+De Boeck & Larcier, 2000, Département
+De Boeck Université, Paris-Bruxelles
+Collection « Sciences, Ethiques, Sociétés »
+
+Hérédité : Tests génétiques et Société
+
+De Boeck & Larcier, 2000, Département
+De Boeck Université, Paris-Bruxelles
+Collection « Sciences, Ethiques, Sociétés »
+
+The Committee’s opinions (1996 –
+2000)
+De Boeck & Larcier, 2001, Département
+De Boeck Université, Paris-Bruxelles
+Collection « Sciences, Ethiques, Sociétés »
+
+La Directive anticipée: Expression des
+Droits du patient?
+De Boeck & Larcier, 2003, Département
+De Boeck Université, Paris-Bruxelles
+Collection « Sciences, Ethiques, Sociétés »
+
+CONTACT INFORMATION
+
+C.A.E. – Vesalius building - 4th floor
+Bd. Pachéco 19, box 5
+1010 BRUSSELS
+Phone : 32 - (0)2/210.46.25
+
+Fax. : 32 - (0)2/210.42.27
+
+Mail: bioeth-info@health.fgov.be
+
+Internet. www.health.fgov.be/bioeth
+
+(cid:2) 
+
+runs a documentation centre containing
+recent publications in the field of bioethics.
+
+As the Committee is also anxious to involve
+the population in a public debate about the
+issues raised by the new medical technologies,
+it organises a biennial public conference on
+the ethical issues related to these problems.
+
+OPINIONS RENDERED BY THE ADVISORY
+COMMITTEE ON BIOETHICS
+
+Opinion no. 1 of 12 May 1997 concerning
+the advisability of a legal regulation on
+euthanasia
+Opinion no. 2 of 7 July 1997 regarding the
+Convention on Human Rights and Biomedicine
+of the Council of Europe
+Opinion no. 3 of 17 November 1997 on
+pre-natal sex selection
+Opinion no. 4 of 12 January 1998 on the
+problems related to anonymous birth
+OPINION NO. 5 OF 9 FEBRUARY 1998 RELATING TO
+THE LEGAL PROTECTION OF BIOTECHNOLOGICAL
+
+INVENTIONS
+Opinion no. 6 of 8 June 1998 concerning
+the ethical foundations for optimising the
+number as well as the operating criteria of in
+vitro fertilisation clinics
+Opinion no. 7 of 13 July 1998 relating to
+the access to health care
+Opinion no. 8 of 14 September 1998
+relating to the problems relating to the
+sterilisation of the mentally handicapped
+Opinion no. 9 of 22 February 1999
+concerning active termination of the lives of
+persons incapable of expressing their wishes 
+Opinion no. 10 of 14 June 1999 concerning
+reproductive human cloning
+Opinion no. 11 of 12 December 1999 on
+organ and tissue removal from healthy living
+donors for transplantation purposes 
+Opinion no. 12 of 10 January 2000 relating
+to the legal protection of biotechnological
+inventions
+Opinion no. 13 of 9 July 2001 relating
+experiment on human beings
+Opinion no. 14 of 10 December 2001 on
+« Ethical rules and demented persons »
+Opinion no. 15 of 18 February 2002 on
+ethical problems relating to the impact of the
+« Clinical Minimum Data Set » on the number
+of patient hospital days
+Opinion no. 16 of 25 March 2002 on the
+refusal by Jehovah’s witnesses of blood
+transfusions
+Opinion no. 17 of 10 June 2002 on the
+«ethical aspects of HIV home test kits»
+Opinion no. 18 of 16 September 2002 on
+in-vitro human embryo research
+
+30
+
+

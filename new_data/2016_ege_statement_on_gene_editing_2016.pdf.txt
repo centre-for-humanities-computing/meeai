@@ -1,0 +1,137 @@
+EUROPEAN GROUP ON ETHICS IN SCIENCE AND NEW TECHNOLOGIES 
+
+Statement  
+on  
+Gene Editing 
+
+In  1975  an  international  conference  (the  Asilomar  Conference)  was  convened  to  consider  the 
+
+implications  of  the  new  technologies  that  were  then  becoming  available  to  modify  the  genome  of 
+
+organisms through the insertion or deletion of segments of DNA. At that time it was only possible to 
+
+genetically  modify  microorganisms.    That  conference  instigated  a  moratorium  on  the  genetic 
+
+modification  of  humans  –  germline  modification  –  and  the  interpretation  of  the  discussions  led  to 
+
+significant  regulation  of  all  forms  of  genetic  ‘manipulation’,  whether  the  organisms  were  modified 
+
+and used in containment, or (later) when released into the environment.   
+
+The  technology  has  changed  very  significantly  over  the  last  40  years  as  we  have  learned  to 
+
+understand more of the processes by which genetic material is altered in microorganisms, plants and 
+
+animals and it is now possible to precisely insert or delete sequences of DNA in situ. This forty year 
+
+old global consensus on prohibiting human germline gene modification has come under significant 
+
+pressure in 2015.  
+
+In  February  of  this  year,  the  UK  parliament  voted  to  approve  regulations,  following  a  rigorous 
+
+debate, that permit the clinical use of mitochondrial replacement techniques. While mitochondrial 
+
+gene transfer does not involve gene editing techniques, it could be argued that the approval of this 
+
+limited form of germline gene modification did cross a Rubicon. There has been a rapid development 
+
+in gene editing technologies in the last five years, and the announcement in April 2015 of genome 
+
+editing  of  non-viable  human  embryos  using  CRISPR-Cas9  demonstrated  that  human  germline  gene 
+
+modification has moved out of the realm of the theoretical, and clinical applications are becoming 
+
+feasible.  Techniques  such  as  CRISPR-Cas9  can  modify  genomes  of  living  organisms  at  precise 
+
+locations  in  more  specific  ways  and  more  cost-effectively  than  previously  possible.  This  is  already 
+
+challenging the international regulatory landscape for the modification of human cells in the near to 
+
+medium term.  
+
+Gene  editing  of  somatic  cells  is  currently  in  clinical  development  for  a  variety  of  conditions.  The 
+
+editing  of  genomes  in  human  somatic  cells  certainly  raises  ethical  questions,  but  is  distinct  from 
+
+germline gene modification, in that changes in the gene(s) do not persist beyond a single generation.  
+
+ 
+ 
+As  to  human  germline  editing,  the  EGE  is  of  the  view  that  there  should  be  a  moratorium  on  gene 
+
+editing of human embryos or gametes which would result in the modification of the human genome. 
+
+Germline gene modification is still in its infancy and there are many significant technical hurdles to 
+
+be overcome before clinical applications become a viable reality. The question of whether, if ever, 
+
+germline  engineering  of  human  embryos  would  be  precise  enough  to  guarantee  a  successful 
+
+outcome and would be acceptable to the public is still an open one.  
+
+The more pressing question for policy makers at this moment is whether germline genome editing 
+
+technology  research  should  be  suspended,  under  which  conditions  it  could  proceed,  and  in  this 
+
+respect  varying  views  have  been  articulated.  The  EGE  is  of  the  view  that  this  question  warrants 
+
+careful  consideration,  given  the  profound  potential  consequences  of  this  research  for  humanity.  It 
+
+has been suggested that research with a clinical application, as distinct from basic research, should 
+
+be subject to a moratorium. We would be cautious in terms of whether such a clear-cut distinction 
+
+can be made between basic and translational research. Likewise, the blurring of the lines between 
+
+clinical  applications  in  pursuit  of  therapeutic  or  enhancement  goals  (albeit  the  ethical  issues 
+
+pertaining to each may be different), must be considered. 
+
+The EGE considers that deliberation regarding the acceptability and desirability of gene editing will 
+
+require  inclusive  debate  which  extends  to  civil  society  where  diverse  perspectives  and  those  with 
+
+different expertise and values can be heard. This cannot be left to select countries, social groups or 
+
+disciplines  alone.  The  EGE  cautions  against  reducing  the  debate  to  safety  issues  and  the  potential 
+
+health risks or health benefits of gene editing technologies. Other ethical principles such as human 
+
+dignity, justice, equity, proportionality and autonomy are clearly at stake and should be part of this 
+
+necessary  reflection  towards  the  international  governance  of  gene  editing.  Moreover,  ethical 
+
+consideration  needs  to  be  given  to  all  applications  of  gene  editing,  including  the  non-human 
+
+applications.  It  is  likely  that  many  of  the  practical  applications  of  gene  editing  will  occur  in  the 
+
+environmental sphere and will have significant implications for the biosphere.  
+
+For  some  members  of  the  EGE,  human  germline  gene  modification  for  reproductive  purposes 
+
+cannot be ethically justified; they therefore call for upholding the prohibition that reflects, among 
+
+others,  Art.  3  of  the  European  Charter  of  Fundamental  Rights;  because  of  the  blurring  lines 
+
+between  basic  and  applied  research,  some  also  call  for  a  moratorium  on  any  basic  research 
+
+involving human germline gene modification until the regulatory framework is adjusted to the new 
+
+possibilities. For other members of the EGE, there may be positions worth considering which would 
+
+justify  continued  research.  As  is  the  case  in  the  scientific  community  at  large,  diverse  views  are 
+
+represented in the group. We call for a broad public debate on these issues and are convinced that 
+
+the EGE will make a useful contribution to these deliberations. In view of the above considerations, 
+
+we  urge  the  European  Commission  to  request  that  the  EGE  succeeding  the  current  group,  as  a 
+
+matter of priority, consider the inextricably linked ethical, scientific and regulatory issues pertaining 
+
+to germline and somatic cell gene modification.  
+
+___ 
+
+

@@ -1,0 +1,1094 @@
+OPINION OF THE EUROPEAN GROUP ON ETHICS
+
+IN SCIENCE AND NEW TECHNOLOGIES
+
+TO THE EUROPEAN COMMISSION
+
+No 16
+
+Original in English
+
+7 May 2002
+
+****************************************************************************************************************************
+
+ETHICAL ASPECTS OF PATENTING INVENTIONS INVOLVING HUMAN STEM CELLS
+
+Reference:
+Rapporteurs:
+
+Request by the European Commission on 18th October 2000
+Linda Nielsen and Peter Whittaker
+
+*****************************************************************************************************************************
+
+The European Group on Ethics in Science and New Technologies (EGE),
+
+Having regard to the request of Romano Prodi, President of the European Commission, to the
+EGE on the ground of Article 7 of the Council Directive 98/44/EC of 6 July 1998 on the legal
+protection of biotechnological inventions, giving mandate to the European Group on Ethics to
+evaluate “all ethical aspects of biotechnology”;
+
+Having regard to the Treaty on European Union as amended by the Treaty of Amsterdam, and
+in particular Article 6 (formerly Article F) of the common provisions, concerning the respect for
+fundamental rights, Article 95C (formerly Article 100A) on the approximation of Law, Article 152
+(formerly Art. 129) on public health, Article 157 (formerly Art. 130) on Industry, and Article 163
+(formerly Art. 130F) on Research and Technological Development;
+
+Having regard to the Charter of 28 September 2000 on Fundamental Rights of the European
+Union, approved by the European Council in Biarritz on October 14th 2000, in particular Article
+1 on “Human dignity”, Article 3 on the “Right to the integrity of the person”, which refers to the
+principle of “free and informed consent” and prohibits “the reproductive cloning of human
+beings”, Article 13 asserting freedom of research and Article 17 which states that “intellectual
+property is protected”;
+
+Having regard to the Council Directive 98/44/EC of 6 July 1998 on the legal protection of
+inventions and in particular Article 5, about the patentability of elements
+biotechnological
+isolated from the human body, Article 6, concerning certain inventions excluded from
+patentability, and the above mentioned Article 7 giving mandate to the European Group on
+Ethics (EGE) to evaluate “all ethical aspects of biotechnology”;
+
+Having regard to the proposal for a Council Regulation on the Community Patent presented by
+the Commission on 5 July 2000;
+
+1
+
+Having regard to the judgement of the European Court of Justice of 9 October 2001, rejecting
+the appeal of the Kingdom of the Netherlands for annulment of the Directive 98/44/EC as well
+as to the opinion of the Advocate General of 14th June 2001 in this case;
+
+Having regard to the European Patent Convention, signed in München in 1973 and establishing
+the European Patent Organisation, in particular Art. 52 on patentable inventions stipulating that
+discovery, as well as surgical, therapeutic or diagnostic methods for treatment of the human or
+animal body, are not regarded as inventions, and Art. 53.a concerning the exclusion from
+patentability of inventions the publication or exploitation would be contrary to “ordre public” or
+morality;
+
+Having regard to the Budapest Treaty of the WIPO on International Recognition of the deposit
+of micro organisms for the purposes of Patent Procedure of 28 April 1977;
+
+Having regard to the Trade Related Aspects of Intellectual Property Rights Agreement (TRIPS)
+annexed to the Agreement establishing the World Trade Organisation, entered into force on 1st
+January 1995, and in particular Article 27.2 concerning the exclusion from patentability of
+inventions the commercial exploitation would run counter to “ordre public” or morality, and Art.
+therapeutic and surgical
+27.3 concerning the exclusion from patentability of diagnostic,
+methods;
+
+Having regard to the Council of Europe’s Convention on Human Rights and Biomedicine,
+signed on 4 April 1997 in Oviedo, in particular Article 15 about freedom of research, Article 18.2
+prohibiting the production of embryos for the sole purpose of research and Article 21 stating
+that “the human body and its parts shall not, as such, give rise to financial gain”;
+
+Having regard to the Universal Declaration on the Human Genome and Human Rights
+endorsed by the United Nations on 11 December 1998,
+in particular, Article 11 which
+recommends to prohibit “reproductive cloning of human beings” and Article 12 b) which
+proclaims freedom of research as “part of freedom of thought”;
+
+Having regard to national regulations on patent and to ethics bodies opinions on stem cell
+research and their use;
+
+Having regard to the previous EGE Opinion N° 3 of 30.09.1993 on the Commission proposal
+for a directive on biotechnological invention, Opinion N° 8 of 25.09.1996 on the patenting of
+inventions involving elements of human origin, Opinion N° 12 of 23.11.1998 on Human embryo
+research, and Opinion N° 15 of 14.11.2000 on Human stem cell research and use;
+
+Having regard to the Round Table organised by the Group on 20 November 2001 in Brussels
+with members of the European Parliament, jurists, philosophers, scientists, representatives of
+industries, representatives of religions, representatives of patients’ associations and other
+groups of interest, and of international and European organisations (UNESCO, Council of
+Europe, WTO, WIPO, EPO);
+
+Having regard to the Hearings of experts on 3rd July 2001, 4th September 2001, 2nd October
+2001, and 8th January 2002;
+
+2
+
+Having regard to the reports asked by the Group to Prof. Daniel Kevles (Department of History,
+Yale University) on “A history of patenting life in the United States with comparative attention to
+Canada and Europe” and to Prof. Geertrui Van Overwalle (Centre for Intellectual Property
+Rights, Faculty of Law, K.U. Leuven) on “Study on the patenting of inventions related to human
+stem cell research”;
+
+Having heard the rapporteurs Linda Nielsen and Peter Whittaker;
+
+3
+
+1. WHEREAS :
+
+SCIENTIFIC BACKGROUND
+
+1.1.
+
+Characteristics of stem cells
+
+Stem cells are cells found in all vertebrate animals, including human beings. They play roles in
+the processes of normal development and regeneration or repair of damaged tissues.
+The reason for this is their properties of dividing to give cells either identical to themselves or
+differentiated into particular types of cells.
+
+Because of these properties, it is thought probable that stem cells will find use in the therapy of
+degenerative diseases or injuries. Other potential applications for human stem cell cultures
+include uses for studying fundamental processes of human development or for toxicological
+testing and drug design. Non-human animal stem cell
+lines may also be used to produce
+genetically modified animals.
+It is also possible that genetically modified non-human animal
+stem cell lines may be developed for human therapeutic purposes.
+
+1.2.
+
+Sources of human stem cells
+
+Different types of stem cells can be distinguished according to the sources from which they are
+retrieved. Thus, there are:
+
+(cid:1)
+
+(cid:1)
+
+(cid:1)
+
+Adult stem cells: progenitor and multipotent stem cells are present in adults. Mammals
+appear to contain some 20 major types of somatic stem cells that can regenerate the
+various tissues but they are rather difficult to find and isolate and they do not seem to have
+the same developmental potential as embryonic or foetal stem cells.
+
+Stem cells of foetal origin:
+
+-
+
+-
+
+Haematopoïetic stem cells can be retrieved from the umbilical cord blood.
+
+Foetal tissue obtained after pregnancy termination can be used to derive multipotent
+stem cells like neural stem cells which can be isolated from foetal neural tissue and
+multiplied in culture, though they have a limited life span. Foetal tissue can also give
+rise to pluripotent EG cells isolated from the primordial germ cells of the foetus.
+
+Stem cells of embryonic origin: pluripotent ES cells are those which are derived from an
+embryo at the blastocyst stage. Embryos could be produced either by in vitro fertilisation
+(IVF) or by transfer of an adult nucleus to an enucleated egg cell or oocyte (somatic cell
+nuclear transfer – SCNT).
+
+4
+
+One can distinguish:
+
+-
+
+-
+
+-
+
+Embryos created by in vitro fertilisation. They can have been created for the purpose
+of assisted reproduction but not used for it (the supernumerary embryos) or they can
+have been created specifically for the purpose of research or treatment. These
+embryos are viable and could lead to birth if implanted in the uterus.
+
+Embryos created by cloning technique (by transfer of the nucleus of somatic cell into
+an oocyte) or created by parthenogenesis (by stimulation of an oocyte to initiate the
+duplication of the oocyte genetic material and then the division of the cell). Given the
+consensus in Europe to ban reproductive cloning, these embryos cannot be implanted
+in a uterus. Their capacity to lead to a birth is supposed to be either probably very
+reduced (in the case of
+(in the case of
+parthenogenesis).
+
+the cloned embryo) or quasi-null
+
+Stem cells may possibly be also obtained by injecting stem cell or egg cytoplasm into
+somatic cells transforming them into stem cells (ooplasmic transfer).
+
+(cid:1)
+
+Other methods: new technical ways of deriving stem cells may be developed in the future.
+
+1.3.
+
+Derived cell and stem cell lines
+
+One should distinguish:
+
+(cid:1)
+
+(cid:1)
+
+(cid:1)
+
+stem cells freshly derived from an organ or tissue which have not yet been subjected to
+any modification and which are capable of being propagated as stem cell lines,
+
+lines which refer to cultured lines of cells which have been
+unmodified stem cell
+propagated originally from freshly derived stem cells and which have not been modified in
+any other way. When the stem cells are derived from an embryo, the undifferentiated stem
+cell lines which can be derived from them are pluripotent.
+
+modified stem cell lines which refer to cultured lines of cells, propagated from stem cells
+or stem cell
+lines, which have been modified either by genetic manipulation, or by
+treatment that causes the cells to differentiate in a particular way.
+
+5
+
+LEGAL BACKGROUND
+
+A.
+
+GENERAL BACKGROUND
+
+1.4.
+
+(cid:1)
+
+What are the purposes of patent law?
+
+Patent law in general
+
+Patent law aims to promote technical innovation and the dissemination of its fruits. The
+inventor gets exclusive rights to control commercial exploitation of his invention for some
+years and in return, he discloses detailed description of his invention, making the new
+knowledge available to all. This disclosure enables others (researchers etc…) to build on
+the achieved knowledge.
+
+(cid:1)
+
+European Directive
+
+The original purpose of the 1998 EU Directive regarding legal protection of biotechnological
+inventions is to establish legal certainty in this area within the European Community and to
+help European biotechnological companies to become more efficient
+in promoting
+innovation and thus attracting investment.
+In addition, the Directive includes ethical considerations which take into account specific
+concerns.
+In this aspect, the EU approach of patenting in biotechnology differs from the
+US legal framework in that field which does not explicitly refers to ethics.
+
+What is a patent?
+
+1.5.
+A patent provides the patent holder with protection, for a period of 20 years in general, against
+the commercial exploitation of the invention by others. A patent is not a legal title granting its
+holder the exclusive right to exploit his invention, nor is it a right of ownership. A patent is a
+legal title granting its holder the exclusive right to stop others from using or making his
+If a third party wants to use an invention protected by patent, a licence is normally
+invention.
+required from the owner of the patent.
+
+The granting of a patent is not an authorisation for the use of the invention. As mentioned in
+recital 14 of the Directive ..“a patent for invention does not authorise the holder to implement
+that invention, but merely entitles him to prohibit third parties from exploiting it for industrial or
+commercial purposes”. Whether or not research, commercial use or marketing is permitted,
+may be dealt with by other kinds of regulation than the patent regulation.
+
+1.6.
+
+What may be the scope of a patent?
+
+A patent application contains a description of the invention and one or more claims. The
+claim(s) are an essential part of the patent as they define the scope of the rights given by the
+patent to the patent holder. The claim defines thus what third parties may or may not do
+without a licence from the patent’s holder. A licence is normally based on paying a fee.
+One distinguishes claim on product and claim on process or method:
+(cid:1)
+
+A product claim may concern a substance (like a chemical compound) or a composition
+of matter (like a cell line). The protection given by such patent includes the right to prevent
+third parties not having the owner’s consent from making, selling, using or importing the
+said product;
+
+6
+
+(cid:1)
+
+A process claim concerns the activities exercised upon for instance biological material to
+effect a process or a method. The protection given by such patent includes the right to
+prevent third parties not having the owner’s consent from using the process, and using,
+selling or importing the product obtained by this given process. The protection does not
+cover the same product which would have been obtained otherwise.
+
+Thus a product claim provides stronger protection for the patent holder and more restrictions in
+relation to further use and research than a process claim.
+
+1.7.
+
+Who grants a patent?
+
+Patenting facilities (National Patent Offices) are available in most countries (for instance the
+U.S.P.T.O1., I.N.P.I.2 for France). The protection of the invention is limited to the state that
+grants the patent and the legal consequences of the patent are settled by the national courts.
+
+In 1973,
+the European Patent Convention (EPC) was signed in München, creating the
+European Patent Organisation (EPO). At present, 20 European countries including all 15 EU
+Member States have signed the EPC. A patent granted by the EPO may be registered in any
+of the states adhering to the Convention, avoiding then for the inventor the multiplication of
+applications. The EPO has recently incorporated the 1998 EU Directive within its practice.
+
+In case of dispute over a patent, only the national courts are competent and thus may adopt
+diverging positions on the same dispute. Therefore, the European Commission proposed to
+create a “Community Patent”, which would be delivered by EPO, and a centralised Community
+tribunal in the framework of the European Court of Justice would be set up to deal with the
+potential disputes. This Commission Proposal is still under discussion.
+
+1.8.
+
+Criteria for a patent
+
+the three following
+
+A patent may be granted in all European countries, provided that
+requirements are all met:
+(cid:1)
+
+Novelty. The invention must represent an advance in what is considered to be the “state
+of the art” in its field.
+
+(cid:1)
+
+(cid:1)
+
+Inventive step. The invention must not be obvious to anyone familiar with the field
+concerned. A simple discovery cannot constitute a patentable invention. One of the main
+difficulties regarding patenting in biotechnology, is the ability to distinguish between a
+simple discovery which is not patentable and an invention as such, which is patentable. As
+inventions
+emphasized in the EGE Opinion N° 8 of 25.09.1996 on the patenting of
+involving elements of human origin : “The traditional distinction between discovery (not
+patentable) and invention (patentable) involves, in the field of biotechnology, a particular
+ethical dimension...”.
+
+Industrial application. The invention must be capable of industrial application.
+respect medicine and agriculture are considered to be “industry”.
+
+In this
+
+1 U.S.P.T.O.: United States Patent and Trademark Office
+2 I.N.P.I.: Institut National de la Propriété Industrielle
+
+7
+
+1.9.
+
+(cid:1)
+
+Exclusions
+
+Traditional exclusions in Europe
+
+In Europe patents are excluded if their publication or exploitation is in conflict with the
+“ordre public” or morality. The concept refers mainly to the respect of human dignity which
+is at the roots of human rights and is mentioned in the Article 1 of
+the Charter of
+Fundamental Rights. The Convention of München refers to “ordre public” in its Article 53.a
+and the 1998 EU Directive regarding legal protection of biotechnological inventions refers
+to “ordre public” and morality in its Article 6.
+
+Diagnostic, therapeutic and surgical methods are also traditionally excluded from patenting.
+This exclusion was aimed to maintain the sharing of medical knowledge and know-how for
+the benefit of patients. It does not concern products or drugs used for medical purposes.
+
+(cid:1)
+
+Specified exclusions
+
+The EU Directive goes into detail to specify what is contrary to “ordre public” and morality
+in the biotechnology sector, namely Article 6 states in particular that the following are
+considered to be unpatentable:
+“
+-
+-
+-
+-
+
+Processes for cloning human beings;
+Processes for modifying the germ line genetic identity of human beings;
+Uses of human embryos for industrial or commercial purposes;
+Processes for modifying the genetic identity of animals which are likely to cause them
+suffering without any substantial medical benefit to man or animal, and also animals
+resulting from such processes.”
+
+It should be noted, as stressed in Recital 38, that this list is “to provide national courts and
+patent offices with a general guide to interpreting the reference to “ordre public” and morality …
+and obviously cannot presume to be exhaustive”.
+
+1.10.
+
+Exemptions
+
+In Europe, there is a traditional academic exemption, mentioned in most national laws, which
+allows further research without paying a licence to the inventor,
+this research is not
+commercial.
+
+if
+
+1.11
+
+Compulsory Licences
+
+As stated in most national regulations and in the above-mentioned WTO TRIPS agreements,
+compulsory licences may be granted if the patent protection is contrary to the common good.
+
+8
+
+1.12.
+
+Differences between Europe and the US concerning patent in general
+
+There are four main differences between EU and US regarding law or conception of application
+of the law:
+
+(cid:1)
+
+(cid:1)
+
+Priority of the first inventor or the first claimer
+
+While disclosure or previous claim by an inventor ends any right to later patent in Europe,
+the American system grants the patent right to the first inventor. After disclosure the
+inventor has a period of time - the so-called grace period - to claim the patent.
+
+Exemption and exclusion
+
+In the US, the legislation does not provide for academic exemption. But in practice, there
+are often agreements between patent owner and research laboratories, although it is not a
+right.
+
+In the US there are no legally based exclusions regarding diagnostic and therapeutic use
+or ethically based exclusions.
+
+(cid:1)
+
+Criteria of patentability
+
+The criteria for patenting are traditionally interpreted in a more flexible and broader way in
+the US, leaving a larger place for legal interpretation and for negotiation after the patent is
+awarded.
+
+In the US, the conception of what is an invention is broader.
+
+In the US, the invention must prove to have a “utility” instead of “industrial application”, the
+notion of “utility” is less specific, it means it is useful. The conception of what is “useful” is
+broader than the more precise requirement of industrial application used in Europe.
+
+(cid:1)
+
+Opposition to a patent
+
+The possibility to oppose to a patent differs between the US and EU.
+In the US, only third
+parties whose interests are directly damaged by a patent can oppose via the US Patent
+Office or via a court, while in Europe, any person may oppose to a patent delivered by the
+European Patent Office by addressing directly the EPO, or via a court.
+
+The need to translate patent applications in different languages makes also the cost of the
+patent much higher in Europe than in the US.
+
+1.13.
+
+Patents and Transparency
+
+The inventor is required to publish full details of the invention in a manner sufficiently clear and
+complete for it to be carried out by a skilled person. When a patent has been granted patent
+information is provided. There are comprehensive databases with international coverage, also
+accessible through the Internet. Moreover, there are patent databases with national coverage
+and bibliographic databases covering the literature.
+
+9
+
+B.
+
+PATENTING BIOTECHNOLOGICAL INVENTIONS
+
+1.14.
+
+When were biotechnological inventions first patented?
+
+In 1980, the US Supreme Court overturned its previous case law to allow the granting of a
+patent on living matter, namely an oil degrading bacterium (Diamond v. Chakrabarty’s case
+law). But previously in the 70’s, other biotechnological inventions have also been patented with
+regard to methods, such as in particular methods of recombinant DNA.
+
+inventions on living
+Since then, there is a standing practice for patenting biotechnological
+matter. Thousands of patents consist of living matter, for instance micro-organisms, genes, cell
+lines including human ones such as cancer cell lines, and there are recognised ways to patent
+such inventions.
+
+1.15. What is specific to certain biotechnological inventions?
+
+As mentioned above, in the field of biotechnology, the distinction between invention and
+discovery may be less obvious than in other fields. Furthermore, the description of the
+patented product may also be difficult. That is why, with regards to micro-organisms, it is not
+enough to describe the micro-organism and its industrial application, so the deposit of the
+micro-organism may be necessary.
+
+Therefore, the Budapest Treaty signed in 1977 and implemented by the World Intellectual
+Property Organisation defines how the written description of
+the invention must be
+supplemented by the deposit of the new micro-organism in an internationally recognised
+depository authority. The access to the micro-organism is defined by the national law of the
+country where the depository authority is.
+
+1.16.
+
+Patents on stem cells
+
+Worldwide there have been over 2000 patent applications involving human and non human
+stem cells, of which one quarter refer to embryonic stem cells. Over one third of all stem cell
+applications and one quarter of all embryonic stem cell applications have been granted.
+
+According to the practice in the US or in the EU, the various processes which have been
+considered for patenting include:
+
+-
+
+-
+
+-
+
+-
+
+Processes for isolation of stem cells from embryos or tissues;
+
+Processes for enrichment of stem cells in mixtures of cells;
+
+Processes for culturing of stem cells;
+
+Processes for genetically modifying stem cells for particular applications. For example it
+may be possible to modify stem cells to avoid rejection following transplantation;
+
+10
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Processes for inducing stem cells to differentiate in particular ways.
+It will be necessary to
+induce stem cell cultures to differentiate into particular types of cells (e.g. neural cells, heart
+muscle cells) for specific regenerative therapies;
+
+for
+
+adult
+
+inducing
+
+stem cells
+
+Processes
+or
+‘transdifferentiation’. Retrodifferentiation refers to the induced reversion of adult stem cells,
+pluripotency.
+with
+Transdifferentiation is the induction of adult stem cells to differentiate into cells of a tissue
+type different from that normally associated with the particular stem cells;
+
+towards multipotency
+
+‘retrodifferentiation’
+
+differentiation
+
+capacity
+
+undergo
+
+limited
+
+or
+
+to
+
+Processes to create embryos by transfer of a somatic cell nucleus to an enucleated egg
+(cloning technique) for derivation of stem cells. This provides the possibility for producing
+autologous stem cells which are less likely to be rejected;
+
+Processes to create non-viable “embryos” by parthenogenesis. These techniques, which
+may also be used to provide autologous stem cells, would eliminate the need to destroy
+potentially viable embryos for deriving stem cells;
+
+Processes for transforming somatic cells directly into stem cells, eg. by injecting them with
+stem cell cytoplasm or egg cytoplasm (ooplasmic transfer);
+
+and the various products which have been considered for patenting include:
+
+-
+
+-
+
+-
+
+Stem cells;
+
+Stem cell lines;
+
+Differentiated stem cells;
+
+- Genetically modified stem cells.
+
+1.17.
+
+Patenting of human embryonic stem cells
+
+Human embryonic stem cells have so far been both isolated and cultured in the US, Australia,
+India, Singapore, Israel and Sweden, and only cultured in the UK. The issue raised by the
+1998 EU Directive is whether patents on human embryonic stem cells should be granted or not,
+and the question is still in discussion. The facts are that such patents have already been
+granted in the US.
+
+One example is the US patent awarded to the Wisconsin Alumni Research Foundation
+(WARF), for human pluripotent stem cells derived from spare embryos created for infertility
+treatment. This broad patent covers both James Thomson’s method of isolating human
+embryonic stem cells (ESC) and the five undifferentiated stem cell lines derived. That patent
+gives WARF control over who may work with its five stem cell lines and for what purpose.
+WARF decided to provide access against a nominal fee to academic researchers and access
+In return for its funding of James Thomson’s
+against a negotiable fee to other scientists.
+research, the for-profit Geron Corporation was granted a licence agreement by WARF. Geron
+holds exclusive rights to develop the stem cell lines isolated at the University of Wisconsin into
+three specific differentiated stem cell lines for commercial purposes.
+
+11
+
+ETHICAL BACKGROUND
+
+1.18. Historical aspects of patenting
+
+Since its origin at the end of the XVIIIth century, modern patent law has had an ethical
+dimension.
+Its aim is indeed to define the conditions of a “social contract” between inventors
+and society at large. On the one hand, inventors are able to be granted financial rewards and
+thus to share profits with manufacturers and industrialists. On the other hand, inventors are
+obliged to disclose information on useful inventions, for the benefit of the public good. That
+means that the purpose of a patent is to strike a balance between different interests.
+
+The patent system aims to keep a balance between the inventor’s interests and the interests of
+society. That is why a fair balance between both interests, meaning that the scope of the claim
+of the patent must be proportional to the scope of the effectively described applications of the
+inventions, has an ethical dimension.
+
+1.19
+
+Ethical aspects of patenting in biotechnology in general
+
+The patenting of biotechnological inventions, especially in the health sector, includes special
+ethical dimensions. The patenting of
+inventions to be used for therapeutic or diagnostic
+purposes may have an impact on access to health care. Concern has been expressed about
+the patent award by the EPO to Myriad Genetics for diagnostic tests for breast cancer and
+ovarian cancer. The claims include the genes BRCA1 and BRCA2.
+It is feared that the
+monopoly on the tests that this will create will result in unreasonable prices being charged with
+consequent reduced access to the tests. There are similar concerns expressed about the
+award to the Chiron Corporation of a patent granted in Europe for a combined HIV – Hepatitis
+It seems probable that similar situations might arise in the stem cell area. Although
+C test kit.
+there is a fear that patenting of biotechnological
+patenting should encourage research,
+inventions may entail excessive costs of research which would also impede access to health
+care. Moreover, since the description of an invention is not sufficient for a researcher to
+reproduce or improve it, it is important to make research biological materials accessible to the
+researchers.
+
+1.20.
+
+Ethical aspects of patents involving human stem cells
+
+The patenting of inventions involving human stem cells raises specific ethical questions related
+to fundamental ethical principles, namely:
+
+(cid:1)
+
+The prohibition of making profits from the human body and its elements, as stated by
+Article 3 of the Charter of Fundamental Rights, which is grounded on the principle of non-
+commercialisation of the human body. The donation of stem cells of human origin (adult,
+foetal or embryonic) must not give rise to payment of donors, apart from the justified
+compensation of constraints.
+
+12
+
+(cid:1)
+
+The principle of free and informed consent of the donor which is also reflected in
+article 3 of the Charter of Fundamental Rights and in the Recital 26 of the 1998 EU Patent
+Directive stating “Whereas if an invention is based on biological material of human origin or
+if it uses such material, where a patent application is filed, the person from whose body the
+material is taken must have had an opportunity of expressing free and informed consent
+thereto, in accordance with national law”.
+
+1.21.
+
+Ethical aspects of patents involving human embryonic stem cells
+
+The Group is well aware that all procedures involving directly or indirectly the human embryo
+are controversial in the sense that they are based on presuppositions for instance concerning
+the beginning of human life and the question whether there should be an absolute or a relative
+protection of human life in its different stages. Political and legal decisions in these ethical
+matters may change the self understanding of what it means to be a human being in a given
+epoch and society.
+
+the dignity and the moral status of
+
+the embryo remains indeed highly
+The question of
+controversial in a pluralistic society as the European Union. Those who are opposed to human
+embryo research, cannot, a fortiori, consider any patenting in that field. Among those who
+consider research on embryos ethically acceptable, some may feel great reluctance towards
+patenting the resulting inventions, while others consider patenting inventions derived from
+embryo research as acceptable, especially given their potential medical benefits.
+
+Industrial and commercial exploitation of human embryos is excluded from patenting according
+to Article 6 of the above-mentioned 1998 EU Directive. This article leaves open the question of
+patentability of cells obtained from donated embryos, nor does it state precisely which embryos
+are subjected to this exclusion. Some consider that non viable embryos, which cannot lead to
+a birth, such as those created by parthenogenesis, or even by somatic cell nuclear transfer
+(cloning), are not covered by this exclusion.
+
+When the question is about the patentability of the process which requires the use of human
+oocytes to produce stem cells by any means, there is a risk that women may be submitted to
+undue pressure to donate oocytes.
+
+There is at present a tendency to accept double morality where there is no coherence between
+different positions adopted by one country. For instance, one could expect that to consider
+research on human embryos to derive stem cells as unethical, might imply the prohibition of the
+import for research of embryonic stem cells derived from human embryos as well as of the use
+of potential therapeutic applications resulting from such research, which is not always the case.
+
+13
+
+2. OPINION
+
+2.1.
+
+SCOPE OF THE OPINION
+
+According to the 1998 EU Directive on the Legal Protection of Biotechnological Inventions
+article 7: « EGE evaluates all ethical aspects of biotechnology ».
+
+The Group has, in its Opinion No. 15 of 14th November 2000 on the ethical implications of
+human stem cell research and its uses, made recommendations, namely:
+
+-
+
+-
+
+-
+
+to set up a strict public control by centralised authorities, on human embryo research where
+it is allowed;
+
+to take measures to prevent commercialisation of human embryos or cadaveric foetal
+tissue;
+
+to ensure the respect of ethical principles through the control of public authorities,
+concerning import of human stem cells, where allowed.
+
+This present opinion deals with the specific ethical questions related to patenting of inventions
+involving human stem cells. The Group is aware of the fact that patents also involve many
+difficult and different questions of an economic and political nature, which may influence the
+way of dealing with patents, but has seen its task as providing an ethical focus on the question.
+The rapid development of biotechnology, especially the promise of stem cell research, makes it
+appropriate to consider and clarify some questions which could not have been taken into
+account when the 1998 EU Directive was drafted, given the state of the art at that time.
+
+One option would have been to forbid patenting of stem cells or stem cell
+lines. The
+consequence of such an option would be the major slowing of this research field (except in
+case of a very unlikely large public investment), and the EGE opinion is that it would be
+contrary to public (and especially patients’) interests. Moreover, the Group considers that it
+would be contrary to the EU choices as expressed by the 1998 EU Directive on patenting.
+
+The Group finds that it is crucial to define the conditions required to patent, the limits of the
+patenting of human stem cells in relation to ethical considerations and the relevant processes
+securing ethical evaluation.
+
+2.2.
+
+THE BASIC ETHICAL DILEMMA
+
+EGE recognises the importance of patents as an incentive to innovation and as a reward to the
+inventor for openness and publishing the results.
+
+One ethical dilemma arises due to the fact that patents can encourage scientific progress which
+can be used to the benefit of better health care, and at the same time, patents can also impair
+access to the health care due to the need of a licence to use them and to the fees that will have
+to be paid to the patent holder.
+
+14
+
+It is then necessary to secure the right balance between the inventor’s interests and the
+society’s interest – in the sense that one task for the community is to secure ethical principles
+and values in the context of possible conflicting interests of stake-holders, namely: patients and
+patients’ associations, inventors and other researchers, donors, industry, investors, healthcare
+providers, and social insurance providers.
+
+In order to be able to specify ethical limitations, a number of problems are to be considered,
+including:
+
+content of patents (process or product);
+-
+-
+various sources of stem cells;
+- methods used to derive stem cells;
+-
+-
+
+protection of the donor;
+possible socio-economic consequences and philosophical
+system as applied to stem cells (further research, access to health care).
+
+implications of
+
+the patent
+
+2.3.
+
+CONTENT OF THE PATENT
+
+It is the opinion of the EGE that:
+(cid:1)
+
+Isolated stem cells which have not been modified do not, as product, fulfil
+the legal
+requirements, especially with regards to industrial applications, to be seen as patentable.
+In addition, such isolated cells are so close to the human body, to the foetus or to the
+embryo they have been isolated from, that their patenting may be considered as a form of
+commercialisation of the human body.
+
+(cid:1)
+
+(cid:1)
+
+(cid:1)
+
+When unmodified stem cell
+lines are established, they can hardly be considered as a
+patentable product. Such unmodified stem cell lines do not have indeed a specific use but
+a very large range of potential undescribed uses. Therefore, to patent such unmodified
+stem cell lines would also lead to too broad patents.
+
+Therefore only stem cell
+genetically modified so that
+application, fulfil the legal requirements for patentability.
+
+lines which have been modified by in vitro treatments or
+they have acquired characteristics for specific industrial
+
+As to the patentability of processes involving human stem cells, whatever their source,
+there is no specific ethical obstacle, in so far as they fulfil the requirements of patentability
+(novelty, inventive step and industrial application).
+
+15
+
+2.4.
+
+SOURCES OF STEM CELLS
+
+Human stem cells may be adult (from living or deceased donors), foetal or embryonic stem
+cells. The derivation of stem cells raises different ethical questions, depending on the source
+of the cells. The Group considers that applicants for a patent involving human stem cells
+should declare which is the source of the stem cells.
+
+As already stressed by the Group in the Opinion N° 15 of 14/11/2000 on the ethical aspects of
+human stem cell research, there are strong ethical concerns about the use of human embryos
+which require specific caution. These concerns are reflected in the 1998 EU Directive which
+states that processes which would lead to uses of human embryos for industrial or commercial
+purposes are contrary to “ordre public” and morality and not patentable.
+
+The Group sticks to the strict application of the principle of non-commercialisation of human
+embryos, which is in line with the principle of non-commercialisation of the human body.
+
+The Group considers that patenting of inventions allowing the transformation of unmodified
+stem cells from human embryonic origin into genetically modified stem cell lines or specific
+differentiated stem cell lines for specific therapeutic or other uses, is ethically acceptable, as
+long as the inventions fulfil the criteria of patentability, and in respect of the above-mentioned
+ethical principles.
+
+2.5.
+
+THE QUESTION OF CLONING
+
+The 1998 EU Directive states, in its Article 6, section 2, that « processes for cloning human
+beings » shall be considered unpatentable.
+In recital 41 cloning is defined as « any process,
+including techniques of embryo splitting, designed to create a human being with the same
+nuclear genetic information as another living or deceased human being ». This provision raises
+the question of the scope of the prohibition to patent processes of cloning human beings. The
+Group notes that the 1998 EU Directive does not bring clarification on the specific question to
+apply the prohibition of patenting only to reproductive cloning or also to cloning for stem cells.
+
+The Group recalls that:
+
+-
+
+-
+
+the process used to create embryos by somatic cell nuclear transfer is the same in
+both reproductive cloning and cloning for stem cells but the destiny of the cloned
+embryos differs;
+
+the prohibition to create identical human beings by cloning is shared by all EU
+states, and mentioned in the Charter of Fundamental Rights and in the additional
+protocol to the Convention of Council of Europe and more widely shared in the
+world, as mentioned in the Universal Declaration on the Human Genome of
+UNESCO;
+
+16
+
+-
+
+there is a diversity of approaches between member states concerning cloning for
+stem cells.
+
+As mentioned in its Opinion N° 15 of 14th November 2000 on Research on human stem cells,
+there are strong ethical concerns to be taken into account about cloning for stem cells.
+Therefore, considering these ethical concerns, and particularly the risk of instrumentalisation
+and commercialisation of the embryo, the Group calls for a cautious approach, excluding the
+patentability of the process of creation of a human embryo by cloning for stem cells. The
+Group stresses the urgent need to engage a public debate on that issue.
+
+2.6.
+
+PROTECTION OF THE DONOR
+
+When the donated cells may become part of a patent application, donors should be informed of
+the possibility of patenting and they are entitled to refuse such use. Apart from justified
+compensation, donors ought not to get a reward which could infringe the principle of non-
+commercialisation of the human body. These ethical requirements should apply as far as
+possible to imported stem cells.
+
+2.7.
+
+PATENTS AND FURTHER RESEARCH AND DEVELOPMENT
+
+Although the appreciation of the patentability of an invention in biotechnology as in other fields
+is a matter of a case by case evaluation by a patent office and eventually by a court, the Group
+again insists on the necessity to avoid the granting of too broad patents that would impair
+further research and development.
+
+In the new area of stem cell research, the potential use is hoped to expand over time and stem
+In addition to the academic exemption, it
+cell lines may provide very important research tools.
+is essential to secure that patents on stem cell
+lines are not too broad, as this may have
+adverse effects on the aim to support further innovation to the benefit of health care.
+It is therefore the opinion of EGE that patents shall only be granted, when the patent claim
+line and its industrial
+refers to a specific and a sufficiently accurately described stem cell
+application. That involves a consistent relationship between a patent claim and the description
+of the invention.
+
+2.8.
+
+EUROPEAN REGISTRY
+
+The Group calls for the creation of an EU Registry of unmodified human stem cell lines, such
+registry which should include information on both ES (embryonic stem) and EG (embryonic
+germ) cell lines should be publicly accessible.
+Its aim would be to ensure transparency and
+thus facilitate access by the research community to the needed biological material for further
+research.
+
+17
+
+2.9.
+
+PATENTS AND ACCESS TO HEALTH CARE
+
+The patent creates a control regarding commercial use. This raises questions as to the uses
+which are covered by the patent.
+
+To secure that patent holders do not misuse their rights for example by charging unreasonable
+fees for the use of their inventions, EGE finds that the recourse to compulsory licence should
+be encouraged when the access to diagnosis and treatment is blocked by misuse of patent
+rights.
+
+The EGE stresses the fact that it is the responsibility of the states to establish legal procedure
+for the delivery of compulsory licence and to examine if fair access to health care justifies such
+a procedure.
+
+2.10.
+
+ETHICAL EVALUATION OF PATENT APPLICATIONS
+
+According to Article 7 of the 1998 Patent Directive, the European Group on Ethics is charged
+with the evaluation of the ethical aspects of biotechnology in general.
+
+Besides this general evaluation, the EGE considers that there may be also a need to make
+ethical evaluations in the course of the examination of patent applications involving specific
+ethical dimensions.
+
+It would be desirable that such ethical evaluation becomes part of the review process of
+national patent offices or European Institutions like EPO and that advisory panels of
+independent experts are set up for that purpose.
+
+18
+
+EGE proposes that, in the course of the evaluation of biopatenting required by Article 16 of the
+1998 EU Directive, specific attention is paid to the consequences of the patents on further
+research and access to health care, especially with regard to the fair and equitable accessibility
+of new therapeutic and diagnostic products at high costs.
+
+The European Group on Ethics in Science and New Technologies:
+
+The Chairperson : Noëlle Lenoir
+
+Rafael Capurro
+
+Anne Mc Laren
+
+Pere Puigdomenech Rosell
+
+The Members:
+
+Yvon Englert
+
+Göran Hermerén
+
+Stefano Rodota
+
+Linda Nielsen
+
+Peter Whittaker
+
+Günter Virt
+
+Inez de Beaufort
+
+DISSIDENT OPINION:
+
+Prof. Günter Virt agrees in general with the above, but does not agree permitting patenting
+processes and products using material resulting from destroyed human embryos:
+“Human embryonic stem cells and also embryonic stem cell
+lines are excluded from
+patentability because we cannot get embryonic stem cell lines without destroying an embryo
+and that means without use of embryos. This use as material contradicts the dignity of an
+If the condition for patentability is the
+embryo as a human being with the derived right to life.
+industrial and commercial use and if the use of human embryos for industrial and commercial
+purposes is not patentable,
+then every exception, which cannot exclude industrial and
+commercial purposes, is against the ethical sense of the directive. Patenting is an incentive.
+Patentability of human embryonic stem cells and stem cell lines would push research towards
+embryonic stem cells and thus undermine the priority of research using non embryonic stem
+cells. Despite the relatively clear regulations in the directive this incentive for research will lead
+to forms of “bypasses” which makes it impossible to guarantee an ethically tolerable situation in
+the field of patentability”.
+
+19
+
+

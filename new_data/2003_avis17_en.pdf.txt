@@ -1,0 +1,796 @@
+OPINION OF THE EUROPEAN GROUP ON ETHICS
+
+IN SCIENCE AND NEW TECHNOLOGIES
+
+TO THE EUROPEAN COMMISSION
+
+No 17
+
+4th February 2003
+
+Original in English
+****************************************************************************************************************************
+
+ETHICAL ASPECTS OF CLINICAL RESEARCH IN DEVELOPING COUNTRIES
+
+Reference: 
+Rapporteurs: 
+
+Request by the European Commission on 29th May 2001
+Inez de Beaufort and Yvon Englert
+
+*****************************************************************************************************************************
+
+The European Group on Ethics in Science and New Technologies (EGE),
+
+Having  regard  to  the  request  of  Romano  Prodi,  President  of  the  European  Commission,  to  the
+EGE;
+
+Having regard to the Treaty on European Union as amended by the Treaty of Amsterdam, and in
+particular  Article  6  (formerly  Article  F)  of  the  common  provisions,  concerning  the  respect  for
+fundamental rights; 
+
+Having regard to the EC Treaty and in particular Article 152 (formerly Art. 129) on public health;
+
+Having  regard  to  the  Charter  of  28  September  2000  on  Fundamental  Rights  of  the  European
+Union, approved by the European Council in Biarritz on October 14th 2000, in particular Article 1
+on  “Human  dignity”,  Article  3  on  the  “Right  to  the  integrity  of  the  person”,  which  refers  to  the
+principle of “free and informed consent” and Article 13 asserting freedom of research;
+
+Having regard to the Action Plan Sciences and Society adopted by the Commission in December
+2001 and Action 33 concerning the development of ethical review capacity in different regions of
+the world;
+
+Having regard to  the  Decision  1513/2002/EC  of the  European  Parliament and  of  the  Council  of
+27th June 2002 concerning the sixth Framework Programme for Research and contributing to the
+creation of the European Research Area (2002-2006); 
+
+Having regard to the Council Decision of 30th September 2002 adopting a specific programme for
+research: “Integrating and strengthening the European Research Area” (2002-2006);
+
+Having regard to the Directive 2001/20/EC of the European Parliament and of the Council of 4th
+April  2001  on  good  clinical  practice  in  the  conduct  of  clinical  trials  on  medicinal  products  for
+human use;
+
+1
+
+    
+Having regard to the Directive 2001/83/EC of the European Parliament and of the Council of 6th
+November 2001 on the Community code relating to medicinal products for human use;
+
+Having  regard  to  the  Directive  95/46  EC  of  the  European  Parliament  and  of  the  Council  of  24
+October 1995 on the protection of individuals with regard to the processing of personal data and
+the free movement of such data;
+
+Having regard to the Council of Europe’s Convention on Human Rights and Biomedicine, signed
+on  4th  April  1997  in  Oviedo,  in  particular  Article  15  about  freedom  of  research  and  Articles  16
+and17 about the protection of persons undergoing research;
+
+Having regard to the Declaration of Helsinki of  the  World  Medical  Association,  adopted  in  1964
+and revised in 1975, 1983, 1989, 1996 and 2000;
+
+Having  regard  to  the  International  Ethical  Guidelines  for  biomedical  research  involving  human
+subjects of the Council for International Organizations of Medical Sciences  (CIOMS)  adopted  in
+1993 and revised in October 2002;
+
+Having  regard  to  the  guidelines  related  to  the  conduct  of  clinical  trials  published  by  the
+International Conference on Harmonisation;
+
+Having regard to the reports and opinions expressed by national ethics instances on that issue,
+namely  the  report  of  the  Nuffield  Council  on  Bioethics  (UK,  2002),  the  report  of  the  National
+Bioethics Advisory Commission (USA, 2001) and the report of the National Committee on Ethics
+(FR, 1993);
+
+Having regard to the Round Table organised by the Group on 1st October 2002 in Brussels with
+members  of  the  European  Parliament,  jurists,  philosophers,  scientists,  representatives  of
+industries, representatives of religions, representatives of patients’ associations and other groups
+of interest, and of international and European organisations (UNESCO, Council of Europe, EMEA,
+WTO, WIPO, EPO);
+
+Having regard to the hearings of experts on 19th April 2002, 4th June 2002, 3rd September 2002,
+25th October 2002 and 5th November 2002;
+
+Having  regard  to  the  studies  asked  by  the  Group  to  the  Institute  for  Prospective  Technological
+Studies (Sevilla, Spain) of the Joint Research Center on “the ethical controversy over the use of
+placebo in clinical trials in developing countries: impact on international research guidelines and
+scientific literature” and on “Industry-funded clinical trials in developing countries” by Dr. Dolores
+Ruiz Ibarreta, Dr. Karine Lheureux and Dr. Emilio Rodriguez-Cerezo;
+
+Having heard the rapporteurs Inez de Beaufort and Yvon Englert;
+
+2
+
+1.  WHEREAS :
+
+BACKGROUND
+
+1.1         
+
+In west European cultures, since the 19th century, clinical research has become an essential step
+to  increase  knowledge  regarding  human  health  in  order  to  develop  prevention,  diagnosis  and
+treatment  of  disease  and  handicap.    The  existing  codifications  by  national  laws  or  international
+texts  concern  mainly  clinical  research  carried  out  for  the  development  of  new  drugs,  but  the
+principles and conditions defined in these texts can also be applied to medical research regarding
+all other kinds of treatments or prevention.
+
+1.2         
+
+Years of research are necessary before a new drug can be put on the market, with the following
+steps:
+
+(cid:1) 
+
+(cid:1) 
+
+the  pre-clinical  phase  which  may  include  in  vitro  studies,  for  instance  on  biochemical
+characteristics, on pharmacological properties and toxicity, and the animal studies, including
+the use of animal models, to test the potential therapeutic and toxic effects,
+
+the  clinical  phase  involving  human  beings  which  takes  place  only  when  the  previous  steps
+have been fulfilled.
+
+1.3         
+
+Clinical  trials  are  an  essential  part  of  medical  research  to  develop  new  treatments  or  new
+diagnostic methods.  
+Clinical trials phase I are performed with healthy volunteers to test the pharmacology and toxicity
+of a new product.  
+Clinical trials phase II are performed with a limited number of patients to test the potential effects
+of the drug on the disease.  
+Clinical trials phase III are performed on a larger number of patients to assess the efficacy and
+evaluate the appropriate dosage.
+Clinical  trials  phase  IV  are  performed  after  the  product  has  been  commercialised  in  order  to
+identify potential rare adverse effects.
+
+1.4         
+
+The evaluation of the efficiency of a new drug is based on the comparison of a group of patients
+receiving this new drug with a group receiving another already existing treatment. In the absence
+of any existing treatment, the comparison can be carried out with a placebo.
+A  new  drug  can  also  be  developed  in  order  to  be  added  to  a  standard  treatment  and  not  to
+replace it.  In such a case, the group of patients receiving the new drug in addition to the standard
+treatment is compared with a group who receives a placebo in addition to the standard treatment.
+Such cases illustrate that to belong to a placebo group in a clinical trial does not necessarily mean
+that this group does not receive any treatment.
+
+3
+
+In the case where another treatment already exists, the use of a placebo can also be a way to test
+more quickly and with a limited number of participants if a new drug has a specific effect to treat a
+disease.  But such a placebo-controlled trial will not answer the question whether this new drug is
+more or less efficient than the other existing treatments.  
+
+1.5         
+
+The justification of clinical trials is to acquire knowledge in order to improve healthcare.  Beside
+the  benefit  for  healthcare  related  to  the  development  of  new  therapies,  the  implementation  of
+clinical  trials  has  also  an  impact  on  the  quality  of  healthcare  and  may  stimulate  transfer  of
+technology and improve scientific and medical expertise.  It has often an important impact in the
+financing of clinical institutions.
+Clinical trials are set up also for commercial goals and can be done to promote marketing.
+
+1.6           
+
+The European Commission has stimulated scientific cooperation with developing countries since
+1983, through successive framework programmes, dealing with specific research areas such as
+health, agriculture and environment.  Partnerships have been developed not only bi-laterally but
+also  including  a  regional  dimension  with  the  creation  of  partnerships  between  developing
+countries, involving 123 countries from Asia, ACP1, Latin America and the Mediterranean region.
+
+1.7            
+
+The 6th Framework Programme proposes  a new  strategy,  opening the possibility  for  developing
+countries to get EU funding for all the research areas defined in the Programme.  
+Furthermore,  the  European  Commission  proposed  in  August  2002  to  initiate  a  long-term
+partnership  between  Europe  and  developing  countries  to  join  efforts  to  combat  poverty-linked
+diseases such as AIDS, malaria and tuberculosis.  The budget for this “European and Developing
+Countries  Clinical  Trials  Partnership”  (EDCTP)  will  be  600  million  Euros,  a  third  provided
+respectively by the European Community, the participating countries and industry.
+
+1.8         
+
+Developing countries differ from industrialised countries regarding economic and social contexts.
+In  developing  countries,  little  or  no  infrastructure  is  available  for  the  population  at  large,
+particularly concerning healthcare services.
+In addition, cultural differences may also exist regarding traditions, family or community structures
+and moral values.  
+
+1.9         
+
+In  industrialised  countries,  there  is  a  rather  homogeneous  conception  of  what  is  good  scientific
+method based on a logical and rational approach, while in other cultures, other medical traditions
+may exist, and our approach concerning scientific research may have no equivalent.  Research
+activities  include  not  only  a  scientific  dimension  but  also  a  cultural  one  and  this  may  have
+consequences especially during ethical evaluation of a clinical trial.
+
+4
+
+1.10       
+
+A  clinical  trial  to  assess  the  validity  of  new  therapeutic  or  diagnostic  products  is  a  long  and
+expensive process.  During the last decade, a progressive shift of clinical research occurred from
+the  public  to  the  private  sector.    This  implies  that  it  also  shifted  investment  from  research  on
+predominantly  tropical  and/or  poverty-related  diseases  which  are  public  health  priorities  to
+research on diseases and therapy with high economic return on investment.  The contribution of
+the private sector, namely the pharmaceutical industry, has been rapidly growing compared to the
+contribution  of  the  public  sector.  Furthermore,  the  implementation  of  clinical  trials  is  more  and
+more  often  carried  out  by  intermediary  structures  such  as  Contract  Research  Organisations  or
+Site Management Organisations. 
+
+1.11       
+
+There  is  also  a  trend  to  transfer  clinical  trials  to  countries  where  cost  and  constraints  of
+regulations  may  be  more  favourable  to  their  implementation,  and  where  the  high  number  of
+patients,  and  especially  naïve  patients,  that  is  patients  who  have  never  received  a  treatment,
+facilitates  the  recruitment  of  patients  to  be  involved  in  a  clinical  trial.    This  transfer  of  clinical
+research to developing countries concerns mainly Phase III and IV trials.
+
+1.12                
+
+One can distinguish on the one hand clinical trials performed in developing countries because the
+disease  addressed  by  the  research,  and  the  patient  population  who  could  benefit  from  it,  are
+localised  in  these  developing  countries,  including  diseases  which  occur  only  in  developing
+countries (like tropical diseases) or diseases which exist also in industrialised countries but which
+have a higher morbidity or mortality in developing countries; and on the other hand clinical trials
+performed in developing countries for reason of pure convenience. 
+
+1.13       
+
+Health problems specific to developing countries are very often  linked  to  the  social  context and
+conditions  of  life  in  these  countries.    Poverty  is  in  fact  the  main  cause  of  “diseases”.    In  the
+economic context of developing countries, clinical trials can help to define the best possible use of
+limited means.  This cost-benefit effectiveness approach is then an essential part of the protocol,
+a preoccupation which is also more and more present in developed countries. 
+
+1.14       
+
+The  clinical  trials  carried  out  in  developing  countries  often  contribute  to  developing  new  drugs
+which will be used in industrialised countries but will remain unavailable to developing countries.
+Clinical  trials  carried  out  to  develop  new  drugs  for  exclusive  use  in  developing  countries,  like
+treatment for tropical diseases, are comparatively rare.
+
+1 ACP : African, Caribbean and Pacific Region
+
+5
+
+                                                                                                                                                           
+LEGAL BACKGROUND
+
+(cid:1)  At national level
+
+1.15      National regulations
+
+Many developed countries have their own comprehensive legislative and ethical background that
+should  be  taken  into  consideration  in  clinical  trials.   Lack of  similar  efforts  in  the  host  countries
+may jeopardise protection of the participants in clinical trials.
+
+(cid:1)  At Community level
+
+1.16      Directive 2001/83/EC
+
+The Directive 2001/83/EC on the Community code relating to medicinal products for human use.
+The Directive refers to the Helsinki Declaration in its annex I part 4 (B) “All clinical trials shall be
+carried  out  in  accordance  with  the  ethical  principles  laid  down  in  the  current  revision  of  the
+Declaration of Helsinki”.
+
+Concerning the use of placebo, the Directive specifies: “In general clinical trials shall be done as
+‘controlled  clinical  trials’  and  if  possible,  randomised;  any  other  design  shall  be  justified.    The
+control  treatment  of  the  trials  vary  from  case  to  case  and  also  will  depend  on  ethical
+considerations;  thus  it  may,  in  some  instances,  be  more  pertinent  to  compare  the  efficacy  of  a
+new medicinal product with that of an established medicinal product of proven therapeutic value
+rather that with the effect of a placebo”.
+
+1.17      Directive 2001/20/EC
+
+The  Directive  2001/20/EC  on  the  implementation  of  Good  Clinical  Practice  in  the  conduct  of
+clinical  trials  on  medicinal  products  was  adopted  on  4  April  2001.    It  has  to  be  transposed  by
+Member States in national law before May 2003 and implemented before May 2004.
+
+Detailed guidelines for implementing the Directive have to be published by the Commission before
+May 2003.  The objectives of the Directive are to define principles of protection for the subjects, to
+set Good Clinical Practice for testing medicinal products (including cell and gene therapies).
+
+The  Directive  applies to all  clinical  trials  (phase  I  to  IV)  carried  out  in  the  EU  or  third  countries
+which  intend  to  assess  effects  of  medicinal  products.    It  does  not  apply  to  “non-interventional
+trials”  like  epidemiological  studies.    The  Directive  applies  to  all  populations  of  patients,  but  with
+special provisions regarding children and incapacitated adults unable to give their informed legal
+consent.
+
+6
+
+1.18      European Agency for the Evaluation of Medicinal Products (EMEA)
+
+The EMEA was established in 1993 by the EU.  The role of EMEA is to provide opinions on the
+basis  of  which  the European  Commission  takes  decisions  regarding  marketing authorisation  for
+medicinal products.  
+
+When examining the file with the description of the clinical trial performed by the public or private
+institution requesting a marketing authorisation  for  a  medical  product,  EMEA evaluates  not  only
+the effectiveness, safety and cost of the medical product but also the respecting of Good Clinical
+Practice, the granting of informed consent and of approval by ethical committees.  When problems
+are identified, namely regarding ethical aspects, EMEA can advise the Commission to refuse the
+marketing authorisation or can advise the withdrawal of marketing authorisation already delivered
+by Member States.  That is especially important for European companies doing their research in
+developing countries.  This information is also made public.  The EMEA intervention happens after
+the clinical trial is finalised and presented in the file and not before or during the trial.
+
+1.19       EU competencies
+
+The  EU  has  no  direct  competence  on  the  regulation  of  research  at  large  which  is  a  matter  of
+national competencies.  Nevertheless, the EU has competence for the marketing authorisation of
+medical products related to the single market.  This authorisation is delivered by the Commission
+on the basis of reports made by the EMEA and can be refused in case of non-respect of ethical
+principles in the clinical trials.  Furthermore, the EU has a responsibility to guarantee respect of
+ethical principles in any EU-funded research project, wherever it takes place.
+
+(cid:1)  At international level
+
+1.20      The International Conference on Harmonisation (ICH)
+
+The ICH, initiated in 1990, is a joint initiative involving both regulators and industry from the EU,
+Japan and the US to discuss scientific and technical aspects of product registration.  The purpose
+is to maintain a forum of dialogue between all parties and to make recommendations to achieve
+greater harmonisation.
+
+Several guidelines are related to clinical trials and address the issue of placebo.  The guideline on
+“the choice of control group” (E10)  says:  “Whether a  particular  placebo-controlled  trial  is  ethical
+may in some cases, depend on what is believed to have been clinically demonstrated and on the
+particular  circumstances  of  the  trials”.    “It  should  be  emphasised  that  use  of  a  placebo  or  no-
+treatment control does not imply that the patient does not get any treatment at all”.
+
+1.21       The declaration of Helsinki of the World Medical Association 
+
+The World Medical Association (WMA) is an international organisation representing physicians.
+The association, created in 1947, is an independent confederation of the professional associates
+from about 70 countries.  Individual physicians can also join the WMA as associate members.
+It aims at promoting high standards of medical ethics and provides ethical guidance to physicians
+through Declarations and Statements.
+The  General  Assembly  of  the  WMA,  which  meets  annually,  is  composed  of  representatives  of
+national associations and the associated members. It is the decision-making body of the WMA.
+
+7
+
+The  Declaration  of  Helsinki,  adopted  in  1964  by  the  18th  WMA  General  Assembly,  states  the
+ethical  principles  to  be  respected  by  physicians  when  carrying  out  medical  research  involving
+human subjects, or human material as identifiable human data.
+The Declaration of Helsinki is not legally binding, but it has a recognised moral value and is widely
+accepted.
+Since 1964, the Declaration has been amended several times. The last version was adopted in
+October 2000 in Edinburgh; namely with amendments  relating  to the  use  of placebos  in  clinical
+trials, following a huge debate on the issue.
+The previous version states that the “best proven treatment” should be given to the control group,
+and in the absence of proven treatment, a placebo can be used.
+In  this  2000  version,  Art  29  stipulates  that  “the  best  current  treatment”  should  be  given  to  the
+control  group  when  testing  a  new  method  and  that  a  placebo  can  be  used  when  no  proven
+treatment is available.
+One  year  later,  the  WMA  published  an  attempt  at  clarification,  which  can  be  considered  as  a
+compromise modifying Art. 29 and specifying the conditions to be fulfilled for the use of placebo
+controlled trials when proven treatment exists, namely:
+
+(cid:1)  where a placebo is, for methodological reasons, necessary to determine the efficacy or safety 
+
+of a new method, 
+
+or
+(cid:1)  where the trial investigates a minor condition without risk of serious or irreversible harm 
+
+for the patient.
+
+1.22       Convention of the Council of Europe
+
+The  Council  of  Europe  (CoE)  is  an  intergovernmental  organisation  which  aims  at  promoting
+human rights protection and democracy in Europe.  The CoE field of activities includes health and
+education.  The CoE, created in 1949, is composed today of 44 states, including the 15 member
+states of the European Union.  The CoE drafted the Convention of human rights and fundamental
+freedoms in 1950, which is legally binding for the 41 members which signed and ratified it.
+
+The “Convention for the Protection of Human Rights and Dignity of the Human Beings with regard
+to  the  application  of  Biology  and  Medicine”  known  as  Convention  on  Human  Rights  and
+Biomedicine was opened for signature in April 1997 in Oviedo (Spain). 
+
+An  additional  “Protocol  to  the  Convention  on  Human  Rights  and  Biomedicine  on  Biomedical
+Research”  is  in  preparation.    The  protocol  will  define  the  conditions  to  be  fulfilled  when  human
+subjects  are  involved  in  a  research  project  and  address  the  issue  of  research  carried  out  in
+countries not party to the Protocol.
+
+1.23       The Council for International Organisations and Medical Sciences (CIOMS)
+
+The Council for International Organisations of Medical Sciences (CIOMS) is an international, non-
+governmental, non-profit organisation established jointly by WHO and UNESCO in 1949.  CIOMS
+represents  a  substantial  proportion  of  the  biomedical  scientific  community.    Its  membership  in
+2001  includes  48  international  member  organisations,  representing  many  of  the  biomedical
+disciplines,  and  18  national  members  mainly  representing  national  academies  of  sciences  and
+medical research councils.
+
+8
+
+The particular contribution of CIOMS in bioethics has been the issuance of international guidelines
+for  the  application  of  ethical  principles  in  various  key  areas,  namely  the  International  Ethical
+Guidelines  for  Biomedical  Research  Involving  Human  Subjects  (developed  in  conjunction  with
+WHO)  published  in  1993.    They  have  been  very  widely  utilised,  particularly  in  developing
+countries.    They  have  been  revised  and  updated  and  the  new  version  was  issued  in  October
+2002.  
+
+ETHICAL BACKGROUND
+
+Ethical aspects of partnership between industrialised and developing countries
+
+1.24         
+
+Globalisation  concerns  an  increasing  number  of  human  activities,  namely  research  activities
+where  projects  involve  parties  not  only  at  national  or  international  level  but  also  at  world-wide
+level.
+Because  this  globalisation  occurs  in  a  very  heterogeneous  world,  because  extreme  wealth  and
+poverty coexist, and injustice is a fact, the relationship between parties is not per se fair and rules
+must  be  defined  to  avoid  exploitation  and  increasing  injustice.  Among  the  ethical  issues  to  be
+considered, consensus exists on questions like the publication of results (even negative ones), or
+the  need  to  address  orphan  diseases  and  poverty-linked  diseases  which  are  found  only  in
+developing countries.  But other issues remain controversial namely:
+
+(cid:1)  Under what conditions is the use of a placebo acceptable?
+(cid:1)  When testing the efficiency of a new drug, should it be compared always with the best proven 
+treatment even when this is usually not available in the country where the trial takes place, or 
+should the best available treatment be used?
+
+(cid:1)  Are there universal values and are they applicable whatever is the socio-cultural context?
+
+1.25         
+
+The  legitimacy  of  the  objectives  of  a  clinical  trial  is  related  to  the  analysis  of  its  relevance
+regarding health priorities of the partners, the risk/benefit balance for individuals and communities,
+and the potential impact on healthcare of the host country.  But the notion of community may be
+understood differently (community as citizens of a country, community as members of the same
+group within a country or spread between different countries, affected by the same disease, or the
+same social conditions).  This may affect the definition of needs and health priority of the so-said
+community.
+
+1.26         
+
+The positive impact of a clinical trial on healthcare is first of all the acquisition of new knowledge
+but  it  includes  also  the  sharing  of  this  new  knowledge  and  know-how,  the  accessibility  to  new
+treatments  and  the  capacity  building  induced  by  the  implementation  of  the  clinical  trial.    But  a
+potential negative impact may also occur : the implementation of the clinical trial can disturb the
+local pre-existing healthcare system.
+
+9
+
+1.27         
+
+The participation in a clinical trial always implies a certain risk for the participants, either because
+they receive a new drug whose potential negative effects may still be unknown or because they
+receive  a  placebo  and  are  then  deprived  of  the  benefit  of  the  standard  treatment  and  from  the
+potential benefit of the new drug to be tested.
+
+Ethical aspects related to cultural diversity
+
+1.28         
+
+Different  cultures  may  have  different  values.    In  a  paternalistic  or  imperialistic  approach,  the
+sponsor of the research tends to impose his own values on the host country.  In contrast, when
+the  respect  for  local  tradition  leads  to  relativism  and  non-respect  of  values  considered  as
+fundamental in Europe, this implies a risk of double standards.  
+
+1.29         
+
+The  way  information  is  given  to  patients  and  the  procedure  of  obtaining  consent  may  vary
+according  to  the  specific  situation  of  the  country  where  a  clinical  trial  takes  place,  namely
+regarding  the  level  of  literacy,  the  level  of  scientific  understanding,  the  organisation  of  the
+community,  etc.  That  may  influence  the  consent  procedures  regarding  the  involvement  of
+persons, in particular women, in a clinical trial.  
+
+1.30         
+
+Different cultures may have different views regarding privacy and personal data.  This may have
+consequences  for  the  acceptability  of  certain  aspects  of  research  protocols,  namely  regarding
+data collection, and the data subject’s right of access and right to object. 
+
+1.31
+
+The organisation of society may also differ between different parts of the world.  While European
+society is characterised by the increasing value of individualism in the search of happiness, but at
+the  same  time  has  a  collective  strong  solidarity  at  national  level  for  guaranteeing  access  to
+healthcare for all, other societies give more importance to the local community or to the family in a
+context of weak national solidarity in relation to access to health care.  
+
+Ethical aspects related to economic differences
+
+1.32         
+
+In principle, the involvement in a  clinical  trial  is  a benevolent  act  and  should  not  be  induced  by
+financial  or  other  recompense,  mainly  to  avoid  exploitation.    The  protection  of  participants  in
+clinical  trials  in  industrialised  countries  has  been  built  up  over  decades,  according  to  a  given
+socioeconomic background.  The strict transposition of such a system of protection to developing
+countries, without considering their socioeconomic specificities, will not ensure the same level of
+
+10
+
+protection of the participants.  The protocol cannot ignore the context where the clinical trial will
+take  place  and  in  a  context  of  poverty  and  absence  of  healthcare,  the  fact  of  participating  in  a
+clinical trial may constitute for the patient the only opportunity to have access to healthcare.  
+
+1.33         
+
+The fact of  carrying out  research  in  a developing  country  implies additional  responsibility of  the
+sponsor towards the patients, but also towards the local community where the trials take place.
+This responsibility does not end with the end of the clinical trial.
+
+1.34         
+
+The  objective  of  a  clinical  trial  is  often  to  compare  a  new  treatment  to  an  already  established
+treatment.    But  this  established  treatment  is  not  always  available  to  all,  and the  term  “available
+treatment” can cover very different situations, according to the standard of care.
+In the best case, in industrialised countries, the best proven treatment is usually available for the
+patients even if expensive or requiring high technology.
+In  other  cases,  the best proven  treatment  is  not  accessible  to  the  patients,  who  can  get  a  less
+efficient but also less expensive alternative.  In the worst situation, no treatment at all is available
+for  the  patients.    In  developing  countries,  some  placebo  trials  were  specifically  built  to  find
+cheaper alternative solutions when the best proven treatment could not be available for economic
+reasons.  This gave rise to the question of the legitimacy of these trials.
+In addition, the trend may exist to use the placebo even when there is another existing treatment,
+because the use of a placebo in a clinical trial may be the quickest, cheapest and most efficient
+way to test the efficacy of a new drug.   But then it deprives the patients in the control group of the
+existing proven treatment.
+
+11
+
+2.  OPINION
+
+The Group submits the following opinion:
+
+2.1.        SCOPE OF THE OPINION
+
+The present opinion considers the ethical aspects of clinical trials carried out within the European
+research  programmes  in  developing  countries.    This  gives  rise  to  ethical  questions  specifically
+linked to socio-economic inequalities and poverty but also to cultural diversity.  It must be stressed
+that cultural diversity is a factor that may influence the practice of clinical trials independently from
+socio-economic factors.  Moreover, concepts of industrialised and of developing countries are in
+themselves vague as there is continuity from very poor countries to countries with a standard of
+living close to developed ones.  The EGE members would like to stress that the huge economic
+inequalities of our world are the cause of most of the problems raised in this Opinion. 
+This  Opinion  is  aimed  at  providing  help  to  the  Commission  in  the  exercise  of  its  responsibility
+regarding  the  implementation  of  EU-funded  research  activities  in  countries  which  culturally  or
+economically differ from the West European context. Some aspects of this Opinion may also be
+applicable  to  research  involving  cultural  minorities  or  vulnerable  groups  within  industrialised
+countries.  It  may  also  be  relevant  for  the  European  Agency  for  the  Evaluation  of  Medicinal
+Products.
+
+2.2         GENERAL APPROACH
+
+The  implementation  of  EU  research  programmes  in  developing  countries  should  be  based  on
+solidarity,  in  line  with  the  Charter  of  Fundamental  Rights  which  proclaims  in  its  preamble  that:
+“The Union is founded on the indivisible and universal values of human dignity, freedom, equality
+and  solidarity”.    Therefore,  research  activities  involving  human  subjects  cannot  exclusively  be
+assimilated  to  an  economic  activity  subject  to  market  rules.    On  the  contrary,  in  the  context  of
+solidarity, regarding health as  a public  good,  rather  than  a  commodity,  it needs  to  be  regulated
+according to fundamental principles.
+The general approach chosen within this Opinion is that the fundamental ethical rules applied to
+clinical trials in industrialised countries are to be applicable everywhere.  Even if some difficulties
+may arise in their implementation, a weakening of the standards would be in contradiction to the
+fundamental principles of human rights and dignity and their universal guarantee and protection.  
+
+The fundamental ethical principles applicable are those already recognized in former Opinions of
+the EGE, and more specifically: 
+(cid:1) 
+
+the principle of respect for human dignity and the principles of non-exploitation, non-
+discrimination and non-instrumentalisation,
+the principle of individual autonomy (entailing the giving of free and informed consent, 
+and respect for privacy and confidentiality of personal data),
+the principle of justice and the principle of beneficence and non-maleficence, namely with
+regard to the improvement and protection of health,
+the principle of proportionality (including that research methods are necessary to the aims
+pursued and that no alternative more acceptable methods are available).
+
+(cid:1) 
+
+(cid:1) 
+
+(cid:1) 
+
+12
+
+These  fundamental  ethical  principles  underlie  the  conditions  to  be  fulfilled  when  implementing
+clinical  research  as  defined  in  many  international  guidelines  or  conventions.    These  conditions
+concern  the  modalities  of  both  the  ethical  and  scientific  evaluation  of  research  protocols,  the
+granting of free and informed consent, the protection of the patients involved and the sharing of
+the benefits of research.
+These conditions are enforced by law in all EU countries.  But a legal framework does not exist in
+every country where EU-funded research is carried out, or is not applicable because of the lack of
+means and capacities or appropriate governance systems. 
+The Opinion will be focused on the way to deal with particular aspects of research in developing
+countries.
+
+SPECIFIC ISSUES RAISED BY DEVELOPING COUNTRIES
+
+2.3         INEQUALITY
+
+The huge gap between industrialised countries and developing countries regarding standards of
+living and especially access to healthcare is an example of the inequalities in our world.  Even if
+the objectives  and  goals of  scientific  research  cannot  alone  solve  this  unfair  situation,  research
+carried out in developing countries should avoid widening this gap even more; on the contrary, it
+should  contribute  to  reducing  it.    The  private  or  public  investigators  who  do  their  research  in
+developing countries have a moral duty to make a concrete contribution to overcome inequalities.
+
+2.4         PARTNERSHIP
+
+The involvement of all partners, from the funding institutions to the host countries or communities,
+is essential at each phase of the research activities, from the definition of the programme and of
+the research priorities, to the follow-up after the end of the trials.
+The involvement of local scientists from the host country at the very early stage of the planning
+and implementation of the research activities is crucial to develop a culture of collaboration which
+is different from charity help. Their knowledge of local conditions and traditions is also necessary
+to identify local needs.
+
+2.5         GLOBALISATION
+
+In  the  context  of  globalisation  of  research,  the  optimal  protection  of  the  participant  must  be  a
+priority no matter where a clinical trial is performed: thus, it should only be carried out in countries
+with a less adequate healthcare environment, if very strict justification can be given.    The  more
+evident ones would be:
+
+-  The trial aims at addressing specific health conditions of the countries, for instance tropical 
+
+diseases;
+
+-  The trial aims at addressing diseases existing also in industrialised countries but with a 
+
+specifically high incidence in developing countries.
+
+-  The trial aims at developing treatments having a specific interest for the country (for instance, 
+
+a new treatment cheaper than those already existing);
+
+13
+
+2.6         HANDLING DISAGREEMENT
+
+Both the values and ethical principles of the funding agencies and of the host country have to be
+considered.  They are explicitly or implicitly reflected in regulatory texts or in specific customs. In
+the case of conflicting views between parties, every effort should be made to negotiate solutions
+but without compromising the respect of fundamental ethical principles. Human rights standards
+are to be respected explicitly in all these countries.  If that does not succeed, then each party must
+have the right to veto.
+
+2.7         FREE AND INFORMED CONSENT
+
+The  involvement  of  people  with  knowledge  of  the  local  conditions  and  traditions  and  able  to
+defend the interest of those affected by the project is necessary to guarantee the most appropriate
+procedures of informing of the potential participants in a clinical trial.
+According to the local situation, it may be appropriate to seek agreement on the implementation of
+a research project from persons representative of  or  invested  with  a  certain  authority  within  the
+community, or the family. However, free and informed  consent  always has  to  be  given by  each
+individual involved in a trial.
+
+2.8         ETHICAL COMMITTEE
+
+The  scientific  and  ethical  evaluation  of  the  research  protocol  should  be  carried  out  by  ethical
+committees  from  all  countries  involved.    Host  countries  need  to  have  a  legal  and  ethical
+framework in order to take part in  the  clinical  trial  evaluation effectively  and  independently.  The
+Group strongly supports EU initiatives to build local ethical committees in the host  countries.    It
+should be considered as a priority in terms of capacity building. When no local ethics committee
+exists, then the evaluation should be done by a mixed committee involving representatives from
+both EU Member States and host countries.  It is essential that the members of this committee are
+independent  and  include  persons  representing  patients’interests.    If  it  is  not  possible  to  involve
+such  an  independent  local  representative  in  the  evaluation,  then  no  clinical  trial  should  be
+implemented in the country.
+
+2.9         EVALUATION
+
+In the evaluation of a research protocol, special attention should be paid to the following issues:
+- 
+the relevance of the research to be carried out in a developing country.  Specific attention 
+should be paid when the objective of the clinical trial does not comply with health priorities of 
+the host country;
+the risk/benefit ratio at the individual level, as well as at the community level;
+the impact of the project after its completion.  The expected benefits for the local community 
+where the trial takes place should be specified, particularly regarding future access to the 
+potential new treatment, technology transfer and capacity building;
+the involvement of the community at various steps of the process (definition of objectives, 
+elaboration of protocol and of consent modalities, etc…)
+
+- 
+- 
+
+- 
+
+The Group notes that wherever research is carried out, the conditions of financing a project and
+the  recompense  of  the  professionals  involved  in  clinical  trials  should  be  transparent  in  order  to
+avoid undue pressure or risk of bias. 
+
+14
+
+2.10       PLACEBO
+
+The use of placebos should be regulated in developing countries in principle by the same rules as
+in European countries.  Any exception must be justified: an obvious one is when the primary goal
+of the clinical trial is to try to simplify or to decrease the costs of treatment for countries where the
+standard treatment is not available for logistic reasons or inaccessible because of the cost.  It may
+thus be justified to derogate from the rule of best proven treatment.  The justification of using a
+placebo  must  be  clearly  demonstrated  in  the  research  protocol  submitted  to  the  ethical
+committees and especially approved by the local committee.
+Nevertheless, two members of the Group consider that the use of a placebo for  the  purpose of
+developing  low  cost  treatment  could  mean  accepting  a  “double  standard”  for  poor  and  rich
+countries.  Thus research in developing countries could lead to a vicious circle: on the one hand,
+clinical  trials  in  developing  countries  contribute  to  developing  new  treatments  which  can  be
+patented in rich countries and are then unaffordable for poor countries, and on the other hand the
+non-availability of treatment in the poorest countries is due partly to the patent costs.
+
+2.11       PROTECTION OF PATIENTS
+
+The standards of insurance, liability and indemnity insurance for the participants in a clinical trial
+and their families must provide the same kind of protection wherever a trial takes place.
+
+2.12       SUPPLY OF TREATMENT DURING THE TRIALS
+
+In industrialised countries, the reference treatment used in a clinical trial may be provided by the
+health care services, while the new drug being tested is provided by the sponsor.  When a trial is
+implemented  in  a  country  or  a  community  where  patients  cannot  benefit  from  the  standard
+treatment because of the cost, it is then up to the sponsor to provide it.
+
+2.13       SUPPLY OF TREATMENT AFTER THE END OF THE TRIAL
+
+In industrialised countries, free supply of a proven beneficial new drug to all the participants of a
+trial after the trial is ended is the rule as long as it is not yet available through the normal health
+care  system.    In  developing  countries,  the  same  rule  must  be  applicable  even  if  this  implies
+supplying the drug for a lifetime if necessary.   Moreover, there  should be an obligation  that  the
+clinical trial benefits the community that contributed to the development of the drug.   This can be
+e.g. to guarantee a supply of the drug at an affordable price for the community or under the form
+of capacity building.  The protocol of clinical trials must specify who will benefit, how and for how
+long. In order to avoid limitations due to patent rights when the research is carried out mainly with
+public funding, the results produced should be regarded as falling within the public domain, or else
+a system of compulsory licences for applications in developing countries should be considered, as
+already stressed by the Group in its previous opinion n° 162.
+
+2  Opinion  on  the  ethical  aspects  of  patenting  inventions  involving  human  stem  cells  published  on  7th  May  2002,
+point  2.9:  “The  EGE  stresses  the  fact  that  it  is  the  responsibility  of  the  states  to  establish  legal  procedure  for  the
+delivery of complulsory licence and to examine if fair access to health care justifies such a procedure.”
+
+15
+
+                                                     
+2.14       INFORMATION OF RESULTS
+
+Scientists, doctors and participants involved in a clinical trial should be informed of the results of
+the trial. Negative results also must be published and made accessible.  More generally, the new
+knowledge  acquired  by  a  research  project  in  a  developing  country  must  be  made  efficiently
+accessible  to  the  scientific  community  and  to  the  general  population  of  the  country  where  the
+research  took  place.  The  role  played  by  local  scientists  and  clinicians  should  be  adequately
+recognized in publications and patents.
+
+2.15       CONCLUSION
+
+The  funding  of  research  devoted  to  solving  health  problems  that  are  specifically  acute  in
+developing  countries  has  a  value  in  itself  in  terms  of  solidarity.    The  Group  welcomes  the  EU
+policy of funding research in developing countries to fight against poverty-linked diseases.
+
+The European Group on Ethics in Science and New Technologies
+
+The Chairperson: Göran Hermerén
+
+The Members:
+
+Nicos C. Alivizatos
+
+Inez de Beaufort
+
+Rafael Capurro
+
+Yvon Englert
+
+Catherine Labrusse-Riou 
+
+Anne Mc Laren
+
+Linda Nielsen 
+
+Pere Puigdomenech Rosell
+
+Stefano Rodota
+
+Günter Virt 
+
+Peter Whittaker
+
+16
+
+

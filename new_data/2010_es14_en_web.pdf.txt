@@ -1,0 +1,3410 @@
+§
+
+ISSN 1725-5562
+
+K
+A
+-
+A
+I
+-
+1
+0
+-
+0
+1
+4
+-
+E
+N
+
+-
+C
+
+Ethically speaking
+
+A newsletter providing information
+on the activities of the National Ethics Committees
+compiled by the Secretariat of the European Group
+on Ethics in Science and New Technologies
+to the European Commission
+
+July 2010
+
+How to obtain EU publications
+
+Free publications:
+
+• 
+
+• 
+
+via EU Bookshop (http://bookshop.europa.eu);
+
+at the European Union’s representations or delegations. You can obtain their contact 
+details on the Internet (http://ec.europa.eu) or by sending a fax 
+
+Priced publications:
+
+• 
+
+via EU Bookshop (http://bookshop.europa.eu).
+
+Priced subscriptions (e.g. annual series of the Official Journal of the European Union and 
+reports of cases before the Court of Justice of the European Union):
+
+• 
+
+via one of the sales agents of the Publications Office of the European Union (http://publi-
+cations.europa.eu/others/agents/index_en.htm).
+
+The European Group 
+on Ethics in Science 
+and New Technologies 
+to the European Commission 
+
+Ethically Speaking 
+
+Issue No 14 
+July 2010 
+
+Chief Editor 
+Maurizio SALVI 
+
+EUROPEAN COMMISSION 
+
+ 
+ 
+ 
+Europe Direct is a service to help you find answers 
+to your questions about the European Union
+
+Freephone number (*):
+00 800 6 7 8 9 10 11
+
+(*) Certain mobile telephone operators do not allow access to 00 800 numbers 
+or these calls may be billed.
+
+More information on the European Union is available on the Internet (http://europa.eu).
+
+Cataloguing data can be found at the end of this publication.
+
+Luxembourg: Publications Office of the European Union, 2010
+
+ISSN 1725-5562
+
+© European Union, 2010
+Reproduction is authorised provided the source is acknowledged.
+
+Printed in Luxembourg
+
+Printed on white chlorine-free PaPer
+
+Contents
+
+Editorial 
+
+Göran Hermerén, President of the EGE
+
+Contributions from members of the EGE 
+
+Francesco D. Busnelli – ‘Towards a “European Bioethics”?’ 
+
+Krzysztof Marczewski – ‘World bioethics dialogue: Is a common language attainable?’ 
+
+THEMATIC SECTION: Biobanks – ethical and legal frameworks 
+
+Australia: Australian Health Ethics Committee (AHEC) 
+
+Austria: Austrian Bioethics Commission 
+
+Belgium: Belgian Advisory Committee on Bioethics 
+
+Brazil: National Commission of Ethics in Research (CONEP) 
+
+Germany: German Ethics Council 
+
+Greece: Hellenic National Bioethics Commission 
+
+Italy: National Committee for Bioethics 
+
+Portugal: National Council of Ethics for the Life Sciences 
+
+GENERAL INFORMATION ON ACTIVITIES of the EU national and regional ethics 
+committees 
+
+Austria: Austrian Bioethics Commission 
+
+Belgium: Belgian Advisory Committee on Bioethics 
+
+Cyprus: Cyprus National Bioethics Committee 
+
+Denmark: Danish Council of Ethics 
+
+Germany: German Ethics Council 
+
+Greece: Hellenic National Bioethics Commission 
+
+Malta: Bioethics Consultative Committee 
+
+Portugal: National Council of Ethics for the Life Sciences 
+
+Spain: Spanish Bioethics Committee (CBE) 
+
+United Kingdom: Nuffield Council on Bioethics 
+
+GENERAL INFORMATION ON ACTIVITIES of the non-EU national and regional ethics 
+committees 
+
+Australia: Australian Health Ethics Committee (AHEC) 
+
+5
+
+9
+
+11
+
+15
+
+19
+
+21
+
+23
+
+25
+
+27
+
+29
+
+31
+
+33
+
+35
+
+37
+
+39
+
+41
+
+43
+
+45
+
+47
+
+49
+
+51
+
+55
+
+59
+
+61
+
+63
+
+65
+
+Brazil: National Commission of Ethics in Research (CONEP) 
+
+Canada: Commission on the Ethics of Science and Technology (CEST) 
+
+GENERAL INFORMATION ON ACTIVITIES of the international organisations 
+
+Council of Europe: Bioethics Division 
+
+UNESCO: Ethics of Science and Technology Division - Bioethics Section 
+
+67
+
+69
+
+73
+
+75
+
+77
+
+Editorial
+
+Göran Hermerén
+
+The mandate of the current EGE expires in 2010, and the process of nominating members of the new 
+EGE is well on its way and may be finalised when this Newsletter is published. It is therefore tempting to 
+look back at the work of the EGE over the last four years. Alongside the growth in group dynamics, there 
+have been important changes in the working methods of the group, in the ethical framework used and the 
+way it has been applied. Important changes have also been taking place in Europe and the world during 
+this period. Most of this is described in more detailed in the recently published General Activity Report 
+of the EGE. Here in this editorial I will just summarise some of the changes.
+
+Significant  advances  have  taken  place  in  science  and  new  technologies  over  the  last  four  years.  For 
+example, in stem cell research, the discovery of methods to reprogramme somatic cells has changed the 
+scientific and ethical landscape, and a roadmap to clinical practice is being defined. Genomic and post-
+genomic analyses, sequencing, microarray analyses and studies of epigenetics have provided a deeper 
+understanding of the role and limits of biology. Hundreds of products based on nanotechnologies are now 
+available on the market, and in the future this technology is likely to change the conditions of human life. 
+Information technologies have altered the patterns of communication and the reading habits of millions. 
+The advances in ICT and the neurosciences are stunning.
+
+These developments offer prospects for improving the lives of large sections of the world’s population 
+and treating so far untreatable conditions. New, lighter and stronger nanomaterials may help to reduce 
+energy needs. Supplies of pure water and energy especially in developing countries may be enhanced 
+by nanotechnologies. Current and future developments in information and communication technologies 
+(ICT) can help to prevent terrorist attacks. New and cheap vaccines may be produced with the help of 
+methods  explored,  for  example,  through  synthetic  biology.  Food  security  and  sustainable  production 
+may be enhanced by novel technologies in agriculture. These developments, which have to be based on 
+a proper balance between risks and benefits, also offer new opportunities to promote important human 
+values, including human freedom, quality of life, and European competitiveness and protection of con-
+sumer rights.
+
+At the same time some of these technologies may be used for surveillance, manipulation, and inadvert-
+ently to increase the gap between rich and less rich countries in Europe, or between developed and devel-
+oping countries. When these technologies converge, new synergies may result which call for analysis and 
+a broad public debate on both the goals and methods of introducing them. In some cases the problem of 
+dual use needs close attention, ethical analysis and perhaps regulation. This presents the policymakers 
+with the challenge of optimising some uses of the technologies and minimising others. 
+
+During the mandate of the present EGE (2005-2009), important political events have also taken place. 
+For example, the Lisbon Treaty has been accepted by the Member States, which gives a new and more 
+important status to the Charter of Fundamental Rights of EU citizens (to which the EGE also contributed 
+during its previous mandate). The Common Agricultural Policy has been revised, and the Commission 
+has stepped up aid to and cooperation with developing countries. Many other important changes have 
+taken place in Europe and beyond. The financial crisis has demonstrated how interdependent the econo-
+mies of the world are, and that a global approach is necessary to address many of the problems facing us 
+
+Ethically Speaking 14, July 2010 
+
+5
+
+ 
+ 
+today — such as those raised by GM food, intellectual property rights, standards of food safety, climate 
+change, medicinal products and medical devices — for the market is becoming more and more global.
+
+As part of its remit, the EGE has produced opinions on subjects as diverse as nanomedicine, condi-
+tions for funding of human embryonic stem cell research in FP 7, animal cloning for food purposes, 
+new technologies in agriculture and synthetic biology. The group has also published seven issues of the 
+Newsletter ‘Ethically Speaking’, promoting the dialogue between the National Ethics Councils and other 
+international ethics bodies. Moreover, the EGE has arranged four public round tables, all of which have 
+been published — all this is described in more detail in the following pages of this report.
+
+In simple terms, the tasks of the EGE are to apply the norms, values and principles enshrined in inter-
+national and European declarations to the problems that may face European society in connection with 
+pending EU legislation and current debates in the EU. The remit includes clarifying the problems, pro-
+viding background information, describing the regulatory and scientific state of the art, outlining pos-
+sible courses of action and giving advice to the Commission.
+
+In the work of the EGE, too, important changes have taken place. They are described in more detail in 
+our recently published General Activity Report. In my view, the most important changes are the follow-
+ing ones.
+
+First, the topics of the opinions have changed, from focusing almost exclusively on ethical issues raised 
+by trends in medical research and biotechnology to much wider issues, including cloning of animals for 
+food purposes and novel methods and techniques used in farming. These subjects cannot be discussed 
+without touching on difficult ethical issues related to rights and obligations, such as global and social jus-
+tice, our responsibility towards the health and well-being of future generations, and animal welfare — as 
+well as politically sensitive and difficult issues relating to trade, the economy and intellectual property 
+rights, including problems raised by the World Trade Organisation, the General Agreement on Tariffs 
+and Trade and the Doha round of trade negotiations.
+
+Second, the normative framework used in the reports has shifted from using more or less traditional 
+principles in biomedical ethics to a framework rooted in theories of human rights. This shift has arisen 
+not just from the group’s reflections on the methods and assumptions of its work, but also from the wid-
+ening focus of the work of the group. In this wider focus, issues of global and social justice and human 
+rights are inevitably prominent and need to be addressed.
+
+Third,  it  has  become  very  clear  that  many  of  the  challenges  facing  European  society  today  require 
+a  wider perspective than a strictly European one. In February 2009, the first International Dialogue on 
+Bioethics took place at the initiative of the EGE and hosted by BEPA, involving representatives of more 
+than 40 countries. The next international dialogue on bioethics took place in Madrid in March 2010, and 
+this dialogue will continue on a yearly basis. In this spirit, this newsletter will welcome contributions 
+also from non-European national ethics committees.
+
+Fourth, and in line with the above, to increase transparency the working methods of the EGE have been 
+widened to include web consultations — in addition to the traditional working methods of the group: 
+internal meetings, hearings of experts, commissioning special studies on background material by exter-
+nal experts and arranging round tables. To enhance the efficiency of the group’s work, we have also 
+worked more closely than before with the Commission. This has facilitated a better coordination of the 
+various activities of the European Commission.
+
+The ethics landscape is not static. Problems are not solved once and for all. New challenges arise continu-
+ously. This is due to new developments in science and technology, to value changes in the population, 
+and to new developments in ethical theory. Some of the challenges we see facing European society and 
+which will need to be addressed in the future are described separately in our General Activity Report.
+
+6 
+
+Ethically Speaking 14, July 2010
+
+Finally, I think I am speaking for all members of the EGE when I conclude by saying that it has been 
+a privilege to take part in the international ethics dialogue during these four years and it will be exciting 
+to follow and participate in the ethics debates during the coming years.
+
+Göran Hermerén
+
+President, EGE 2005-2010
+
+Ethically Speaking 14, July 2010 
+
+7
+
+Contributions from 
+members of the EGE
+
+Ethically Speaking 14, July 2010 
+
+9
+
+Towards a ‘European Bioethics’?
+
+Francesco D. Busnelli
+
+The question of the existence of a European Bioethics can be addressed by looking both at the past and 
+at the future. The present time is dominated by anxiety and is plagued by an unresolved conflict between 
+the need for openness to the pluralism of cultures and the awareness of a common ‘spiritual and moral 
+heritage’ to be maintained and developed: this is expressed by the Preamble of the ‘Charter of Funda-
+mental Rights’. 
+
+Looking back through Roman law and the history of Civil Codes, we feel there are traces of different 
+bioethical views ante litteram on the European continent. Indeed, focusing on the legal status of the 
+unborn, the auctoritas of Roman law was divided into two different directions, expressing — we would 
+say today — clearly differentiated bioethical options.
+
+The direction more widespread in Europe is that of ‘German Pandektistik’ corresponding to the apho-
+rism: conceptus pro iam nato habetur quotiens de eius commodis agatur. Indeed, that is a fictio that is 
+found in the pages of ‘System des heutigen Romischen Rechts’ of Savigny1, who after recognising the 
+‘primitive identity’ between individuals and persons, claimed the possibility for the State of ‘denying to 
+single individuals… the legal capacity’: a formal concept that, when transferred into the codes, justified 
+hateful racial discriminations in the recent past and today is used precisely to exclude the unborn from 
+the list of individuals covered by civil codes currently in force in Europe. 
+
+To this scenario we can contrast the ‘Iberian tradition’ which is especially widespread in Latin Amer-
+ica. The Iberian tradition has inspired a ‘naturalistic’ vision, so to speak, of the unborn child who is 
+defined as a persona por nacer, pessoa por nascer. A very meaningful approach is that of the monu-
+mental Argentine civil code of Dalmacio Vélez Sàrsfield (1871): it states the principle that ‘all entities 
+that present distinguishing signs of humanity, without distinctions of qualities or accidents, are persons’ 
+(Art.  51), and that ‘the person’s existence begins at conception in the mother’s womb’ (Art. 70).
+
+The awareness of this diversity of directions was demonstrated by Augusto Texeira de Freitas who, in 
+a  note appended to his famous Esboço of the Brazilian Civil Code2, explicitly criticises Savigny’s theory 
+of  fiction  quoting  the  Roman  texts  that  ‘recognise  reality  in  approximating  the  unborn  with  the  son 
+already born’. Now, the new Brazilian Civil Code does not entirely refute this direction, but provides that 
+‘the civil personality of the person begins from the birth with life; but the law protects, since conception, 
+the rights of the unborn’ (Art. 2).
+
+Looking back to the past, then, through the prism of the legal status of the unborn child, one could 
+talk of a pioneering Latin American bioethics, which was opposed to the ‘fictionist’ approach of the 
+old Europe and which is now radically opposed to the modern North American bioethics, according to 
+whose dictates — as is possible to find in ‘The Foundations of Bioethics’ by H. Tristram Engelhardt — 
+‘foetuses ... are examples of non-persons’, since ‘it makes no sense to speak of foetuses’ autonomy or that 
+of the infant and of the severely mentally ill who have never been rational’3.
+
+1  F.C. von Savigny, System des heutigen Romischen Rechts, II, Berlin, 1840, p. 2.
+2  A. Teixeira de Freitas, Codigo Civil Esboco (1860-65), Brasilia, 1983, I, p. 83 (‘nota al articulo 22 del Esboco con precisa 
+
+critica a Savigny’).
+
+3 H.T. Engelhardt Jr., The Foundations of Bioethics, New York, 1986, p. 126.
+
+Ethically Speaking 14, July 2010 
+
+11
+
+ 
+ 
+Looking ahead, we can perhaps draw some lines of development around which it would be possible to 
+produce a draft of a ‘European Bioethics’, to some extent foreshadowed at the level of principles by the 
+‘Charter of Fundamental Rights’, which solemnly declares that it is based on ‘the indivisible and univer-
+sal values of human dignity, freedom, equality, solidarity’; values that — it should be emphasised — are 
+clearly different from the ‘Four Principles’ of the North American bioethics (autonomy, beneficence, 
+non-maleficence, justice). 
+
+In a purely indicative way, we can highlight three lines of development that I think are particularly sig-
+nificant and help to bring into focus the relationships between bioethics and fundamental rights; between 
+bioethics and economics; and finally between bioethics, environment and health.
+
+A)  In accordance with the European tradition, the ‘Charter of Fundamental Rights’ posits ‘human dig-
+nity’ as a super-principle, as against the super-principle of ‘autonomy’ in North American bioethics. 
+
+It is no longer just the dignity solemnly affirmed in 1949 by the German Grundgesetz, which conceived 
+the principle as the ‘legal bond of state power towards fundamental rights’ (Art.1); a principle that — as 
+the Bundesverfassungsgericht4 was able to explain — is fundamentally an expression of ‘the moral and 
+spiritual negation regarding the previous system of National Socialism’.
+
+It is a founding principle that, without forgetting the past, is projected into the future. It is the reaffirmed 
+dignity of the younger European Constitutions: from the Portuguese Constitution of 1976 which defines 
+Portugal as ‘a sovereign Republic based on human dignity’ to the democratic Constitution of Romania 
+(1991) that declares ‘human dignity’ as a ‘supreme value’ that ‘shall be guaranteed’. It is human dignity 
+that opposes any ‘exploitation of human beings’: this is the expression, again in Europe, of the Conven-
+tion on Human Rights and Biomedicine (‘Oviedo Convention’) of 1997. It is an authoritative interpreter, 
+in one of its ‘whereas’, of the Additional Protocol of Paris (1998), which reconnects to that very super-
+principle the prohibition of human cloning. And there is a significant confirmation when the Oviedo Con-
+vention categorically indicates that ‘the creation of human embryos for research purposes is prohibited’ 
+(Art.18, par. 2).
+
+Human dignity, qualified in this way, must be carefully distinguished from the ‘dignity’ of North Ameri-
+can constitutional language, where the term has a specific subjective connotation, whose substance is 
+defined by each individual and thus becomes a manifestation of the super-principle of autonomy avail-
+able (only) to competent subjects. 
+
+Rather, the European conception of dignity has an objective connotation and an unlimited validity which 
+allows it to refer to any human being — conscious or unconscious, able or unable of understanding and 
+expressing one’s will, already born or unborn. No one can arbitrarily divest of dignity: ‘il n’existe pas de 
+droit subjectif à la dignité, auquel son titulaire pourrait renoncer’5.
+
+In short, human dignity is not left to the unchallengeable exercise of individual autonomy; it is used, if 
+anything, to limit this exercise. It is again the Oviedo Convention that provides significant confirmation. 
+Indeed, the emphasis rightly placed on ‘free and informed consent’ as a general condition for ‘an inter-
+vention in the health field’ (Art. 5) does not go so far as to give anyone the authority to bind doctors now 
+or in the future with an advance directive. Freedom does not transform itself into autonomy but, while 
+still legally relevant, it involves a simple ‘expression of will’ (‘wish’, ‘souhait’), that physicians should 
+‘consider’ (Art. 9).
+
+4 BVerwG, 15 December 1981, NJW, 1982, p. 664.
+5  J. Maurer, Le principe de respect de la dignité humaine et la Convention européenne des droits de l’homme, Paris, 1999, 
+
+p. 55.
+
+12 
+
+Ethically Speaking 14, July 2010
+
+B)  The  relationship  between  bioethics  and  economics  is  characterised  by  the  rule  of  removal  of  the 
+human body from the market: a rule now recognised at European level by the Oviedo Convention 
+which stipulates in Art. 21 that ‘the human body and its parts shall not, as such, give rise to financial 
+gain’.
+
+This rule has its remote — and aged — precedent in a regulation inserted at the last moment in the Ital-
+ian Civil Code of 1942, in the wake of an emotional legal procedure about the paid transfer of a testicle 
+from a young Neapolitan student to a rich Brazilian man. Article 5, which is still in force, codified the 
+total ban on ‘acts of disposition of one’s own body that cause a permanent diminution of physical integ-
+rity’: a prohibition that required legislative action to allow transplants of organs and tissues, with the 
+requisite guarantees of non-payment.
+
+The ‘European way’ to transplants between living persons is thus very far from the North American ten-
+dency that — to quote Henry Hansmann — ‘it is advantageous to assign as many transactions as possible 
+to the category of market transactions since this economises on morality’6. It is the pattern of solidarity, 
+and solidarity is not reducible simply to beneficence. The initiative of the person who ‘donates’ an organ 
+is usually a manifestation of generous solidarity: Art. 19 of the Oviedo Convention clearly indicates this 
+scenario when it connects the requirement of the donor’s consent with the ‘therapeutic benefit of the 
+recipient’, implicitly positing a relationship of familiar or affective solidarity that European laws some-
+times make explicit and circumscribe. 
+
+C)  The issue of the relationship between bioethics, environment, and health saw the birth of a new princi-
+ple in Europe. It is the ‘precautionary principle’ — specifically formulated now by the Commission of 
+European Community — which aims to balance ‘the freedom and rights of individuals, industry and 
+organisations with the need to reduce the risk of adverse effects to the environment, human, animal or 
+plant health’. If there are risks of serious and irreversible damage — it was stated in the Declaration 
+of Rio of 1992 — the ‘lack of full scientific certainty shall not be used as a reason for postponing cost-
+effective measures to prevent environmental degradation’. In short, it requires us to ‘manage scientific 
+uncertainty’; and the criterion should be ‘privilégier l’hypothèse du pire, lorsqu’on peut redouter un 
+dommage irréversible même à long term’: this is the conclusion reached by Geneviève Viney and 
+Philippe Kourilsky in 2000 in their French Rapport au Premier Ministre7. 
+
+It is therefore not surprising that this principle — ‘a wolf in sheep’s clothing’8 — meets with strong 
+aversion in North American culture and business circles, dominated by the pragmatic principle of ‘risk 
+assessment’, which tries to limit risks by identifying a ‘threshold of acceptable risk’.
+
+What prospects are there for consolidating these lines of development? 
+
+In a Workshop held in Rome on 23 May 2003 on the initiative of the National Bioethics Committees of 
+France, Italy, Portugal and Spain, the then President of the Comité Consultatif National d’Ethique, Didier 
+Sicard, concluded his report by declaring himself confident of a European ethic strongly protective of the 
+person and at the same time of social solidarity ‘gît un avenir fort’, but also highlighting the danger of 
+widespread attention ‘aux sirènes anglosaxonnes’.
+
+In fact, in Europe we face the paradox that the super-principle of human dignity, invoked in Germany 
+in the aftermath of the tragic end of the Second World War with the obvious aim of ‘purifying’ a soci-
+ety shaken by the savagery of Nazism, is now being held up as a liturgical expression of ecclesiastical 
+
+6  H. Hansman, Markets for Human Organs, in C.M. Mazzoni (ed.), A Legal Framework for Bioethics, The Hague — Lon-
+
+don — Boston, 1998, p. 155.
+
+7 P. Kourilsky & G. Viney, Le principe de précaution. Rapport au Premer ministre, Paris, 2000, p. 211.
+8 H. Miller & G. Conko, Precaution: a wolf in sheep’s clothing, in Nature biotechnology, 19 (2001).
+
+Ethically Speaking 14, July 2010 
+
+13
+
+censorship of Catholicism: ‘un luxe doctrinal justifié par un but trompeur’9. These are worrying signs 
+of a growing interest in a bioethics that, having dismissed the super-principle of human dignity as ‘pro-
+foundly ambiguous’, looks favourably on ‘the enlargement of the area of intervention for an individual 
+autonomy which should be morally responsible’. The aim seems to be, wherever possible, to rely on indi-
+vidual decisions for ‘the resolution of bioethical issues’10. 
+
+Yet what is happening in the United States is equally paradoxical. The President’s Council on Bioethics 
+recently published (2008) a book on ‘Human Dignity and Bioethics’; and in particular the contribution of 
+Leon Kass claims ‘a robust role for the idea of human dignity’, underlining that ‘our equal dignity resides 
+not in our rights but in the more fundamental common vulnerability’11. Some years ago the editor of the 
+(first and) second edition (1995) of the Encyclopaedia of Bioethics, Warren Thomas Reich, admitted that 
+the American bioethical movement was going through a ‘deep crisis’ which had its origins in the very 
+principles on which bioethics was based: the American Bioethics, until now ‘imprisoned in a conceptual 
+framework dominated by the principle of autonomy’ must tackle the ‘challenge of vulnerability, which 
+may ask us to recover from Christian tradition — as well as from other religions — the idea related to the 
+need to pay more attention to the most vulnerable people rather than protecting the rights of those who 
+already have power’12.
+
+The challenge of vulnerability is destined to become decisive for the future of bioethics in the world. 
+Here we may find the ‘trump card’ of European bioethics. European bioethics ‘as it is anchored in socie-
+ties traditionally based on solidarity’ — this is the ‘bet’ expressed by the President of the French CCNE 
+at the workshop in Rome we mentioned — can never ‘be primarily based on elimination and profit’. 
+However, what is frightening is that a different bioethics that took the road of unscrupulous libertarian 
+individualism might end favouring — these are still the words of Didier Sicard — ‘the use of man as 
+a means dès qu’il est vulnérable’.
+
+9 J.P. Baud, L’affaire de la main volée. Une histoire juridique du corps, Paris, 1993, p. 9.
+10 E. Lecaldano, Bioetica. Le scelte morali, Bari — Roma, 2004, p. 102.
+11 L.R. Kass, Defending Human Dignity , in Human Dignity and Bioethics, New York, 2008, p. 251 s.
+12 W.T. Reich, Dai principi alle persone: evoluzione (necessaria) della bioetica, in Janus, 2002, p. 9 s.
+
+14 
+
+Ethically Speaking 14, July 2010
+
+World bioethics dialogue: 
+Is a common language attainable?
+
+Krzysztof Marczewski
+
+This year we are celebrating the 65th anniversary of the end of World War II. This tragic event, or rather 
+sequence or combination of events, still has great importance for many areas of our lives, including eth-
+ics. Well-known examples are the Declaration of Helsinki, rooted in the Nuremberg trials, the Universal 
+Declaration of Human Rights, or even the Charter of Fundamental Rights of the European Union. 
+
+It  should  also  be  pointed  out  that  the  founding  of  the  European  Coal  and  Steel  Community,  and 
+many other European organisations, including the European Union itself, became possible when peo-
+ples  and  governments  rejected  not  only  the  methods  of  World  War  II  but  also  the  Nazi  ideology 
+behind them, which bore terrible fruits that were recognised very late, for many millions too late. For 
+a Frenchman (for example, Robert Schuman born in Luxembourg) to honestly care whether a German 
+(e.g. Konrad Adenauer) or Italian (e.g. Alcide de Gasperi) would miss either carbon or steel, he had 
+to see people in them. Unfortunately, during the Second World War, or immediately afterwards, this 
+was not at all obvious. The Holocaust was possible because the Nazis rejected the human dignity or 
+even humanity of Jews. We should be aware that there were similar situations and relations between 
+neighbours of different nations in different places in Europe during World War II, after the war and ... 
+much, much later. 
+
+The great merit of the Founding Fathers of the European Union consisted in the fact that they restored, 
+more in practice than in theory, respect for other human beings, making human dignity the cornerstone 
+of a uniting Europe. It should be noted, however, that this cornerstone, like a typical part of a foundation, 
+has been so thoroughly covered by further achievements that, after 40 years, some manage to discover it 
+anew, as their own work. And this happened when the rejection of another nightmarish ideology, Com-
+munism, also known as ‘real socialism’, led to another storey being built on the edifice of European 
+unity. However, Europe is not devoid of memory. Not only does Robert Schuman have his square in the 
+centre of the European quarter in Brussels, but Alcide de Gasperi is also undergoing his beatification 
+process in the Catholic Church. Upon this occasion, we can return to the question of how we understand 
+each other across Europe. In Polish we use the same words for church procedure leading to recognition 
+as Sanctus (Saint) and for the legal procedure leading to recognising someone as a criminal (guilty). 
+Linguistically, what happened with Galileo and what is happening with Schuman is described with the 
+same words, but hopefully with different results. I suppose, first, that the Galileo trial is much more 
+widely known than Schuman’s possible sainthood, and second, that the majority of people using only one 
+language (including or even especially English-speaking people) are unaware of or at least underestimate 
+the problems connected with translation. 
+
+My intuition tells me, however, that at this point I should finish my amateur digressions on theology, and 
+return to the problem of the possibility of mutual understanding in the discussion of ethics. The language 
+of ethics seems to be a bit more difficult than the language of business, however.
+
+Accordingly, we come to words and their meanings. One year ago, during the Day of Dialogue and 
+Ethics in Brussels, I called for simplification of the language of this dialogue. Such simplification on 
+the one hand increases the number of people who can participate but on the other hand creates a danger 
+of lacking a sufficiently accurate and comprehensive description of the problems that are the subject of 
+that dialogue. At this point, I wish to draw attention to an important linguistic phenomenon that can 
+
+Ethically Speaking 14, July 2010 
+
+15
+
+ 
+ 
+significantly impede finding common solutions to bioethical problems. This phenomenon is different 
+interpretation of the same or similar words and terms. During the Madrid meeting, Professor Ryuichi 
+from Japan in his brilliant lecture drew our attention to the significant difficulty in directly relating 
+the European discussion of the basic ethical concept of human dignity to the conceptions held by the 
+Japanese or Koreans. I want to stress very clearly that I cannot imagine that people in Japan and Korea 
+do not show mutual respect. However, they probably use a slightly different conceptual apparatus to 
+express it.
+
+In  2004,  the  European  Union  took  the  courageous  and  important  step  to  include  the  geographically 
+close,  but  ‘linguistically  distant’  Slavic  countries,  Baltic  States  and  Hungary.  Sparing  the  reader  my 
+amateur linguistic arguments, I would emphasise that, regardless of the genetic determinate differences 
+and affinities between languages, it is very important to build communication among people of different 
+languages (contemporary form presumes that all must think in English). The link between neurolinguis-
+tic and genetic is just now ‘under construction’, and we must wait a little to see how deeply and closely 
+connected our languages are with some predisposition in other areas of our activity. 
+
+Here, it must be borne in mind that except for Malta and Cyprus, all the new Member States had for 
+nearly 50 years been quite successfully ‘fenced in’ by the Iron Curtain. Experience of working in the 
+EGE suggests that for many Europeans the new Member States still appear not only to be more distant 
+than the neighbouring countries of the so-called ‘Old Union’, but also further away than America and 
+Japan.
+
+In any attempt to reduce this gap in thinking and feeling, a mutual understanding of history, or at least 
+the crucial moments, is, I believe, very important. At such ‘points of concentrated time,’ certain words 
+and phrases are committed to the memory of nations for many generations. Or maybe rather those parts 
+of society that cherish the memory. I think that there is considerable asymmetry in this memory, how-
+ever. I would cite the example of World War II. 
+
+Less important but perhaps more well-known is that the anniversary of the end of the war in Eastern 
+and Western Europe is celebrated on May 9 and May 8, respectively. However, it is noteworthy that 
+this difference, directly resulting from the difference between Central European Time and Moscow 
+time, for almost 50 years determined the border of the ‘Free World’. This world was well-known to 
+my grandparents, but very distant throughout my childhood and youth. But this story is perhaps easy 
+to understand if we just devote some time to analysing the time zones and a little more to the Yalta 
+Agreements.
+
+It is harder, but in my opinion far more important, to understand the language used for the expression of 
+important ideas. And this is in my opinion a classic example of an obstacle to mutual understanding and 
+agreement.
+
+The promise of ‘blood, toil, tears and sweat’, given to British citizens by Winston Churchill, became 
+well-known in many other countries, including Poland. And it is still used, in whole or in part, in 
+many areas of life, such as sports or the economy. A few months earlier, the Polish Foreign Minister, 
+Josef Beck, had made a speech in parliament in which he rejected Hitler’s demands. I do not expect 
+that a key phrase from this speech, well-known in Polish tradition, is also known in Europe or in the 
+world. But the discussions and cordial conversations I was to have among people from different coun-
+tries interested in ethics, especially in the EGE, made me realise that the translation of the substance 
+of this sentence faces important challenges arising not only from my poor English. The simple phrase 
+‘There is only one thing in people’s lives, nations and states which is priceless. That thing is honour’, 
+which ended this speech, refers to the honour of states and peoples, while in many traditions both 
+honour and dignity relate primarily, if not exclusively, to individuals and families. The terms ‘honour 
+of the European Union’ and ‘the dignity of the Member States’ may be possible to write, but are dif-
+ficult to find even in the internet. I do not want to say that the Poles refused to submit to Hitler for 
+
+16 
+
+Ethically Speaking 14, July 2010
+
+reasons difficult to explain to other nations. Even though the call ‘we do not want to die for Gdansk’ 
+was apparently quite popular in some European countries in 1939 and 1940. More importantly, it 
+illustrates the need to acquire at least an elementary knowledge of the history and culture of peoples 
+and countries with which we want to engage in dialogue. If we really want a dialogue… 
+
+Further Information
+Krzysztof Marczewski  
+EGE member 2005-2010
+
+Address
+Institute of Bioethics, Anthropology and General Theory of Medicine WSZiA 
+22-400 Zamość ul. Akademicka 4 
+Poland  
+krzysztofmarczewski@onet.pl
+
+Ethically Speaking 14, July 2010 
+
+17
+
+THEMATIC SECTION: 
+Biobanks – ethical and 
+legal frameworks
+
+Ethically Speaking 14, July 2010 
+
+19
+
+Australian Health Ethics Committee (AHEC)
+
+Australia
+
+Australian  Health  Ethics  Committee  has  recently  released  an  information  paper  that  describes  the 
+biobank situation in Australia. The document is accessible in full at
+http://www.nhmrc.gov.au/_files_nhmrc/file/your_health/egenetics/practioners/biobanks_information_
+paper.pdf
+
+In the course of 2010, Australian Health Ethics Committee will also be releasing an issues paper on com-
+mercialisation of human tissue products.
+
+Address
+AHEC Secretariat 
+NHMRC 
+GPO Box 1421 
+Canberra ACT 2601 
+Email: ethics@nhmrc.gov.au 
+Telephone: + 61 2 6217 9070
+
+Ethically Speaking 14, July 2010 
+
+21
+
+ 
+Austrian Bioethics Commission
+
+Austria
+
+Austrian Bioethics Commission on biobanks for medical research
+
+In May 2007, the Austrian Bioethics Commission issued a comprehensive opinion on biobanks for medi-
+cal research1, which explores the widely recognised problems and ethical issues relating to biobanks and 
+medical research. These issues include questions of informed consent, data protection, individual claims 
+to ownership and possession versus the common good, and cross-border legal questions concerning the 
+international networking of biobanks. After examining the legal aspects, historical approaches, rules of 
+professional conduct, international and EU law, constitutional and legal provisions, and cultural aspects, 
+the Commission arrives at an in-depth ethical reflection on biobanks for research. It focuses on setting 
+the agenda (individual interests versus the interests of society), individual safeguards (the donor’s right 
+to self-determination), and institutional safeguards.
+
+Legal framework governing biobanks for medical research
+
+Under the current Austrian legal framework, there is no explicit regulation governing biobanks for medi-
+cal research. However, it is possible to derive general principles from existing legal provisions regarding 
+the donor’s right to self-determination, informed consent, privacy, and data protection for the handling 
+of biological material and data.
+
+The donor’s bodily autonomy is enshrined in many provisions of civil law2, penal law3 and administra-
+tive law4. In addition, there are special regulations for research involving individuals who are incapable 
+of giving consent, for example in the Austrian Medicines Act (Arzneimittelgesetz) and in the Medical 
+Devices Act (Medizinproduktegesetz). In principle, however, any action affecting an individual’s bodily 
+integrity requires that individual’s informed consent.
+
+The  right  to  privacy  is  laid  down  in  data  protection  law.  The  Data  Protection  Directive  (Directive 
+95/46/EC) and the Austrian Data Protection Act 2000 define the key principles — such as the principle 
+of having a specified purpose or the principle of consent (individuals must consent to the processing of 
+data). As a general principle, health-related information is considered sensitive data5 and as such enjoys 
+a higher level of protection. The Data Protection Act ceases to apply only when the personal identity of 
+the donor can no longer be established. Under certain circumstances the Data Protection Act limits the 
+protection of information in the interest of research6.
+
+The collection and archiving of samples and data in a biobank for medical research must be registered 
+and approved by the Austrian Data Protection Commission. A prerequisite for the collection of samples 
+and data is the informed consent of the person concerned. At present the donor’s consent needs to be 
+obtained for each individual scientific project.
+
+1  Biobanks for Medical Research, the Opinion of the Austrian Bioethics Commission of 9 May 2007 is available at:
+
+http://www.bundeskanzleramt.at/DocView.axd?CobId=25510.
+
+2  § 16 Austrian Civil Code; § 21 Austrian Civil Code; § 285 Austrian Civil Code; Regulations Concerning the Capacity to Act 
+
+and Legal Guardianship, see in particular § 146c Austrian Civil Code or § 282 Austrian Civil Code.
+
+3 § 90 Penal Code; § 110 Penal Code.
+4 § 8(3) Federal Hospitals Act — KAKuG.
+5 § 4(2) Data Protection Act.
+6  See for example, § 9(10) Data Protection Act; § 24(3)(3) Data Protection Act; but above all § 46 Data Protection Act.
+
+Ethically Speaking 14, July 2010 
+
+23
+
+ 
+Further Information
+Dr Doris Wolfslehner
+Head of Secretariat
+Austrian Bioethics Commission
+
+Address
+Austrian Federal Chancellery
+Ballhausplatz 2
+1014 Vienna
+Austria
+Tel: +43-1-53115/2987
+Fax: +43-1-53109/2987
+E-mail: doris.wolfslehner@bka.gv.at
+Website: www.bka.gv.at/bioethics
+
+24 
+
+Ethically Speaking 14, July 2010
+
+Belgian Advisory Committee on Bioethics
+
+Belgium
+
+Biobanks
+
+A. Opinions
+
+For Opinion No 42 of 16 April 2007 concerning umbilical cord blood banks, we refer to Ethically Speak-
+ing, Issue 9, p. 15. Here you will find a summary of Opinion No 45 of 19 January 2009 on human body 
+parts banks designed for research.
+
+In this opinion, biobank means a collection of human body parts intended for research. These collec-
+tions have existed for a long time, particularly in the anatomy and pathological anatomy departments 
+of university hospitals. Mainly set up for teaching, these collections have contributed significantly to 
+improving knowledge of the causes of diseases and more specifically the identification and classification 
+of cancers.
+
+The progress made in molecular biology, and in genetics and proteomics in particular, has increased 
+interest in these collections. Current technologies in fact enable, DNA, RNA and proteins to be studied 
+in preserved, fixed or frozen tissues, albeit with certain limitations. Combined with clinical data, samples 
+from these collections are thus invaluable material for studying the mechanisms responsible for diseases 
+and therefore for developing new treatment methods. For this purpose, large collections are required. 
+Some now cover a country’s entire population. One of the oldest and best known is the Icelandic Health 
+Sector Database, which collects clinical data and samples from a large percentage of the Icelandic popu-
+lation. The management of this collection has been entrusted to a private firm ‘deCode Genetics’ which 
+has itself entered into an agreement with the pharmaceutical company Roche.
+
+The concern raised by this example has led different countries to legislate on matters concerning the 
+establishment and management of biobanks. In Belgium, a law was adopted on 19 December 2008 on the 
+collection of tissue and other human body parts collected both for treatment and for research purposes.
+
+The biobanks, their establishment and the use of the collected samples raise a series of ethical questions. 
+
+This opinion only deals with biobanks established for academic or commercial research purposes. It is 
+important to distinguish situations where samples are collected specifically for research from situations 
+where researchers wish to use residual material initially taken as samples for diagnostic or treatment 
+purposes. 
+
+In general, the Committee considers that the formal consent of the donor must be obtained either before 
+the sample is taken, in the case of samples collected for research, or before storage in a biobank if this is 
+material remaining from samples. 
+
+When consent is given, patients must be able to determine the use to be made of their samples. These can 
+be used for research into the disease from which the patient suffers or for medical research in general. 
+Patients must also have the possibility to exclude certain types of research, for example research into 
+potential genetic bases of behaviours. If it is impossible to obtain consent or if this requires extraordinary 
+measures, a Medical Ethics Committee must rule on the interest of using the sample.
+
+The Medical Ethics Committee must also give an opinion on the operation of the biobank, its internal 
+regulations and, above all, on the scientific interest of protocols for which samples are requested. For 
+example, it is responsible for verifying that the samples are used for the purpose for which they have 
+
+Ethically Speaking 14, July 2010 
+
+25
+
+ 
+been taken. The Committee must also ensure the protection of privacy and the confidentiality of the data 
+used. The size of the biobanks, the sensitive nature of the personal data associated with the samples and 
+the very nature of these samples are all elements that justify the maximum protection possible.
+
+In its opinion on human body parts banks designed for research, the Advisory Committee discusses 
+the controversial question of the ownership of the samples. Do they belong to the donor, to the institu-
+tion storing them (which often finances the biobank) or even to the researcher who has collected them? 
+A definitive response is difficult to give, but it appears that the manager of the biobank has a major role 
+to play in guaranteeing optimum use of the samples.
+
+B.  Belgian law
+
+The Belgian law of 19 December 2008 on the collection and use of tissue and other human body parts 
+collected both for treatment and for research purposes (see Moniteur Belge (Belgian official journal) of 
+30 December 2008, p. 45270) has brought Belgian legislation into line with European directives. 
+
+Further Information
+
+Bosson Monique 
+Information Officer
+
+Address
+Belgian Advisory Committee on Bioethics
+4 rue de l’Autonomie
+1070 Brussels
+Belgium
+Tel.: +32(0)2.525.09.07
+Fax: +32(0)2.525.09.12
+E-mail: Monique.bosson@health.fgov.be
+Website: www.health.fgov.be/bioeth
+
+26 
+
+Ethically Speaking 14, July 2010
+
+National Commission of Ethics in Research 
+(CONEP)
+
+Brazil
+
+CONEP developed specific guidelines on biobanks in the Resolution 347.
+
+NATIONAL HEALTH COUNCIL
+
+RESOLUTION NO 347, 13 JANUARY 2005
+
+The Plenary of the National Health Council at its 150th Ordinary Meeting, held on 11, 12 and 13 Janu-
+ary 2005, under the competences and powers conferred on it by Law No 8.080 of 19 September 1990 and 
+Law No 8.142, of 28 December 1990, and in view of the need to regulate the storage and use of human 
+biological material as part of research projects,
+
+HAS DECIDED:
+
+To approve the following guidelines for the ethical analysis of research projects that involve the storage of 
+materials or the use of materials stored in previous research:
+
+1.   For research projects envisaging the storage of human biological materials for future research, in 
+addition to the items specified in Resolution CNS No 196/96, the following shall be submitted:
+
+1.1.   A statement of reasons explaining the need for and advantage to be gained by future uses of 
+
+the material; 
+
+1.2.   The  consent  of  the  research  subjects  who  donated  the  biological  material,  authorising  its 
+
+storage; 
+
+1.3.   A statement that all new research to be carried out using the material will be submitted for the 
+approval of the institution’s Research Ethics Committee and, where appropriate, to CONEP, 
+the Comissão Nacional de Ética em Pesquisa (National Board of Ethics in Research);
+
+1.4.    Rules or regulations drawn up by the deposit institution for the storage of human biological 
+
+material. 
+
+2.   The biological material shall be stored under the responsibility of the deposit institution, whose 
+rules or regulations shall be approved by the institution’s Research Ethics Committee and include: 
+
+2.1.   The names of those responsible for the storage of the material and authorisation for its use;
+
+2.2.  Mechanisms that guarantee secrecy and respect for confidentiality (codification); 
+
+2.3.   Mechanisms that allow for contact with donors in order to provide them with information 
+in their interest (e.g. results of exams for clinical follow-up or genetic counselling) or for the 
+purpose of obtaining specific consent for use in a new research project; 
+
+3.   Storage may be authorised for a period of 5 years where the project is approved by the Research 
+Ethics Committee and, where necessary, by CONEP, and may be renewed at the request of the 
+deposit institution, accompanied by a statement of reasons and a report of the research activities 
+carried out with the material. 
+
+4.   In the case of research involving more than one institution, there shall be agreement between the 
+
+participating institutions covering the handling and use of the material stored.
+
+Ethically Speaking 14, July 2010 
+
+27
+
+ 
+5.   Where the biological material bank is stored or compiled outside Brazil, the legislation governing 
+the dispatch of material abroad shall apply, and the regulations shall be submitted for analysis by 
+the Research Ethics Committee regarding compliance with the requirements of item II.
+
+5.1.   The Brazilian researcher and institution shall be regarded as owners of the bank, with the 
+right to access it for future research. In this way the material stored may not be considered 
+the exclusive property of a deposit country or institution. 
+
+6.  On the use of stored samples:
+
+6.1.   Stored samples may be used in new research projects approved by the Research Ethics Com-
+
+mittee and, where appropriate, by CONEP;
+
+6.2.  Research proposals involving the use of stored material shall include:
+
+a)  A statement of reasons for the use of the material;
+
+b)   A description of the collection and storage system, with the date of commencement or the 
+
+period;
+
+c)   A copy of the Free and Clarified Consent Term (Termo de Consentimento Livre e Esclare-
+cido – TCLE) obtained during the research project in which the material was gathered, 
+including authorisation for storage and possible future use, if storage was on the basis of 
+research approved after Resolution CNS No 196/96; and
+
+d)   A specific Free and Clarified Consent Term for new research: where it is impossible to 
+obtain specific consent for further research (death of the donor, previous unsuccessful 
+attempts to make contact, etc.), statements of reasons shall be submitted as part of the 
+procedure for evaluation by the Research Ethics Committee, which shall decide whether 
+or not to waive the individual consent requirement.
+
+6.3.   In the case of biological material for which there are ANVISA (National Health Surveillance 
+
+Agency) rules regarding storage, those rules shall also be complied with.
+
+HUMBERTO COSTA 
+Chair of the National Health Council
+
+Counterpart to Resolution CNS No 347 of 13 January 2005 under the Delegation of Competence 
+(Delegação de Competência) of 12 November 1991.
+
+HUMBERTO COSTA 
+Minister of State for Health
+
+Further Information
+Dr Christian de Paul de Barchifontaine
+Recteur
+Commission nationale d´éthique en recherche (Brésil)
+
+Address
+Rua Raul Pompéia, 144 - 7º Andar - Pompéia - São Paulo - SP
+ZIP CODE: 05025-010 - BRAZIL
+Tél. +55 11 3465.2603
+Fax: + 55 11 3465.2612
+Courriel: cpb@saocamilo-sp.br 
+Site web: www.saocamilo-sp.br
+
+28 
+
+Ethically Speaking 14, July 2010
+
+ 
+ 
+ 
+ 
+German Ethics Council
+
+Germany
+
+Biobanks 
+
+1)  Information on activities concerning biobanks
+
+The German Ethics Council deals with biobanks in its second Opinion ‘Human Biobanks for Research’, 
+which was published on 15 June 2010. 
+
+Human biobanks are collections of samples of human body substances (e.g. tissue, blood, DNA), which 
+are electronically linked to personal data and in particular to health information on the donors. They play 
+a central role in research on the causes and mechanisms of a large number of illnesses and their treatment 
+and are a vital resource for biomedical research. The rapid development in this research area prompted 
+the German Ethics Council to address the topic again, after both the former National Ethics Council 
+and the Study Commission ‘Ethics and Law of Modern Medicine’ of the German Bundestag [the Lower 
+House of the German Parliament], issued earlier Opinions on biobanks.
+
+Biobanks raise ethical and legal questions which extend from the protection of individual rights to the 
+global  control  of  research  infrastructures.  The  Gendiagnostikgesetz  [Gene  Diagnostics  Act],  which 
+entered into force in February 2010, does not deal with these questions. At present, therefore, research 
+biobanks are governed only by general legal provisions. In view of the growing challenges, the German 
+Ethics Council regards it as necessary to create specific provisions for human biobanks.
+
+Previous methods to protect the interests of donors were essentially based on the donors’ informed con-
+sent.  However,  biobanks  have  special  structural  features  that  mean  an  individual’s  consent  can  give 
+only limited protection, since it is given against the background of limited information. The concept of 
+consent should therefore be supplemented by institutional and procedural rules which both set objective 
+limits and also permit flexibility for research with biobanks.
+
+In its Opinion, the German Ethics Council proposes a five-pillar model for biobank regulation. It includes 
+recommendations on introducing biobank secrecy, on defining permissible use, on involving ethics com-
+missions, on quality assurance and on transparency. It is the aim of the recommendations to provide 
+a suitable legal framework for the interests and rights of personality of the donors, to achieve more legal 
+certainty for biobank research and at the same time to facilitate research.
+
+The first and most important pillar of this model is the introduction of biobank secrecy. This should 
+restrict the processing and transmission of samples and related data for the duration of their existence 
+to the purposes of scientific research and guarantee that they are inaccessible to all non-research third 
+parties. The core of biobank secrecy should be provisions identical to those applying to doctors: a duty 
+of professional discretion; a right to refuse to give evidence for the operators, personnel and users of 
+biobanks; and a prohibition of access to samples and data for all persons and institutions outside science, 
+including the state. The second pillar of the model is about defining permissible use of biobank materi-
+als and data. As now, the consent of the donors should continue to be essential for the use of samples 
+and data in biobanks. However, donors should also be able to make their samples and data available for 
+scientific research for an indefinite period, without restriction to a specific research project or a specific 
+field of research. 
+
+As the third pillar of the model, the Ethics Council recommends involving ethics commissions, firstly 
+to provide for cases where personal samples and data are to be used or donors are to be recontacted, and 
+
+Ethically Speaking 14, July 2010 
+
+29
+
+ 
+secondly in order to periodically evaluate the activities of biobanks which are not restricted in subject 
+and duration.
+
+The fourth pillar relates to quality assurance. Donors’ rights should be protected by appropriate organisa-
+tional structures and procedures, and there should be systematic evaluation of all biobanks not narrowly 
+restricted in subject and duration. 
+
+As its fifth pillar, the Ethics Council calls for a number of measures to guarantee the transparency of the 
+goals and procedures of a biobank. These include complete documentation and regular publication of the 
+biobank’s activities, and setting up a publicly accessible biobank register.
+
+The  Ethics  Council  also  recommends  that  internationally  binding  standards  of  protection  should  be 
+introduced. In its Opinion, the Council presents a number of proposals for safeguarding biobank secrecy 
+when samples and data are exchanged with cooperation partners abroad.
+
+In a supplementary position statement, four members of the Council recommend that the proposed pro-
+visions should not apply to thematically and temporally restricted collections, where it is not planned to 
+transmit samples and data for other use, as in the case of academic projects for university dissertations 
+and  theses.  They  fear  that  otherwise  there  could  be  a  legislative  and  administrative  burden  for  such 
+projects. So although these Council members agree with increased regulation of large-scale biobanks, 
+they believe that for thematically and temporally restricted collections the existing provisions to protect 
+data and donors are sufficient. 
+
+The Opinion may be downloaded at http://www.ethikrat.org.
+
+2)  Information on the ethical and legal framework for biobanks in Germany
+
+Biobanks for research in Germany are governed by general rules for data protection, civil law and panel 
+law and, where physicians are involved, by general medical regulations. There is currently no specific 
+ethical or legal framework for biobanks. In addition to the ethical recommendations in the Opinions of 
+the former National Ethics Council and the Study Commission ‘Ethics and Law of Modern Medicine’, 
+there have been Opinions of the Central Ethics Commission of the German Medical Association ZEKO 
+(2003) and the Independent Centre for Privacy Protection Schleswig-Holstein (2009) dealing with ethical 
+aspects of biobanks.
+
+Further Information
+Dr Joachim Vetter 
+Head of Office 
+
+Address
+German Ethics Council  
+Jaegerstrasse 22/23 – 10117 Berlin 
+Tel.: +49/30/20370-242 
+Fax: +49/30/20370-252 
+Email: vetter@ethikrat.org  
+Website: www.ethikrat.org 
+
+Ulrike Florian
+Press and public relations officer
+
+German Ethics Council
+Jaegerstrasse 22/23 – 10117 Berlin
+Tel.: +49/30/20370-246
+Fax: +49/30/20370-252
+Email: florian@ethikrat.org
+Website: www.ethikrat.org
+
+30 
+
+Ethically Speaking 14, July 2010
+
+Hellenic National Bioethics Commission
+
+Greece
+
+A) Biobanks for biomedical research 
+
+The first large-scale biobank in Greece is currently being set up at the BioMedical Research Founda-
+tion of the Academy of Athens by a partnership between the Foundation and the General Secretariat for 
+Research and Technology. It will be financed by national and EU funding. It is expected to be in opera-
+tion by 2012. At present, although not biobanks in the strict sense, there are at least 38 collections of 
+biological material in Greece, held mainly at universities or hospitals. The size of these collections ranges 
+from less than 100 to 200 000 samples, and the type of material kept in each collection varies: various 
+types of tissue, bodily fluids, DNA or RNA. 
+
+Greece  does  not  have  specific  legislation  governing  biobanks,  but  the  following  existing  legislation 
+applies: 
+
+•  Articles of the Constitution for the protection of privacy (Art. 9), the protection of health and 
+genetic identity (Art. 5), and the protection of public health as an obligation of the state (Art. 21). 
+
+•  The Data Protection Act (2472/1997), which covers biobanks, since data relating to a person’s 
+
+health are considered sensitive (Art. 2). 
+
+•  The Code of Medical Ethics (Act 3418/2005), when physicians are involved in the collection of 
+material. In particular, specific articles of the act refer to the physician’s obligation to maintain 
+confidentiality and to the right of the patient to free and informed consent. 
+
+•  The Medically Assisted Reproduction Act (3305/2005), in the case of banking of reproductive cells 
+
+and tissue. Storing this type of material is allowed for reproductive purposes only. 
+
+•  Health System Reform Act (2071/1992), in particular the articles relating to the rights of hospital 
+
+in-patients. 
+
+One of the central ethical and legal issues in biobanking is ascertaining whether appropriate consent 
+has been obtained from the donors of the biological material. Current Greek legislation for the protec-
+tion of sensitive personal data requires that consent should be freely and explicitly given and that donors 
+should receive ‘information as to the purpose of processing, (…) the recipient or categories of recipients 
+of personal data (…)’. Under the law, such consent may be revoked at any time though without retroac-
+tive effect. Such requirements for consent can be very restrictive for a biobank, as, given the nature of 
+biobanking, the samples will be used for a long time and it is not possible to predict either the range of 
+research projects they will be used for or the researchers that will be involved. Nevertheless, a solution 
+may be found in a provision of the law stating that: ‘data can be lawfully processed for research and sci-
+entific purposes on the condition that it is anonymised’. 
+
+In 2006, the Hellenic National Bioethics Commission (HNBC) issued an Opinion on Human Biobanks1. 
+In its opinion, the Commission stresses the importance of biobanks for scientific advancement and the 
+promotion of public health, and supports the promotion of biobanking. It takes the view that several 
+issues specific to biobanking and not covered by the Data Protection Act need to be addressed. It there-
+fore suggests that special authorisation is needed for the creation of biobanks, preferably from a central 
+public authority, in addition to authorisation from the data protection authority. 
+
+1  On Banks of Biological Material of Human Origin (biobanks) in Biomedical Research: http://www.bioethics.gr/document.
+
+php?category_id=55&document_id=367.
+
+Ethically Speaking 14, July 2010 
+
+31
+
+ 
+B) Forensic biobanks 
+
+Greek legislation currently does not allow the creation of forensic genetic fingerprint databases or any 
+other type of forensic biobanks. Under the Greek Penal code (Art. 200A: Analysis of DNA) biological 
+material can be collected for DNA analysis (from those suspected of criminal offences involving vio-
+lence or sexual assault or of taking part in organised crime), but it must be destroyed after analysis. In 
+addition, DNA fingerprints must be destroyed at the end of the judicial process, whatever the outcome. 
+
+Greece has taken on the obligation, by signing relevant EU treaties, to create forensic DNA databases, 
+provided that civil rights are adequately protected. The Data Protection Authority will be involved in any 
+future changes to current legislation to allow the creation of such forensic DNA databases. 
+
+The HNBC has issued an opinion on genetic fingerprints2. It is in favour of DNA forensic databases 
+provided it includes only fingerprints of those convicted for crimes for which genetic fingerprinting was 
+deemed necessary, and fingerprints of others who have not been convicted of crimes but have freely 
+consented. 
+
+Ariadne L. Hager-Theodorides, 
+Senior Scientist at the HNBC
+
+References
+
+National Bioethics Commission, On the Use of Genetic Fingerprints in Criminal Procedure, Opinion 
+and Report, 2001 
+
+National Bioethics Commission, On Banks of Biological Material of Human Origin (biobanks) in Bio-
+medical Research, Opinion and Report, 2006 
+
+Sandor J, Drakopoulou A, Bard P, The Legal Regulations of Biobanks, National Report: Greece, CELAB 
+Paper Series, 2009, ISBN 978-963-87714-9-0.
+
+2  On the Use of Genetic Fingerprints in Criminal Procedure:
+
+http://www.bioethics.gr/document.php?category_id=55&document_id=101.
+
+Further Information
+Ms Marianna Dracopoulou
+Head of Secretariat
+
+Address
+47, Evelpidon str.
+11362- Athens- Greece
+Tel.: +30-210-88.47.700, Fax: +30-210-88.47.701
+E-mail: Secretariat@bioethics.gr
+Website: www.bioethics.gr
+
+32 
+
+Ethically Speaking 14, July 2010
+
+National Committee for Bioethics
+
+Italy
+
+Biobanks: bioethical and biolegal aspects
+
+1.  Opinions issued by the Italian Committee for Bioethics on biobanks
+
+At  its  plenary  session  on  9  June  2006,  the  Italian  Committee  for  Bioethics  approved  an  Opinion  on 
+Biobanks and research on human biological material. The opinion looks at the ethical and legal prob-
+lems associated with the use of human biological material in research and examines two documents: the 
+draft recommendation of the Steering Committee on Bioethics of the Council of Europe (2006) and the 
+Opinion of the Italian Committee for Biosafety and Biotechnologies on Guidelines for the creation and 
+certification of biobanks (2006).
+
+The two documents outline the principles to be followed by researchers in the use of biological material, 
+balancing the interests of individual donors of biological material, the interests of society as a whole, 
+and those of the researchers themselves. The most important ethical issues are: the duty to evaluate risks 
+and benefits, which must precede any participation in a research protocol; specific informed consent of 
+the donor regarding the nature and extent of the use of the biological material itself; no direct or indi-
+rect remuneration of the donor; prohibition of any kind of individual or social discrimination based on 
+knowledge of data deriving from conserved samples; right to access and check personal details; right to 
+anonymity of samples and data, provided that non-anonymous (i.e. identified and coded) use of the bio-
+logical material or associated data is in the interest of donors and freely accepted by them.
+
+The Committee for Bioethics agrees with the recommendations of both documents on these points. It 
+also endorses the distinction between ‘collections of biological material’ and ‘tissue banks’: the first are 
+specialised collections of material, while the second have a wider aim of providing a service to research-
+ers, even external to the body that promotes and manages the bank. The Committee underlines that 
+informed consent must not be limited to immediate use, but considers that future uses must be consistent 
+with those for which the sample was taken. The Committee, moreover, points out the need and urgency 
+of legal regulation in Italy to establish criteria for the founding and organisation of biobanks (without 
+however imposing too rigid or detailed rules that would be ignored or rapidly rendered outdated by con-
+crete needs) and supports the idea of carrying out a preliminary census of collections of biological mate-
+rial and the tissue banks already held by public and private healthcare facilities, and setting up a National 
+Register. 
+
+The Committee stresses, furthermore, that biobanks are likely to grow in scale, from local to national, 
+and from national to European, which might have an effect on ethical issues, engendering a shift in 
+attitudes towards less individualism and a new sense of solidarity between groups and generations, for 
+a common resource to be made available on the basis of rules for democratic participation.
+
+Together with the National Committee for Biosafety, Biotechnologies and Life Sciences, the Committee 
+for Bioethics approved an Opinion on Collection of biological samples for research: informed consent on 
+16 February 2009. This opinion deals with the ethical problems of preserving samples beyond the time 
+necessary to achieve the aim for which the sample was collected and the use of samples for purposes 
+other than those initially intended. It is important to consider the different situations that arise, whether 
+the samples are collected or deposited anonymously, or whether they are still identifiable (through pro-
+tection codes). 
+
+Ethically Speaking 14, July 2010 
+
+33
+
+ 
+It is important that the model of consent ensures that donors are informed about the future use of the 
+biological material and about the procedures followed to protect personal data. Informed consent has 
+to balance the interests of society and the protection of personal information. The main guidelines may 
+be summarised as follows: 1) the donation of biological samples for research purposes cannot have any 
+lucrative purpose; 2) the dissemination of knowledge obtained from the collection of samples must edu-
+cate citizens towards solidarity; 3) the information must be clear, true, precise and communicated in 
+a way that does not lead to false hopes; 4) informed consent must be specific; 5) the local Ethics Commit-
+tees must include a geneticist, in case the research is carried out on preserved samples and is of genetic 
+interest.
+
+2.  Regulations in Italy
+
+In Italy there is no specific and systematic legal framework in this field, although biobanks are attracting 
+the attention of policymakers. 
+
+On 15 July 2004 an agreement was signed between the Ministry of Health and the regions, including the 
+autonomous provinces of Trento and Bolzano, on Guidelines on genetic activities. A legislative decree of 
+19th August 2005 (No 191) implements Directive 2002/98/EC to set quality and safety standards for the 
+collection, testing, processing, storage and distribution of human blood. Law No 219 of 21 October 2005 
+governs blood transfusions and products. An ordinance of the Ministry of Health (13 April 2006) regu-
+lates the use of stem cells and umbilical cord blood.
+
+Italian  regulation  governing  human  samples  and  associated  data  is  contained  in  data  protection  acts 
+(laws and decrees), which also cover the exchange (import/export) of biological material for research 
+uses. On 22 February 2007, the Italian Data Protection Authority issued a General Authorisation for the 
+Processing of Genetic Data. This authorisation applies to the processing of genetic data and to the col-
+lection and use of biological samples for health care and research purposes. This authorisation originally 
+came into force in April 2007, and has since been extended until 30 April 2010. There is now a debate on 
+further extending or modifying it. 
+
+Further Information
+Prof. Laura Palazzani
+Vice President of the Italian Committee for Bioethics, Full Professor of Philosophy of Law at Uni-
+versity Lumsa
+
+Address
+Comitato Nazionale per la Bioetica
+via della Mercede 96 – 00197 Roma — Italy (Europe)
+Tel.: 0039-0667794601
+Fax: 0039-0667794686
+E-mail: cnbbioetica@palazzochigi.it; palazzani@lumsa.it
+Website: www.governo.it/BIOETICA/
+
+34 
+
+Ethically Speaking 14, July 2010
+
+National Council of Ethics for the Life Sciences
+
+Portugal
+
+The ethical and legal framework governing biobanks in Portugal
+
+In Portugal, Law No 12/2005 of 26 January 2005 regulates personal genetic and health information. 
+Under  this  law,  ‘genetic  databases’  and  ‘DNA  and  other  biological  product  banks’  are  regulated  for 
+genetic testing and health-related research. However, the legislation required to put the law into practice 
+has not yet been enacted. 
+
+Regarding personal information and data protection, Law No 67/98 of 26 October transposes Directive 
+95/46/EC of 24 October 1995 into national legislation. Personal data are defined as any information, 
+regardless of its nature, that can identify a particular individual, directly or indirectly — a wide con-
+cept that includes genetic information. The law addresses data treatment and circulation, in which free 
+informed consent is a key requirement.
+
+The National Council of Ethics for the Life Sciences (CNECV) has issued Opinions No 37/CNECV/01 
+and No 43/CNECV/2004 on personal genetic information — available online at www.cnecv.pt (in Por-
+tuguese only).
+
+On March 12 2005 a new Government took office with a majority formed by the Socialist Party follow-
+ing parliamentary elections. Part of its programme was to engage more effectively in fighting crime and 
+promoting better penal justice. To this end, a national genetic database for individual identification was 
+to be set up.
+
+Following opinions issued by the CNECV and the National Committee for Data Protection (CNPD), 
+as well as a parliamentary debate in which the opposition parties reiterated several ethical and legal 
+objections, Law No 5/2008 of 12 February 2008 was approved, thus enabling the creation and main-
+tenance of public DNA profile databases and associated biobanks for civil identification and forensic 
+purposes.
+
+Under this law, a ‘biobank’ is any repository of biological samples, or their derivatives, obtained exclu-
+sively for identification purposes.
+
+In its Opinion No 52/CNECV/2007 on the legal system for DNA profile databases, the CNECV based its 
+arguments on a report reviewing the state of the art in DNA profiling, in addition to a thorough overview 
+of other European databases. 
+
+The fundamental ethical principles of autonomy, vulnerability and proportionality were at the forefront 
+of the debate within the CNECV. Specific issues discussed included: the selection and inclusion criteria 
+for DNA profiles, ownership and access to information; security, privacy and confidentiality; storage of 
+samples and data; international data sharing; cost-effectiveness; and public debate and consultation.
+
+In its Opinion, the CNECV recognised DNA databases as an important tool in civil identification and 
+criminal investigation and as a means of reinforcing the power and efficacy of the state in matters of 
+public security.
+
+However, the construction and maintenance of DNA databases was regarded as a possible menace to 
+citizens, even more so due to the sensitive nature of the information. Even technical limitations and the 
+possibility of error can turn into ethical issues.
+
+Ethically Speaking 14, July 2010 
+
+35
+
+ 
+Bearing these considerations in mind, the CNECV issued several caveats and recommendations. 
+
+Parliament enacted the law shortly thereafter. Some of the CNECV’s recommendations, namely those 
+regarding informed consent, were taken into account. Other issues, such as the maintenance and custody 
+of samples, were not considered. Provision for private custody of biological samples was introduced just 
+before the law was passed in Parliament.
+
+The Opinion is available online at www.cnecv.pt (in English).
+
+Further Information
+Miguel Oliveira da Silva, President 
+mos@cnecv.pt 
+
+Michel Renaud, Vice-President 
+mrenaud@cnecv.pt 
+
+Cíntia Águas, Executive Secretary 
+caguas@cnecv.pt
+
+Address
+National Council of Ethics for the Life Sciences
+Avenida D. Carlos I, n.º 146 – 2º Esq.
+1200-651 LISBOA (PORTUGAL)
+Tel.: +351 213 910 884
+Fax: +351 213 917 509
+E-mail: geral@cnecv.pt 
+Website: www.cnecv.pt
+
+36 
+
+Ethically Speaking 14, July 2010
+
+GENERAL INFORMATION  
+ON ACTIVITIES of the  
+EU national and regional 
+ethics committees*
+
+*  For further information on EU national and regional ethics committees please see 
+
+http://ec.europa.eu/european_group_ethics/international_bioethics_dialogue/docs/IDB_brochure.pdf
+
+Ethically Speaking 14, July 2010 
+
+37
+
+Austrian Bioethics Commission
+
+Austria
+
+New Commission tackles ethical issues in direct-to-consumer genetic testing
+
+Having defined its work programme for the first half of its fifth two-year term in November 2009, the 
+Austrian Bioethics Commission spent its first six months actively implementing its plan. As the first 
+topic  in  its  new  formation,  the  Commission  chose  to  tackle  the  ethical  issues  surrounding  direct-to-
+consumer (DTC) genetic testing. The Commission issued its opinion on 10 May 20101. 
+
+Direct-to-consumer genetic testing
+
+The notion direct-to-consumer refers to the possibility for companies to offer their customers products 
+and services directly on the internet without intermediaries. For potential clients, DTC presents an oppor-
+tunity to purchase products and services directly from the provider regardless of national boundaries and 
+to some extent without national regulatory oversight. A relatively new area in DTC services, namely 
+genetic self-testing on the internet, poses a number of ethical challenges. While the detailed requirements 
+laid down in the Austrian Gene Technology Act2 for genetic testing regarding quality assurance of the 
+genetic analysis, informed consent, counselling, and protection of privacy apply to tests performed in 
+health care settings in Austria, they do not apply to genetic self-tests conducted with companies located 
+outside Austrian jurisdiction. Against this background, the Austrian Bioethics Commission considered 
+it imperative to discuss and communicate the various problems surrounding such services to the general 
+public and potential customers in the form of an opinion.
+
+In  general,  due  to  the  lack  of  protection  provided  by  national  regulatory  oversight,  the  Commis-
+sion  sounds  a  note  of  caution  with  regard  to  genetic  self-tests  on  the  internet.  More  specifically,  it 
+recommends: 
+
+• 
+
+• 
+
+the consultation of specialists in the field when there is reason to suspect a monogenic disease (for 
+example, hereditary breast cancer, some forms of colorectal cancer, Huntington’s disease (chorea), 
+etc.), in order to obtain comprehensive counselling; 
+
+refraining in principle from tests for possible polygenic multifactorial diseases, which are strongly 
+influenced by exogenous factors, since the diagnostic value of such tests is currently too low to 
+have any clinical significance.
+
+If people nevertheless opt for genetic testing on the internet, the Commission recommends 
+
+•  prior consultation of a physician experienced in genetics and in the procedure of genetic testing;
+
+•  not sending for testing under any circumstances test samples from minors or persons who are 
+
+incapable of consent. 
+
+Additionally, the Commission recommends that relevant professional interest groups such as medical 
+associations provide their membership with material for continuing education on the genetic, legal and 
+ethical dimensions of genetic testing on the internet. 
+
+1  German version of the opinion ‘Stellungnahme der Bioethikkommission zu Gen- und Genomtests im Internet’, 10 May 2010, 
+
+available at: http://www.bundeskanzleramt.at/site/3458/Default.aspx.
+
+2  Austrian Gene Technology Act (Gentechnikgesetz (GTG)). BGBl. Nr. 510/1994. Overview in English available at:
+
+http://www.bmg.gv.at/cms/site/standard.html?channel=CH0808&doc=CMS1217417300079.
+
+Ethically Speaking 14, July 2010 
+
+39
+
+ 
+Events past and future
+
+In the reporting period, the Austrian Bioethics Commission organised three scientific conferences: 
+
+• 
+
+• 
+
+• 
+
+‘Bioethics Law’ (‘Loi bioéthique’) in cooperation with the French Embassy in Vienna, 
+14 December 2009;
+
+‘Research Ethics and Research Law’ (‘Forschungsethik und Forschungsrecht’) in cooperation with 
+the Institute for Ethics and Law in Medicine at the University of Vienna, 14-15 January 2010;
+
+‘Aging  in  Europe‘  (‘Altern  in  Europa’)  in  cooperation  with  Bildungshaus  St.  Virgil,  Salzburg, 
+18-19 February 2010.
+
+On 31 May 2010 the Austrian Bioethics Commission will hold its second international conference on 
+the topic Bioethics and Women. The conference, entitled Bioethics and Women Revisited: Clinical Tri-
+als, will focus on women’s perspectives on the clinical research agenda, future challenges in gender 
+medicine, the gender perspective in international scientific medical journals, and research in vulnerable 
+groups.
+
+Further Information
+Dr Doris Wolfslehner
+Head of Secretariat
+Austrian Bioethics Commission
+
+Address
+Austrian Federal Chancellery
+Ballhausplatz 2
+1014 Vienna
+Austria
+Tel: +43-1-53115/2987
+Fax: +43-1-53109/2987
+E-mail: doris.wolfslehner@bka.gv.at
+Website: www.bka.gv.at/bioethics
+
+40 
+
+Ethically Speaking 14, July 2010
+
+Belgian Advisory Committee on Bioethics
+
+Belgium
+
+About the Committee
+
+After  a  period  during  which  the  Belgian  Advisory  Committee  on  Bioethics  dealt  only  with  current 
+affairs, the ‘new’ Belgian Advisory Committee on Bioethics was set up on 1 February 2010 for a four-
+year term (2/02/2010-1/02/2014).
+
+The current composition of the Committee can be found on the website  
+www.health.fgov.be/bioeth (heading on the right, ‘more about this topic’: ‘current composition of the 
+Committee’)
+
+Further Information
+Bosson Monique
+Information Officer
+
+Address
+Belgian Advisory Committee on Bioethics
+4 rue de l’Autonomie
+1070 Brussels
+Belgium
+Tel.: +32(0)2.525.09.07
+Fax: +32(0)2.525.09.12
+E-mail: Monique.bosson@health.fgov.be
+Website: www.health.fgov.be/bioeth
+
+Ethically Speaking 14, July 2010 
+
+41
+
+ 
+Cyprus National Bioethics Committee
+
+Cyprus
+
+The Committee
+
+The Cyprus National Bioethics Committee (CNBC) was established in 2001 by Law No 150 (I) of 2001 
+providing for the establishment and functioning of the National Bioethics Committee.
+
+Its mandate is to constantly monitor, survey, systematically analyse and evaluate the issues and problems 
+associated with scientific research, advances in and applications of biotechnology, biology, medicine, 
+genetics and pharmaceutics, and human intervention in biological processes and the human genotype, 
+and to investigate their moral, deontological, social, humanistic and legal dimensions.
+
+The CNBC is an independent body not subject to administrative supervision by any ministry, agency, 
+department or service and has the powers conferred on it by law.
+
+It has 13 members, including the chairperson. The members represent different professions and disci-
+plines, and are appointed by the Council of Ministers of the Republic of Cyprus for a four-year term. At 
+least four members must come from the humanities and social sciences, four must be from the medical 
+and biological sciences, and four members must be from any other science or profession or be distin-
+guished for their contribution in any area of activity in science and society.
+
+By law, CNBC is the body responsible for bioethical review of all research protocols involving human 
+subjects in Cyprus (both biomedical and clinical research). In order to carry out its task, the CNBC has 
+adopted  more  or  less  unchanged  the  World  Health  Organisation’s  ‘Operational  Guidelines  for  ethics 
+committees that review biomedical research’ as the basis of its guidelines for ethics committees review-
+ing biomedical research involving human subjects in Cyprus. These were promulgated on 31 May 2005 
+(Κ.Δ.Π. 175/2005).
+
+In accordance with these guidelines and with the authority conferred on it by Law No 150 (I)/2001, the 
+Committee has set up the following three Bioethics Review Committees:
+
+I. 
+
+ The Bioethics Review Committee for biomedical research on human beings and their biological 
+substances,
+
+II.  The Bioethics Review Committee for clinical trials on medicinal products for human use, and
+
+III.   The Bioethics Review Committee for biomedical research on human beings and their biological 
+
+substances and clinical trials on medicinal products for human use.
+
+The Bioethics Review Committees review protocols relating to:
+
+•  biomedical research on human beings and their biological substances,
+
+•  clinical trials on medicinal products for human use, and,
+
+• 
+
+research on medical devices applied to human beings.
+
+The role of the Bioethics Review Committees is to:
+
+(1)   contribute  to  safeguarding  the  dignity,  rights,  safety  and  well-being  of  all  actual  or  potential 
+
+research participants,
+
+(2)  ensure independent, competent and timely review of the ethical aspects of proposed studies,
+
+(3)  review research proposals before research begins.
+
+Ethically Speaking 14, July 2010 
+
+43
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The CNBC appoints the members of the Bioethics Review Committees, monitors, directs and coordi-
+nates their work and reviews their decisions following the specific procedures set out in the operational 
+guidelines (Κ.Δ.Π. 175/2005).
+
+Current work and forthcoming opinions
+
+•  Obtaining informed consent from minors for participation in research protocols.
+
+Previous opinions
+
+1.  Opinion of the Cyprus National Bioethics Committee on obtaining informed consent from adults, 
+
+issued 01/12/2009 (available in Greek only).
+
+2.  Opinion on the establishment and use of human biobanks and registries of human biological sam-
+
+ples for research purposes, issued 23/06/2009 (available in Greek and in English).
+
+3.  Opinion on the use of ionising radiation in medical practice, issued 12/05/2009 (available in Greek 
+
+and in English).
+
+4.  Opinion on palliative care for terminally ill and dying patients, issued 01/07/2008 (available in 
+
+Greek and in English).
+
+5.  Opinion on genetically modified organisms, issued 03/04/2008 (available in Greek and in English).
+
+6.  Opinion on prenuptial testing for thalassaemia before the conclusion of a civil wedding, issued 
+
+24/03/2008 (available in Greek only).
+
+7.  Opinion on predictive health information for the conclusion of health and life insurance contracts, 
+
+issued 22/01/2008 (available in Greek and in English).
+
+8.  Opinion on medically assisted human procreation (05/03/2007) (available in Greek only).
+
+9.  Opinion on PGD and sex selection of in-vitro procreated embryos, issued 01/11/2006 (available in 
+
+Greek only).
+
+10. Opinion on human cloning, issued 12/09/2006 (available in Greek only).
+
+11. Opinion on human organ donors registries issued 19/07/2006 (available in Greek only).
+
+12. Opinion on cord blood banking, issued 27/04/2004 (available in Greek only).
+
+13. Opinion on transplantation of biological substances of human origin, issued 14/04/2003 (available 
+
+in Greek only).
+
+14. Opinion on the use of preimplantation genetic diagnosis, issued 20/10/2003 (available in Greek 
+
+only).
+
+Further Information
+
+Rena Vrahimi- Petridou
+President, the Cyprus National Bioethics Committee
+
+Address
+
+Nikou Kranidioti Engomis
+Medical Centre 1st Floor
+2411 Engomi Cyprus
+Tel.: +357 22 809038 / +357 22 809039
+Fax: +357 22 353878
+Email: cnbc@bioethics.gov.cy
+Website: www.bioethics.gov.cy
+
+44 
+
+Ethically Speaking 14, July 2010
+
+Danish Council of Ethics
+
+Denmark
+
+The Ethics of Man and Machine — cyborgs and robots
+
+The popular Danish multimedia website devoted to man and machine – now in English! The Danish 
+Council of Ethics is soon to open its English website on the ethics of man and machine. Look out for it 
+in August 2010.
+
+Aiming  to  support  popular  ethical  debate,  the  Danish  Council  of  Ethics  has  launched  a  multimedia 
+website on technology that challenges the boundary between man and machine. What are the ethical 
+issues involved in hooking up robot parts directly to the human brain? And what will we do once robots 
+become so intelligent that they are like us?
+
+The Danish Council of Ethics has for some time provided a platform for public debate in Denmark, It has 
+now put forward its recommendations on cyborg technologies and on ‘social robots’. At the same time, 
+its entire website and recommendations are being made available in English.
+
+The English website will open in August — and its launch will be accompanied by a bonus online inter-
+view about the pitfalls of robotic enhancement with the world-famous political scientist and philosopher 
+Dr Francis Fukuyama.
+
+In its 2005 deliberations on the ethical aspects of implanting IT technology in the human body, the Euro-
+pean Group on Ethics (EGE) suggested that national ethical councils should promote debate on these 
+issues. The Danish Council of Ethics has done exactly that with success. Now the Council is opening an 
+English version of its website www.homoartefakt.dk — thereby transforming it into a platform for pan-
+European debate about man–machine ethics and technology. 
+
+At the forefront of ethical debate
+
+It will be many years before we can upgrade our bodies with night vision or superior intelligence, and 
+perhaps this will never happen. It will also be many years before it becomes hard to tell a person from 
+a robot. And perhaps that will never come about either.
+
+But the integration of man and machine is not a futuristic scenario. It is a high-priority field of research 
+in the EU, the USA and Japan. In Denmark, the government has decided to invest large sums in the 
+development of robotic technologies to support the care of the elderly. Likewise, robotic care technolo-
+gies  and  research  into  interfaces  between  the  human  neuronal  system  and  robotic  devices  are  high-
+priority fields in EU research programmes. 
+
+The  Danish  Council  of  Ethics  holds  that  the  time  is  right  for  discussing,  in  ethical  terms,  what  are 
+the  desired  purposes  of  such  technology  —  and  what  are  not,  The  Council’s  multimedia  website 
+www.homoartefakt.dk is especially conceived for dissemination and debate. It contains a film, several 
+interviews with European researchers, a lot of background articles and ethical recommendations from 
+the Council. 
+
+Links:  
+www.homoartefakt.dk 
+
+Ethically Speaking 14, July 2010 
+
+45
+
+ 
+Further Information
+Thomas Laursen 
+Project leader 
+The Danish Council of Ethics
+
+Address
+Ravnsborggade 2-4 
+2200 Copenhagen 
+Denmark 
+Tel.: (+45) 3537 5833 
+Fax: (+45) 3537 5755
+E-mail: info@etiskraad.dk 
+Website: www.etiskraad.dk
+
+46 
+
+Ethically Speaking 14, July 2010
+
+German Ethics Council
+
+Germany
+
+First Opinion — Anonymous relinquishment of infants: tackling the problem
+
+The German Ethics Council published its first Opinion, entitled ‘Anonymous relinquishment of infants: 
+tackling the problem’ on 26 November 2009.
+
+The aim of ‘baby drops’, which have existed in Germany since 1999, and facilities for anonymous birth, 
+was to prevent the abandoning and killing of infants. Estimates indicate that since these two facilities 
+were introduced some 500 children have effectively become foundlings with permanently anonymous 
+origins. The existing facilities for anonymous birth raise serious ethical and legal problems, in particular 
+because they violate the rights of the children concerned to a knowledge of their origins and to a rela-
+tionship with their parents. Moreover, experience to date suggests that women at risk of killing or aban-
+doning their newborn babies are not affected by the availability of these facilities. The ethical and legal 
+problems linked with anonymous relinquishment of infants are discussed in detail in the Ethics Council’s 
+Opinion.
+
+Public  bodies  for  child  and  youth  welfare,  independent-sector  institutions  and  conflicted-pregnancy 
+counselling centres offer a wide range of effective assistance on a statutory basis to women, including 
+women in extreme emergency situations. They also ensure that their children do not remain in ignorance 
+of their origins and biological family. However, this assistance is not always taken up.
+
+The German Ethics Council aims, by means of its recommendations, to help create a situation where 
+pregnant women and mothers can receive the most effective assistance possible in an emergency, without 
+violating the rights of others — specifically, those of their children.
+
+The Ethics Council recommends that the existing baby drops and facilities for anonymous birth be abol-
+ished. This should be accomplished by a process conducted jointly by all bodies with the relevant politi-
+cal responsibility. As an accompanying measure, more publicity should be given to the existing legally 
+permitted facilities for helping pregnant women and mothers in situations of emergency or conflict. In 
+addition, action should be taken to enhance trust in the legal facilities available. 
+
+As a further means of helping pregnant women and mothers in emergency situations, the Ethics Council 
+suggests the introduction of a ‘law on the confidential relinquishment of infants with temporarily anony-
+mous registration’. This would create a statutory foundation for aiding women in a serious situation of 
+distress or conflict who feel that they need to conceal the fact of their maternity, by providing especially 
+easy access to facilities to help them solve their problems by counselling and ongoing assistance with 
+a guarantee of absolute confidentiality.
+
+In its recommendations, the Ethics Council points out that in cases of immediate physical danger to the 
+life and health of mother and child, it is undisputed that, on the basis of the duty to render assistance, 
+the law governing emergency situations legitimises the provision of medical care for a woman in child-
+birth even if she fails to disclose her identity. However, this obligation does not extend to the systematic 
+availability of facilities for anonymous relinquishment of infants independently of the existence of an 
+individual acute emergency situation, such as baby drops or facilities for anonymous birth, or to support 
+with the preservation of anonymity once the acute emergency is over.
+
+In cases where infants are nevertheless relinquished anonymously, the German Ethics Council con-
+siders certain minimum measures for protection of the rights of both the child and the parents to be 
+necessary — in particular, immediate notification of the child’s birth to the youth welfare centre, 
+
+Ethically Speaking 14, July 2010 
+
+47
+
+ 
+and the appointment of a guardian independent of the institution where the child was relinquished 
+anonymously.
+
+In a supplementary position statement two members of the Council indicated that, while they agreed 
+with the Council’s recommendations — in particular, that the availability of facilities for the anonymous 
+relinquishment of infants should be abolished — they did not consider the statutory provision for confi-
+dential birth proposed by the Council to be necessary, because the aim of offering women a confidential 
+space to overcome their emergency situation could already be achieved by means of the existing legally 
+permitted easy-access counselling and assistance services.
+
+A group of six members noted in a dissenting position statement that they could not accept the recom-
+mendation that the existing facilities for the anonymous relinquishment of infants should be closed down 
+immediately or gradually, because in their view these facilities might, for the small number of parents 
+and women who were unable to avail themselves of the counselling centres, constitute a last resort offer-
+ing a potential alternative to abandoning their children to their fate without anyone to care for them.
+
+The Opinion can be accessed at http://www.ethikrat.org.
+
+Further Information
+Dr Joachim Vetter 
+Head of Office 
+
+Address
+German Ethics Council  
+Jaegerstrasse 22/23 – 10117 Berlin 
+Tel.: +49/30/20370-242 
+Fax: +49/30/20370-252 
+Email: vetter@ethikrat.org  
+Website: www.ethikrat.org 
+
+Ulrike Florian
+Press and public relations officer
+
+German Ethics Council
+Jaegerstrasse 22/23 – 10117 Berlin
+Tel.: +49/30/20370-246
+Fax: +49/30/20370-252
+Email: florian@ethikrat.org
+Website: www.ethikrat.org
+
+48 
+
+Ethically Speaking 14, July 2010
+
+ 
+Hellenic National Bioethics Commission
+
+Greece
+
+A. Most recently issued opinion (19 April 2010)
+
+The Commission has recently issued an opinion on ‘Consent in the physician-patient relationship’. 
+It  will  be  translated  into  English  and  published  on  the  English  pages  of  the  Commission’s  website 
+(www.bioethics.gr). 
+
+Please note that the full text (in pdf format) of all opinions and reports issued by the Commission, in 
+English, can be found at the following URL:
+
+http://www.bioethics.gr/category.php?category_id=55, or can be requested from the secretariat, 
+Secretariat@bioethics.gr.
+
+B.  Current work
+
+Currently, the Commission is discussing the issue of ‘Infectious diseases: Public health and autonomy’. 
+
+C. Working with others
+
+The Commission recognises the importance of learning from others and sharing knowledge and best 
+practices. 
+
+In January 2010, the Commission followed up on previous communication with the Minister of Public 
+Health, regarding the unregulated operation of cord blood banks in Greece, and suggested specific meas-
+ures to be adopted. 
+
+Furthermore,  the  Commission  was  invited  to  participate  in  the  public  consultation  organised  by  the 
+National Commission of Human Rights on the issue of HIV carriers in Greece. The meeting was organ-
+ised following the Greek Supreme Court’s ruling regarding the dismissal of an HIV-positive employee. 
+
+D. New seminars series on bio-law 
+
+In February 2010, the Commission launched its first seminar series on bio-law. This initiative, which 
+addresses mainly young forensic scientists, aims to inspire participants in their work and to support the 
+development of the new field of bio-law in Greece. 
+
+The seminars are held once a month at the Commission. Participants take turns to present their work on 
+a specific bioethical issue, followed by discussion led by a commentator. So far there have been presenta-
+tions on the following subjects: ethical status of the foetus, euthanasia, clinical trials and biobanks. 
+
+E.  Communicative tools
+
+Since October 2008, the Commission’s newsletter BIO-ETHICA has proved to be a most valuable tool 
+for the Commission’s communication with the general public. The newsletter includes announcements, 
+news and events involving the Commission, international news related to bioethics, book reviews, and 
+information on local and international bioethics meetings or conferences. It is sent to an extensive list of 
+recipients in Greece at the end of every month. 
+
+Ethically Speaking 14, July 2010 
+
+49
+
+ 
+F.  Publications
+
+The Commission is trying to promote the establishment of research ethics committees in Greece and has 
+published a Guide on Research Ethics for the biological sciences. This publication will be distributed to 
+all research foundations and universities in Greece.
+
+G. Presentations in 2010 (from January 2010 to May 2010)
+
+The Commission regularly participates in meetings held in Greece or abroad to discuss bioethical issues. 
+
+The Commission has attended — by invitation — the following international meetings:
+
+Date
+
+Conference/Meeting
+
+Title
+
+Participant/s
+
+3-4 March 2010
+
+14th NEC FORUM,
+Madrid, Spain
+
+‘International 
+Clinical Trials’
+
+4-5 March 2010 
+
+Second Meeting of the 
+European Commission 
+International Dialogue on 
+Bioethics, Madrid, Spain
+
+‘Second Meeting 
+of the Interna-
+tional Dialogue on 
+Bioethics’
+
+Professor George Maniatis, 
+Deputy Chairman of the 
+Commission
+
+Mrs Marianna Dracopoulou 
+Head of Secretariat
+
+Professor George Maniatis, 
+Deputy Chairman of the 
+Commission
+
+Further Information:
+Mrs Marianna Dracopoulou
+Head of Secretariat
+
+Address
+47, Evelpidon str., 11362- Athens- Greece
+Tel.: +30-210-88.47.700
+Fax: +30-210-88.47.701
+E-mail: Secretariat@bioethics.gr
+Website: www.bioethics.gr
+
+50 
+
+Ethically Speaking 14, July 2010
+
+Bioethics Consultative Committee
+
+Malta
+
+Ordinary and Extraordinary Treatment — Hydration and Nutrition 
+
+As this is not an easy question to answer, we need to break it down by attempting to establish correct 
+definitions and then considering the correct application of the definitions to the ethical issue involved. It 
+is important to add at this juncture that the right to life should be considered as a fundamental right but 
+not an absolute right (although it may be said to be quasi-absolute).
+
+We  should  start  by  defining  what  treatment  is  ordinary  and  what  is  extraordinary  (proportional  and 
+disproportional are alternative terms). Doctors mistakenly tend to use the terms to refer to ‘standard’ or 
+‘non-standard’ forms of treatment. For ethicists, however, these words have different meanings. ‘Ordi-
+nary’ is often used to describe those means of prolonging life which are available, offer a reasonable 
+hope of benefit and do not cause unbearable pain and suffering. In contrast, the term ‘extraordinary’ is 
+used to describe those means or measures which are not usually available, do not offer a reasonable hope 
+of benefit and cause unbearable pain and suffering1. 
+
+A  treatment  that  is  standard  for  a  certain  class  of  patient  is  more  likely  to  be  ‘ordinary’,  or  morally 
+required, than a treatment that is non-standard. However, this does not always hold true. There may be 
+reasons why the standard treatment is not morally required for an individual patient2. There is no obliga-
+tion for a patient to take extraordinary or disproportionate measures to promote life and health if these 
+measures will involve excessive burden. For example, one might think of the pain or discomfort that can 
+accompany some medical treatments or the financial cost of the treatments to the patient, family, hospital 
+or health service in general3. 
+
+A treatment or life-sustaining measure can be extraordinary because it is too painful, frightening, haz-
+ardous or disruptive for the patient, or too burdensome financially for the patient, family, hospital or 
+health service, which must also consider other patients who would benefit more from the same resource 
+allocation4.
+
+A treatment can be extraordinary because it is simply futile. Those who are dying of one illness have no 
+obligation to accept treatment for a second life-threatening one that is at a less advanced stage. Often, 
+however, a treatment will be extraordinary not because that treatment is in any way futile, but because its 
+burdens will be disproportionate to the benefits it will bring. Borderline cases may be resolved by seek-
+ing the help of the competent patient to evaluate them5. 
+
+Another view is that ordinary means of preserving life consist of medical treatment that offers a rea-
+sonable hope of benefit for the patient or that can be obtained or used without excessive pain, burden, 
+or expense. Extraordinary treatment is then medical treatment that cannot be used or obtained without 
+excessive expense, pain or other burden or which does not offer a reasonable hope of benefit6. 
+
+1  ‘Ordinary and extraordinary means of prolonging life’, The Linacre Centre for Healthcare Ethics, extract from Life and 
+Death in Healthcare Ethics, Routledge, 2000. http://www.lifeissues.net/writers/mis/mis_01prolonginglife.html [07.01.2010].
+
+2 Ibid.
+3 Ibid.
+4 Ibid.
+5 Ibid.
+6 Agius, E., ‘Problems in Applied Ethics’, from Friggieri, J., (Ed.), Philosophical Studies, University of Malta, 1994, p. 26.
+
+Ethically Speaking 14, July 2010 
+
+51
+
+ 
+Two important considerations are the effectiveness and benefit of the proposed treatment. An effective 
+treatment is one which demonstrably alters the natural history of an illness or alleviates an important 
+symptom. A beneficial treatment is one which brings some good to the patient, not only medical benefit 
+but also in terms of quality of life. Treatment may be effective but not beneficial by simply prolonging 
+the life of a patient while at other times it might be both effective and beneficial. The key word here is 
+benefit to the patient!7
+
+We should respect the desire and freedom of patients not to have their lives prolonged unnecessarily by 
+extraordinary means, that is to say in cases where artificial means for the prolongation of life could or 
+should be stopped, especially when there is no hope whatsoever that health can be regained. We should 
+maintain a sharp distinction between cases where there is a real chance of serving human life and other 
+cases where medical treatment would simply be a means to interfere with death or to artificially extend 
+the process of death8.
+
+‘But one is normally held to use only ordinary means — according to circumstances of persons, places, 
+times and culture — that is to say, means that do not involve any grave burden for oneself or another. 
+A stricter obligation would be too burdensome for most men and would render the attainment of the 
+higher, more important good too difficult. Life, death, all temporal activities are in fact subordinated to 
+spiritual ends. On the other hand, one is not forbidden to take more than strictly necessary steps to pre-
+serve life and health as long as one does not fail in some more serious duty’9.
+
+Taken in this sense, extraordinary treatment addresses the shortening of agony or even of a fatal disease 
+through planned withdrawal or omission of life-prolonging treatment. The intention is not to prolong 
+suffering, which is considered to be opposed to the idea of dying in dignity and peace. Considerations of 
+mere utility should not be allowed to enter the picture here10.
+
+In its declaration on euthanasia the Congregation for Catholic Faith states that ‘it is also permissible to 
+make do with the normal means that medicine can offer. Therefore one cannot impose on anyone the obli-
+gation to have recourse to a technique which is already in use but which carries a risk or is burdensome. 
+Such a refusal is not the equivalent of suicide; on the contrary, it should be considered as an acceptance 
+of the human condition, or a wish to avoid the application of a medical procedure disproportionate to the 
+results that can be expected, or a desire not to impose excessive expense on the family or community. 
+When inevitable death is imminent in spite of the means used, it is permitted in conscience to take the 
+decision to refuse forms of treatment that would only secure a precarious and burdensome prolongation of 
+life, so long as the normal care due to the sick person in similar cases is not interrupted. In such circum-
+stances the doctor has no reason to reproach himself with failing to help the person in danger’11. 
+
+The next part of this argument is more difficult to establish. This pertains to the question of whether 
+artificial hydration and nutrition itself constitutes ordinary or extraordinary treatment, therefore allow-
+ing it to be withdrawn if it is considered to be extraordinary. Many scholars have said that it is legitimate 
+to withdraw intravenous feeding in particular circumstances, on the assumption that it is not a case of 
+ordinary means12. There are different views as to whether such treatment is ordinary and extraordinary, 
+with some scholars agreeing and others disagreeing. 
+
+7 Ibid.
+8 Häring, B., Medical Ethics, St. Pauls, UK, 1991, p. 132.
+9 Pius XII, A.A.S., 49 (1957), 1031-1032.
+10  Häring, B., Medical Ethics, op. cit., p. 137. See also Thielicke, H., ‘Ethische Fragen der modernen Medizin’, in Archive für 
+klinische Chirurgie, 321 (1968), 13, with regard to intention. ‘Of course it does make a great difference whether I accept an 
+evil or a questionable result as a by-product of my therapeutic intention or seek it directly as a good in itself’.
+
+11 Declaration on Euthanasia, 30. From Elizari Basterra, F.J., Bioethics, St. Pauls, UK, 1994, p. 190.
+12  Kelly, G., Medico-Moral Problems, Catholic Hospitals Association, St. Louis, 1958, 130; McFadden, J.C., Medical Ethics, 
+
+F.A. Davis, Philadelphia, 1957, 246-247; Healy, G., Medical Ethics, Loyola, Chicago, 1956, 80.
+
+52 
+
+Ethically Speaking 14, July 2010
+
+‘There are those who believe that respect for human life demands that we continue feeding seriously ill 
+people, even artificially, and that includes people in irreversible comas, because feeding and hydration 
+are part of the minimum care that compassion demands. On the other hand, there are theologians and 
+philosophers who maintain that recourse to artificial nutrition and hydration does not involve the same 
+moral obligation as the natural process of ingesting solids and liquids. This is a medical technique more 
+akin to treatment than to everyday care’13. We might mention for example, the case of Tony Bland, a per-
+son in PVS (persistent vegetative state, where only the brain stem remains functioning whereas all higher 
+brain functions have ceased) for five years after the Hillsborough football disaster of 1989. Although 
+there was a difference of opinion medically, the High Court eventually ruled that feeding should be seen 
+as medical treatment rather than elementary care and that its withdrawal was lawful in this case. 
+
+Two main issues need to be considered for finding a solution to this dilemma. The first constitutes the 
+notion of the dying patient. What is a dying patient? Two criteria can guide us here. Is a return to normal 
+life relatively possible? And will the patient be ultimately independent from the technology? Add to this 
+the question of whether there is reasonable hope of benefit. The answer to these questions will determine 
+whether we can consider such treatment as optional or appropriate.
+
+The second issue is the nature of artificial hydration/nutrition: is it a medical procedure or simply pro-
+portionate care for basic human needs? Many medical ethicists say that such a procedure falls under 
+the heading of a medical procedure, as it requires skilled medical intervention. In that case it should be 
+handled ethically in the same way as other normal medical procedures. 
+
+If the patient is not viewed as dying, then hydration/nutrition should be seen as ordinary care and its 
+omission would therefore be considered inappropriate. If, on the other hand, the patient is dying and if 
+artificial hydration/nutrition is considered as a medical procedure, then its withdrawal is considered to 
+be a procedure performed in order to let nature take its course14. ‘When artificial feeding is futile and 
+useless, it can be considered as extraordinary and consequently morally justifiable to be withheld or 
+withdrawn. There is no moral obligation to use extraordinary means of treatment; our obligations extend 
+only to the provision of ordinary means’15. 
+
+Although we need to have a presumption in favour of providing nutrition and hydration to all patients16, 
+we need to take into account the individual characteristics of patients and their circumstances, as this is 
+the key to the issue. Clinical studies have shown that although artificial nutrition and hydration (AHN) 
+may benefit terminally ill patients, it may actually also cause suffering and indeed itself shorten life if 
+carried out in inappropriate circumstances. This is because of certain problems. First, the insertion of 
+a gastrostomy tube (PEG) has been associated with an indirect and direct increase in aspiration pneumo-
+nia and death. Secondly, there is no evidence that the use of a PEG tube for terminal patients improves 
+nutritional status or prevents pressure sores. Some studies have linked the use of PEG tubes to a higher 
+incidence of sores. Thirdly, there is strong evidence to suggest that the use of PEG and NG (naso-gastric) 
+tubes not only does not decrease the likelihood of infections in terminal patients but actually increases it. 
+Fourthly, since emaciated patients show slower functional improvements, nutritional intervention at the 
+end of life may not make much of a difference and is in fact ineffective for the frailest patients. Lastly, 
+evidence suggests that tube feeding does not prolong the lives of most terminal patients, with some stud-
+ies in fact showing a decrease in the length of survival for tube-fed patients.
+
+13 From Elizari Basterra, F.J., Bioethics, St. Pauls, UK, 1994, p. 191, quoting Durand, G., and Saint-Arnaud, J.
+14 Agius, E., ‘Problems in Applied Ethics’, op. cit., p. 29.
+15 Ibid.
+16  US Conference of Catholic Bishops, Ethical and Religious Directives for Catholic Health Care Services, 4th ed. (Wash-
+ington, D.C.: USCCB, 2001). ‘There should be presumption in favour of providing nutrition and hydration to all patients, 
+including patients who require medically assisted nutrition and hydration, as long as this is of sufficient benefit to outweigh 
+the burdens involved to the patients’.
+
+Ethically Speaking 14, July 2010 
+
+53
+
+Some studies show that end-stage patients do not seem to experience feelings of hunger or thirst and, in 
+those that do, relief can be achieved better by oral means. Other studies show that tube-fed patients in 
+terminal stages of life may have to make use of the amino-acids from their muscles to supplement nutri-
+tion, leading to quicker emaciation and death, while voluntary fasting leads to the production of ketones 
+from fat breakdown and these may be used as an energy source. Hydration and nutrition might also feed 
+a tumour, making it grow faster and escalate pain and suffering, while oral food and water is enough to 
+relieve discomfort. Clearly, therefore, the clinical reality is that ANH may cause more physical harm than 
+good for many patients in the terminal stages, and without careful consideration of the clinical facts of 
+individual cases, we may harm patients more than help them if we feed and hydrate them artificially17. 
+
+Dr Michael Asciak MD, M.Phil. 
+
+17  Sanders, A., ‘The Clinical Reality of Artificial Nutrition and Hydration for Patients at the End of Life’, from The National 
+
+Catholic Bioethics Quarterly, Vol. 9, Num. 2, Summer 2009, Philadelphia.
+
+Further Information
+Dr. Michael Asciak
+Chairman
+Bioethics Consultative Committee
+
+Address
+J60, Sodales
+Triq l-Akkwedott
+Birkirkara, Malta
+Tel.: 0035621446784
+E-mail: michael.asciak@gov.mt
+
+54 
+
+Ethically Speaking 14, July 2010
+
+National Council of Ethics for the Life Sciences
+
+Portugal
+
+The Portuguese National Council of Ethics for the Life Sciences — new term of office and current 
+activities
+
+Legal basis and mission
+
+An Ethics Council is a privileged place for reflection on the ethical issues raised by progress in the life 
+sciences. To debate, give advice, recommend and stimulate the reflection are some of its essential tasks.
+
+The need for a bioethics committee was felt early at national level. Set up in 1990 under Law No 14/90 
+of 9 June 1990, the National Council of Ethics for the Life Sciences (CNECV — Conselho Nacional de 
+Ética para as Ciências da Vida) now operates under Law No 24/2009 of 29 May 2009.
+
+The CNECV is an independent consultative body functioning under the Portuguese Parliament since 
+2009.  Its  mission  is  to  analyse  and  give  opinions  on  the  ethical  problems  that  arise  from  scientific 
+progress in the fields of biology, medicine or health care and in the life sciences in general.
+
+The CNECV is composed of 19 members from a wide variety of backgrounds, ranging from the human 
+or social sciences to the fields of medicine or biology. Its members are appointed by Parliament and by 
+the Portuguese Government, as well as by other bodies representative of civil society. Each member is 
+appointed for a term of five years. The CNECV’s work is supported by an Executive Secretary.
+
+The CNECV’s new composition
+
+The CNECV’s fourth and current term of office began on 30 July 2010. Shortly thereafter the council 
+members elected their president and vice-president in September 2010. 
+
+Council Members
+
+Miguel Oliveira da Silva (President)
+
+Michel Renaud (Vice-President)
+
+Agostinho Almeida Santos
+
+Ana Sofia Carvalho 
+
+Duarte Nuno Vieira 
+
+Francisco Carvalho Guerra
+
+Isabel Santos
+
+Jorge Reis Novais
+
+Jorge Sequeiros
+
+José Germano Rego de Sousa 
+
+José Lebre de Freitas 
+
+Lígia Amâncio
+
+Lucília Nunes
+
+Maria do Céu Patrão Neves
+
+Maria de Sousa
+
+Ethically Speaking 14, July 2010 
+
+55
+
+ 
+Pedro Fevereiro 
+
+Pedro Nunes
+
+Raquel Seruca
+
+Rosalvo Almeida
+
+Activities in 2009 
+
+Last  opinion  of  the  third  term  of  office  —  During  2009,  the  CNECV  issued  its  Opinion 
+No 57/CNECV/2009 regarding ‘Patients rights to information and informed consent’.
+
+This  coincided  with  the  end  of  the  CNECV’s  third  term  of  office.  The  opinion  was  in  response  to 
+a request addressed by both the Parliament Health Committee and the Parliamentary Group of the Social 
+Democratic Party.
+
+The CNECV’s opinion was based on an analysis of the draft law in question, rather than a thorough 
+reflection on the subject, although the importance and need of such a debate was recognised. The key 
+points of this opinion were: 
+
+•  The distinction between patient rights to personal health information and unrestricted access to 
+
+clinical files was not clear.
+
+• 
+
+Individual autonomy was overemphasised as the main ethical principle. The role of the family was 
+not taken into consideration.
+
+•  Detailed directives — both the ‘living will’ and the ‘healthcare proxy’ — were addressed in two 
+
+general provisions.
+
+Following the CNECV’s opinion, the draft law was not scheduled for a final vote.
+
+Fourth term
+
+Current activities
+
+Besides  its  routine  activities,  the  Council  often  receives  requests  for  clarification  and  opinion  from 
+national and international bodies, secondary school pupils, undergraduate and postgraduate students, 
+researchers and people in general. The following activities are in preparation:
+
+National Seminar (26-27 November 2010, Lisbon)
+
+The CNECV is currently organising its XIth National Seminar. This year the seminar will address ‘Nan-
+otechnologies and Genetically Modified Organisms: Science, Ethics and Society’. Distinguished national 
+and international speakers will participate (www.cnecv.pt). We hope this will provide an opportunity for 
+a pluralastic debate about ethical issues concerning these new technologies, from a scientific, media and 
+general public perspective.
+
+Joint meetings
+
+•  Joint bioethics meeting CNECV / CBE- Spanish Bioethics Committee (November 2010)
+
+•  Joint  session  UNESCO  /  CNECV  on  the  Fifth  Anniversary  of  the  Universal  Declaration  on 
+
+Bioethics and Human Rights (November / December 2010).
+
+The CNECV online
+
+The CNECV website has been recently overhauled – www.cnecv.pt – as a key channel for communica-
+tion between the CNECV and society. The site is also available in English.
+
+56 
+
+Ethically Speaking 14, July 2010
+
+Bioethics Documentation Centre 
+
+The CNECV has a Bioethics Documentation Centre, which is open to the public.
+
+It has recently been acquiring national and foreign books and journals as part of its constant efforts to 
+update its document collection. 
+
+The Documentation Centre also contains national and foreign periodicals, including volumes of pub-
+lished opinions and studies from other European ethics councils and EU organisations.
+
+Forthcoming Opinions
+
+The CNECV has recently started work on the following topics:
+
+•  Ethical issues involving animals for research
+
+•  Ethical use of water resources
+
+•  Ethical aspects of public health
+
+•  Health information and health care informatics
+
+•  Post-mortem autopsies by family request
+
+Previous opinions are available on www.cnecv.pt (in Portuguese and English).
+
+Further Information
+Miguel Oliveira da Silva, President 
+mos@cnecv.pt 
+
+Michel Renaud, Vice-President 
+mrenaud@cnecv.pt 
+
+Cíntia Águas,Executive Secretary 
+caguas@cnecv.pt
+
+Address
+National Council of Ethics for the Life Sciences
+Avenida D. Carlos I, n.º 146 – 2º Esq.
+1200-651 LISBOA PORTUGAL
+Tel.: +351 213 910 884
+Fax: +351 213 917 509
+E-mail: geral@cnecv.pt 
+Website: www.cnecv.pt
+
+Ethically Speaking 14, July 2010 
+
+57
+
+Spanish Bioethics committee (CBE)
+
+Spain
+
+Document on Good Practices in Scientific Research
+
+The latest document released by the Bioethics Committee of Spain (CBE) is a document about good 
+scientific practices.
+
+The preparation of the document was approved at the Plenary Session of the CBE on 5 May 2009, in 
+accordance with Law 14/2007, 3 July 2007, on Biomedical Research.
+
+The document was published on 5 May 2010, with the aim of promoting responsible behaviour in the 
+exercise of scientific research.
+
+Spain is one of the few countries that still lack specific regulation to prevent problems involving scien-
+tific integrity. This is why this document is highly important.
+
+The Codes of Good Scientific Practices (CGSP) are a collection of rules, advice and commitments to 
+be followed by researchers, research centres, funding bodies and even scientific societies. The objective 
+is to improve the quality of research and prevent possible integrity problems such as fake research or 
+plagiarism. 
+
+In order to avoid such problems, scientific activity must be honest, transparent and responsible. 
+
+Through the Codes of Good Practices, the Bioethics Committee of Spain seeks to highlight the need to 
+adhere to a set of values for the adequate planning and development of science. While they are not legally 
+binding, they constitute essential guidelines for all bodies engaged in scientific research.
+
+The document has not only been published in the media, but also been sent to the Ethics Committees of 
+Clinical Research, to all Ethics Committees of the Spanish Universities and to research centres.
+
+Even though all these bodies have been acquainted with this document for only a short period of time, it 
+seems to enjoy wide acceptance. 
+
+Some of the main recommendations in the document:
+
+-  The need to regulate through the Codes of Good Scientific Practices any conflicts of interest affecting 
+
+both the boards of directors and the research committees in organisations.
+
+-  The importance of promoting good scientific practices through courses and training for researchers.
+
+-  The need to create an independent arbitration body with national competence to deal with problems of 
+
+scientific integrity in Spain, serving both the community and scientific organisations.
+
+Ethically Speaking 14, July 2010 
+
+59
+
+ 
+Further Information
+Javier Arias
+Deputy Secretary of the Bioethics Committee of Spain
+
+Address
+Instituto de Salud Carlos III, Pabellon 5, Avenida Monforte de Lemos 5
+28029-Madrid, Spain
+Tel: +34 918222186
+E-mail: javardi@isciii.es
+Website: www.comitedebioetica.es
+
+60 
+
+Ethically Speaking 14, July 2010
+
+Nuffield Council on Bioethics
+
+United Kingdom
+
+Introduction
+
+The Nuffield Council on Bioethics was established by the Nuffield Foundation in 1991 to identify, exam-
+ine and report on the ethical questions raised by recent advances in biological and medical research. 
+Since 1994, it has been funded jointly by The Nuffield Foundation, the Medical Research Council and 
+The Wellcome Trust. The Council’s role is to respond to public concern about aspects of biomedicine 
+and biotechnology; to provide independent advice to policy makers; and to stimulate debate in bioethics.
+
+Report: the ethics of dementia
+
+The Council’s most recent report was Dementia: ethical issues, published on 1 October 2009. The report 
+presents an ethical framework to help those who face dilemmas in connection with the day-to-day care 
+of a person with dementia, and makes recommendations in the following areas:
+
+•  promoting autonomy and well-being through an ethical approach to dementia care
+
+• 
+
+including people with dementia in society 
+
+•  making decisions about the care and treatment of people with dementia 
+
+•  dealing with day-to-day ethical dilemmas in care
+
+• 
+
+• 
+
+recognising the needs of carers
+
+research funding and participation.
+
+Since the report was published, it has been debated in the media, among policy makers, and by those 
+working at the frontline of dementia care.
+
+Other current work includes: 
+
+Medical profiling and online healthcare: the ethics of ‘personalised’ healthcare in a consumer age
+
+This Working Party, chaired by Professor Christopher Hood, is considering the ethical issues raised by 
+developments that promise increasingly personalised healthcare. For example:
+
+• 
+
+• 
+
+• 
+
+individuals can now pay to have their DNA analysed for a range of health risks;
+
+imaging services such as CT and MRI scans that look for abnormalities indicating disease can be 
+bought directly by consumers; and
+
+the number of websites offering health advice, personal health records and medicines for sale has 
+increased.
+
+These developments can give people increased choice and control over their health. Some may provide 
+reassurance that they are healthy, or detect disease at an earlier stage. However, they may also create 
+needless confusion or anxiety, or lead to unnecessary invasive procedures that carry additional risks. 
+A report with recommendations for policy will be published in October 2010.
+
+New approaches to biofuels
+
+Biofuels are renewable liquid fuels derived from plant or animal material. There have been concerns 
+about the effect of biofuel production on, for example, food security and the environment, especially in 
+the developing world. 
+
+Ethically Speaking 14, July 2010 
+
+61
+
+ 
+New types of biofuels are being developed which aim to address these concerns. Rather than using food 
+crops to produce biofuels, in the future we may be able to use algae, trees, the inedible ‘woody’ parts of 
+plants, and agricultural waste. In addition, scientists are working to increase the yield of biofuel crops 
+and  improve  the  production  process,  in  order  to  maximise  the  energy  output  of  land  and  reduce  net 
+greenhouse gas emissions.
+
+The Council set up a Working Party in October 2009, chaired by Professor Joyce Tait, to explore the 
+ethical issues that arise in the drive to find new types of biofuels. The Working Party’s consultation, held 
+from December to March, received around 90 responses. A report will be published in spring 2011.
+
+Human bodies in medicine and research
+
+In January 2010, the Council set up a Working Party to explore the ethical issues raised by the provision 
+of bodily material for medical treatment and research, and by participation in human subject research 
+trials. The Working Party, chaired by Professor Dame Marilyn Strathern, launched a consultation in 
+April 2010. Questions included:
+
+•  How far should we as a society go in encouraging or even incentivising people to provide material? 
+
+•  What control should a person providing material have over its future use? 
+
+•  Can  useful  comparisons  be  made  with  people  taking  part  in  ‘healthy  volunteer’  clinical  trials 
+
+where people ‘give over’ their body for a short time for research purposes?
+
+The Council has also been awarded a Wellcome Trust public engagement grant to hold a one-day delib-
+erative workshop with recruited members of the public to discuss the topic of human bodies in medicine 
+and research. Following these and other consultative activities, a final report with recommendations to 
+policy makers will be published in autumn 2011.
+
+Further Information
+Hugh Whittall
+Director, Nuffield Council on Bioethics
+
+Address
+The Nuffield Council on Bioethics
+28 Bedford Square
+London WC1B 3JS
+Tel.: +44 207 681 9619
+Fax: +44 207 637 1712
+Email: bioethics@nuffieldbioethics.org
+Website: www. nuffieldbioethics.org
+
+62 
+
+Ethically Speaking 14, July 2010
+
+GENERAL INFORMATION 
+ON ACTIVITIES 
+of the non-EU national  
+and regional ethics 
+committees*
+
+*  For further information on non-EU national and regional ethics committees please see 
+
+http://ec.europa.eu/european_group_ethics/international_bioethics_dialogue/docs/IDB_brochure.pdf
+
+Ethically Speaking 14, July 2010 
+
+63
+
+Australian Health Ethics Committee (AHEC)
+
+Australia
+
+Information on relevant activities of the Australian Health Ethics Committee
+
+1.  Year of establishment of NEC 
+
+1991
+
+2.  Remit of NEC
+
+  The functions of AHEC, as set out in Section 35(3) of the NHMRC Act, are:
+
+• 
+
+• 
+
+to advise the Council on the ethical issues relating to health; and 
+
+to develop and give the Council human research guidelines under subsection 10(2) of the NHMRC 
+Act; and 
+
+•  any other functions conferred on the Committee in writing by the Minister after consulting the 
+
+CEO; and 
+
+•  any other functions conferred on the Committee by the NHMRC Act, the regulations or any other 
+
+law. 
+
+One of the CEO’s functions under the NHMRC Act is to inquire into, issue guidelines on, and advise 
+the community on ethical issues relating to health. This function includes the issuing of human research 
+guidelines.  Under  Section  10(2)  of  the  NHMRC  Act,  the  Council  may  only  provide  human  research 
+guidelines to the CEO under Section 9(1) precisely as developed by AHEC.
+
+In the course of its activities, AHEC consults extensively with individuals, community organisations, 
+health  professionals  and  governments,  and  undertakes  formal  public  consultation  when  developing 
+guidelines. AHEC may also provide advice on international developments in health ethics issues. 
+
+3.  Composition of NEC
+
+(Chair)
+
+Person with understanding of the concerns of people with a disability 
+
+Person who has expertise in religion
+
+Person who has expertise in philosophy
+
+Person with experience in clinical medical practice
+
+Person with expertise in the health needs of Aboriginal and Torres Strait Islanders
+
+Person who has experience in nursing or allied health practices
+
+Person with knowledge of the ethics of the medical profession
+
+Person who has expertise in the law
+
+Person who has experience in public health research
+
+Person with expertise in the field of medicine, genetics and the law
+
+Person with understanding of health consumer issues
+
+Person who has experience in medical research
+
+Person who has experience in social science research
+
+Ethically Speaking 14, July 2010 
+
+65
+
+ 
+ 
+4.  List of the last three NEC’s opinions 
+
+1.  Using the National Statement: Payment to participants in research, particularly clinical trials
+
+2.  Ethical Issues involved in the Transition to Palliation and End of Life Care for People with Chronic 
+
+Conditions: Issues Paper 
+
+3.  Ethics and the Exchange and Commercialisation of Products derived from human tissue: An Issues 
+
+Paper and draft model framework.
+
+5.  List of the next two future topics covered by NEC’s opinions 
+
+1.  Major Health Issues Likely to Arise (MIHLA’s)
+
+2.  Frame work for Consideration of Ethical Issues in Health Policy
+
+6.  Chairperson
+
+Dr Sandra Hacker AO (Chair) 
+
+Further Information
+
+Address
+AHEC Secretariat
+NHMRC
+GPO Box 1421
+Canberra ACT 2601
+Email: ethics@nhmrc.gov.au
+Telephone: + 61 2 6217 9070
+
+66 
+
+Ethically Speaking 14, July 2010
+
+National Commission of Ethics in Research 
+(CONEP)
+
+Brazil
+
+Information on relevant activities by CONEP
+
+Registration  and  follow  up  the  activities  of  the  Ethics  Committees  in  Research  of  the  Research 
+Institutions.
+
+There are 602 institutional committees registered in the NEC that include the participation of about 
+11 000 committee members.
+
+The NEC considers, after consulting the local committee, all the proposals of thematic areas (research 
+with foreign cooperation, human genetic research, research with indigenous people, research on human 
+reproduction, formation of biological databases).
+
+The NEC has developed specific guidelines for each topic among areas.
+
+The NEC is linked to the National Health Council, which is the organ of social control.
+
+Mr. Christian de Paul de Barchifontaine
+
+Further Information
+Dr Christian de Paul de Barchifontaine 
+Recteur
+Commission nationale d´éthique en recherche (Brésil)
+
+Address
+Rua Raul Pompéia, 144 - 7º Andar - Pompéia - São Paulo - SP
+ZIP CODE: 05025-010 - BRAZIL
+Tél. +55 11 3465.2603
+Fax: + 55 11 3465.2612
+Courriel: cpb@saocamilo-sp.br 
+Site web: www.saocamilo-sp.br
+
+Ethically Speaking 14, July 2010 
+
+67
+
+ 
+Commission on the Ethics of Science 
+and Technology (CEST)
+
+Canada
+
+PUBLICATIONS AND EVENTS
+
+Position statement on Genetic Use Restriction Technologies
+
+The document entitled An Ethical Examination of Genetic Use Restriction Technologies (GURTs) was 
+published in summer 2009. It is a supplement to the 2003 position statement For the ethical management 
+of GMOs. 
+
+After  discussing  the  problems  related  to  the  international  moratorium  on  field  trials  of  GURTs  and 
+describing the relevant scientific and legislative context, the Commission examines the potential impact 
+on different stakeholders and links in the food chain, namely the environment, research and develop-
+ment, seed companies, farmers, consumers and developing countries.
+
+The Commission makes four recommendations, two of which involve maintaining the moratorium. The 
+third draws on some relevant recommendations from the position statement on GMOs and highlights 
+the preconditions for the assessment of GURTs - if conclusive, transparent data came to light that justi-
+fied the lifting of the moratorium, then specific conditions would have to be met before field trials were 
+authorised. The final recommendation calls for further research before placing on the market.
+
+The supplement is available in French and English on the CEST website.
+
+Position statement on psychotropic drugs 
+
+The Commission’s sixth position statement entitled Psychotropic Drugs and Expanded Uses: An Ethical 
+Perspective was published in autumn 2009. 
+
+It describes the social, socio-political and legal context surrounding these drugs. These medicines play 
+an important role in therapy. In fact they have helped to improve the quality of care and expand knowl-
+edge about mental and neurological diseases. New generations of psychotropic drugs are also raising 
+enormous hopes among the healthy, particularly with regard to maintaining memory and cognitive func-
+tions, and increasing concentration and emotional stability. This enthusiasm is reflected in the interest 
+in over-the-counter medicines that produce the same effects. However, there is still limited knowledge 
+about the brain, the way these drugs work and their long-term side-effects on the central nervous system. 
+
+The Commission has identified four values in this area: the protection of individual health and safety, 
+autonomy and the affirmation of individual freedom, equity and representations of the human being. 
+After giving its ethical assessment, the Commission addresses eleven recommendations and two caution-
+ary notes to decision-makers in Quebec and Canada.
+
+The position statement is available in French and English on the CEST website.
+
+Position statement on assisted procreation
+
+The position statement Ethics and Assisted Procreation: Guidelines for the Donation of Gametes and 
+Embryos, Surrogacy and Pre-implantation Genetic Diagnosis was published in October 2009.
+
+Ethically Speaking 14, July 2010 
+
+69
+
+ 
+This paper follows a request made in September 2007 by the Quebec Ministry of Health and Social Serv-
+ices to carry out ‘a thorough analysis of the ethical issues and societal values associated with assisted 
+procreation’. The Minister also wished the Commission to examine the issues in light of public debates. 
+A three-part public consultation was therefore carried out, consisting of an online consultation, a call for 
+submissions and hearings.
+
+In line with its terms of reference, the Commission focused on contributing to work already under way 
+in the Ministry of Health and Social Services and providing an in-depth analysis of the ethical issues 
+related to three practices in the extensive field of scientific research into assisted procreation: gamete and 
+embryo donation, surrogacy and pre-implantation genetic diagnosis (PGD).
+
+On the basis of its assessment, the Commission outlines 19 recommendations addressed specifically to 
+the Quebec Government. Nine are on the donation of gametes and embryos, one on surrogacy and the 
+other nine on pre-implantation genetic diagnosis.
+
+The position statement is available in French and English on the CEST website.
+
+Third Assembly of the Youth Commission
+
+The Youth Commission met for its third year in April 2009 to discuss the theme of cyberbullying in 
+schools. The resulting position statement Cyberbullying: An Ethical Examination Made by Young People 
+was launched in November 2009 at the International Science and Society Forum at the Cégep [post-
+secondary college] Limoilou in Quebec. 
+
+The Youth Commission starts its paper by presenting some statistics on the role played by information 
+technologies in young people’s lives. On one hand, it highlights the use of these new technologies and, on 
+the other, it denounces cyberbullying and identifies the values involved. 
+
+Five recommendations are put forward to prevent cyberbullying and provide a better framework for the 
+development of new information technologies.
+
+The position statement is available in French and English on the CEST website.
+
+Following the Youth Commission Assembly and the publication of its position paper on cyberbullying, 
+CEST had a play written on the subject. The play, called Top Net!, is being performed in secondary 
+schools in Quebec, thanks largely to a partnership with some Quebec police forces. 
+
+International activities of CEST
+
+The Commission took part in the international ‘Brain Matters’ conference in Halifax, Nova Scotia in 
+September  2009.  During  the  event  the  Commission’s  President  and  a  research  officer  presented  the 
+paper Psychotropic Drugs And Expanded Uses: An Ethical Examination Made By The Commission de 
+l’éthique de la science et de la technologie. 
+
+In July 2009 the President and the Secretary-General of CEST attended the États généraux francophones 
+de la Bioéthique [Bioethics Assembly of French-speaking countries]. They subsequently took part in the 
+Sixth Session of the Intergovernmental Bioethics Committee (IGBC) at UNESCO headquarters in Paris.
+
+In November 2009 they participated in the 16th Session of the International Bioethics Committee in 
+Mexico and also attended the European Commission-UNESCO Conference on Joint Action for Capacity 
+Building in Bioethics.
+
+70 
+
+Ethically Speaking 14, July 2010
+
+WORK IN PROGRESS AT CEST
+
+Nanotechnology and the agri-food sector
+
+The Commission has recently started work on a supplement to its position statement Ethics and Nanote-
+chnology: A Basis for Action which was published in 2006. The subject was chosen following a request 
+from the Quebec Ministry for Agriculture, Fisheries and Food. The paper will focus on the use of nan-
+otechnologies in the agri-food sector. 
+
+The supplement is timely given the speed at which research is moving in this field.
+
+Nanotechnologies are a source of both fear and hope, particularly when it comes to the industrial produc-
+tion of agricultural products for human consumption. The Commission will therefore take account of the 
+many issues raised by scientific research in examining the ethical problems involved, such as freedom of 
+choice for consumers, sharing the benefits of research, the impact on public health, sustainable develop-
+ment and preserving biodiversity. 
+
+The supplement should be published towards the end of 2010.
+
+End of life and dignity
+
+The Commission’s interest in matters related to the end of life, euthanasia and assisted suicide is not new. 
+In autumn 2009 the Commission was invited to participate as an expert in the work of the Select Com-
+mittee on Dying with Dignity. The Committee was asked to prepare a report for the Quebec National 
+Assembly and produce a reflection document with a view to public consultation on the matter.
+
+The Commission is taking this opportunity to clarify the key concepts relating to the end of life. The 
+document will be available on the Commission’s website at the end of June 2010. A position statement 
+on the issues and values supported by these key concepts will follow. This paper should be ready by 
+autumn 2010.
+
+Fourth Assembly of the Youth Commission
+
+The  Vancouver  Winter  Olympics  have  influenced  the  choice  of  theme  for  the  Youth  Commission  in 
+Winter 2011. ‘Ethics and sport’ will be the subject of the discussion. Although it may appear beyond 
+reproach, sport is not immune to ethical problems. The expression ‘ethics in sport’ is immediately asso-
+ciated with all forms of doping (conventional, techno-doping, gene doping).
+
+Authors writing about ethics in sport have however raised other issues, such as sexual assault, harass-
+ment, sports injuries and the return to competition, parental pressure, influence in the trainer-athlete 
+relationship and eating disorders, as well as violence in the form of bullying and physical attacks. Other 
+issues should be added to this list. They include sex discrimination and unequal access for the disabled, 
+visible minorities and indigenous peoples. Ethical questions are also raised by initiation practices in 
+sport.
+
+The work of the new Youth Commission should be published in autumn 2011.
+
+This document was prepared with the help of Katerine Hamel and Joanie-Kim McGee-Tremblay (com-
+munication officers).
+
+Ethically Speaking 14, July 2010 
+
+71
+
+Further Information
+Nicole Beaudry MA, notary
+Secretary-General 
+Commission de l’éthique de la science et de la technologie (Quebec, Canada)
+
+Address
+1200 route de l’Église, 3rd Floor
+Office 3.45
+Quebec (Quebec) G1V 4Z2
+Tel.: + 418 528-0965
+Fax: + 418 646-0920
+E-mail: ethique@ethique.gouv.qc.ca
+Website: www.ethique.gouv.qc.ca
+
+72 
+
+Ethically Speaking 14, July 2010
+
+GENERAL INFORMATION 
+ON ACTIVITIES 
+of the international 
+organisations
+
+Ethically Speaking 14, July 2010 
+
+73
+
+Bioethics division
+
+COUNCIL OF EUROPE
+
+On 15 March 2006, the Committee of Ministers of the Council of Europe adopted Recommendation 
+(2006) 4 on research using biological materials of human origin (see attached).
+
+The  Recommendation,  prepared  by  the  Steering  Committee  on  Bioethics  of  the  Council  of  Europe 
+(CDBI), builds on the principles embodied in the Convention for the Protection of Human Rights and the 
+Dignity of Human Beings with regard to the Applications of Biology and Medicine (CETS No 164, 1997, 
+Convention on Human Rights and Biomedicine) and in its Additional Protocol concerning biomedical 
+research (CETS No 195, 2005). While recognising the importance of freedom of research, the purpose 
+of the Recommendation is to specify and safeguard the fundamental rights of individuals whose biologi-
+cal materials are removed to be stored for research purposes. It also applies to the full range of research 
+activities in the health field involving the use of biological materials of human origin that were removed 
+for another purpose. A whole chapter is dedicated to biobanks.
+
+Article 26 of this Recommendation states that the text ‘should be re-examined not more than five years 
+after its adoption’, i.e. in 2011 at the latest. 
+
+At its 36th plenary meeting, in view of the major developments in the field covered by the Recommenda-
+tion, particularly where biobanks were concerned, the CDBI decided it was important to secure informa-
+tion on:
+
+• 
+
+• 
+
+these developments in the various countries, in both legal and practical terms, 
+
+the impact of the Recommendation, 
+
+•  any difficulties with implementing it.
+
+At the same meeting, the CDBI decided to hold a seminar on biobanks in 2011 to obtain and exchange 
+the requisite information, especially with those directly involved in managing biobanks, and to exam-
+ine a number of questions in the light of developments in this field. The conclusions of the seminar are 
+planned to be used for re-examining the Recommendation.
+
+Further Information
+Laurence Lwoff
+Head of the Bioethics Division
+
+Address
+Tel.: +33 (0)3 88 41 22 68
+Fax: +33 (0)3 88 41 37 45
+Email: laurence.lwoff@coe.int
+Website: http://www.coe.int/bioethics
+
+Ethically Speaking 14, July 2010 
+
+75
+
+ 
+Ethics of Science and Technology 
+Division – Bioethics Section
+
+UNESCO
+
+Assisting Bioethics Committees (ABC)
+
+Introduction
+
+The Universal Declaration on Bioethics and Human Rights adopted in 2005 is a universal framework 
+that includes both principles and procedures. Principles such as: Human Dignity and Human Rights, 
+Benefit and Harm, Autonomy and Individual Responsibility, Informed Consent, Social Responsibility, 
+etc. Procedures relate to addressing bioethical issues and decision-making, the establishment of Ethics 
+Committees, risk assessment and management, and transnational practices, among others. 
+
+Article 19 of the Declaration is devoted to ethics committees and states:
+‘Independent,  multidisciplinary  and  pluralist  ethics  committees  should  be  established,  promoted  and 
+supported at the appropriate level …’
+
+UNESCO has decided to devote its efforts to support member states in establishing bioethics commit-
+tees at national level, and has developed a specific programme to that end, called the ‘ABC Project: 
+Assisting Bioethics Committees’. There is no official definition of such committees as far as UNESCO 
+is concerned, thus allowing for great diversity In fact, their names currently vary and there are subtle 
+differences in their role and deliverables.
+
+Nonetheless, there are some core features that UNESCO regards as necessary in order to consider a body 
+as a ‘National Bioethics Committee’ and to be included in the ABC Project. Such a committee must:
+
+•  Be a national platform for bioethical development in the country
+
+•  Be newly established or established but willing to have a broader mandate
+
+•  Systematically and continually address the ethical dimensions of (a) medicine and the health sci-
+
+ences, (b) the life sciences, and (c) associated technologies
+
+•  Be a group (with a chairperson and members) that meets on a regular basis
+
+•  Focus on issues that are not simply factual but normative
+
+•  Not be merely a research ethics committee, but play a broader role in policy advice, public debate 
+
+and education
+
+•  Operate at national level with government recognition
+
+Assisting Bioethics Committees Project (ABC)
+
+Main objective: To reinforce the bioethics infrastructure in member states by facilitating the establish-
+ment of national bioethics committees (NBCs), and, once established, enhancing their technical capaci-
+ties. The project is intended to bring about change in member states. It involves three steps:
+
+Step I. 
+
+Exploration and assessment of the existing bioethics infrastructure in each country
+
+Step II.  Technical support for the establishment of a national bioethics committee
+
+Step III.  Technical support for long-term sustainability
+
+Ethically Speaking 14, July 2010 
+
+77
+
+ 
+ 
+ 
+ 
+a.  Technical capacity-building training
+
+b.  Partnerships, internships and networking
+
+c.  Provision of practical information
+
+Step II. Technical support for the establishment of the national bioethics committee
+
+After  assessment  of  the  bioethics  infrastructure  in  the  country,  the  project  aims  to  provide  practical 
+recommendations to establish national bioethics committees, taking into account the country’s needs 
+and domestic specificities. An exploratory meeting is held to facilitate discussion among key national 
+stakeholders about the needs of the country, optimal arrangements for the committee and practical steps 
+to be taken towards its establishment. The mission includes UNESCO staff and international experts, 
+who also assist in drafting a plan of action. Once the committee is established, its official inauguration 
+is accompanied by:
+
+•  a bioethics awareness-raising public event involving multiple stakeholders
+
+• 
+
+the signing of a Memorandum of Understanding with UNESCO for technical capacity-building 
+support over a period of three years
+
+Step III. Technical support for sustainability
+
+a.  Technical capacity-building training (3 courses in 3 years)
+
+  Year 1 
+
+•  First training course: Working Methods of National Bioethics Committees
+
+•  Building up relevant documentation and providing UNESCO guides developed specifically with 
+
+this aim.
+
+•  Training of the Committee’s secretariat
+
+•  Three teams of experts: English-, French- & Spanish-speaking.
+
+  Year 2 
+
+•  Second training course: Bioethics — Principles and Practices (based on UNESCO’s Core Cur-
+
+riculum in Bioethics)
+
+•  Public event to disseminate the work of the committee
+
+  Year 3
+
+•  Specialised ethics training (ethics education, legal provisions, etc.)
+
+•  Actions to ensure the long-term sustainability and viability of the committee
+
+Step III. Technical support
+
+This includes: facilitating the establishment of long-term partnerships between experienced and newly 
+established national bioethics committees; arranging internships for the secretariat members of newly 
+established committees, hosted by experienced committees; and supporting networking opportunities at 
+regional and international level.
+
+Networking  is  understood  as  practical  and  ongoing  regional  collaboration  between  experienced  and 
+newly  established  national  bioethics  committees.  The  joint  JACOB  meeting  held  in  Mexico  City  on 
+26-28 Nov 2009 between the European Commission and UNESCO reflects their efforts to foster partner-
+ships and the exchange of experiences between national bioethics committees. 
+
+78 
+
+Ethically Speaking 14, July 2010
+
+ 
+ 
+ 
+Present state of the ABC Project
+
+Countries that have already established a NBC
+
+Colombia (2009)
+
+Ivory Coast (2002)
+
+El Salvador (2009)
+
+Gabon (2008)
+
+Ghana (2009)
+
+Guinea (2007)
+
+Jamaica (2009)
+
+Kenya (2009)
+
+Madagascar (2007)
+
+Mali (2009)
+
+Oman (2009)
+
+Togo (2007)
+
+Countries considering the establishment of a NBC
+
+Bangladesh
+
+Botswana
+
+Cap-Verde
+
+Chad
+
+China
+
+Comoros
+
+Malaysia
+
+Malawi 
+
+Mauritius
+
+Niger
+
+Nigeria 
+
+Trinidad and Tobago
+
+NBCs that have signed a MoU with UNESCO (first training course held in 2009) 
+
+Ivory Coast (first course Dec. 2009)
+
+Gabon (first course June 2009)
+
+Ghana (first course Jan. 2009)
+
+Guinea (first course April 2009)
+
+Jamaica (first course March 2009)
+
+Kenya (first course Nov. 2009)
+
+Togo (first course Jan. 2009)
+
+Ethically Speaking 14, July 2010 
+
+79
+
+Second training course in ethics based on UNESCO’s Bioethics Core Curriculum 
+(scheduled for 2010)
+
+Ivory Coast (20-25 Sep. 2010)
+
+Gabon (14-19 June 2010)
+
+Ghana (autumn 2010)
+
+Guinea (autumn 2010)
+
+Jamaica (Nov. 2010)
+
+Kenya (May 2010)
+
+Madagascar (autumn 2010)
+
+Togo (6-12 Sep. 2010)
+
+Further Information
+Dr Dafna Feinholz Klip 
+Chief of Bioethics Section
+Ethics of Science and Technology Division 
+UNESCO
+
+Address
+1, rue Miollis 75732 
+Paris cedex 15, France
+Tel.: +33(0)145 68 49 94
+Fax: +33(0)145 68 55 15
+E-mail: d.feinholz@unesco.org
+Website: www.unesco.org/bioethics
+
+80 
+
+Ethically Speaking 14, July 2010
+
+The Secretariat of the EGE
+
+Address
+European Commission
+Berl 5/118 - B-1049 Brussels
+Fax: (32-2) 299 45 65 
+Email: BEPA-ETHICS-GROUP@ec.europa.eu
+
+Maurizio SALVI
+European Commission 
+Head of the EGE Secretariat
+Berl 5/115 - B-1049-Bruxelles
+Tel :(32-2) 299 11 79
+E-mail: Maurizio.SALVI@ec.europa.eu
+
+Maja PRELOG
+European Commission 
+Policy Officer – Science and Ethics 
+Berl 5/120-B-1049 Bruxelles
+Tel : (32-2) 296 66 39
+E-mail: Maja.PRELOG@ec.europa.eu
+
+Kim-Hoang LE
+European Commission
+Berl 5/118-B-1049 Brussels
+Tel: (32-2) 299 92 28
+Email: Kim-Hoang.LE@ec.europa.eu
+
+Maria Alberta RIBEIRO
+European Commission
+Berl 5/118-B-1049 Brussels
+Tel: (32-2) 295 09 01
+Email: Maria-Alberta.RIBEIRO@ec.europa.eu
+
+Ethically Speaking 14, July 2010 
+
+81
+
+How to obtain EU publications
+
+Free publications:
+
+• 
+
+• 
+
+via EU Bookshop (http://bookshop.europa.eu);
+
+at the European Union’s representations or delegations. You can obtain their contact 
+details on the Internet (http://ec.europa.eu) or by sending a fax 
+
+Priced publications:
+
+• 
+
+via EU Bookshop (http://bookshop.europa.eu).
+
+Priced subscriptions (e.g. annual series of the Official Journal of the European Union and 
+reports of cases before the Court of Justice of the European Union):
+
+• 
+
+via one of the sales agents of the Publications Office of the European Union (http://publi-
+cations.europa.eu/others/agents/index_en.htm).
+
+§
+
+ISSN 1725-5562
+
+K
+A
+-
+A
+I
+-
+1
+0
+-
+0
+1
+4
+-
+E
+N
+
+-
+C
+
+Ethically speaking
+
+A newsletter providing information
+on the activities of the National Ethics Committees
+compiled by the Secretariat of the European Group
+on Ethics in Science and New Technologies
+to the European Commission
+
+July 2010
+
+

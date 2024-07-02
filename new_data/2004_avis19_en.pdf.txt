@@ -1,0 +1,1462 @@
+OPINION OF THE EUROPEAN GROUP ON ETHICS  
+
+IN SCIENCE AND NEW TECHNOLOGIES  
+
+TO THE EUROPEAN COMMISSION 
+
+No 19 
+
+Original in English 
+
+16th March 2004 
+
+ETHICAL ASPECTS OF UMBILICAL CORD BLOOD BANKING 
+
+Reference:  
+
+Request from Romano Prodi, President of the European Commission 
+
+Rapporteurs:   Dr. P. Puigdomenech Rosell and Prof. G. Virt 
+
+***************************************************************************************************************************** 
+
+The European Group on Ethics in Science and New Technologies (EGE), 
+
+Having  regard  to  the  request  of  Romano  Prodi,  President  of  the  European  Commission,  to  the 
+
+EGE on 24 August 2001, to prepare an opinion on private cord blood banking; 
+
+Having  regard  to  the  Treaty  on  European  Union  and  in  particular  its  Article  6  of  the  common 
+
+provisions concerning the respect for fundamental rights, and to Article 152 of the EC Treaty on 
+
+public health, and in particular paragraph 4(a) referring to substances of human origin; 
+
+Having  regard  to  the  Charter  of  Fundamental  rights  of  the  European  Union,  approved  by  the 
+
+European  Council  in  Biarritz  on  October  14th  2000  and  proclaimed  solemnly  in  Nice  by  the 
+
+European  Parliament,  the  Council  and  the  Commission  on  December  7th  2000,  in  particular  its 
+
+Article 1 on « Human dignity », Article 3 on the « Right to the integrity of the person », Article 8 on 
+
+« Protection of personal data » and Article 38 on « Consumer protection »; 
+
+Having regard to the Directive of the European Parliament and of the Council on setting standards 
+
+of quality and safety for the donation, procurement, testing, processing, preservation, storage and 
+
+distribution of human tissues and cells adopted on 2nd March 2004; 
+
+Having  regard  to  Directive  95/46/EC  of  the  European  Parliament  and  of  the  Council  of  the 
+
+European Union of 24 October 1995 on the protection of individuals with regard to the processing 
+
+of personal data and on the free movement of such data1; 
+
+1 Official Journal L 281, 23/11/1995 P. 0031 - 0050 
+
+1
+
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+                                                      
+ 
+Having regard to the Council of Europe Convention on Human Rights and Biomedicine, signed on 
+
+4  April  1997  in  Oviedo,  in  particular  its  Article  5  on  “Informed  consent”  and  its  Article  21  on 
+
+« Prohibition  of  financial  gain »  and  the  Additional  Protocol  on  Transplantation  of  organs  and 
+
+tissues of human origin opened for signature on 24th February 2001; 
+
+Having regard to the Universal Declaration on the human genome and the rights of man adopted 
+
+by the UNESCO on 11 November 1997; 
+
+Having  regard  to  the  various  laws  and  rules  applying  in  some  Member  States  concerning  cord 
+
+blood; 
+
+Having regard to the opinions expressed by national instances on that issue, namely the Opinion 
+
+n°  74  of  12  December  2002  of  the  National  Consultative  Ethics  Committee  on  umbilical  cord 
+
+blood banks for autologous use or for research (France)2, the statement by the Belgian Medical 
+
+Association addressed to gynaecologists and general practitioners3, the opinion paper of October 
+
+2001  of  the  Scientific  Advisory  Committee  of  the  Royal  College  of  Obstetricians  and 
+
+Gynaecologists  (UK)4,  the  opinion  of  7th  December  2001  of  the  Belgian  Health  Council  on  the 
+
+revision of tissue banks’ legislation5 and the American Academy of Paediatrics’ recommendations 
+
+of 14th July 19996; 
+
+Having regard to the previous EGE Opinion No. 11 of 21.07.1998 on the ethical aspects of human 
+
+tissue  banking  and  Opinion  No.  15  of  14.11.2000  on  the  ethical  aspects  of  human  stem  cell 
+
+research and use7; 
+
+Having regard to the hearings of experts and Commission departments on 16 September 2003, 
+
+18 November 2003 and 16 December 2003 in Brussels and 20 October 2003 in Rome; 
+
+Having heard the rapporteurs, Dr. P. Puigdomenech Rosell and Prof. G. Virt, 
+
+2 Internet: http://www.ccne-ethique.fr/english/start.htm 
+3 Internet: http://www.ordomedic.be/braf/sangcordon.htm  
+4 Internet: http://www.rcog.org.uk/print.asp?PageID=430&Type=main  
+5 Internet: http://www.health.fgov.be/CSH_HGR/Francais/Avis/Avis_Banques_Tissus.htm 
+6 Internet: http://www.cordblood.med.ucla.edu/experts.html  
+7 Internet: http://europa.eu.int/comm/european_group_ethics/index_en.htm  
+
+2
+
+                                                      
+ 
+1. WHEREAS : 
+
+BACKGROUND OF THE REQUEST 
+
+The Group is issuing an Opinion on the ethical aspects of cord blood banking following a request 
+
+from President Prodi in 2001. Concerns on commercial cord blood banks were also expressed in 
+
+questions8  from  members  of  the  European  Parliament  to  the  European  Commission.  There  are 
+
+concerns namely about the fact that promises about the benefits of cord blood transplantations to 
+
+treat  a  number  of  diseases  were  made  to  convince  future  parents  to  store  cord  blood  from 
+
+newborn babies against payment with a view to using it to treat a disease incurred by the child or 
+
+one of his family members and for which there is at present no medical evidence for the validity of 
+
+the treatment.  
+
+INTRODUCTION 
+
+Since  1988  it  has  been  shown  that  the  haematopoietic  stem  cells  present  in  the  blood  of  the 
+
+umbilical cord can be used for allogeneic transplantation in a number of genetic diseases, blood 
+
+malignancies  and  immune  deficiencies,  for  example  leukaemia.  After  transplantation,  the 
+
+haematopoietic stem cells can repopulate the bone marrow of the patient, providing a source of 
+
+blood  cells. 
+
+It  currently  constitutes  an 
+
+increasingly  used  alternative 
+
+to  bone  marrow 
+
+transplantation.  
+
+In  order  to  have  cord  blood  cells  available  for  transplantation  a  number  of  banks  were  created 
+
+worldwide.  These  banks  are  run  by  either  hospitals  or  non-profit  organizations  that  collect  the 
+
+samples from donors and provide them when the cells are needed for transplantation. 
+
+Recently,  private  firms  have  been  offering  to  future  parents  the  conservation  of  blood  from  the 
+
+umbilical  cord  of  newborn  children  for  one’s  own  use  or  for  the  use  of  close  relatives.  Different 
+
+types of cord blood banks can be distinguished : private or public, for-profit or non-profit.  
+
+8 Written question E-1079/01 by Ria Oomen-Ruijten (OJ C 340 E of 04/12/2001, p. 166) and written question E-3677/02 by Bart 
+Staes (OJ C 137 E of 12/06/2003, p. 238) 
+
+3
+
+ 
+ 
+ 
+ 
+ 
+                                                      
+ 
+In this opinion, the Group considered: 1. public (non-profit) banks that store cord blood cells from 
+
+donors  and  provide  them  when  transplantation  is  prescribed  to  an  unrelated  patient  and  2.  ° 
+
+Private banks that offer a commercial service to parents in order to preserve the cells to be used 
+
+for their child or children in the future. 
+
+DEFINITIONS 
+
+For the purposes of this Opinion: 
+
+a)  « cord blood » means: residual placental blood collected from the cord of the newborn; 
+
+b)  « stem cells » means cells that can both replicate and also differentiate into several types of 
+
+cells ; 
+
+c)  « progenitor  stem  cells »  means  cells  whose  terminal  progeny  consist  of  a  single  cell  type 
+
+only ; 
+
+d)  « haematopoietic stem cells » means those cells that give rise to cells present in blood ; 
+
+e)  « pluripotent » means capable of giving rise to all cell types in the body ; 
+
+f)  « HLA  (Human  Leukocytic  Antigen)  types »  are  determined  by  proteins  present  on  the 
+
+surface  of  leukocytes  that  allow  the  cells  from  the  individual  to  be  recognized.  Identical  or 
+
+similar HLA types are necessary for successful transplantation. 
+
+g)  « autologous transplantation » refers to the transplantation to a patient of his/her own cells ; 
+
+h)  « allogeneic  transplantation  »  refers  to  the  transplantation  of  cells  from  a  donor  to  another 
+
+person. 
+
+4
+
+ 
+ 
+ 
+ 
+SCIENTIFIC BACKGROUND 
+
+1.1. Characteristics of cord blood 
+
+Umbilical cord blood was found to be rich not only in normal blood cells but also in haematopoietic 
+
+stem  cells.  These  stem  cells  are  found  only  in  insignificant  numbers  in  normal  adult  peripheral 
+
+blood. After transplantation, the haematopoietic stem cells can repopulate the bone marrow of the 
+
+patient, providing a source of blood cells. 
+
+An  important  characteristic  of  cord  blood  cells  is  their  immunological  immaturity.  Therefore, 
+
+haematopoietic stem cells from cord blood are less likely to induce immunological reactions when 
+
+transplanted than haematopoietic stem cells from bone marrow.  
+
+Furthermore,  in  laboratory  experiments  it  has  been  shown  that  cord  blood  stem  cells  can 
+
+differentiate  into  a  number  of  different  cell  types,  which  could  give  rise  to  future  potential  new 
+
+therapeutic uses.  
+
+1.2. Advantages of cord blood cells compared to bone marrow 
+
+The collection of cord blood units is easy and non-invasive for the donor and therefore the number 
+
+of potential donors is higher than for bone marrow. 
+
+Cord  blood  units  are  stored  in  advance  and  are  therefore  rapidly  available  when  needed  while 
+
+bone marrow has to be collected from the donor just before transplantation and there is always a 
+
+risk of last minute consent refusal. 
+
+The  HLA  type  does  not  need  to  be  a  perfect  match  in  case  of  allogeneic  cord  blood  cell 
+
+transplantation  because  these  cells  are  less  likely  to  induce  immunological  reactions  than  bone 
+
+marrow cells. 
+
+1.3. Current uses of cord blood.  
+
+Cord blood can be an alternative to bone marrow transplantation in the treatment of patients with 
+
+blood and immune disorders requiring a source of haematopoietic stem cells.  
+
+Cord blood is currently being used for the treatment of leukaemia, lymphomas, aplastic anaemia 
+
+and hereditary disorders of the blood. 
+
+It is also used as a source of stem cells for current research. 
+
+5
+
+ 
+ 
+ 
+ 
+1.4. Allogeneic transplantation 
+
+In all the current uses of cord blood indicated above, the transplantations are allogeneic and the 
+
+cells used are obtained from donation. The use of autologous graft would be inappropriate in case 
+
+of a genetic disease as the cells of the patient would carry the same genetic defect, or in case of 
+
+leukaemia, as the cells of the patient could also become malignant.  In the case of an allogeneic 
+
+transplantation  there  is  always  a  risk  that  the  body  rejects  the  transplanted  tissue.  Therefore, 
+
+HLA-typing is essential to have the best possible HLA matching between donor and recipient in 
+
+order to minimize rejection effects and optimize the chances of therapeutic success.   
+
+The  residual  HLA  differences  between  donor  and  recipient  may  induce  a  limited  immunological 
+
+reaction.  In  the  treatment  of  leukaemia,  this  “graft  against  host  reaction”  is  beneficial  and 
+
+contributes to destruction of the leukaemia cells. 
+
+1.5. Limitations of the use of cord blood cells 
+
+In  order  to  be  useful  for  transplantation  samples  have  to  contain  a  sufficient  number  of  cells 
+
+according to the patient’s weight and therefore mainly young patients of small weight can benefit 
+
+from  this  kind  of  transplantation.  Nevertheless,  recent  experience  shows  that  it  is  possible  to 
+
+combine  several  samples  in  order  also  to  treat  adults9.  Further,  research  on  methods  of  cell 
+
+expansion  is  actively  being  pursued  in  order  to  overcome  the  problem  of  the  limited  number  of 
+
+cells contained in cord blood samples, which would allow a more systematic treatment of adults. 
+
+Until  now  between  2  500  and  3  000  transplantations  from  cord  cells  have  been  carried  out 
+
+worldwide10. Studies show higher survival rates for children than for adults. 
+
+1.6. Autologous transplantation 
+
+Most indications of autologous grafts concern adults who are undergoing aplasia following chemo- 
+
+or radio-therapy. The aim of the transplantation is to repopulate the bone marrow of the patient 
+
+with  his/her  own  haematopoietic  stem  cells  that  will  provide  a  source  of  blood  cells.  Such 
+
+autologous  grafts  do  not  require  one’s  own  cord  blood  stem  cells  to  have  been  stored  at  birth. 
+
+Indeed,  such  grafts  can  be  performed  by  harvesting  before  the  therapy  stem  cells  from  the 
+
+peripheral blood of the patient after stimulation by a growth factor.  Therefore, indications to store 
+
+cord blood at birth in view of a future autologous graft are for the present time almost non-existent. 
+
+9 Report “A worldwide study of umbilical cord cell banking” by Dr J. Gunning (June 2003) 
+10 Hearing of Prof. Gluckman on 18 November 2003 
+
+6
+
+ 
+ 
+                                                      
+ 
+The probability of needing an autologous transplantation has been estimated as approximately 1 
+
+in 20 000 during the first 20 years of life11.  
+
+Exceptions can however be mentioned. In case of rare HLA types or in a family at risk of specific 
+
+leukaemia it may be appropriate to store cord blood of newborn children in order to have available 
+
+cells  in  case  of  need  for  a  member  of  the  family.  The  purpose  is  then  for  an  intra-familial 
+
+allogeneic  graft  rather  than  for  a  strictly  autologous  use.  Until  January  2003,  only  5  autologous 
+
+transplants  for  the  treatment  of  Neuroblastoma,  Aplastic  Anaemia,  and  Retino-blastoma12  have 
+
+been mentioned in the scientific literature.   
+
+1.7. Current research 
+
+During recent years, research on stem cells has expanded rapidly. Research is taking place into 
+
+differentiation  of  pluripotent  stem  cells  into  specific  cell  types  which  could  be  used  for  the 
+
+treatment  of  chronic  diseases  such  as  Parkinson’s,  diabetes,  cancer,  or  cardiac  infarcts  by 
+
+means of human stem cells but no clear proof of the utility of these stem cells has been shown. 
+
+Stem  cells  from  embryonic  origin  raise  many  ethical  concerns  as  well  as  some  scientific  ones. 
+
+Cord blood is another valuable source for research on stem cells. 
+
+The  possibility  of  using  one’s  own  cord  blood  stem  cells  for  regenerative  medicine  is  currently 
+
+purely  hypothetical.  Research  in  this  field  is  only  at  a  very  early  stage.  To  become  a  reality  it 
+
+would be necessary: 
+
+•  To be able to control the differentiation of stem cells; 
+
+•  To have evidence of the efficacy and safety of such therapy; 
+
+•  To be able to store cord blood stem cells for decades; 
+
+•  To be able to multiply cord blood stem cells. 
+
+Even if these conditions were met, it is not evident that the use of patient’s own cord blood would 
+
+be preferable to the use of his / her own bone marrow or to well-matched allogeneic stem cells 
+
+from donation. 
+
+It is therefore highly hypothetical that cord blood cells kept for autologous use will be of any value 
+
+in the future.  
+
+11 Annas, NEJM 2000 ; 340 :1521 
+12 Report “A worldwide study of umbilical cord cell banking” by Dr J. Gunning (June 2003) 
+
+7
+
+ 
+ 
+ 
+                                                      
+ 
+1.8. Collection of cord blood 
+
+During or immediately after the birth of a child residual blood from the umbilical cord and placenta 
+
+can be collected. The collection is a technically simple procedure that poses, if carefully done, no 
+
+foreseeable health risks to the mother or the child in a normal delivery. In Europe the most widely 
+
+used  technique  involves  collecting  the  umbilical  cord  blood  while  the  placenta  is  still  in  utero, 
+
+while  another  technique  waits  until  the  placenta  is  delivered  and  then  places  the  placenta  in  a 
+
+sterile supporting structure and finally collects the blood by venepuncture. The first technique is 
+
+more intrusive, and has the potential to interfere with the mother’s care after the delivery, while 
+
+the  latter  requires  extra  and  specially  trained  staff  members  and  holds  a  greater  risk  of 
+
+contamination.  Cord blood can also be collected during delivery by Caesarean section. 
+
+The  blood  collected  in  order  to  be  donated  to  public  banks  is  collected  in  some  maternity 
+
+departments  where  it  is  done  on  a  regular  basis  with  well  established  procedures  and  by  an 
+
+experienced staff. However, in the case of autologous storage, the staff of the maternity hospital 
+
+that has to collect the blood might have no prior experience of the procedure. Commercial cord 
+
+blood  banks  simply  issue  collection  kits  to  the  expectant  parents  who  pass  them  on  to  the 
+
+obstetric staff. 
+
+1.9. Storage and quality of cord blood 
+
+After  collection,  the  cord  blood  is  reduced  in  volume,  frozen  at  a  controlled  rate  and  stored  in 
+
+liquid nitrogen at – 196°C. 
+
+According to current experience, cells are usable for transplantation for at least 15 years.  
+
+Before  storage,  quality  control  has  to  be  performed.  Cord  blood  units  are  screened  for  some 
+
+infectious  diseases  before  storage  in  order  to  diminish  the  risk  of  transmission  of  infections. 
+
+Protection  against  infection  requires  checking  the  mother  for  HIV,  hepatitis,  etc.  at  the  time  of 
+
+collection as well as several months after collection. In case of donation made for the purpose of 
+
+allogeneic  use,  including  within  the  family,  the  sample  has  to  be  HLA-typed.  The  HLA  type  is 
+
+necessary to identify the sample which is compatible with the recipient. 
+
+To be clinically useful the sample, at the present time, has to contain a minimum number of cells; 
+
+below this number it does not have at this moment any use. Therefore, more than half of cord 
+
+blood units have to be discarded13 (the minimum cell dose to be transplanted should be 2.0 x  
+
+13 Report « A worldwide study of umbilical cord cell banking » by Dr J. Gunning (June 2003) 
+
+8
+
+ 
+ 
+                                                      
+ 
+107/kg before freezing14). This might change if the samples of different donors are bulked or if cell 
+
+expansion techniques are successfully developed. 
+
+1.10. Umbilical cord blood banking 
+
+There are now about 100 cord blood banks worldwide15. The present geographical distribution is 
+
+approximately  as  follows  :  40  %  in  Europe,  30  %  in  US  and  Canada,  20  %  in  Asia,  10  %  in 
+
+Australia and none in Africa.  
+
+About 75 % of cord blood banks in the world are public or private non-profit banks, which offer a 
+
+service for the public benefit. They store donated samples for the purpose of transplantation or 
+
+research. They also store cord blood for family use in case of a known risk in a family with a rare 
+
+HLA group. 
+
+The remaining 25 % are commercial banks, which propose as a service the conservation of cord 
+
+blood cells for autologous use for the benefit of their customers. In Europe, there are commercial 
+
+banks namely in Austria, Belgium, Germany, The Netherlands, Poland and the United Kingdom16. 
+
+1.11. Necessity of a great diversity of cord blood cells 
+
+There is a need for a great diversity of cells with different genetic and HLA types from different 
+
+populations  in  order  to  be  able  to  find  an  acceptable  donor  for  any  recipient  in  need.  The 
+
+probability  to  find  an  acceptable  donor  is  much  lower  for  some  ethnic  populations.  It  is  for 
+
+example much easier to find a suitable donor for a patient of Caucasian origin than for one of an 
+
+African  origin,  because  most  of  the  banks  are  set  up  in  Western  countries,  and  donors  will  be 
+
+more frequently recruited within the Caucasian population. 
+
+1.12. Networks and registries 
+
+Networks  of  banks  and  registries  have  been  created  around  the  world  in  order  to  share  and 
+
+exchange  samples.  Such  co-operation  between  the  banks  is  necessary  in  order  to  have  the 
+
+largest possible choice of donors. In general, data about the stored blood samples are held by 
+
+the  same  registries  which  were  originally  holding  information  about  bone  marrow  donors.  The 
+
+biggest international bone marrow and cord blood registry is the Bone Marrow Donors Worldwide  
+
+14 Hearing of Prof. Gluckman on 18 November 2003 
+15 Report “A worldwide study of umbilical cord cell banking” by Dr J. Gunning (June 2003) 
+16 Report “A worldwide study of umbilical cord cell banking” by Dr J. Gunning (June 2003) 
+
+9
+
+ 
+ 
+ 
+ 
+ 
+                                                      
+ 
+(BMDW)17. It is a voluntary collaborative effort of bone marrow donor registries and cord blood 
+
+banks with the goal of providing centralised and anonymous information on the HLA phenotypes 
+
+and  other  relevant  data  of  unrelated  bone  marrow  donors  and  cord  blood  units.  All  cord  blood 
+
+registries participating in BMDW are expected to adhere to the guidelines of the WMDA (World 
+
+Marrow  donor  association)18,  which  promotes  the  definition  and  standardisation  of  ethical, 
+
+technical, medical and financial aspects of international haematopoietic stem cell transplantation. 
+
+It has now extended its remit to cord blood registries. In 2003 the BMDW registry contained data 
+
+on roughly 130 000 samples in about 34 different public banks all over the world. 
+
+1.13. The European Network 
+
+The  NETCORD  Foundation19  was  established  in  1998  with  the  aim  of  promoting  the  use  of 
+
+umbilical  cord  blood  for  allogeneic  stem  cell  transplantation.  It  is  a  non-profit  organization 
+
+promoting the establishment of high quality umbilical cord blood banks and has issued statutes 
+
+and  guidelines  in  order  to  further  promote  studies  and  research  on  the  collection,  processing, 
+
+characterization, preservation and ex vivo expansion of placental blood with the primary aim of 
+
+improving  the  quality  of  such  components  for  clinical  cell  therapy  on  an  international  level. 
+
+16 banks participate from 12 countries all over the world, currently totalling around 72 000 cord 
+
+blood units and representing more than half of the units banked in the world20.  
+
+To  facilitate  the  searches  for  cord  blood  units  by  transplant  centres,  NETCORD  has  also 
+
+established an on-line search program, called the Virtual Office. By submitting a search request 
+
+to the Virtual Office transplant centres will no longer have to search multiple data bases of the 
+
+different cord blood banks, but they will receive a single unified search report on all units that are 
+
+contained in the inventory of NETCORD.  
+
+In  order  to  ensure  high  and  uniform  quality  of  all  cord  blood  units  in  the  NETCORD  inventory, 
+
+NETCORD  has  established  quality  standards  in  collaboration  with  the  Foundation  for  the 
+
+Accreditation of Cellular Therapy (FACT) on the collection, cryopreservation, storage and release 
+
+of units. All NETCORD banks must obtain accreditation by FACT and thus have to comply with 
+
+quality standards of FACT/NETCORD.  
+
+17 Internet: http://www.bmdw.org  
+18 Internet: http://www.worldmarrow.org  
+19 Internet: https://www.netcord.org  
+20 Hearing of Prof. Wernet, Chairman of NETCORD, on 18 November 2003 
+
+10
+
+ 
+ 
+ 
+                                                      
+ 
+1.14. Research in Europe 
+
+The  European  Commission  is  financing  in  partnership  with  Member  States  research  projects 
+
+through its Research and Development Framework Programmes. 
+
+A research project called EUROCORD was initiated in 1996 by The European Group for Blood 
+
+and  Marrow  Transplantation  (EBMT)21.    EBMT  is  a  non-profit  organisation  established  to  allow 
+
+scientists  and  physicians  involved  in  clinical  bone  marrow  transplantation  to  share  their 
+
+experience and to develop co-operative studies. It aims to promote all aspects associated with 
+
+the transplantation of haematopoietic stem cells from all donor sources and donor types including 
+
+basic  and  clinical  research,  education,  standardisation,  quality  control,  and  accreditation  for 
+
+transplant procedures. 
+
+The  objectives  of  EUROCORD  include  establishing  a  European  Registry  of  patients  treated  by 
+
+cord  blood  transplants.  EUROCORD  works  in  close  collaboration  with  NETCORD  banks  and 
+
+registries. 
+
+These objectives are in conformity with the recommendations made in the Opinion no. 11 of the 
+
+European Group on Ethics concerning the necessity to promote surveys on practices relating to 
+
+tissue banks and to use the surveys to provide information on perspectives in therapy, diagnosis 
+
+and research offered by human tissues. 
+
+21 Internet: http://www.ebmt.org  
+
+11
+
+ 
+ 
+ 
+                                                      
+ 
+LEGAL BACKGROUND 
+
+Most European countries have no specific legislation on cord blood banking. In fact, they have 
+
+been following different practices. Only a very few, including Italy, have enacted specific rules on 
+
+the issue. 
+
+When regulations on human tissue or human blood at large exist, such as in France then cord 
+
+blood is considered as a tissue and not as blood because it is the haematopoietic progenitor cells 
+
+contained in cord blood which are important for transplantation. For instance the Directive of the 
+
+European Parliament and the Council on setting standards of quality and safety for the donation, 
+
+procurement,  testing,  processing,  preservation,  storage  and  distribution  of  human  tissues  and 
+
+cells,  adopted  on  2nd  March  200422,  covers  haematopoietic  progenitor  cells  but  excludes  blood 
+
+and  other  blood  products.    Another  example  is  the  Additional  Protocol  to  the  Convention  on 
+
+Human  Rights  and  Biomedicine,  on  Transplantation  of  Organs  and  Tissues  of  Human  Origin 
+
+which  applies  to  tissues  and  cells,  including  haematopoietic  stem  cells  but  does  not  apply  to 
+
+blood and blood derivatives. 
+
+1.15. The European Community 
+
+The  Treaty  establishing  the  European  Community23  in  its  Article  152  §  4(a)  provides  that  “the 
+
+Council … shall contribute to the achievement of the objectives referred to in this article through 
+
+adopting  measures  setting  high  standards  of  quality  and  safety  of  organs  and  substances  of 
+
+human origin, blood and blood derivatives; these measures shall not prevent any Member States 
+
+from maintaining or introducing more stringent protective measures.” 
+
+In order to implement high quality standards, a legal framework has been adopted.  
+
+First, there is a directive 2002/98/EC of 27 January 200324 concerning the quality and safety of 
+
+collection, storage and distribution of human blood and components but it does not apply to blood 
+
+stem cells. 
+
+Second, the directive of the European Parliament and the Council on setting standards of quality 
+
+and  safety  for  the  donation,  procurement,  testing,  processing,  preservation,  storage  and 
+
+22 At the time of adoption of this Opinion an Official Journal number has not yet been attributed. 
+23 The texts of the Treaties can be found on the Internet: http://europa.eu.int/eur-lex/en/search/search_treaties.html  
+24 Official Journal L 033 , 08/02/2003 P. 0030 - 0040 
+
+12
+
+ 
+ 
+ 
+ 
+                                                      
+ 
+distribution of human tissues and cells, adopted on 2nd March 2004, applies to cord blood banks 
+
+as haematopoietic stem cells are considered as tissues. Transplantations of tissues and cells are 
+
+increasingly  offering  greater  opportunities  for  the  treatment  of  as  yet  incurable  diseases.  The 
+
+objective of the directive is to ensure the quality and safety of tissues and cells at European level, 
+
+particularly in order to prevent the transmission of diseases.  
+
+Although  the  directive  does  not  specifically  mention  commercial  or  for-profit  private  cord  blood 
+
+banks, it also applies to them. It therefore means that these types of institutions also have to apply 
+
+the  quality  and  safety  standards  set  out  in  the  directive,  namely  in  terms  of  staff  training  or 
+
+accreditation. 
+
+The  European  Community  is  however  not  competent  when  it  comes  to  national  measures  on 
+
+donation or medical use of organs and blood. Indeed, Article 152 § 5 of the Treaty establishing the 
+
+European  Community  provides  that  “Community  action  in  the  field  of  public  health  shall  fully 
+
+respect  the  responsibilities  of  the  Member  States  for  the  organisation  and  delivery  of  health 
+
+services and medical care. In particular, measures referred to in paragraph 4(a) shall not affect 
+
+national provisions on the donation or medical use of organs and blood.”  
+
+It can however be noted that the directive provides in its Article 12 that “Member States shall take 
+
+the necessary measures to encourage voluntary and unpaid donations of human tissues and cells 
+
+with a view to ensuring that, insofar as is possible, they are obtained from such donations”, that 
+
+“Member  States  shall  report  to  the  Commission  on  these  measures”  and  that  “on  the  basis  of 
+
+these  reports  the  Commission  shall  inform  the  European  Parliament  and  the  Council  of  any 
+
+necessary  further  measures  it  intends  to  take  at  Community  level”.  It  provides  further  that 
+
+“Member States shall encourage the procurement of tissues and cells to be carried out on a non-
+
+profit basis.” 
+
+Concerning the duty of information, Article 28(d) refers to the information to be provided on the 
+
+donation of cells and/or tissues. 
+
+Finally, the respect for fundamental rights is mentioned in the recitals of the directive. Mention of 
+
+the EGE opinions is also made in the recitals. 
+
+13
+
+ 
+ 
+ 
+ 
+ 
+ 
+1.16. The Council of Europe 
+
+Article 21 of the Convention on Human Rights and Biomedicine25 of the Council of Europe (Oviedo 
+
+Convention) provides that “the human body and its parts shall not, as such, give rise to financial 
+
+gain”. 
+
+The  Additional  Protocol  to  the  same  Convention26  concerning  transplantation  of  organs  and 
+
+tissues of human origin, opened for signature on 24 January 2002, provides in its article 2  that 
+
+“The  provisions  of  this  Protocol  applicable  to  tissues  shall  apply  also  to  cells,  including 
+
+haematopoietic stem cells.”  
+
+The European Health Committee of the Council of Europe adopted a draft Recommendation on 
+
+autologous blood banks. At the time of adoption of this opinion the recommendation has however 
+
+not been adopted yet by the Committee of Ministers. It recommends to its member states that : 
+
+1.  “If cord blood banks are established, they shall be from altruistic and voluntary cord blood 
+
+donation and used for allogeneic transplantation and related research. 
+
+2.  The promotion of donation for autologous use and the establishment of cord blood banks 
+for autologous use should not be supported by member States or their health services. 
+
+3.  Accurate  information  should  be  provided  to  the  population  about  the  advantages  and 
+
+disadvantages of cord blood banking. 
+
+4.  Where autologous cord blood banks are being established, the publicity and information 
+provided  to  families  must  be  accurate  and  fully  informed  consent  to  cord  blood  storage 
+must be obtained.  
+
+5.  Autologous  blood  banks  that  are  being  established  must  meet  the  same  quality  and 
+safety  standards  as  set  out  in  the  Council  of  Europe’s  Guide  to  safety  and  quality 
+assurance for organs, tissues and cells.” 
+
+1.17. French legal framework 
+
+Although there is no special regulation concerning the umbilical cord blood, there is every reason 
+
+to admit that the rules of the code of public health relating to tissues and cells would be applicable 
+
+to it. This would mean that umbilical cord blood can only be taken by establishments being the 
+
+subject to an administrative authorization and only with a therapeutic or scientific aim.  
+
+25 The text of the Convention can be found on the Internet: http://conventions.coe.int/treaty/en/treaties/html/164.htm 
+26 
+found  on 
+http://conventions.coe.int/treaty/en/treaties/html/186.htm 
+
+the  Additional  Protocol  on  Transplantation 
+
+the  Convention  can  be 
+
+text  of 
+
+  The 
+
+to 
+
+the 
+
+Internet: 
+
+14
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                      
+ 
+On the one hand, although the creation and functioning of a commercial private bank for the auto 
+
+conservation  of  the  cord  blood  are  not  expressly  prohibited,  such  banks  seem  not  to  be  in 
+
+accordance  with  the  principles  and  rules  laid  down  by  the  code  of  public  health.  On  the  other 
+
+hand, in the eyes of civil law of contracts and medical deontology, the validity or the enforceability 
+
+of the contracts by which parents are prompted to the taking and conservation of the cord blood 
+
+for their child, taking account in particular the absence of medical and current or future therapeutic 
+
+usefulness, could be discussed. 
+
+In December 2002 the French National Consultative Ethics Committee (CCNE) gave an opinion 
+
+on umbilical cord blood banks for autologous use or for research (opinion no. 74)27. 
+
+The CCNE concludes that although it cannot recommend that private banks should be prohibited, 
+
+it draws attention to a number of risks: 
+
+• 
+
+“The gravest danger is for society in so far as setting up such banks is likely to contradict the 
+
+principle of solidarity, without which no society can survive”; 
+
+• 
+
+“Such  banks  raise  hopes  of  utopia  and  disguise  a  mercantile  project  using  assistance  to 
+
+children as a screen”; 
+
+• 
+
+If autologous use proved to be useful, the principles of justice and equity should predominate 
+
+and autologous storage should become routine and taken in charge by public authorities; 
+
+•  The  uselessness  of  autologous  storage  and  its  cost  could  constitute  a  provocation  for  the 
+
+poorest countries; 
+
+•  At the moment of birth the attention and care for the mother and child could be diverted; 
+
+•  The advertising made by private banks could play on the parents’ feelings such as fear and 
+
+guilt,  although  it  should  be  made  clear  that  today  there  is  no  scientific  justification  to 
+
+autologous storage; 
+
+•  Should  the  management  of  an  autologous  bank  be  left  to  the  State,  the  high  cost  for  a 
+
+currently useless technique would be unethical. 
+
+In conclusion, the CCNE recommends to public authorities to promote the development of public 
+
+banks which store umbilical cord blood for allogeneic purposes. 
+
+27 The text of the Opinion can be found on the Internet: http://www.ccne-ethique.fr/english/start.htm 
+
+15
+
+ 
+ 
+ 
+ 
+                                                      
+ 
+1.18. The situation in Belgium 
+
+The  Belgian  Health  Council  gave  on  7th  December  2001  an  opinion  on  the  revision  of  tissue 
+
+banks’ legislation28. It recommends in particular for the cord, cord blood and derived cells that :  
+
+• 
+
+“The cord and cord blood cells are part of the legislation regulating tissues and cells ; 
+
+•  Quality standards for cord blood banks have to be worked out ; 
+
+•  The therapeutic autologous uses for deferred preventive intentions have to be prohibited.”  
+
+In its Annex II, the Health Council lists the conditions of approval and authorisation of the activities 
+
+relating to cell and tissue banks. It stipulates in particular that “each cell or tissue bank has to be 
+
+approved by the Minister after a report of the relevant service and after the opinion of the Health 
+
+Council and that this approval can only be granted for (…) non-profit-making organisms”. 
+
+A  Royal  Decree  is  in  preparation  by  the  Ministry  of  Public  Health29  in  order  to  have  a  clearer 
+
+legislation regarding umbilical cord blood banks. The draft Decree provides that all tissue banks 
+
+will  have  to  be  accredited  by  the  Ministry  of  Health.  The  Royal  Decree  proposes  that  the 
+
+accreditation will be granted to non-profit organizations only. The draft Decree also clearly forbids 
+
+the use of umbilical cord blood cells for deferred preventive intentions as well as all discrimination 
+
+aiming at favouring a person’s access to therapeutic possibilities linked to tissues of human origin, 
+
+any form of publicity and the research of profit.  
+
+1.19. The Italian law30 
+
+An ordinance from the Ministry of Health was adopted on 30 December 2002 concerning urgent 
+
+measures  with  respect  to  stem  cells  of  the  umbilical  cord  blood  and  replacing  the  ordinance 
+
+adopted  on  11  January  2002.  It  has  been  published  in  the  official  government  announcements 
+
+(Gazzetta Ufficiale) no. 27 of 3 February 2003 and is valid for one year. It provides the following: 
+
+•  Cord blood banking is only authorized as a public conservation structure; 
+
+•  Each bank is also subject to approval by the regional government where it is located;  
+
+•  Private banking is forbidden; 
+
+•  The import or export of cord blood must be authorized by the Ministry of Health; 
+
+•  These  provisions  are  believed  necessary  because  therapies  using  stem  cells  from  umbilical 
+
+cord blood are still under study. 
+
+28 Internet: http://www.health.fgov.be/CSH_HGR/Francais/Avis/Avis_Banques_Tissus.htm  
+29 Internet: http://www.lachambre.be/QRVA/pdf/50/50K0156.pdf , p. 120 
+30 Internet: http://www.cittadinolex.kataweb.it/Article/0,1519,22470|99,00.html  
+
+16
+
+ 
+ 
+ 
+                                                      
+ 
+ETHICAL BACKGROUND 
+
+1.20. Fundamental ethical principles 
+
+There are several fundamental ethical principles and values which can be considered relevant for 
+
+this opinion : 
+
+•  The principle of respect for human dignity and integrity, which asserts the principle of non 
+
+commercialisation of the human body; 
+
+•  The principle of autonomy or the right to self-determination on the basis of full and correct 
+
+information; 
+
+•  The principles of justice and solidarity, as regards to fair access to healthcare services; 
+
+•  The principle of beneficence, or the obligation to do good, especially in the area of health 
+
+care; 
+
+•  The principle of non-maleficence, or the obligation not to harm, including the obligation to 
+
+protect vulnerable groups and individuals, to respect privacy and confidentiality; 
+
+•  The principle of proportionality which implies a balance between means and objectives. 
+
+There are also some value conflicts. The values of freedom and free enterprise can conflict with 
+
+the principles of solidarity and justice, according to which access to healthcare should be on an 
+
+equitable  basis  and  based  on  realistic  needs,  as  well  as  with  the  principle  of  protection  of 
+
+vulnerable groups. 
+
+1.21. Ethical concerns regarding tissue banking 
+
+The ethical implications of cord blood banking in the case of donated samples for the purposes of 
+
+allogeneic  transplantation  or  research  are  the  same  as  for  any  tissue  bank.  This  issue  has 
+
+already been addressed in the EGE Opinion no. 11 on the ethical aspects of tissue banking (21 
+
+July 1998). The ethical values underlined in this opinion are the following: body integrity, respect 
+
+of privacy and confidentiality of data, promotion of solidarity, fairness of access to healthcare and 
+
+information and consent of the donors. 
+
+Regarding umbilical cord blood, the opinion no. 11 provides that “the information provided to the 
+
+woman or to the couple must clearly explain these prospective new treatments, but stress that 
+
+they are still very much at the experimental stage”. This opinion also provides that “in principle, 
+
+tissue  bank  activities  should  be  reserved  to  public  health  institutions  or  non-profit  making 
+
+organisations” but that “tissue banks set up by industry should be subject to the same licensing  
+
+17
+
+ 
+ 
+ 
+ 
+ 
+and  monitoring  requirements  as  non-commercial  operators”.  The  Group  insists  on  the  ethical 
+
+imperative to protect health by appropriate quality and safety rules and calls for a European legal 
+
+framework in that field and finally recommends that “the European Union should promote periodic 
+
+surveys in the Member States to obtain and diffuse data on practices relating to human tissues, 
+
+from  procurement  to  distribution,  the  organisation  of  tissue  banks,  particularly  concerning  the 
+
+profit-making or non-profit making aspect … “. 
+
+1.22. Specific concerns raised by cord blood banking for autologous uses 
+
+Cord  blood  banking  for  potential  future  autologous  uses  raises  additional  ethical  concerns.  
+
+Tissue  banks  were  up  till  now  relying  on  free  donation  for  treatment  to  the  benefit  of  other 
+
+persons  or  for  research,  and  by  the  fact  that  it  implies  an  act  of  solidarity  or  generosity  it 
+
+contributes to the social cohesion, while the commercial cord blood banks are running for profit.  
+
+This reflects a more general shift to a privately funded health care system from a health system 
+
+based  on  solidarity  and  motivated  by  public  health  considerations,  which  has  characterised 
+
+Europe in the last decades. 
+
+The services proposed by these banks and for which parents pay do not have any realistic use in 
+
+the foreseeable future. If proposed and endorsed by medical doctors, it may raise a problem of 
+
+trust. 
+
+1.23. Information to consumers/citizens 
+
+Citizens may be tempted to take advantage of all possibilities proposed for health even if they are 
+
+not  validated.  Furthermore,  time  of  pregnancy  and  of  birth  represents  a  period  when  women  / 
+
+parents might be vulnerable. This vulnerability and the sense of guilt in the parents who wish to 
+
+do everything possible for their child’s good, induced by providing misleading or over optimistic 
+
+information  may  lead  people  to  invest  money  for  something  that  they  cannot  really  afford,  and 
+
+that may not be worth the money invested.   
+
+1.24. Protection of vulnerable groups 
+
+Special  attention  should  also  be  made  to  gender  aspects  because  the  collection  takes  place 
+
+within the delivery process. The pressure to perform the collection to satisfy a pressing request 
+
+from the parents may be heavier than when the cord blood collection is a systematic procedure in 
+
+the context of donation. It might then distract the attention of the practitioners from care of mother 
+
+and child. 
+
+18
+
+ 
+ 
+ 
+ 
+ 
+1.25. Reliability of the bank 
+
+Commercial cord blood banks offer long-term storage but they might go bankrupt or at any time 
+
+stop their activities. That could be detrimental to the customers’ interest, should they not get what 
+
+they think they have paid for. 
+
+1.26. Recruitment of donors 
+
+Public banks need a great diversity of samples representing as many HLA types as possible in 
+
+order to be able to find a suitable match for any recipient. However, if the number of private cord 
+
+blood banks proliferates and their success increases, public banks could be deprived of potential 
+
+donors who will prefer to have the newborn's cord blood stored for autologous use rather than to 
+
+donate it. Therefore one may fear that public banks may have more difficulty to collect enough 
+
+samples to reach the necessary critical mass.   
+
+On  the  other  hand,  if  public  cord  blood  banks  are  sufficiently  supplied  with  diversified  types  of 
+
+blood,  including  the  rare  ones,  and  if  there  is  a  good  networking  of  existing  banks  and 
+
+development  of  registries,  any  individual  will  have  a  reasonable  chance  to  find  a  compatible 
+
+donor and to have access to the transplants necessary for his/her treatment in case of need.  
+
+1.27. Fairness of access to healthcare 
+
+The  use  of  one’s  own  cord  blood  cells  is  currently  highly  hypothetical,  but  if  in  the  future 
+
+regenerative  medicine  developed  in  such  a  way  that  using  autologous  stem  cells  became 
+
+possible,  then  the  fact  to  have  one’s  own  cord  blood  being  stored  at  birth  could  increase  the 
+
+chance of having access to new therapies. This would depend on the suitability of the autologous 
+
+cord  blood  sample  for  the  particular  therapy  needed.  Not  everyone  may  be  able  to  afford  the 
+
+costs of storage. In that case, access would be related to financial resources.  
+
+19
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. OPINION 
+
+The  ethical  aspects  of  human  tissue  banking  in  general  have  been  addressed  in  the  opinion 
+
+no. 11 of the European Group on Ethics in Science and new Technologies on 21 July 1998. The 
+
+statements made in this opinion n° 11 31 are also valid for cord blood banking. There are however 
+
+also specific ethical aspects of cord blood banking on which is the focus of this opinion, with a 
+
+special attention to commercial banking for autologous use. 
+
+The Group submits the following opinion:  
+
+2.1.  
+
+The legitimacy of commercial cord blood banks for autologous use should be questioned as they 
+
+sell a service, which has presently, no real use regarding therapeutic options. Thus they promise 
+
+more than they can deliver. The activities of such banks raise serious ethical criticisms.  
+
+2.2. 
+
+While some members of the Group consider that this activity should be banned, the majority of the 
+
+Group  considers  that  the  activities  of  these  banks  should  be  discouraged  but  that  a  strict  ban 
+
+would represent an undue restriction on the freedom of enterprise and the freedom of choice of 
+
+individuals/couples. These banks should operate under strict conditions. 
+
+2.3. 
+
+The  Group  notes  that  at  least  one  Member  State  has  already  forbidden  such  commercial  cord 
+
+blood banks.  Such banks could be considered illegal and the contracts voidable or unenforceable 
+
+in other Member States. If commercial cord blood banks are allowed by a State, such activity must 
+
+be subject to strict regulation. Such regulation should include previous licensing by the competent 
+
+State Authority and close supervision of the procedures followed both in the public and the private 
+
+domain. 
+
+31 see point 1.20 
+
+20
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                      
+ 
+ 
+2.4.  
+
+If  commercial  cord  blood  banks  are  allowed,  appropriate  information  should  be  given  to  the 
+
+consumers willing to use their services, including the fact that the likelihood that the sample may 
+
+be used to treat one’s child is currently negligible, that the future therapeutic possibilities are of a 
+
+very hypothetical nature and that up until now there is no indication that the present research will 
+
+lead to specific therapeutic applications of one's own cord blood cells. Therefore, information has 
+
+to be particularly explicit that the auto conservation has little value in the current state of scientific 
+
+knowledge.  This  information  should  be  made  clear  on  all  media,  including  Internet,  and  in  any 
+
+contracts linking commercial banks to their customers. 
+
+2.5.  
+
+Any  kind  of  advertising  made  by  commercial  cord  blood  banks  in  the  media,  including  on  the 
+
+Internet, must be adequately controlled by public authorities.  
+
+2.6.  
+
+Commercial  cord  blood  banks  have  to  observe  the  same  quality  standards  as  any  other  tissue 
+
+bank. Therefore, the EGE welcomes the Directive of the European Parliament and of the Council 
+
+adopted  on  2nd  March  2004  on  "setting  standards  of  quality  and  safety  for  the  donation, 
+
+procurement,  testing,  processing,  preservation,  storage  and  distribution  of  human  tissues  and 
+
+cells", which provides for a legal European framework, namely in terms of authorization, licensing, 
+
+accreditation, inspections, controls, promotions and publicity and staff experience. 
+
+2.7.  
+
+Given the possibility of termination of business or bankruptcy of a commercial cord blood bank, 
+
+information should be provided to the customers and insurances should guarantee the continuity 
+
+of the storage and the transfer of the samples to another bank, or the indemnity of the customers. 
+
+21
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.8.   
+
+The collection of cord blood must not disturb the process of delivery and should not present any 
+
+risks for the mother and child. 
+
+2.9.  
+
+At present, in the exceptional cases where cord blood storage for autologous use may be justified 
+
+for families at risk of specific diseases or with rare HLA types, it should be proposed to them that 
+
+storage should be by public cord blood banks in order to ensure fair access to healthcare services 
+
+to everybody needing it. 
+
+2.10.  
+
+Considering that the European population is increasingly multi-ethnical,  and  in  order to allow a 
+
+fair  access  to  transplantation  for  any  citizen  whatever  his/her  ethnic  origin,  specific  measures 
+
+should be taken by public authorities to have enough donation from different ethnic groups with 
+
+different  HLA  patterns  so  that  for  any  patient  needing  a  transplantation,  an  appropriate  donor 
+
+could be found.  
+
+2.11. 
+
+In the future, should the development get to the point where the use of one’s own cord blood cells 
+
+may be of value, the storage should not be a service left to commercial banks but should be taken 
+
+over by the public sector in order to ensure fair access to healthcare services for everybody.   
+
+2.12.  
+
+Support for public cord blood banks for allogeneic transplantations should be increased and long 
+
+term  functioning  should  be  assured.  However  cord  blood  banks  are  of  limited  use  as  long  as 
+
+networks  and  registries  are  not  also  supported.  Indeed,  in  order  to  make  sure  that  any  patient 
+
+needing transplantation will find a suitable sample, the development of networks between banks 
+
+and registries of donors is essential to be able to find rapidly a matching donor and they should 
+
+be encouraged and supported. 
+
+22
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.13.  
+
+A wide European debate on the increasing role  of the market in the healthcare system and its 
+
+advantages and disadvantages should allow European citizens to be aware of the present trends 
+
+and their implications, in particular on the issues raised in the present opinion. 
+
+The European Group on Ethics in Science and New Technologies 
+
+The Chairperson : Göran Hermerén 
+
+The Members: 
+
+Nicos C. Alivizatos 
+
+Inez de Beaufort 
+
+Rafael Capurro 
+
+Yvon Englert 
+
+Catherine Labrusse-Riou 
+
+Anne McLaren 
+
+Linda Nielsen 
+
+Pere Puigdomenech-Rosell 
+
+Stefano Rodota 
+
+Günter Virt 
+
+Peter Whittaker 
+
+23
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

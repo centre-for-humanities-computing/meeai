@@ -1,0 +1,366 @@
+Executive Summary of the Opinion 
+
+Ethics  
+of Genome  
+Editing 
+
+#EthicsGroup_EU 
+
+European Group  
+on Ethics in Science and  
+New Technologies 
+
+Read the full Opinion – Ethics of Genome Editing 
+
+KEY INSIGHTS: A GLIMPSE INTO THE OPINION 
+
+The  advent  of  new  genome  editing  technologies  such  as  CRISPR/CasX  has  opened  new 
+dimensions  of  what  and  how  genetic  interventions  into  our  world  are  possible.  The 
+European  Group  on  Ethics  in  Science  and  New  Technologies  (EGE)  addresses  the 
+profound  ethical  questions  raised  and  revived  by  them  in  its  Opinion  on  Ethics  of 
+Genome  Editing.  The  Opinion  analyses  various  domains  of  application,  from  human 
+health  to  animal  experimentation,  from  livestock  breeding  to  crop  variety  and  to  gene 
+drives.  
+
+With  its  wide  view  across  areas,  it  identifies  underlying  and  overarching  issues  that 
+deserve  our  concerted  attention,  among  them,  the  different  meanings  that  ought  to  be 
+attributed to humanness, naturalness or diversity. This enables conclusions that provide 
+panoramic  perspectives  complementing  narrower,  area-specific  analyses.  In  the  same 
+vein,  the  Opinion  is  concerned  with  the  global  dimension  of  genome  editing  and  its 
+regulation and formulates recommendations with a particular focus  on the international 
+level. Its main overarching considerations are the following:  
+
+  How  the  human  ability  to  edit  the  genome  should  be  regulated  is  closely  linked  to 
+questions about the status of humanity in ‘nature’. Are we its masters with a right to 
+transform  it,  or  are  we  one  of  many  parts  of  it  that  all  thrive  in  relation  to  each 
+other? Does our growing knowledge about it postulate that we care for it and protect 
+it  where  we  can?  Awareness  of  one-sided  positions,  such  as  anthropocentrism  and 
+speciesism, can help us to engage in the debate about genome  editing on the basis 
+of the values of diversity, respect and responsibility. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  The application of genome editing in human and non-human animals raises questions 
+about  what  defines  us  as  humans  and  what  distinguishes  species  from  each  other. 
+Our  genome  is  often  taken  as  foundational  of  our  humanness,  providing  us  with 
+distinct  capacities.  Should  we,  or  should  we  rather  not,  experiment  with  the 
+delineations  defining  and  distinguishing  species?  What  risks  and  responsibilities 
+would  this  entail?  On  the  other  hand,  genetic  exceptionalism  and  determinism  (the 
+idea  that  the  genome  plays  the  central  role  in  shaping  who  we  are  and  determines 
+our behaviour)  can prevent us from taking a  more holistic perspective  on the many 
+factors  defining  us  and  our  lives,  as  well  as  other  species  and  theirs.  Awareness  of 
+this can help us to put genome editing and discourses about it into perspective. 
+
+  Diversity,  human  diversity  and  overall  biodiversity,  can  be  impacted  by  genome 
+editing in different ways. The technology may both offer possibilities to preserve and 
+diversify  biospheres,  and  come  with  risks  of  reducing  genetic  pools  and,  hence, 
+diversity – both in biological terms and in terms  of  what kind of diversity is socially 
+appreciated. This requires us to reflect about the responsibilities of humans towards 
+other  species  and  the  planet,  most  importantly  as  regards  anthropogenic  climate 
+change;  as  well  as  towards  other  humans,  as  regards  determining  what  kinds  of 
+persons a society might want to have and what specific variations are, or are not, a 
+problem in need of a genetic, technological ‘solution’. When thinking about diversity 
+and genome  editing, we therefore also need to think about freedom, autonomy and 
+risks of oppression and marginalisation. 
+
+  The focus on the broader picture of the Opinion also raises awareness of the risk that 
+genome editing could be hailed as a technological solution for issues of social nature. 
+An approach that does not consider the ethics and governance of genome editing in a 
+technology-specific  way  enables  us  to  pinpoint  the  broader  societal  questions  in  the 
+realm  of  which  technologies,  or  socio-technical  systems,  can  have  an  impact.  What 
+world do we want to live in and what role can technologies play in making it reality? 
+
+  Debates about genome editing often focus on the question about the  conditions that 
+would  render  it  ‘safe  enough’  for  application.  The  Opinion  draws  attention  to  the 
+importance of nuancing and resisting this framing, as it purports that it is enough for 
+a given overall level of safety to be reached in order for a technology to be rolled out 
+unhindered, and it limits reflections on ethics and governance to considerations about 
+safety.  Much  to  the  contrary,  ethics  should  serve  to  tackle  broad  governance 
+questions about how technologies can serve our common goals and values, and not 
+be limited to providing a ‘last step’ of ‘ethics-clearing’ of a technology. Safety, if to be 
+a safe concept, must be framed in its broadest sense, including psychological, social 
+and environmental dimensions, as well as questions about who gets to decide what is 
+safe enough, and by which processes. 
+
+  With  the  increasing  adoption  of  genome  editing,  claims  were  made  that  scientists 
+were not only able to ‘read’ the ‘Book of Life’,  but also to ‘write’ it and ‘edit’ it. Any 
+words that are chosen to describe a new technology have an impact on the discourse 
+about it. They shape how we perceive it and engage in debates about it, they frame 
+what  questions  scholars  ask  about  it  and  investigate,  they  influence  how  policy 
+makers respond to it. Awareness of this can help us to find terms that appropriately 
+capture  and  transmit  the  complexity  of  new  genome  editing  applications  and  of  the 
+ethical questions they raise. 
+
+2 
+
+ 
+The  Opinion  begins  with  an  overarching  chapter  assessing  the  preceding  points  and 
+continues  with  detailed  ethical  analyses  of  pertaining  questions  in  the  main  areas  of 
+application  of  genome  editing.  Some  of  the  key  reflections  of  those  chapters  are  the 
+following: 
+
+Genome editing in humans 
+
+If  the  genome  of  one  human  being  can  be  submitted  to  deliberate,  targeted  editing  by 
+another human being, what implications does this have for the relationship between the 
+two persons? Would this undermine the fundamental equality of all human beings, or is 
+it  necessary  to  assume  the  responsibility  of  such  an  intervention  when  it  can  help  to 
+prevent  a  serious  disease?  In  this  context,  we  often  distinguish  between  therapy, 
+prevention and enhancement, as different purposes that genome editing can serve, with 
+the  use  of  genome  editing  for  purposes  of  therapy  or  prevention  of  disease  being  by 
+many considered far more acceptable than the use for enhancement purposes. 
+
+While somatic genome editing therapies have been developed for decades, there appears 
+to  be  general  agreement  that  germline  genome  editing,  hence  introducing  heritable 
+changes, is not to be applied at this point. In many fora have its potentially severe risks 
+–  for  the  individuals  concerned  and  for  society  overall  –  been  discussed.  Together  with 
+the difficulty to conduct long-term studies and the availability of alternative methods for 
+avoiding  heritable  disorders,  they  require  us  to  ask:  Are  research  on  embryos  and  the 
+risk of harm caused by the technology ethically acceptable and proportionate for the few 
+cases for which there is no alternative solution? Questions like these  require broad and 
+well-informed  societal  deliberation  on  the  basis  of  an  awareness  about  how  heritable 
+genome editing may result in major changes of a society overall, its composition and its 
+values. 
+
+Genome editing in animals 
+
+Animals can be considered by humans as having an intrinsic value in their own right, or 
+they can be considered in their instrumental value for humans. Against this background, 
+genome  editing  revives  old  questions  about  inter-species  relationships  and  relational 
+values. In what is the intrinsic value of non-human animals different from that of human 
+animals?  How  do  we  define  respect  for  non-human  animals  and  what  rights  do  we 
+attribute to them?  
+
+In human health research, genome editing might on the one hand offer opportunities to 
+replace animal experimentation with alternative laboratory methods; on the other hand, 
+the  mere  ease  of  creating  genome  edited  animals  with  the  precise  genetic  traits  useful 
+for a given research purpose could also lead to an increase in their use. Genome editing 
+in research animals moreover raises questions about animal welfare, for example if traits 
+leading to disease are introduced; about de-animalisation, if traits that are natural for a 
+species are knocked out; about humanisation, if non-human primates (or other animals) 
+are  genetically  changed  in  a  way  so  that  they  resemble  humans  more  than  they  would 
+naturally  do;  and  about  justice  if  the  technology  would  serve  exclusive  scientific  and 
+commercial health services, for example in the context of xenotransplantation. 
+
+3 
+
+ 
+ 
+ 
+In  farm  animals,  genome  editing  applications  largely  serve  the  same  goals  as  selective 
+breeding  practices,  namely,  to  increase  yields,  strengthen  disease  resistance  and 
+improve  product  quality.  Ethical  considerations  in  this  context  relate  to  animal  welfare, 
+biodiversity,  sustainability  and  the  necessity  of  an  unbiased  public  dialogue.  Genome 
+editing  has  the  potential  to  facilitate  or  exacerbate  commercial  practices  in  livestock 
+breeding that are already highly contested. 
+
+Genome editing in plants 
+
+Current  forms  of  agriculture  contribute  significantly  to  the  anthropogenic  climate  crisis. 
+There is a need to ensure food security, provide renewable resources for fuel, feed and 
+fibre,  safeguard  the  retention  of  biodiversity  and  protect  the  environment.  Genome 
+editing  technologies  could,  with  appropriate  and  proportionate  control,  enhance  our 
+ability to achieve these goals, just as they could result in the opposite without it. 
+
+Social and justice considerations play a role in this too. The economic impact of choosing 
+to  use  or  not  use  plants  produced  with  new  genome  editing  technologies  may  be 
+significant  and  public  authorities  should  ensure  that  society  overall  benefits.  This 
+includes  that  small  farmers  and  holistic  approaches  to  production  are  supported;  that 
+new  varieties  will  not  result 
+increased 
+unemployment and precariousness in agriculture; that the ability of small companies and 
+research  organisations  to  produce  new  varieties  is  strengthened  and  monopolisation  of 
+the production of seed restrained and prevented. 
+
+industrialisation 
+
+leading  to 
+
+in  greater 
+
+In  Europe,  genetically  modified  food  is  contested  in  large  parts  of  society.  This  can  be 
+attributed, in parts, to mistakes made in the past in not involving the public in choosing 
+what  was  introduced  onto  the  market,  as  well  as  a  lack  of  safeguards  preventing  false 
+information or hype provided by all sides in the debate. 
+
+Gene drives 
+
+Gene drives are a specific use of genome editing that has drawn particular attention as it 
+offers  the  possibility  to  guide  ‘biased’  inheritance  of  certain  genes  into  entire  animal  or 
+insect populations, for example pests or mosquitos, usually with the aim to make them 
+harmless  or  more  vulnerable.  This  raises  a  number  of  ethical  concerns  that  have  been 
+discussed  in  various  fora.  Among  them  are  also  important  concerns  about  global  and 
+epistemic  justice,  as  well  as  anthropocentrism:  If  one  day  applied,  how  can  we  ensure 
+that those populations that need it the most have access to the technology? How can we 
+ensure  that  we  solve  those  scientific  questions  that  address  the  alleviation  of  the 
+greatest  suffering?  Given  the  increasing  recognition  that  animals  and  plants  and  our 
+ecosystem  as  a  whole  should  not  only  be  protected  for  the  sake  of  human  health  and 
+wellbeing, but also in their own right, how can we ensure that the interests of all species 
+are considered in regulation and governance decisions?  
+
+There  is  a  clear  need  for  collective,  inclusive,  democratically  legitimate  ways  to  decide 
+what  new  genome  editing  techniques  should  be  used  for  in  each  area,  as  well  as  how 
+such responsible use should be safely regulated. 
+
+4 
+
+ 
+ 
+ 
+ 
+RECOMMENDATIONS  
+
+(Read a more extensive version of each recommendation in the Opinion.) 
+
+On  the  basis  of  the  manifold  aspects  and  potential  implications  of  genome  editing  in 
+humans, animals and plants, including a particular attention to gene drives, outlined and 
+ethically analysed in the chapters of the Opinion, and noting that the recommendations 
+should  not  be  seen  as  an  endorsement  of  specific  technologies,  applications,  or 
+application areas, the EGE recommends to: 
+
+On overarching matters and concerns 
+
+  Foster  broad  and  inclusive  societal  deliberation  on  genome  editing  in  all  fields  of 
+
+application and with a global scope;  
+
+  Avoid  narrow  conceptualisations  to  frame  debates  about  the  ethics  and  governance 
+
+of genome editing; 
+
+  Develop  international  guidelines  and  strengthen  national,  regional  and  global 
+
+governance tools; 
+
+On genome editing in humans  
+
+  Engage in global governance initiatives and create a platform for information sharing 
+
+and inclusive debate on germline genome editing; 
+
+  Establish a public registry for research on germline genome editing; 
+
+  Protect social justice, diversity and equality; 
+
+  Ensure adequate competencies in expert bodies; 
+
+On genome editing in animals 
+
+  Strengthen  oversight  of  genome  editing  in  animals  for  scientific  experiments 
+
+according to, and beyond, the 3Rs; 
+
+  Apply strict standards to experimentation with non-human primates and invest in the 
+
+development of alternatives; 
+
+  Broadly discuss the humanisation of animals and implement appropriate limitations; 
+
+  Regulate  the  banking  and  farming  on  animals  carrying  human  organs  for 
+
+transplantation; 
+
+  Prevent unregulated use of genome editing tools; 
+
+  Strengthen  ethical  oversight  of  practices  involving  reductions  of  animals’  natural 
+
+abilities; 
+
+  Ensure the wellbeing of genome edited livestock animals; 
+
+  Reconsider ethically contested industrial farming practices; 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+On genome editing in plants  
+
+  Carefully assess the potentials and risks of genome edited plants for agriculture; 
+
+  Develop  an  (eco)systems  approach  for  evaluating  the  costs  and  benefits  of  genome 
+
+edited crops; 
+
+  Develop mechanisms to ensure corporate responsibility; 
+
+ 
+
+Investigate mechanisms for traceability and labelling of genome edited crops; 
+
+  Develop measures to support small actors; 
+
+  Devote more attention to public debates about genome edited agricultural products;  
+
+On gene drives 
+
+  Acknowledge epistemic and other uncertainties; 
+
+  Use gene drives in ways that are based on shared values; 
+
+  Regulate, monitor after release and have mitigation plans in place; 
+
+  Retain stock of original organisms. 
+
+_____ 
+
+6 
+
+ 
+ 
+ 
+The  EGE  is  an  independent,  multi-disciplinary  body  appointed  by  the  President  of  the 
+European Commission, which advises on all aspects of Commission policies and legislation 
+where ethical, societal and fundamental rights dimensions intersect with the development of 
+science and new technologies.  
+
+E-mail: EC-ETHICS-GROUP@ec.europa.eu  
+
+Website: www.ec.europa.eu/research/ege  
+
+Twitter: #EthicsGroup_EU  
+
+© European Union, 2021  
+Reuse  of  this  document  is  allowed,  provided  appropriate  credit  is  given  and  any  changes  are  indicated 
+(Creative Commons Attribution 4.0 International license). For any use or reproduction of elements that are 
+not owned by the EU, permission may need to be sought directly from the respective right holders.  
+
+All  images  ©  European  Union,  unless  otherwise  stated.  ©  Sergey  Nivens,  #109431940;  ©  mas0380, 
+#262515783; © Fotomay, #269866045; 2021. Source: stock.adobe.com 
+ISBN 978-92-76-32320-4, doi: 10.2777/949299, KI-02-21-498-EN-N 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,2405 @@
+N
+A
+-
+7
+8
+-
+0
+9
+-
+8
+6
+7
+-
+E
+N
+
+-
+C
+
+E
+t
+h
+i
+c
+a
+l
+
+A
+s
+p
+e
+c
+t
+s
+
+o
+f
+S
+y
+n
+t
+h
+e
+t
+i
+c
+B
+i
+o
+l
+o
+g
+y
+
+Ethical Aspects 
+of Synthetic Biology
+
+Proceedings of the round-table debate
+
+BRUSSELS, 19 MAY 2009
+
+ 
+ 
+ 
+ 
+How to obtain EU publications
+
+Our priced publications are available from EU Bookshop (http://bookshop.europa.eu), 
+where you can place an order with the sales agent of your choice.
+
+The Publications Ofﬁ ce has a worldwide network of sales agents. You can obtain their 
+contact details by sending a fax to (352) 29 29-42758.
+
+Ethical Aspects 
+of Synthetic Biology
+
+Proceedings of the round-table debate
+
+Brussels, 19 May 2009
+
+Secretariat of the EGE
+
+Chief Editor 
+Maurizio SALVI 
+
+Europe Direct is a service to help you find answers 
+to your questions about the European Union
+
+Freephone number (*):
+00 800 6 7 8 9 10 11
+
+(*) Certain mobile telephone operators do not allow access to 00 800 numbers 
+or these calls may be billed.
+
+More information on the European Union is available on the Internet (http://europa.eu).
+
+Cataloguing data can be found at the end of this publication.
+
+Luxembourg: Office for Official Publications of the European Communities, 2008
+
+ISBN 978-92-79-12720-5
+
+doi 10.2775/34131
+
+© European Communities, 2009
+Reproduction is authorised provided the source is acknowledged.
+
+Printed in Luxembourg
+
+Printed on white chlorine-free PaPer
+
+Table of Contents
+
+INTRODUCTION
+The European Group on Ethics 
+
+ROUND-TABLE REPORT 
+Programme 19 May 
+
+PRESENTATIONS
+Welcome Address by Professor Göran Hermerén,  
+EGE President 
+
+Hugh Whittall
+The Ethics of Synthetic Biology 
+
+Eleonore Pauwels
+Public Perception and Media: the Case of Synthetic Biology 
+
+Bart Walhout
+Is This (the Good) Life?
+Engaging the World of Synthetic Biology 
+
+ANNEx I 
+Participants 
+
+ANNEx II 
+Secretariat of the European Group on Ethics 
+
+5
+
+7
+11
+
+15
+
+25
+
+41
+
+61
+
+77
+
+81
+
+Ethical Aspects 
+of Synthetic Biology
+
+Introduction:
+The European Group on Ethics
+
+of modern developments in agricultural technologies 3 
+(No 24 – 17 December 2008).
+
+The  Group  is  currently  working  on  an  opinion  on  the 
+ethics of synthetic biology, to be submitted to the Com-
+mission by October 2009.
+
+When preparing its opinions, the EGE engages in a broad 
+consultation, involving individual experts, representati-
+ves of European institutions, of other international insti-
+tutions and of civil society and the Chairs of the national 
+Ethics  Councils  in  the  European  Union  Member  States. 
+A round table was organised by the European Group on 
+Ethics on 19 May 2009 in order to promote a transparent 
+dialogue  between  parties  representing  many  different 
+interests. This report gives a summary of the presenta-
+tions and discussions which took place in Brussels.
+
+The European Group on Ethics (EGE) is an independent, 
+pluralist  and  multidisciplinary  body  which  advises  the 
+European Commission on ethical aspects of science and 
+new  technologies  in  connection  with  preparation  and 
+implementation of Community legislation or policies.
+
+The Group is made up of 15 independent experts ap-
+pointed by the Commission for their expertise and per-
+sonal qualities.
+
+In  December  1997  the  European  Commission  set  up 
+the European Group on Ethics to succeed the Group of 
+Advisers on the Ethical Implications of Biotechnologies 
+(GAEIB 1991-1997). During its first term (1998-2000) the 
+EGE  gave  opinions  on  subjects  as  diverse  as  human 
+tissue  banking,  human  embryo  research,  personal 
+health data in the information society, doping in sport 
+and human stem cell research.
+
+In  April  2001  the  Commission  appointed  12  members 
+for the period 2001-2004. During its second term, the 
+Group published opinions on the ethical aspects of pa-
+tenting inventions involving human stem cells (opinion 
+No  16  –  7  May  2002),  clinical  research  in  developing 
+countries (No 17 – 4 February 2003), genetic testing in 
+the workplace (No 18 – 28 July 2003) and umbilical cord 
+blood banking (No 19 – 16 March 2004).
+
+On 11 May 2005 the Commission decided to renew the 
+Group’s  mandate  for  a  further  four-year  period.  For 
+this third term, the EGE was increased in size from 12 
+to 15 members. In the same year the Group published 
+its  opinion  on  the  ethical  aspects  of  ICT  implants  in 
+the human body (No 20 – 16 March 2005). So far in this 
+term the EGE has given opinions on ethics and nano-
+medicine 1 (No 21 – 17 January 2007), on ethics review 
+of FP7 human embryonic stem cells projects 2 (No 22 – 
+13 July 2007), on the ethical aspects of animal cloning 
+for food supply (No 23 – 16 January 2008) and on ethics 
+
+(1) http://ec.europa.eu/european_group_ethics/activities/docs/opinion_21_nano_en.pdf.
+(2) http://ec.europa.eu/european_group_ethics/activities/docs/opinion_22_final_follow_up_en.pdf.
+(3) http://ec.europa.eu/european_group_ethics/docs/opinion24_en.pdf.
+
+5
+
+Ethical Aspects 
+of Synthetic Biology
+
+Round-Table Report
+
+1.  Main goal of the round table
+
+The European Group on Ethics in Science and New Tech-
+nologies (EGE) is preparing an opinion on the ethics of 
+synthetic biology, to be submitted to the Commission 
+by October 2009. As part of its preparatory work, the EGE 
+held an open round-table debate on the issues raised by 
+synthetic biology. The round table was organised by the 
+Bureau of European Policy Advisers (BEPA).
+
+As  was  the  case  for  previous  EGE  opinions  and  in  ac-
+cordance  with  the  Commission  Decision  on  the  EGE’s 
+mandate  (Decision  2005/383/EC),  a  public  round  table 
+was organised to debate openly the ethical, social and 
+legal  implications  of  synthetic  biology.  The  main  goal 
+was to give stakeholders an opportunity to provide the 
+EGE  with  relevant  data,  considerations  and  viewpoints 
+before finalisation of Opinion 25, which is to be adopted 
+in October 2009.
+
+2.  The Round-Table
+
+The round table took the form of a series of contributions 
+from speakers representing different interest groups, fol-
+lowed by a debate between the audience, the speakers 
+and the EGE members.
+
+To  secure  maximum  participation  by  experts,  an  open 
+invitation  was  sent  to  relevant  stakeholders  (in  the  EU 
+and  beyond),  members  of  the  national  Ethics  Councils 
+(from  the  27  EU  Member  States),  consumer  organisa-
+tions,  coordinators  of  EU-funded  projects  on  synthetic 
+biology  (SB),  environmental  protection  organisations, 
+academics, religious groups, industries, NGOs, etc.
+
+An open invitation was published on the Internet to at-
+tract full and free participation by all interested parties. 
+Around 80 people attended this event. Several organisa-
+tional difficulties had to be overcome, due to the closure 
+of the Berlaymont building because of a fire.
+
+The  round  table  was  opened  by  Professor  Goran 
+Hermerén, Chairman of the European Group on Eth-
+ics in Science and New Technologies. Three experts 
+
+gave presentations on the ethical and societal impli-
+cations of SB:
+
+•	
+
+•	
+
+	Hugh Whittall (Director of the Nuffield Council on 
+Bioethics, UK);
+	Dr  Eleonore  Pauwels  (Synthetic  Biology  Project, 
+Woodrow  Wilson  International  Center  for  Scholars, 
+Washington D.C., USA);
+
+•	 Dr Bart Walhout (Rathenau Institute, NL).
+
+Prof. Goran Hermerén welcomed the participants and 
+gave  a  short  introduction  on  ethical  issues  that  arise 
+from synthetic biology. He underlined that this research 
+sector had a wide range of potential applications from 
+medicine  to  biofuels  and  from  new  materials  to  bio-
+remedies. Prof. Hermerén stressed that each field of ap-
+plication of synthetic biology had different ethical, social 
+and legal implications and explained that the regulatory 
+framework to consider with a view to promoting respon-
+sible use of synthetic biology included, inter alia, EU and 
+international regulations on the ethical issues on differ-
+ent uses of SB and their societal implications.
+
+3.  The speakers’ contributions
+
+The complexity of the ethical issues surrounding use of 
+synthetic biology was summarised by Hugh Whittall, Di-
+rector of the UK Nuffield Council on Bioethics. Mr Whittall 
+underlined that there was no internationally agreed defi-
+nition of SB, but that this research sector could be seen as 
+a construction of novel biological networks or organisms 
+with bespoke properties, using standardised biological 
+parts that code unknown functions.
+
+Mr Whittall said that the creation of minimal genomes, ar-
+tificial cells, standardising parts and pathways (biobricks 
+for  artificially  expanded  genetic  information  systems) 
+were all areas covered by ongoing SB research and that 
+potential  applications  of  SB  could  include  bio sensors, 
+bacteria to produce an anti-malaria drug, bacteria to pro-
+duce spider silk, fatty acids for biodiesel fuel, etc.
+
+Mr Whittall also addressed biosafety concerns raised by 
+SB  and  explained  that  existing  risk  assessment  meth-
+
+7
+
+ods  in  the  EU  (GMO-oriented)  might  not  properly  ad-
+dress the specifics of SB products. The EU approach to 
+GMO biosafety was based on comparison between the 
+‘natural’ component and the one resulting from insert-
+ing a hexogen genetic element into an existing gene. SB 
+products, he pointed out, were the result of new synthe-
+sised components or insertion of multiple genes. They 
+therefore  needed  different  risk  assessment  procedures 
+than provided for in the current EU biosafety regulation. 
+Mr Whittall also addressed the biosecurity implications 
+of possible use of SB for production of virulent modified 
+pathogens,  thus  raising  biosecurity  and  anti-terrorism 
+considerations. According to Mr Whittall, dual-use issues 
+were significant in the field of SB.
+
+Finally,  Mr  Whittall  enumerated  several  topics  that 
+needed  proper  analysis  for  an  ethical  assessment  of 
+SB,  such  as:  the  economic  dimension  of  SB  and  its 
+potential  for  technological  divide  and  exploitation 
+of  developing  countries;  the  ‘playing  God’  argument 
+and the precautionary principle; risk assessment con-
+siderations; public reactions and risk perception; gov-
+ernance of SB, etc.
+
+ty,  biosecurity  and  ethics  (creation  of  life)  issues.  She 
+argued that the current focus of the American press on 
+biosecurity issues and of the European press on biosafe-
+ty  and  environmental  impact  could  lead  to  diverging 
+public opinion on the risks and, therefore, on potential 
+regulation of this field. She also reported on the results 
+of  a  public  survey  on  SB  recently  conducted  in  the  US 
+which clearly demonstrated no public support for reg-
+ulation  by  industry  (soft-regulation);  furthermore,  nor 
+were public bodies trusted by the general public in that 
+respect. SB was often presented by scientists as a clear 
+solution  for  environmental  protection,  but  new  meth-
+ods  of  communication  were  needed  to  spark  a  proper 
+public  debate  about  the  legitimacy  of  this  technology 
+and its different uses.
+
+Dr  Pauwels  also  argued  that  cultural  and  social  factors 
+played a key role in public perception of SB. Public percep-
+tion in the USA was generally positive towards SB applica-
+tions in the energy and environmental protection spheres 
+(e.g. biofuels and bioremedies for pollution), whilst at the 
+same  time  generally  reluctant  to  accept  biomedical  ap-
+plications due to the artificial nature of SB products.
+
+Dr  Eleonore  Pauwels 
+(Synthetic  Biology  Project, 
+Woodrow  Wilson  International  Center  for  Scholars, 
+Washington D.C., USA) addressed issues related to pub-
+lic perception and press coverage of SB. She reported 
+on data from a recent study 4 conducted as part of the 
+synthetic biology project at the Wilson Center, compar-
+ing press coverage in the United States and in Europe 5 
+between 2003 and 2008.
+
+Dr  Pauwels  explained  that  in  the  US  press  51  %  of  the 
+articles on this subject focused on potential benefits of 
+SB, whereas in the European press only 26 % of articles 
+addressed this side, focusing instead mainly on biosafe-
+
+Dr Bart Walhout (Rathenau Institute, NL) addressed so-
+cietal  concerns  about  different  uses  of  SB.  He  argued 
+that the ethics of SB were linked to its applications and 
+expected  goals  and  pointed  to  biofuels  and  biomedi-
+cine as sectors that could benefit from future SB prod-
+ucts. He stressed that the ethical questions raised by SB 
+were not substantially different from the ones posed by 
+genetic or molecular bioengineering, but that biosafety, 
+biosecurity  and  IPR  considerations  were  inherent  to 
+responsible use of research in this sector.
+
+Dr Walhout underlined the need to hold a public debate 
+on  this  technology  at  the  earliest  stage  of  its  develop-
+
+(4)  Pauwels, E. and Ifrim, I. (2008), Trends in American and European press coverage of synthetic biology: Tracking the last five years of coverage, in 
+
+Synbio 1 (Synthetic Biology Project, 2008). Available at: http://www.synbioproject.org/process/assets/files/5999/synbio1final.pdf .
+
+(5)  American research activities on SB benefit from a budget in the order of USD 1 billion and involve 200 laboratories (100 universities and 60 com-
+
+panies), whereas the EU research budget for SB is €30 million and involves 20 universities.
+
+8
+
+ment  and  before  marketing  SB  products  (biomedicine, 
+environmental protection, energy production, etc.).
+
+Dr  Walhout  said  that  governance  of  SB  was  being  de-
+bated internationally, with some advocating extending 
+the existing biotechnology governance frame to SB and 
+others  supporting  the  need  to  create  new  governance 
+systems for the different uses of SB.
+
+In his opinion, the SB sector depended on societal accept-
+ance. He advocated opening public debates on a number 
+of issues, inter alia production of synthesised higher life 
+forms (a synthetic bacterium – Synthia – or synthetic hu-
+man genome was expected by 2014), biosecurity (human 
+pathogens) and patenting of SB products.
+
+4.  The general debate
+
+Following  the  presentations  a  debate  on  the  ethics  of 
+synthetic biology was held. Issues addressed included:
+
+•	
+
+•	
+
+•	
+
+•	
+
+The	level	of	risks	to	accept	in	a	proper	governance	
+system  for  environmental  and  biomedical  uses  of 
+SB and the role played by political decisions in risk 
+management procedures.
+
+The	need	to	promote	democratic	participation	by	a	
+number of stakeholders in the design of SB R&D.
+
+The	 question	 whether	 biosecurity	 measures	 should	
+be conceived for SB and whether they should also be 
+extended to SB research activities which are currently 
+not covered by the Biological Weapons Convention.
+
+The	 risks	 inherent	 in	 defining	 an	 arbitrary	 distinc-
+tion  between  defensive  and  aggressive  uses  of  SB, 
+because  of  the  potential  dual  uses  of  technology 
+promoted for defensive (and preventive) biosecuri-
+ty. The need to control use of new lethal pathogens 
+created for vaccine production to avoid maleficent 
+uses by third parties. Access to biological knowledge 
+on  pathogens  for  synthesis  of  lethal  bio-agents 
+coupled with technology that was much easier to 
+use than other biotechnologies.
+
+•	 Holding	a	public	debate	on	SB,	based	on	‘better’	life	
+issues,  might  distort  the  discussion  on  instrumen-
+talisation of life.
+
+The	limits	of	the	security	level	classification	system	
+in biological laboratories and the potential for trade 
+in synthesised viruses for terrorism purposes. 
+
+The	 need	 to	 address	 the	 public	 morality	 clause	 in	
+the current EU system for patenting SB products.
+
+The	need	to	address	ontological	questions	in	SB	and	
+its attempts to modify life.
+
+The	need	to	design	and	implement	mechanisms	for	
+public  debate  on  SB,  with  a  proper  balance  of  sci-
+entific, ethical and social considerations, bearing in 
+mind  the  minor  role  the  EU  is  currently  playing  in 
+development of this research sector (the risk of cre-
+ating public over-estimation of the risks, compared 
+with other countries (USA, for example).
+
+The	need	to	apply	the	existing	safety	measures	on	
+SB (safety measures for research and for marketing 
+biotechnological products), while exploring whether 
+existing regulations on biosafety (GMOs) could effec-
+tively assess SB products.
+
+The	need	to	promote	embedding	of	ethics	in	both	
+SB  policy  design  and  research  practice  (including 
+education  and  vocational  training  on  ethics  for  SB 
+researchers).
+
+The	 distinction	 between	 natural  and  artificial  SB 
+products and the value attributed to the expected 
+results,  both  of  which  would  imply  public  involve-
+ment  rather  than  SB  being  circumscribed  to  the 
+scientific community.
+
+The	need	to	address	the	concept	of	human	enhance-
+ments by means of SB or the long-term consequenc-
+es for the biosphere.
+
+The	 need	 to	 clarify	 the	 role	 which	 social	 sciences	
+and  humanities  will  play  in  the  global  debate  on, 
+
+•	
+
+•	
+
+•	
+
+•	
+
+•	
+
+•	
+
+•	
+
+•	
+
+•	
+
+9
+
+and  proper  assessment  of,  SB  in  order  to  avoid  in-
+strumentalisation and misunderstanding.
+
+•	
+
+•	
+
+•	
+
+The	need	to	emphasise	the	role	which	SB	plays	in	ba-
+sic biology (heuristic tool for a better understanding 
+of biological phenomena) and to assess the ethics of 
+SB  differently,  depending  whether  it  was  intended 
+for market purposes (SB products) or as a branch of 
+basic biology.
+
+The	need	properly	to	address	potential	amateur	uses	
+of SB with possible unintentional hazardous implica-
+tions.
+
+The	 need	 to	 promote	 interdisciplinary	 approaches	
+to SB, making ELSA studies (on the Ethical, Legal and 
+Social Aspects) an integral component.
+
+•	
+
+•	
+
+The	 need	 to	 clarify	 the	 links	 and	 divergences	 be-
+tween  SB  and  other  emerging  technologies  (such 
+as converging technologies or nanosciences) and to 
+analyse  potential  clashes  between  the  technology 
+market and sustainable development. 
+
+The	 need	 to	 address	 the	 global	 dimension	 of	 SB	
+(spanning  the  USA,  Asia  and  the  EU)  by  avoiding 
+hype about both the potential and the risks of SB.
+
+The  video  of  the  round  table  is  available  on  the  EGE 
+webpage6.
+
+Maurizio SALVI, PhD,
+Head of the EGE Secretariat
+
+(6) http://ec.europa.eu/european_group_ethics/activities/index_en.htm.
+
+10
+
+Ethical Aspects 
+of Synthetic Biology
+
+Programme
+
+Brussels, 19 May 2009
+
+13H30  Registration
+
+14H00  Welcome Address to the EGE Round Table by 
+
+Professor Göran HERMERÉN, President of the EGE
+
+14H10 
+
+The Ethics of Synthetic Biology  
+
+Hugh Whittall (Dir Nuffield Council of Bioethics, UK) 
+
+Followed by discussion (10 minutes)
+
+14H40 
+
+ Public Perception and Media: the Case of  
+
+Synthetic Biology
+
+Eleonore Pauwels (Synthetic Biology Project, 
+
+Woodrow Wilson International Center for Scholars, 
+
+Washington, DC, USA),
+
+Followed by discussion (10 minutes)
+
+15H10 
+
+Is This (the Good) Life?  
+
+Engaging the World of Synthetic Biology
+
+Bart Walhout (Rathenau Institute, NL), 
+
+Followed by discussion (10 minutes)
+
+15H45  Coffee break
+
+16H00  Discussion chaired by EGE – contributions from 
+
+participants
+
+17H30 
+
+EGE Members – Reactions to Stakeholders’ Comments
+
+Closing Comments from EGE Members
+
+18H00 
+
+End of Round Table
+
+18h15 
+
+Cocktail
+
+11
+
+ 
+ 
+ 
+ 
+ 
+ 
+Presentations
+
+Ethical Aspects of Synthetic Biology
+
+13
+
+Ethical Aspects 
+of Synthetic Biology
+
+Göran HERMERÉN
+
+President of the European Group on Ethics
+
+Professor  Göran  Hermerén  is  professor  of  medical 
+ethics at the faculty of medicine, Lund University. He is 
+President of the European Group on Ethics since 2002.
+
+He  is  a  member  of  the  Swedish  National  Council  on 
+Medical Ethics and has served on many governmental 
+commissions and as referee for international journals.
+
+Professor  Göran  Hermerén  is  chairman  of  the  ethics 
+committee  of  the  Swedish  Research  Council,  Stock-
+holm  and  of  the  Advisory  Board  of  the  German  ref-
+erence  Centre  for  Ethics  in  the  Life  Sciences  DRZE  in 
+Bonn. He was a former member of the Steering Com-
+
+mittee  for  Bioethics  (CDBI)  of  the  Council  of  Europe 
+and of the Bioethics Committee of the Nordic Council 
+of  Ministers  and  has  contributed  to  several  govern-
+mental Commission reports in Sweden on problems of 
+biomedical ethics.
+
+Professor  Göran  Hermerén  is  author  of  papers  and 
+books  on  ethical  problems  in  various  areas  mainly 
+medical research and health care. His current research 
+interests include priorities and allocation of resources 
+in health care as well as ethical aspects of genetic test-
+ing, care at the end of life, nanotechnologies, priority 
+setting and stem cell research.
+
+15
+
+Welcome Address by 
+Professor Göran Hermerén,
+EGE President
+
+In May 28, 2008 President José Manuel Barroso asked the 
+EGE to issue an Opinion on the ethical, legal and social 
+implications that may derive from synthetic biology (SB). 
+In his letter the President advocated that ‘(…) the debate 
+about the legitimacy of engineering new life forms has 
+mainly focused on safety issues and a work on the ethi-
+cal,  legal  and  social  implications  that  may  derive  from 
+this specific use of biotechnology is still missing.’
+
+The EGE is aware that synthetic biology concerns philo-
+sophical, anthropological, ethical, legal,  social and sci-
+entific  aspects,  it  is  equally  aware  that  the  converging 
+of multiple technologies in SB, each of them based on 
+different  scientific  paradigms,  increases  the  complex-
+ity of the ethics assessment of synthetic biology and its 
+products. The EGE has however agreed that, apart from 
+safety  issues  raised  by  SB,  an  ethical,  legal,  and  politi-
+cal governance of synthetic biology is needed in the EU 
+and  worldwide  in  order  to  secure  that  the  interests  of 
+science  and  society  are  equally  respected.  The  Group 
+has therefore accepted President Barroso’s request and 
+decided  to  focus  its  Opinion  on  the  ethical,  legal  and 
+social  implications  of  SB,  with  particular  emphasis  on 
+synthetic genomics.
+
+As for the other EGE Opinions, and following  the EGE 
+Remit, the public round table today will promote open 
+dialogue  between  the  EGE  and  parties  representing 
+different  stakeholders  groups  dealing  with  synthetic 
+biology. The participants today include experts of the 
+field,  members  of  the  National  Ethics  Councils  (EU  27 
+Member  States),  farmers’  associations,  consumers’  or-
+ganisations,  coordinators  of  European  Union  funded 
+projects  on  synthetic  biology  (SB),  environment  pro-
+tection  organisations,  academics,  religious  groups, 
+industries,  and  NGOs.  All  these  voices  needed  to  be 
+heard by the EGE in order to have a proper reflection 
+on the complexity of the issues surrounding the debate 
+on ethics of synthetic biology.
+
+In its Opinion, the EGE will address a number of issues, 
+such  as,  inter  alia:  safety  and  risks,  access  to  the  new 
+technology, global justice and influence, dual uses, the 
+social and structural effects, and the comodification of 
+nature  and  life  forms,  bio-security,  patenting,  open 
+access, dual use and public involvement.
+
+On  behalf  of  the  EGE,  I  warmly  thank  you  all  for  your 
+participation.
+
+16
+
+Welcome address EGE Round table
+May 19, 2009
+
+Powerpoint Presentation
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+Ethical Aspects 
+of Synthetic Biology
+
+Hugh WHITTALL
+
+Director of the Nuffield Council on Bioethics
+
+Hugh Whittall has been Director of the Nuffield Council 
+on Bioethics since February 2007.  The Council’s role is to 
+identify ethical questions raised by new developments 
+in biological and medical research that are of public con-
+cern; to promote discussion; publish reports and make 
+policy recommendations.
+
+Hugh graduated from the University of Warwick in 1983 
+with  a  degree  in  Philosophy  and  Politics.    After  a  few 
+years working in local Government, in housing and edu-
+cation, he joined the Department of Health and worked 
+initially on new child care legislation.
+
+In  1990  he  helped  set  up  the  Human  Fertilisation  and 
+Embryology  Authority,  where  he  stayed,  as  Deputy 
+Chief  Executive,  until  1996,  responsible  for  licensing, 
+policy and communications.  He then spent three years 
+on  secondment  to  the  European  Commission  in  Brus-
+sels, where he was responsible for the funding and pro-
+motion of multidisciplinary research in bioethics within 
+the  Biomedicine  and  Health  research  programme.  He 
+returned to the HFEA in September 1999.
+
+In  January  2002,  Hugh  rejoined  the  Department  of 
+Health, where he was involved with the preparation and 
+passage of the Human Tissue Act 2004, and the setting 
+up of the Human Tissue Authority.  He was also responsi-
+ble for transplantation policy, having initiated the Organ 
+Donation Task Force whose role was to advise Ministers 
+on how to improve organ donation rates.
+
+In February 2007, Hugh became Director of the Nuffield 
+Council on Bioethics, which has since published reports 
+on  ethical  issues  in  the  Forensic  Use  of  Bioinformation 
+and Public Health.  The Council is currently working on 
+reports  on  dementia  and  personalised  healthcare,  and 
+it is shortly to begin work on a project on donation and 
+volunteering in the clinical context.
+
+Hugh  is  married  to  Annabel,  an  artist,  with  whom  he 
+has three children.  They spend most of their holidays in 
+France.  He plays guitar rather badly, and will continue 
+playing soccer for as long as his knees can stand it.
+
+25
+
+The Ethics of  
+Synthetic Biology
+
+Hugh WHITTALL
+
+Introduction
+
+Although there is no agreed definition for synthetic bio-
+logy (SynBio), it can be understood broadly as the con-
+struction  of  novel  biological  networks/organisms  with 
+bespoke properties, using standardised biological parts 
+that code for known functions.
+
+Standardised biological parts can include DNA sequenc-
+es artificially designed and chemically synthesised in the 
+lab, or genetic material from existing organisms.  SynBio 
+can involve the redesign of existing systems or the de-
+sign of entirely novel networks. The workforce is multi-
+disciplinary and includes biologists, engineers, chemists 
+and IT specialists.
+
+Within SynBio, three main areas of research are emerging:
+
+•	
+
+•	
+
+•	
+
+Creation	of	minimal	genomes	–	this	determines	the	
+smallest number of genes required for a bacterium 
+to  survive  so  that  other  DNA  building  blocks  and 
+synthetic  pathways  can  be  added  to  create  micro-
+organisms with a specific function.
+
+Production	of	artificial	cells	–	this	aims	to	construct	
+wholly artificial cells. For example, a protocell is be-
+ing developed currently which uses peptide nucleic 
+acid rather than DNA.
+
+Standardising	parts	 and	 pathway	 engineering;	 and	
+expanding the gene pool – the aim is to standardise 
+genetic components with specific functions so that 
+these can be connected to form a genetic pathway 
+with a certain function. A registry of such parts, so-
+called “BioBricks”, has been developed by MIT.
+
+•	
+
+•	
+
+•	
+
+whereas  current  detection  relies  on  the  infection 
+progressing and infecting the patient.
+
+In	 biopharmaceutical	 production,	 scientists	 have	
+developed  bacteria  which  produce  the  precursor 
+to artemisinin, the anti-malarial drug. Currently, ar-
+temisinin  is  extracted  from  wormwood  but  this  is 
+associated with high costs on account of difficulties 
+in cultivating the plant. Scientists hope that the use 
+of SynBio in artemisinin production will reduce the 
+costs.
+
+It	is	thought	that	SynBio	could	lead	to	the	develop-
+ment  of  a  sustainable  chemical  industry:  bacteria 
+have been engineered which produce spider silk, a 
+material with significant industrial potential because 
+of its strength and elasticity.
+
+Finally,	 SynBio	 is	 providing	 new	 means	 of	 energy	
+production.  Microorganisms  have  been  developed 
+which produce fatty acids that are optimal for bio-
+diesel, and given increasing pressures to develop re-
+newable and sustainable fuels, such developments 
+could be highly significant.
+
+The potential benefits of SynBio are great. However, Syn-
+Bio gives rise to a number of concerns and wider ethical 
+questions  which  are  the  focus  of  the  remainder  of  this 
+talk.
+
+Biosafety
+
+The production of synthetic microorganisms raises con-
+cerns regarding biosafety.
+
+Applications have been envisaged which could provide 
+benefits for society in several different areas. However, it 
+should be noted that many of these are still aspirations, 
+and there is a concern that future applications of SynBio 
+may be over-hyped.
+
+•	
+
+Some  applications  have  nevertheless  been  developed 
+and  these  are  now  the  focus  of  commercial  develop-
+ment. For example:
+
+First,	are	existing	risk	assessment	policies	capable	of	
+dealing with SynBio? Unknown risks to the environ-
+ment  and  public  health  are  posed  by  unexpected 
+interactions  by  the  synthetic  microorganisms.  E.g. 
+Microorganisms  released 
+into  the  environment 
+could transfer their genes to other microorganisms 
+by the process, horizontal gene transfer. Can we cur-
+rently assess these “unknown unknowns” and make 
+adequate provision to reduce these risks?
+
+•	
+
+In	 biomedicine,	 a	 biosensor	 to	 detect	 early-stage	
+urinary catheter infection has been developed. This 
+allows  doctors  to  detect  the  infection  in  3  hours, 
+
+•	 Also,	 current	 risk	 assessment	 policies	 were	 devel-
+oped  to  assess  GM  organisms  –  these  compare 
+the altered organism with the natural organism on 
+
+26
+
+which  it  is  based,  considering  the  individual  trait 
+introduced. SynBio may involve multiple traits from 
+several different donor organisms, and therefore be 
+markedly more complex to assess.
+
+rorism could be practised by lone individuals, who effec-
+tively engage in SynBio in their garages or homes.  How 
+might governance deal with lone operators, as opposed 
+to whole organisations? 
+
+•	 Other	concerns	centre	on	the	SynBio	workforce.	The	
+SynBio workforce is young and includes a significant 
+number  of  non-biologists.  Such  individuals  may 
+have  limited  or  no  knowledge  of  biosafety  or  past 
+biosafety  fears,  which  raises  concerns  about  how 
+bio safety may be implemented.
+
+Biosecurity
+
+There  are  concerns  that  SynBio  could  be  used  to  pro-
+duce  bioweapons,  raising  concerns  about  biosecurity. 
+High-profile  developments  have  fuelled  such  worries.  
+In 2002, scientists synthesised the previously eradicated 
+polio virus. Then in 2005, scientists announced that they 
+had  synthesised  the  1918  Spanish  flu  virus,  which  had 
+caused  a  pandemic  killing  an  estimated  20–50  million 
+people.
+
+There  are  concerns  also  that  the  current  environment 
+could enable and even promote bioterrorism. A number 
+of factors could contribute to this:
+
+•	
+
+It	 is	 thought	 that	 known	 pathogens	 could	 be	 pro-
+duced in a lab and effectively concealed from bio-
+security governance.
+
+•	 Access	to	DNA	sequences	may	be	too	easy.	In	2006,	
+a UK journalist demonstrated a lack of DNA supply 
+regulation by ordering sequences of the small pox 
+virus, and having them delivered to his house.
+
+Another question is whether publishing the sequences 
+of  viruses  and  information  on  how  they  were  synthe-
+sised  could  provide  information  to  bioterrorists  to  en-
+gineer  their  own  pathogenic  organisms.  Necessary 
+equipment  such  as  DNA  synthesisers  are  readily  avail-
+able on second-hand auction sites like eBay. A low level 
+of biosecurity awareness was found amongst European 
+synthetic  biologists,  and  this  could  be  detrimental  to 
+implementing governance.
+
+Given this environment, there is also concern that there 
+will be the rise of ‘garage biology’, where SynBio bioter-
+
+However,  there  is  some  debate  as  to  how  real  the  risk 
+of  SynBio  being  used  to  develop  bioweapons  is.  Great 
+difficulties  exist  in  both  producing  existing  and  novel 
+pathogens, and developing these into weapons.
+
+The  focus  of  biosecurity  has  also  been  questioned: 
+Should  we  concentrate  our  attention  on  bioterrorism 
+by rogue groups and lone operators or state-sponsored 
+biowarfare?  To-date, there has been a limited number of 
+bioterrorism attacks with non-modified pathogens, and 
+some commentators have asserted that focus should be 
+on state-sponsored military use of SynBio. This also raises 
+the question about dual-use research and the legitimacy 
+of state-sponsored development of biowarfare.
+
+Intellectual property
+
+SynBio raises intellectual property issues. Currently, Syn-
+Bio consists of both patents and open-source systems.
+
+•	
+
+The	 J.	 Craig	 Venter	 Institute	 has	 applied	 to	 patent	
+Mycoplasma laboratorium – the sequence they claim 
+represents the minimal requirements for life. It has 
+also  applied  for  broader  patents  to  cover  creation 
+of synthetic genomes and their transplantation into 
+cells.
+
+•	 Meanwhile,	 MIT	 has	 developed	 an	 open-source	
+
+Registry of Standard Biological Parts.
+
+With  patenting,  there  are  concerns  that  overly  broad 
+patents  could  limit  competition,  whereas  narrow  pat-
+ents  could  increase  the  complexity  when  doing  re-
+search.  The morality of patents on living organisms has 
+also been questioned. With MIT’s open-source registry, 
+there have been questions of ownership as some parts 
+have already been patented.
+
+There  is  also  a  cultural  difference  with  regards  to  IP.  In 
+the USA, there has historically been a wider acceptance 
+of patents, whereas in Europe there has been a feeling of 
+distaste towards patenting. This cultural difference could 
+become more significant as SynBio develops globally.
+
+27
+
+Trade and global justice
+
+There  are  concerns  that  SynBio  could  widen  the  gap 
+between rich and poor countries.  Such thoughts have 
+been  prompted  by  the  use  of  SynBio  to  produce  the 
+precursor  for  the  anti-malarial  drug,  artemisinin.    This 
+work has now received a grant from the Bill and Melinda 
+Gates  Foundation  to  further  develop  the  technology.  
+Artemisinin is extracted from wormwood which is cul-
+tivated  in  China,  Southeast  Asia  and  Africa,  and  critics 
+of  SynBio  contend  that  SynBio-produced  artemisinin 
+would  neither  stimulate  nor  sustain  local  artemisinin 
+production,  effectively  shifting  development  from  the 
+developing world to the developed. In addition, devel-
+oping nations may be forced to buy such products from 
+the one company.
+
+Other factors may also prohibit developing nations from 
+engaging  with  SynBio.  For  example,  developing  coun-
+tries  may  lack  the  knowledge  base,  or  money  to  buy 
+access to patented parts. Governance may also restrict 
+their access.
+
+Human intervention in nature
+
+SynBio, as with any human intervention in nature, raises 
+concerns over the ‘naturalness’ of the intervention and 
+‘creating life’.  In 1999, a group of bioethicists, convened 
+by	Craig	Venter,	considered	the	goal	of	creating	a	mini-
+mal genome organism. They found that the prospect of 
+such  work  did  not  violate  any  fundamental  moral  pre-
+cepts or boundaries.  However, they said that the work 
+raised questions that ought to be considered before fur-
+ther  advances  were  made.    These  included:  How  does 
+work on minimal genomes and the creation of new free-
+living organisms change how we frame ideas of life and 
+our relationship to it?
+
+The precautionary principle
+
+SynBio also raises wider ethical questions. The concerns 
+associated  with  SynBio  are  similar  to  those  raised  by 
+GM  and  another  emerging  technology,  nanotechnol-
+ogy.  These  sciences  raise  the  same  question  –  when 
+un certainties  are  so  profound,  how  can  we  assess  risk 
+meaningfully?    How  do  we  employ  the  precautionary 
+principle? Also, what constitutes the public’s reaction to 
+
+these  sciences/technologies?  What  is  the  “yuck  factor” 
+and what role should it play in policy discussions?
+
+Public engagement
+
+Questions arise as to how public engagement with Syn-
+Bio  can  be  effective.    A  national  survey  in  the  USA  on 
+awareness  and  attitudes  towards  nanotechnology  and 
+SynBio  found  that  approximately  two-thirds  of  adults 
+polled  had  heard  nothing  about  SynBio,  and  yet  two-
+thirds  were  willing  to  express  an  initial  opinion  on  the 
+potential benefits vs. risks. 
+
+It has also been suggested that the public may only ap-
+preciate applications of SynBio, such as ways of tackling 
+a disease, rather than the methods used. There have also 
+been  calls  for  scientists  to  temper  “hyperbolic”  expec-
+tations  so  as  to  avoid  public  disappointment.  It  would 
+appear that they are faced by a dilemma of communica-
+tion,  in  which  they  must  emphasise  the  potential  ben-
+efits of SynBio to fellow scientists to secure funding, and 
+yet  down-play  these  to  the  public  so  as  not  to  create 
+seemingly false expectations.
+
+Governance
+
+Finally, there are questions regarding the governance of 
+SynBio.
+
+•	
+
+Is	 current	 governance	 sufficient?	 	 Current	 govern-
+ance  includes  national  and  international  systems 
+which, although not specifically dedicated to SynBio, 
+together  provide  a  “patchwork”  regulatory  frame-
+work. However, there have been concerns over the 
+adequacy  of  this  fragmented  framework  and  spe-
+cific governance is emerging.
+
+•	 Who	should	regulate?		Scientists	have	made	propos-
+als for self-regulation but these have been dismissed 
+by civil society organisations. Self-regulation has not 
+been ruled out but cited as a possibility amongst a 
+range of options, including external regulation.
+
+•	 What	should	be	the	governing	principles?		The	role	
+of  the  precautionary  and  proactionary  principles 
+has  been  questioned.  Both  hold  good  objectives 
+but entail different consequences for the progress of 
+
+28
+
+ 
+SynBio. The precautionary principle advocates that 
+new  substances  should  be  considered  dangerous 
+until proven safe, whereas the proactionary princi-
+ple  asserts  that  science  and  technology  should  be 
+considered safe unless and until proven otherwise.
+
+•	
+
+•	
+
+There	 are	 questions	 about	 whether	 governance	
+should be decided regionally, at the level of the state 
+or internationally. The need for harmonious regula-
+tion has been highlighted by commentators who as-
+sert that regulation could lead to production being 
+driven abroad where regulation is less stringent.
+
+Finally,	where	is	governance	needed?	For	example,	
+is  governance  required  for  state-sponsored  bio-
+warfare as well as to prohibit bioterrorism?
+
+29
+
+The Ethics of Synthethic Biology
+Hugh Whittall
+
+Powerpoint Presentation
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+Ethical Aspects 
+of Synthetic Biology
+
+Eleonore PAUWELS
+
+Research scholar at the Woodrow Wilson  
+International Center for Scholars
+
+Eleonore  Pauwels  is  a  research  scholar  working  in  the 
+foresight  and  governance  project  at  the  Woodrow  Wil-
+son International Center for Scholars in Washington D.C. 
+Since October 2008 she has also been a doctoral student 
+in the Department of Philosophy of Science at the Univer-
+sité Libre de Bruxelles (ULB) with support from the Fonds 
+National de la Recherche Scientifique (FNRS). Her primary 
+focus is on comparative and critical analysis of the EU and 
+US approaches to societal governance of synthetic biol-
+ogy. She is also examining the challenges that new forms 
+of biotechnology pose for political and public policy or-
+ganisations and the regulatory innovations that emerge 
+alongside  developments  in  cutting-edge  technologies. 
+Her past research has spanned areas such as risk commu-
+
+nication,  public  participation  in  technical  controversies 
+and  the  epistemology  of  regulatory  and  social  science 
+experiments.
+
+Eleonore  holds  an  M.A.  in  European  public  policy  and 
+politics  awarded  by  L’Institut  d’études  politiques  de  Paris 
+(IEP) and Bath University within the European-American 
+University  Consortium.  She  pursued  postgraduate  stud-
+ies at the College of Europe (Academic University Institute 
+for  Postgraduate  European  Studies,  Bruges),  where  she 
+completed a course in European law and regulatory gov-
+ernance  related  to  EU  research  policy.  In  2006-2007  she 
+was a member of the Governance and Ethics Unit of the 
+European Commission Directorate-General for Research.
+
+41
+
+Public Perception and 
+the Media: the Case of 
+Synthetic Biology
+
+Eleonore PAUWELS
+
+How  is  public  perception  of  synthetic  biology  likely  to 
+evolve? What factors will have an impact on framing this 
+emerging  technology,  its  benefits  and  risks?  How  the 
+public learns about synthetic biology, from whom, and 
+with  what  message  could  have  a  far-reaching  impact. 
+If synthetic biology is to deliver on its promise, the sci-
+entific  community  cannot  leave  public  engagement  to 
+chance  or  assume  that  the  press  will  accurately  repre-
+sent the science and related implications.
+
+My contribution will first highlight the main trends and 
+the emerging areas of convergence and divergence be-
+tween  the  coverage  of  synthetic  biology  in  prominent 
+American  and  European  printed  media.  Then,  drawing 
+on  the  results  of  quantitative  and  qualitative  research 
+conducted  on  public  perception  of  synthetic  biology 
+in the United States, I will explore how members of the 
+public react to balanced information about the science, 
+its benefits and risks. Finally, on the basis of this analysis 
+of press coverage and public perception of synthetic 
+biology, I will identify some of the societal concerns that 
+might persist as research develops.
+
+Synthetic Biology in the American and European 
+Press
+
+The  field  of  synthetic  biology  is  rapidly  growing  and 
+evolving as it establishes itself in the scientific commu-
+nity. Consequently, the emergence of synthetic biology 
+has been increasingly reported in the press in different 
+countries. At this early stage, it is noteworthy that the 
+coverage  of  synthetic  biology  varies  from  country  to 
+country,  with  some  emphasising  potential  risks  and 
+benefits, others focusing on future applications and yet 
+others examining the social and ethical concerns that 
+might arise as the technology is developed.
+
+A recent study1, conducted as part of the synthetic bi-
+ology  project  at  the  Wilson  Center,  comparing  press 
+
+coverage  in  the  United  States  and  in  Europe  since 
+2003 found that the American press has painted a far 
+rosier picture of synthetic biology. Half of the Ameri-
+can press articles surveyed mentioned the benefits of 
+the science while saying nothing about possible risks 
+and downsides, as opposed to only 28 percent for the 
+European press.
+
+In addition, discussions in the US media about possible 
+risks have been one-dimensional, focusing primarily on 
+biosecurity  and  not  mentioning  biosafety  or  ethical  is-
+sues. This imbalance sows the seeds for diverging public 
+concerns  and  governance  strategies  that  can  have  an 
+adverse impact on commercialisation and global trade. 
+This  happened  with  agricultural  biotechnology  and  is 
+now being repeated with nanotechnology.
+
+More importantly, the analyses of the American and Eu-
+ropean press reveal a distinct difference in the way the 
+potential risks of synthetic biology are presented to the 
+American and European public. The current focus of the 
+American press on biosecurity issues and of the Europe-
+an press on biosafety and environmental impact could 
+lead to diverging opinions about the risks and potential 
+regulation of this field.
+
+Why  should  we  –  as  scientists,  ethicists  or  sociologists 
+– care about how synthetic biology is being introduced 
+into public discourse and the popular press? In the short 
+term, public awareness and understanding of synthetic 
+biology will be influenced by press coverage of the field. 
+The way synthetic biology is portrayed in the press of-
+fers  insights  into  how  both  supporters  and  opponents 
+wish to frame the issues raised by its development. But 
+this is also why media analysis should be backed up by 
+quantitative  and  qualitative  contextual  studies  to  ex-
+plore public perception of synthetic biology.
+
+(1)  Pauwels, E., Ifrim, I. (2008), Trends in American and European press coverage of synthetic biology: Tracking the last five years of coverage, in 
+
+Synbio 1 (Synthetic Biology Project, 2008). Available at: http://www.synbioproject.org/process/assets/files/5999/synbio1final.pdf.
+
+42
+
+Public Perception of Synthetic Biology in the  
+United States
+
+How much do Americans know about synthetic biology? 
+Do members of the public think potential benefits of this 
+emerging technology will outweigh potential risks?
+
+These questions were part of a representative national 
+telephone survey of 1 003 US adults conducted by Pe-
+ter D. Hart Research Associates in August 2008 on be-
+half  of  the  project  on  emerging  nanotechnologies  at 
+the Woodrow Wilson International Center for Scholars2.
+This poll was the first time Americans had been asked 
+about synthetic biology in a telephone survey and pro-
+duced two clear findings: first, that most people know 
+little  or  nothing  about  synthetic  biology  and,  second, 
+notwithstanding  this  lack  of  knowledge,  respondents 
+are likely to venture some remark about what they think 
+synthetic biology is and the trade-off between poten-
+tial benefits and risks.
+
+The results of two focus groups organised, at the request 
+of  the  Wilson  Center,  in  Baltimore  (Maryland)  on  6  Au-
+gust 2008 among adults aged between 18 and 65 – one 
+among women, the other among men – confirm these 
+two  preliminary  findings  and  yield  additional  insights 
+into  how  members  of  the  public  react  to  balanced  in-
+formation about the benefits and risks of synthetic biol-
+ogy. These first-ever focus groups on synthetic biology 
+showed  high  levels  of  concern  about  applications  and 
+questions about oversight. None of this should come as 
+a surprise, since there is a long history of public concern 
+about  different  forms  of  biotechnology,  ranging  from 
+stem cell research to cloning, genetically modified foods 
+and recombinant DNA.
+
+biology is also shaped by cultural values and levels of re-
+ligiosity. Comparison of participants’ uninformed and in-
+formed perceptions about synthetic biology reveals that 
+how much participants knew about this technology bore 
+little relation to their framing of its risks and benefits. In 
+fact, providing the participants in the focus group with 
+balanced  information  about  synthetic  biology  did  not 
+simply lead to more or less support for the technology 
+but to a more nuanced level of discussion, which shows 
+the participants’ relative ambivalence towards the ‘play-
+ing God’ aspects of the technology. 
+
+The field of application seems to be another decisive fac-
+tor in the framing of synthetic biology. One key finding 
+was that participants in both focus groups were far more 
+easily  engaged  in  constructive  discussions  on  energy 
+than  on  health  applications.  In  both  focus  groups,  the 
+top-ranked  application  of  synthetic  biology  was  creat-
+ing new, cheaper and cleaner sources of energy.
+
+Finally, acceptance of the risk-benefit trade-off for syn-
+thetic biology seems to depend on having a supervisory 
+structure  capable  of  managing  the  unknowns,  human 
+and environmental concerns and long-term effects.
+
+Societal Concerns about Synthetic Biology in Europe 
+and in the United States
+
+The  objective  of  this  section  is  not  to  draw  exhaustive 
+conclusions  about  the  societal  concerns  raised  by  syn-
+thetic biology, but rather to provide readers with a qual-
+itative  insight  into  which  aspects  of  synthetic  biology 
+might be welcomed by the public and which concerns 
+could lead to potential public uneasiness.
+
+Finding only some support for the ‘familiarity argument’ 
+– i.e. that support for emerging technologies is likely to 
+increase as awareness of them develops – these two fo-
+cus groups suggest that the process of framing synthetic 
+
+Engineering Life or Engineering for Better Life?
+Engineers entering the domain of biology have different 
+ethical  norms,  standard  practices  and  professional  ex-
+pectations vis-à-vis regulators and the public. Engineer-
+
+(2)  Hart  Research  Associates  (2008),  Awareness  of  and  attitudes  to  nanotechnology  and  synthetic  biology.  Available  at:  http://www.synbio-
+
+project.org/process/assets/files/6019/hart_final_re8706b.pdf. 
+
+43
+
+ing  ethics  are  largely  based  on  micro-ethics  emphasis-
+ing the responsibility of the individual practitioner. This 
+system is ill-equipped to deal with broad assessments of 
+the impact of the engineering community and its collec-
+tive practices on social or biological systems. In addition, 
+many engineers have little training in biology, toxicology 
+and environmental sciences – all of which are crucial for 
+impact assessments of new biological organisms.
+
+In addition, by ‘engineering life’ synthetic biology could 
+have  an  unprecedented  impact  on  the  contemporary 
+dynamics of relationships between humans and nature, 
+especially on the beliefs and ideas that shape how peo-
+ple understand and value nature and assign it meaning 
+in their lives.
+
+including  the  problematic  sustainable  development. 
+However,  voices  are  emerging  amidst  civil  society  to 
+contest this: ‘Fearing that ‘frankencells’ will threaten the 
+ecosystem, environmental groups such as Greenpeace 
+and  Friends  of  the  Earth  have  labelled  synthetic  biol-
+ogy ‘genetic engineering on steroids’ and condemned 
+it as ‘a grave biosafety threat to people and the planet4.’ 
+Some  activists  have  already  called  for  a  complete  re-
+search  moratorium5.  To  date,  there  is  no  solid  reason 
+to deny or question that synthetic biology could offer 
+an  unprecedented  opportunity  to  transform  modern 
+medicine,  generate  clean  biofuels  and  create  millions 
+of green jobs, but also it is not impossible that the tech-
+nology could develop in an unsustainable way – with 
+regard to environmental and societal concerns. 
+
+Synthetic Biology as the New Technological Fix?
+Synthetic  biology  is  increasingly  presented  by  the  sci-
+entific  community  as  a  key  solution  –  a  ‘technological 
+fix’  –  to  the  challenges  of  sustainable  development  by 
+‘greening’  chemical  and  engineering  sciences.  As  re-
+cently  mentioned  in  the  San  Jose  Mercury  News,  ‘Just 
+as  the  first  wave  of  biotechnology  revolutionised  agri-
+culture  and  medicine,  scientists  today  herald  synthetic 
+biology as a second wave of innovation capable of solv-
+ing society’s most pressing challenges. In the laboratory, 
+researchers are developing customised organisms with 
+powerful new capabilities. These modified cells can be 
+programmed to fight diseases, create new wonder ma-
+terials for manufacturing or produce an abundant source 
+of clean, renewable energy3.’
+
+In  the  scientific  community,  synthetic  biology  is  cast 
+unambiguously as the solution to a range of social ills, 
+
+To conclude, synthetic biology is evolving in the shadow 
+of  public  consciousness  –  a  situation  that  might  serve 
+the short-term interests of the research community, but 
+not the long-term interests of society. Based on quanti-
+tative and qualitative studies commissioned by the Wil-
+son Center, it is unlikely that more than a few percent of 
+the public have even heard the term synthetic biology. 
+This  lack  of  public  awareness  and  engagement  set  the 
+stage  for  what  some  have  termed  the  ‘surprise  of  Dol-
+ly’  problem  (referring  to  the  appearance  of  the  cloned 
+sheep, Dolly, in 1997). ‘Without prior discussion of ethical 
+issues, the general public cannot develop a framework 
+or  common  language  to  discuss  acceptable  uses  of  a 
+new biomedical technology, or even whether it should 
+be used at all6.’ A public backlash against synthetic bio-
+logy is a real possibility and could compromise the de-
+velopment of valuable applications, resulting in loss of 
+the economic and social benefits.
+
+(3)  D. Ballon, Opinion – ‘Synthetic Biology is a key to energy independence’, San Jose Mercury News, 15 December 2008.
+(4)  Idem.
+(5)  Cf. A meeting in which I took part in San Francisco on 13 November 2008 organised by the Canadian civil society organisation ETC Group 
+
+entitled ‘Teaching Synthetic Biology’.
+
+(6)  Cho, M.K. et al., ‘Ethical considerations on synthesising a minimal genome,’ Science, 10 December 1999.
+
+44
+
+Public Perception and Media:
+The Case of Synthetic Biology
+
+Powerpoint Presentation
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+Ethical Aspects 
+of Synthetic Biology
+
+Bart WALHOUT
+
+Researcher at the Rathenau Institute
+
+Bart Walhout is a researcher in the Technology Assess-
+ment Division of the Rathenau Institute. His background 
+is in electronics design. Bart studied technology and so-
+ciety at Eindhoven University of Technology, where his 
+graduation  project  studied  government  policy  in  rela-
+
+tion  to  the  social  controversies  sparked  by  biotechnol-
+ogy. At the Rathenau Institute he is working on projects 
+dealing with nanotechnology and its convergence with 
+biotechnology,  information  technology  and  the  cogni-
+tive sciences.
+
+61
+
+Is This (the Good) Life?
+Engaging the World of 
+Synthetic Biology
+
+Bart Walhout
+
+In 2007 the work of Paul Rothemund, a US synthetic bi-
+ologist,  was  exhibited  in  Design  and  the  Elastic  Mind  at 
+the  Museum  of  Modern  Art  in  New  York.  Rothemund 
+made smileys out of synthetic DNA and pictured these 
+with an electron microscope. Is that art? Is it science? It 
+is both, but indeed you do need an elastic mind to grasp 
+the  meaning  of  smiling  faces  made  from  the  material 
+which many consider to be the code of life. Hence the 
+title of my presentation. The ambitions of synthetic bi-
+ology challenge basic ideas about what is life and how 
+science and technology can sustain the good life. 
+
+Whatever the good life may be, we all have our prefer-
+ences.  Speaking  for  myself,  I  am  educated  as  an  engi-
+neer.  And,  yes,  I  do  like  the  engineering  approach  to 
+synthetic  biology.  Getting  things  to  work!  However, 
+although  I  am  not  that  old,  as  you  see  I  have  already 
+ended up as a hopelessly romantic Christian white male, 
+forever reflecting on the meaning of life in our techno-
+logical culture. Fortunately, the EGE saved me from my 
+eternal deliberations, and so did the Rathenau Institute 
+I am working for. We need biofuels and new medicine. 
+Synthetic  biology  promises  new  applications  in  those 
+areas. So there is work to be done. Let’s see if we, social 
+engineers, can contribute to good governance of appli-
+cations of synthetic biology and the implications, which 
+certainly can be part of the good democratic life.
+
+I  was  asked  to  present  an  overview  of  applications  of 
+synthetic  biology  and  the  societal  implications.  In  short, 
+the latter comprise — next to the moral questions about 
+what  is  life  and  how  to  treat  it  —  public  issues,  such  as 
+biosafety,  biosecurity  and  intellectual  property.  Since 
+synthetic  biology  has  caught  the  attention  of  public  in-
+stitutes, such as the Rathenau Institute in 2006, no other 
+types of issues have been added, nor have distinctive new 
+fields of application been identified. However, the debate 
+about  synthetic  biology  has  broadened  to  other  organi-
+sations — such as the EGE. And research groups and also 
+the European Commission have drafted initial roadmaps. 
+
+We are thus moving from an agenda-setting phase to in-
+stitutionalisation and that is highly important in evaluat-
+ing the ethical dimensions of the emergence of synthetic 
+biology. In order to address the question ‘what has to be 
+done?’ (the engaging part), we should not limit ourselves 
+to identification of ‘what the applications and implications 
+are’, but should also ask ‘where is it going to?’.
+
+First,  I  want  to  look  at  three  levels  when  answering  the 
+questions ‘what is it?’ and ‘where is it going to?’. Then I will 
+argue that we need to take into account all these three lev-
+els in a governance strategy. Finally, I will pick out a few 
+challenging issues to be addressed in that way. 
+
+Starting with the formal definitions of what synthetic biol-
+ogy is, we see an emphasis on ‘engineering’ and ‘design’. 
+This directly invokes expectations about the capabilities of 
+synthetic biology: manipulating life as we can manipulate 
+machines (Endy), which quite logically can lead to the idea 
+of biotechnology as a ‘garage technology’ (Dyson). But ex-
+actly these capabilities within our current economic order 
+raise  fears  about  new  elite  technologies  (ETC).  Ironically, 
+that can be the consequence of synthetic biology, as Drew 
+Endy puts it, ‘making biology easier to engineer’. 
+
+Getting  more  down  to  earth,  we  can  identify  two  ap-
+proaches at the conceptual level of synthetic biology re-
+search:  deconstructing  (top-down,  for  example  sponge 
+research, cf. Dan Morse) and constructing (bottom-up, for 
+example biobricks, cf. MIT)1. But both approaches aim at 
+finding essential structures in order to (re)construct from 
+an engineering rationale. Synthetic biology might vanish 
+as a research field due to unfulfilled expectations, but the 
+engineering rationale will stay and will strongly influence 
+the future of biotechnology (cf. the transition from tissue 
+engineering to regenerative medicine).
+
+It is important to understand that these paradigm chang-
+es  are  not  just  caused  by  new  ideas,  but  are  also  made 
+possible  by  technological  progress  bringing  old  ideas 
+
+(1)  Sometimes also called in vivo vs in vitro; see, for example, the report of the Dutch Royal Academy of Science and the Dutch Health Council 
+
+(Creating Opportunities, 2008).
+
+62
+
+within reach. And this enabling is not a neutral factor: a 
+short history of biotechnology shows how ICT is not just 
+a tool, but is also used as a concept (e.g. DNA as informa-
+tion or cells as information processing units). Now nano-
+technology  not  only  allows  synthetic  construction,  but 
+also leads scientists to see cells as nanomachines.
+
+Third,  there  are  lists  of  possible  fields  of  application: 
+industrial  chemistry,  energy  and  medicine.  Dutch  bot-
+tom-up  examples  include  molecular  motors  made  of 
+enzymes  and  carbon  nanotubes  (University  of  Delft), 
+biosensors (Philips) and self-assembling structures using 
+DNA.  Still  these  fields  of  application  are  defined  by  re-
+search programmes which first reflect the development 
+of  synthetic  biology  as  a  platform  technology  (as  illus-
+trated by the Synberc research programme). 
+
+As we can also see from the European TESSY roadmap, 
+these  programmes  recognise  the  importance  of  good 
+governance  and  incorporate  it  into  the  system  think-
+ing  (social  engineering?).  At  this  level  we  also  find  the 
+typical  list  of  societal  issues:  biosafety,  biosecurity  and 
+intellectual property. One important point to note is that 
+normative assumptions about what is life do play a role 
+in  these  issues.  And  although  these  are  old  questions, 
+synthetic biology adds new dimensions and brings new 
+life into the biodebate. 
+
+Now, having seen three levels of ‘what it is’ and ‘where 
+it is going to’, what has to be done? The first point is that 
+the order of the issues differs. For example, biosafety is-
+sues call for action: analysing new challenges, discussing 
+regulatory approaches and implementing them on time. 
+Biotech and nanotech developments show that this takes 
+a considerable amount of time and therefore should not 
+be postponed until real applications are there (although, 
+of course, tension is created when it comes to regulating 
+applications  still  under  development).  Discussing  the 
+benefits  and  downsides  of  intellectual  property  is  on 
+quite another level. Here we are entering a fundamental 
+debate  on  the  economic  order  and  knowledge-based 
+innovation.  So  different  issues  are  discussed  in  differ-
+ent arenas and therefore call for different approaches to 
+governance.
+
+Second,  biotechnology  and  nanotechnology  are  also  re-
+cent  examples  of  emerging  technologies  that  do  call  for 
+broadening debate and decision-making (an important as-
+pect of governance, although it still feels like experiment-
+ing).  To  use  a  catch  phrase,  ‘act  and  connect’.  However, 
+these two sets of activities can be inextricably intertwined. 
+Moreover, societal issues are framed differently by different 
+groups of stakeholders. In a recent paper we explored how 
+civil society organisations (CSOs) perceive the emergence 
+of synthetic b iology. Our research shows that CSOs tend to 
+put much more emphasis on the socio-economic dimen-
+sions,  whereas  technology  assessment  organisations  and 
+research councils pay great attention to the moral/cultural 
+level. And these differences can change over time.
+
+The point that I want to make is that the way engagement 
+can be broadened depends on the way developments and 
+issues are framed. And that is why I stated that all three 
+levels of framing ‘what it is’ and ‘where it is going to’ have 
+to be taken into account for a governance strategy. Next 
+this governance strategy has to be continuously assessed 
+in the light of the debate so far.
+
+Finally,  I  want  to  highlight  three  challenges:  (1)  acting 
+now: putting it in a framework, while (2) also reflecting 
+on  frameworks  as  playing  a  fundamental  role  (3)  chal-
+lenged by symbolic boundary shifts. That is multi-order 
+learning! First, the risk issue. A number of reports have 
+been  released  by  now  and  I  think  it  is  possible  for  the 
+EGE  to  draw  conclusions  from  comparison  of  these  re-
+ports for its opinion on synthetic biology. I must stress 
+the	 importance	 of	 pace	 (the	 example	 of	 Craig	 Venter	
+shows  speed  and  proposes  self-regulation,  while  the 
+genome  of  the  Spanish  influenza  virus  has  been  re-
+constructed).  Second,  the  discussion  about  intellectual 
+property touches on assumptions about our knowledge 
+economy  (for  example,  the  knowledge-patent-power 
+relation).  Third,  the  contribution  which  synthetic  biol-
+ogy  makes  to  influencing  trends  and  symbolic  bound-
+ary shifts, which refer to the good life: (1) the bio-based 
+economy,  taking  nature  as  a  starting  point  for  human 
+progress, instead of seeing nature as the vulnerable bor-
+der and (2) enhancement, i.e. ‘designing and construct-
+ing life’ understood by thinking about the human condi-
+tion (for example, Dolly --> Synthia)?
+
+63
+
+Is this (the good) life?
+Engaging the world of Synthetic Biology
+
+Powerpoint Presentation
+
+64
+
+65
+
+66
+
+67
+
+68
+
+69
+
+70
+
+71
+
+72
+
+73
+
+74
+
+75
+
+76
+
+Annex I
+
+Participants
+
+Ethical Aspects of Synthetic Biology
+
+77
+
+Members of the European Group 
+on Ethics (EGE)
+
+Göran HERMERÉN, 
+President
+Philosopher, Professor of Medical 
+Ethics
+Faculty of Medicine, 
+Lund University
+Lund, Sweden
+
+Paula	MARTINHO	DA	SILVA
+Vice-President
+Lawyer, President of the National 
+Council of Ethics for the Science of Life
+Lisbon, Portugal
+
+Emmanuel AGIUS
+Professor of Moral Philosophy and 
+Moral
+Theology, Faculty of Theology
+University of Malta, Malta
+
+Diana BÁNÁTI
+Professor of Food Safety,
+Director General of the Central Food 
+Research Institute
+Budapest, Hungary
+
+Francesco Donato BUSNELLI
+Professor of Civil Law,
+Professor at Scuola
+Superiore di Studi Universitari e di 
+Perfezionamento S. Anna of Pisa, Italy
+
+Inez de BEAUFORT
+Professor of Health Care Ethics
+Erasmus Medical Centre
+Dept of Medical Ethics
+Rotterdam, The Netherlands
+
+Anne CAMBON-THOMSEN
+Research Director, CNRS,
+Head of a Research Team on Genetics 
+& Public Health, Inserm U558
+Toulouse, France
+
+Rafael CAPURRO
+Professor of Information Management 
+and
+Information Ethics at Fachhochschule
+Stuttgart, Hochschule der Medien
+University of Media
+Stuttgart, Germany
+
+Institute of Clinical Pharmacology
+Central Ethics Committee
+Ministry of Health
+Bratislava, Slovak Republic
+
+Hille HAKER
+Professor of Moral Theology &
+Social Ethics Goethe University
+Johann Wolfgang Goethe Universität
+FB Kath Theologie
+Frankfürt, Germany
+
+Julian KINDERLERER
+Professor of Intellectual Property Law,
+Professor of Biotechnology & Society, 
+University of Technology Delft, Chair, 
+Task Group on Public perception of 
+Biotechnology, European Federation 
+of Biotechnolgy, Former Director  
+Sheffield Institute of Biotechnology, 
+Law & Ethics. 
+Cape-town, South Africa
+
+Krzysztof MARCZEWSKI
+Chef Supervisor of the Dept of  
+Nephrology, Endocrinology & 
+meta bolic Disease, Pope John Paul II  
+Regional Zamosc Hospital,
+Head of the Dept of Medical Ethics, 
+Skubiszewski Medical, 
+University of Lublin
+Lublin, Poland
+
+Linda NIELSEN 
+Professor, University of Copenhagen
+Copenhagen, Denmark
+
+Pere PUIGDOMÈNECH ROSELL
+Research Professor of CSIC
+Director of Plant Molecular Genetics
+Laboratory, CSIC-IRIA
+Barcelona, Spain
+
+Günter	VIRT
+Professor of Moral Theology
+University	of	Vienna
+Wien, Austria
+
+Secretariat of the EGE
+
+Maurizio	SALVI
+BEPA
+Head of the EGE Secretariat
+
+Jozef GLASA
+Professor of Clinical Pharmacology &
+Therapeutics, Hepatology & Medical 
+Ethics/Bioethics at the Slovak Medical 
+University in Bratislava
+Institute of Medical Ethics and  
+Bioethics
+
+Maja PRELOG
+BEPA
+EGE Secretariat
+
+Kim-Hoang LÊ
+BEPA
+EGE Secretariat
+
+78
+
+Speakers
+
+Hugh WHITTALL
+Director Nuffield Council on Bioethics
+London, United Kingdom
+
+Eleonore Pauwels
+Public Policy Scholar
+Project on Synthetic Biology and on 
+Foresight & Governance
+Woodrow Wilson International Center 
+for Scholars 
+Washington, United States of America
+
+Bart Walhout
+Researcher Technology Assessment
+Rathenau Instituut
+Den Haag, the Netherlands
+
+NGOs, Agencies and Associations
+
+Marc SCHWEITZER
+Groupe d’Epistémologie Clinique 
+Comparative
+Paris, France
+
+David FIELDSEND
+Care for Europe
+Brussels, Belgium
+
+Helena PAUL
+Eco Nexus
+London, United Kingdom
+
+Nico	VAN	BELZEN
+Director
+International Life Sciences Institute 
+(ILSI) 
+Europe aisbl
+Brussels, Belgium
+
+Silvia	TRAVELLA
+European Technology Platform 
+“Plants for the Future”
+Brussels, Belgium
+
+Christine	Von	WEIZSÄCKER
+EUCOROPA, European Network on
+Ecological Reflexion & Action
+Emmendingen, German
+
+Dorothée BROWAEYS 
+VIVAGORA
+Paris, France
+
+Morgane	DELAVERGNE
+Project Manager
+European Technology Platform for 
+Global Animal Health
+Brussels, Belgium
+
+Esther Lichtenberg
+European Forum of Farm Animal 
+Breeders
+Wageningen, the Netherlands
+
+Representatives of Industry
+
+Elia UREESOLA
+European Technology Platform on 
+Industrial Safety (ETPIS)
+Vitoria	Gasteiz,	Spain
+
+Eusebio GAINZA
+BioPraxis Institute Research Manager
+European Technology Platform on 
+Industrial Safety
+Vitoria-Gasteiz,	Spain
+
+Anne	Maria	BRAVO-ANGEL
+Genencor/ Danisco
+Spain
+
+Filip CNUDDE 
+Green Biotech Manager
+Europa Bio
+Brussels, Belgium
+
+Abigail CAUDRON
+Campaign Officer
+International Fund for Animal Welfare 
+(IFAW)
+Brussels, Belgium
+
+Megan	McSEVENEY
+
+Academics
+
+Peter	CLEVESTIG
+Stockholm International Peace
+Research Institute (SIPRI)
+Solna, Sweden
+
+Joel	DSILVA	
+Research fellow
+Katholieke Universiteit Leuven / 
+Faculty of Law
+Leuven, Belgium
+
+Ludwig SIEP
+Professor 
+Westfälische Wilhems-Universität 
+Münster Philosophisches Seminar
+Münster, Germany
+
+Maria Concepcion MARTIN-ARRIBAS
+Institute of health Carlos III
+Madrid, Spain
+
+Gabriela SCHNEIDER 
+Kommissariat der Deutschen Bischöfe 
+Katholisches Büro in Berlin
+Berlin, Germany
+
+Leonard ROMNEY
+International Center for Law & Religion 
+Studies
+Brussels, Belgium
+
+Karim CHEMLAL
+Federation of Islamic organizations in 
+Europe
+Belgium
+
+Albert GUIGUI 
+Grand Rabin-Permanent Rep. to  
+EU Institution
+Conference of European Rabin
+Brussels, Belgium
+
+Philip CARMEL
+Conference of European Rabin
+Brussels, Belgium
+
+National Instances
+
+Jean-Claude AMEISEN 
+Prof of Immunology, 
+Paris Diderot University/
+xavier Bichat School of Medicine,
+President of Inserm ethics committee, 
+Member of French national  
+consultative ethics committee
+Comité Consultative d’Ethique
+Paris, France
+
+Marie-Hélène FANDEL 
+Policy Analyst
+European Policy Centre
+Brussels, Belgium
+
+Ariane WILLEMSEN
+Federal Ethics Committee on NON-
+HUMAN Biotechnology ECNH
+Ittingen, Switzerland
+
+Roberto COLOMBO
+Professor
+Italian National Bioethics Committee
+Roma, Italy
+
+Jaime FLAMENBAUM 
+Senior Ethics Policy Advisor
+Canadian Institutes of Health Research/ 
+Institut de recherche en santé du 
+Canada
+Ontario, Canada
+
+Murali JAYAPALA
+Sr Researcher
+Interuniversity Microelectronics 
+Center (IMEC)
+Leuven-Heverlee, Belgium
+
+Guido	VAN	STEENDAM
+Professor
+International Forum for Biophilosophy
+Leuven, Belgium
+
+Camille DELEBECQUE
+Centre for Interdisciplinary Research
+Paris, France
+
+Alexander KELLE
+Lecturer in Politics and International 
+Relations
+Director of Studies Euromaster, MAIP, 
+MACEP, MRes in European Politics
+Department of European Studies and 
+Modern Languages
+University of Bath
+
+Ainsley Newson 
+Senior Lecturer in Biomedical Ethics 
+Centre for Ethics in Medicine | Univer-
+sity of Bristol
+
+Matthias BECK
+Professor
+Universität Wien
+Forschungsschwerpunkt Medizinethik
+Institut für Moraltheologie
+Wien, Austria
+
+Representatives of Religion
+
+Donald BRUCE
+Director, Society, Religion & 
+Technology Project
+Church of Scotland
+Ethics Board of Nano2Life
+
+Anna RABE
+Evangelische Kirche in Deutschland-
+Büro Brüssel
+Brussels, Belgium
+
+Katrin Hatzinger
+Evangelische Kirche in Deutschland-
+Büro Brüssel
+Brussels, Belgium
+
+Katharina SCHAUER
+Legal Advisor
+Commission of the Bishops conference 
+of the European Community
+Brussels, Belgium
+
+79
+
+Joana NAMORADO 
+Directorate Research - Health
+
+François HIRSCH 
+Directorate Research - L3, Governance and Ethics
+European Research Area: Science, Economy and Society 
+
+Garbine GUIU
+Directorate Research – L3 Governance and Ethics
+European Research Area: Science, Economy and Society 
+
+Lino PAULA
+Directorate Research - L3, Governance and Ethics
+European Research Area: Science, Economy and Society 
+
+Ioannis ECONOMIDIS
+Project Officer
+Directorate Research –E2
+
+Anne-Katrin BOCK
+Scientific Officer
+JRC
+
+DG Health 
+
+Judit KROMMER
+Legal Oficer
+European Commission 
+Health and Consumers Directorate-General D - Animal 
+Health and Welfare
+
+DG Environment
+
+Frederix Goyet 
+Project officer
+Directorate Environment
+
+Alice STENGEL
+Project Officer
+Directorate Environment
+
+DG Trade
+
+Martina KOCJAN 
+Legal Officer
+Directorate Trade
+
+Kestutis KUZMICKAS 
+Health attache
+Permanent Representative of Lithuania
+Brussels, Belgium
+
+Constantin ZORBAS
+Dr en Theology - Sociology
+Representation of Greece to the EC
+Greece
+
+Matija GOGALA
+Professor 
+Slovenian Academy of Sciences and Arts
+Ljubljana, Slovenia
+
+Ruth MAMPUYS
+Netherlands Commission on Genetic
+Modification
+Bilthoven, the Netherlands
+
+Media
+
+Veronique	STEUKERS	
+REACHforLIFE
+Brussels, Belgium 
+
+EU Institute for Security Studies
+
+Jean-Pascal ZANDERS
+Research fellow
+EU Institute for Security Studies
+Paris, France
+
+European Commission /
+Bureau of European Policy Advisers
+(BEPA)
+
+Vitor	GASPAR	
+Director BEPA
+
+Graça	CARVALHO	
+Coordinator Societal Area – BEPA
+Policy Advisor
+
+Paola COLOMBO 
+BEPA
+Head of Unit 
+Coordination Unit
+
+DG Research
+
+Peteris	ZILGALVIS	
+Head of Unit, L3, Governance and Ethics
+European Commission
+Research Directorate -General
+Directorate L - European Research Area: Science, Economy 
+and Society 
+
+80
+
+Annex II
+
+Secretariat 
+of the European Group  
+on Ethics (EGE)
+
+Ethical Aspects of Synthetic Biology
+
+81
+
+Secretariat of the European 
+Group on Ethics
+
+Dr Maurizio Salvi
+Head of the EGE Secretariat
+
+Tel. 32 (0) 2 299 11 79
+Fax 32 (0) 2 299 45 65
+E-mail: maurizio.salvi@ec.europa.eu
+
+Maja Prelog
+Policy Officer
+
+Tel.: 32 (0) 2 296 66 39
+Fax: 32 (0) 2 299 45 65
+E-mail: maja.prelog@ec.europa.eu
+
+Kim Hoang Le
+
+Tel.: 32 (0) 2 299 92 28
+Fax: 32 (0) 2 299 45 65
+E-mail: kim-hoang.le@ec.europa.eu
+
+82
+
+ 
+ 
+Mail address
+
+European Commission
+
+Secretariat of the European Group 
+on Ethics in Science 
+and New Technologies
+
+Berlaymont Building, Rue de la Loi 200
+BERL 8/285
+1049 Bruxelles/Brussels
+BELGIQUE/BELGIË
+
+Office
+
+European Commission
+Berlaymont Building, Rue de la Loi 200
+1049 Bruxelles/Brussels
+BELGIQUE/BELGIË
+
+Website
+
+http://ec.europa.eu/european_group_ethics/index_en.htm
+
+83
+
+European Commission
+
+Ethical Aspects of Synthetic Biology – Proceedings of the round-table debate
+
+Luxembourg: Office for Official Publications of the European Communities
+
+2008 — 84 pp. — 21 x 29.7 cm
+
+ISBN 978-92-79-12720-5
+
+DOI 10.2775/34131
+
+How to obtain EU publications
+
+Our priced publications are available from EU Bookshop (http://bookshop.europa.eu), 
+where you can place an order with the sales agent of your choice.
+
+The Publications Ofﬁ ce has a worldwide network of sales agents. You can obtain their 
+contact details by sending a fax to (352) 29 29-42758.
+
+N
+A
+-
+7
+8
+-
+0
+9
+-
+8
+6
+7
+-
+E
+N
+
+-
+C
+
+E
+t
+h
+i
+c
+a
+l
+
+A
+s
+p
+e
+c
+t
+s
+
+o
+f
+S
+y
+n
+t
+h
+e
+t
+i
+c
+B
+i
+o
+l
+o
+g
+y
+
+Ethical Aspects 
+of Synthetic Biology
+
+Proceedings of the round-table debate
+
+BRUSSELS, 19 MAY 2009
+
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,2021 @@
+K
+A
+-
+A
+1
+-
+0
+7
+-
+0
+0
+8
+-
+E
+N
+-
+C
+
+The European Group 
+on Ethics in Science 
+and New Technologies
+to the European Commission
+
+A Newsletter providing information
+on the activities of the National Ethics Committees
+compiled by the Secretariat of the European Group 
+on Ethics in Science and New Technologies 
+to the European Commission
+
+ISSN 1725-5562
+
+EUROPEAN
+COMMISSION
+
+issue8
+
+July 2007
+ July 2007
+
+COVER.indd   1
+
+7/25/07   9:32:06 AM
+
+The European Group 
+on Ethics in Science 
+and New Technologies 
+to the European Commission 
+
+Ethically Speaking 
+
+Issue No 8 
+July 2007 
+
+Chief Editor 
+Maurizio SALVI 
+
+EUROPEAN COMMISSION 
+
+ 
+ 
+ 
+Europe Direct is a service to help you find answers 
+to your questions about the European Union
+
+Freephone number (*):
+00 800 6 7 8 9 10 11 
+
+(*) Certain mobile telephone operators do not allow access to 00 800 numbers or these calls 
+
+may be billed.
+
+More information on the European Union is available on the Internet (http://europa.eu). 
+
+Cataloguing data can be found at the end of this publication. 
+
+Luxembourg: Office for Official Publications of the European Communities, 2007 
+ISSN 1725-5562 
+
+© European Communities, 2007 
+Reproduction is authorised provided the source is acknowledged. 
+
+Printed in Belgium 
+
+PRINTED ON WHITE CHLORINE-FREE PAPER
+
+(cid:38)(cid:50)(cid:49)(cid:55)(cid:40)(cid:49)(cid:55)(cid:54)(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:40)(cid:71)(cid:76)(cid:87)(cid:82)(cid:85)(cid:76)(cid:68)(cid:79)(cid:3)
+
+Maurizio Salvi, Head of the EGE Secretariat, Editor,  
+
+Ethically Speaking................................................................................................................................ 3 
+
+(cid:3)
+
+(cid:44)(cid:81)(cid:87)(cid:72)(cid:85)(cid:81)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:68)(cid:79)(cid:3)(cid:40)(cid:87)(cid:75)(cid:76)(cid:70)(cid:86)(cid:3)(cid:38)(cid:82)(cid:80)(cid:80)(cid:76)(cid:87)(cid:87)(cid:72)(cid:72)(cid:86)(cid:3)
+
+Council of Europe (CoE)..................................................................................................................... 7 
+Task Force on Ethics and Law of the European Society of Human Reproduction and Embryology 
+(ESHRE) .............................................................................................................................................. 9 
+World Health Organizatio (WHO)..................................................................................................... 12 
+
+(cid:36)(cid:85)(cid:87)(cid:76)(cid:70)(cid:79)(cid:72)(cid:86)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:85)(cid:76)(cid:69)(cid:88)(cid:87)(cid:72)(cid:71)(cid:3)(cid:69)(cid:92)(cid:3)(cid:48)(cid:72)(cid:80)(cid:69)(cid:72)(cid:85)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:40)(cid:42)(cid:40)(cid:3)
+
+An article by Bánáti, Diána & Tóth, Annamária, Hungary, Central Food Research Institute, 
+"Agricultural ethics" ....................................................................................................................... 17 
+
+(cid:49)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:68)(cid:79)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:53)(cid:72)(cid:74)(cid:76)(cid:82)(cid:81)(cid:68)(cid:79)(cid:3)(cid:40)(cid:87)(cid:75)(cid:76)(cid:70)(cid:86)(cid:3)(cid:38)(cid:82)(cid:80)(cid:80)(cid:76)(cid:87)(cid:87)(cid:72)(cid:72)(cid:86)(cid:3)
+
+Cyprus National Bioethics Committee, Cyprus ................................................................................. 21 
+
+Finnish National Ethics Committees, Finland.................................................................................... 24 
+
+German National Ethics Council, Germany ....................................................................................... 28 
+
+Greek National Bioethics Committee, Greece  .................................................................................. 31 
+
+Italian National Bioethics Committee, Italy....................................................................................... 33 
+
+National Research Ethics Council, Romania...................................................................................... 35 
+
+Swedish Council on Medical Ethics, Sweden  ................................................................................... 37 
+
+Nuffield Council on Bioethics, United Kingdom ............................................................................... 40 
+
+(cid:40)(cid:88)(cid:85)(cid:82)(cid:83)(cid:72)(cid:68)(cid:81)(cid:3)(cid:38)(cid:82)(cid:80)(cid:80)(cid:76)(cid:86)(cid:86)(cid:76)(cid:82)(cid:81)(cid:3)
+
+DG Information Society and Media (INFSO), Evaluation and Monitoring Unit ............................... 45 
+
+1
+
+(cid:40)(cid:71)(cid:76)(cid:87)(cid:82)(cid:85)(cid:76)(cid:68)(cid:79)(cid:3)
+
+The Berlin Declaration was adopted in May 2007 by the Heads of State and Government of 
+the  European  Union  on  the  occasion  of  the  50th  anniversary  of  the  Treaty  of  Rome.  The 
+declaration states that "EU countries are striving for peace and freedom, for democracy and 
+the rule of law, for  mutual respect and shared responsibility, for prosperity and security, for 
+tolerance and participation, for justice and solidarity." Peace, freedom, democracy, tolerance, 
+responsibility, justice… are all values on which Europe is building its policies. 
+
+Fundamental human rights are central to EU policy-making and the Conclusions of the most 
+recent Brussels European Council (EU27 Summit, 21-22 June, 2007) indicate that, inter alia, 
+the  future  Treaty  on  the  Functioning  of  the  Union  will  contain  an  Article  with  'a  cross 
+reference1  to  the  Charter  on  fundamental  rights, as  agreed  in  the  2004  Intergovernmental 
+Conference (IGC), giving it legally binding value and setting out the scope of its application.' 
+
+The  European  Charter  of  fundamental  values  shows  that,  while  Europe  is  multicultural,  a 
+compound of shared values exists, a value platform which is intimately linked to the identity 
+of the EU. This may help to nurture not only a European identity but also a European way of 
+implementing  policies  based  on  open  debate,  mutual  respect  and  tolerance,  three  axes  on 
+which the EU is focusing efforts, actions and initiatives.  
+
+How can we foster pan-European debate, mutual respect and tolerance on bioethics across the 
+EU and beyond? 
+
+I  would  like  to  mention  briefly  an  initiative  aimed  at  facilitating  debate  between  the  EU 
+National  Ethics  Councils  (NEC)  and  the  European  Group  on  Ethics  of  science  and  new 
+technologies (EGE):  The EGE-NEC Forum joint meetings. 
+
+The EGE and NEC Forum met for the first time in December 2004 in Amsterdam under the 
+auspices of the Dutch Presidency. The joint meeting was organised by the EC and hosted by 
+the Health Council of the Netherlands. Another joint meeting took place in September 2006, 
+under the auspices of the Finnish Presidency, organised by Finland's National Advisory Board 
+on Research Ethics.  
+
+This  year,  on  May  24,  under  the  auspices  of  the  German  Presidency  and  hosted  by  the 
+German National Ethics Council (Nationaler Ethikrat), the European Group on Ethics (EGE) 
+met  the  Forum  of  National  Ethics  Councils  (NEC  Forum)  in  a  friendly  and  cooperative 
+atmosphere, an initiative2 of the European Commission aimed at bringing together the Chairs 
+of the EU27 NECs and other relevant actors in the field (the Council of Europe Conference of 
+Ethics  Committees  (COMET),  Unesco,  etc.).  The  event  provided  an  opportunity  for 
+interaction and debate between the EGE and the EU27 NECs on issues of mutual interest and 
+major significance in the field of bioethics and ethics of science. 
+
+1 
+2  
+
+Therefore, the text of the Charter on fundamental rights will not be included in the Treaties. 
+http://ec.europa.eu/research/science-society/index.cfm?fuseaction=public.topic&id=75 
+
+3
+
+                                                
+At the most recent EGE-NEC Forum meeting in Berlin, the Chair of the Portuguese National 
+Ethics  Council  announced  the  Portuguese  Presidency's  decision  to  host  the  next  EGE-NEC 
+Forum joint meeting  in Lisbon (10-11 October 2007).  The  intention  of hosting  similar joint 
+meetings has been indicated by the NECs of the future rotating Presidencies of the EU. The 
+EGE-NEC Forum joint meeting has therefore become a high-level event on the EU's political 
+agenda. 
+
+The  EGE-NEC  Forum  joint  meeting  is  just  one  example  of  the  importance  of  establishing 
+debate  platforms  assembling  the  relevant  actors  in  the  field  of  bioethics,  where  subsidiarity 
+and  the  cultural  heterogeneity  of  the  EU  Member  States  clearly  emerge  and  where  debate, 
+mutual respect and tolerance become fundamental to the notion of Europe as a Community of 
+values,  based  on  respect  for  human  rights,  ethics  and  pluralism  –  common  milestones 
+underpinning the work of the EGE, EU27 NECs and the EU as a whole. 
+
+Maurizio Salvi, PhD 
+Policy Adviser to the President, 
+Bureau of European Policy Advisers (BEPA) 
+ Head of the EGE Secretariat 
+Editor, Ethically Speaking 
+
+Further information 
+
+Dr Maurizio Salvi 
+Head of the EGE Secretariat   
+Editor, Ethically Speaking 
+
+Alessandra Ferrari, Assistant   
+
+Joëlle Bezzan   
+Editorial Assistant 
+
+EGE Secretariat 
+Tel: +32(0)2 296.19.48 
+Fax: +32 (0)2.299.45.65
+Email: bepa-ethics-group@ec.europa.eu 
+European Commission 
+
+Office: BERL 8/143, B-1049 Brussels 
+
+Website: http://ec.europa.eu/european_group_ethics/index_en.htm 
+
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+5
+
+June  2007  with  medical  doctors,  scientists  and  health  officials.  Particular  emphasis  will  be 
+placed on ethics of biomedical research. 
+
+Pedagogical tool on bioethics
+The  Council  of  Europe  continues  to  develop  its  pedagogical  tool  for  persons  wishing  to 
+initiate  an  open  debate  on  ethical  issues  with  young  people.  After  organ  donation,  genetic 
+testing and medically assisted procreation, two new sets of fact sheets are being finalised on 
+cloning  and  on  biomedical  research.  They  will  be  available  in  French  in  September  2007. 
+Translation  into  other  languages  is  ongoing  and  national  ethics  committees  have  been 
+approached  to  find  appropriate  ways  to  facilitate  distribution  of  the  tool  in  the  different 
+Member States of the Council of Europe. 
+
+This  pedagogical  tool  provides  relevant  ethical,  legal  and  scientific  information,  as  well  as 
+cases which can be used as a basis for such debate. 
+The objectives of this tool are:  
+
+-
+-
+-
+-
+
+to raise young people’s awareness on bioethical issues; 
+to promote autonomy of reflection;  
+to promote active participation in public debate (education in citizenship); 
+to show the European dimension of bioethical reflection. 
+
+It  is  composed  of  a  set  of  five  sheets  around  one  topic  (general  introduction,  scientific 
+information, legal and ethical information, cases with questions, references and glossary).  
+
+Further information 
+
+Carlos de Sola 
+Head of the Bioethics Department 
+Secretary of the Steering Committee on Bioethics (CDBI) 
+Tel: + 33 (0)3 88 41 24 38 
+Email: carlos.desola@coe.int 
+
+Laurence Lwoff
+Administrative Officer / Secretary of the Working Party on Human Genetics and of the 
+Working Party on the Protection of the Human Embryo and Foetus 
+Tel: + 33 (0)3 88 41 22 68  
+Fax: + 33 (0)3 88 41 37 45
+Email: laurence.lwoff@coe.int 
+
+Website: www.coe.int/Bioethics
+
+8
+
+ 
+ 
+ 
+ 
+ 
+(cid:3)
+The application of preimplantation genetic diagnosis for  human leucocyte antigen  
+
+(cid:3)
+
+typing of embryos
+
+I.  Scientific background 
+
+Transplantation  of  haematopoietic  stem  cells  (HSCs,  i.e.  cord blood  or bone  marrow)  is  the 
+standard treatment in cases of neoplastic (e.g leukaemia) or congenital (e.g. beta-thalassaemia, 
+sickle  cell  anaemia)  diseases  affecting  the  haematopoietic  and/or  the  immune  system. 
+Transplantation  may  also  be  appropriate  for  some  rare  metabolic  diseases  (e.g.  adreno-
+leukodystrophy). Cord blood collected at birth is an established source of HSCs. If no human 
+leukocyte  antigen  (HLA)  identical  donor  is  available  in  the  family,  preimplantation  genetic 
+diangosis  (PGD)  can  be  used  to  select  an  embryo  that  is  (1)  HLA  identical  and  (2)  free  of 
+disease-related  mutations.  The  overall  success  rate  of  HSC  transplantation  with  an  HLA-
+matched sibling is significantly higher and has fewer complications than transplantation with 
+HSC from an unrelated donor. 
+Efficiency,  accuracy  and  limitations:  there  are  several  limitations  at  different  stages  of  the 
+process of conceiving and using an HLA-matched child to cure a sibling. 
+
+II. General ethical considerations
+
+In society, there is a presumption that parents will act for  the benefit  of  their children. This 
+presumption  underlies  their  right  to  make  decisions  about  what  can  or  should be done  with 
+their children. In some cases, the interests of two siblings may conflict. The dilemma for the 
+parents is that they have to balance the interests of both children. They may decide that the 
+possible harm to  the  future healthy sibling is outweighed by the probable gains  for the  sick 
+child. Moreover, the acceptability of this balance can be argued by referring to the notion of 
+hypothetical consent: the future sibling on whose behalf the decision to donate is  made will 
+agree with the present decision when he/she becomes autonomous.  
+
+The children’s interests 
+
+(i)  For the  sick child,  the benefits are  obvious  since  transplantation of  stem cells  from  cord 
+blood is the treatment of choice and offers the only chance of cure.  
+(ii)  For  the  future  child,  although  there  may  be  some  psychological  benefits  for  the  donor 
+child, no medical benefits result from the donation. However, the risks and inconveniences of 
+HSC  donation  for  the  donor  are  considered  as  minimal.  These  risks  are  outweighed  by  the 
+benefits for the receiving sibling whose life can be saved. This is a decision to be made by the 
+fully informed and counselled parents. 
+The parents respect the child’s autonomy if his/her use as a donor is not the only motive for 
+the parents to have the child. They should intend to love and care for this child to the same 
+extent as they love and care for the affected child. If this condition is fulfilled, the future child 
+
+9
+
+is  not  created  merely  as  an  instrument  for  the  benefit  of  the  older  sick  sibling.  The  lack  of 
+instrumentalisation  is  even  more  obvious  when  the  parents  request  PGD  primarily  to  avoid 
+having  another  child  affected  by  the  same  disease  and  the  wish  for  HLA  matching  is  only 
+added afterwards. 
+The  use  of  a  child  as  a  donor  of  HSCs  in  itself is  not  considered  disrespectful  towards  the 
+child. This is demonstrated by the fact that the parents may volunteer an already existing child 
+to serve as a bone marrow donor for a sibling. One way to check whether the interests of the 
+future child are respected is by applying the postnatal test: if it is acceptable to use an existing 
+child for a certain reason, it is also acceptable to create a new child for the same reason. 
+
+The physician's responsibility towards the future child 
+
+Since the parental project to conceive a child to cure a sick sibling is morally acceptable, the 
+collaboration of the physician in the project is also morally justified. The team involved has 
+the responsibility to provide full information, genetic counselling and implication counselling 
+to  the  future  parents  (eg.  the  possibility  of  the  affected  child  dying  before  the  birth  of  the 
+sibling). 
+
+III. Specific ethical considerations
+
+(i) Based on the above considerations,  the use  of PGD for  the creation of an HLA-matched 
+sibling to cure a sick child suffering from a serious non-genetic disease (e.g. some forms of 
+leukaemia) is also acceptable. 
+
+(ii) Given the low chance of success of the procedure, it may be inappropriate to recommend 
+the technique in cases of advanced maternal age and/or poor ovarian reserve. In practice, the 
+physician must evaluate and explain the chances of success for each specific case. The team 
+may  conclude  that  the  technique  is  not  advisable  if,  given  the  specific  circumstances,  the 
+chance  of  delivering  an  HLA-matched  child  is  estimated  as  very  low.  Decision-making 
+should  take  place  in  a  multidisciplinary  team  including  paediatricians,  haematologists, 
+geneticists and psychologists. 
+
+(iii) Parents should be urged to think about the disposition of the remaining healthy embryos 
+that are not HLA compatible. In these cases, the options should be restricted to freezing for 
+future  reproduction  by  themselves,  donation  for  research  or  disposal.  Donation  to  other 
+couples is not advisable until sufficient information about the health of children after embryo 
+biopsy is available. 
+
+(iv) The creation of a child for the purpose of harvesting non-regenerative organs is extremely 
+difficult to justify in view of the risks involved for the donor child. Since solid organ donation 
+by children or incompetent adults  is not considered morally acceptable because of the more 
+than minimal risk for the donor, creating a child in order to obtain an organ for a sibling is not 
+acceptable either. 
+
+(v)  In  order  to  collect  reliable  information  on  the  fate  of  the  children  and  the  families  that 
+apply  this  technology,  careful  follow-up  should  be  performed.  Present  concerns  about  the 
+psychological  and  social  consequences  for  the  donor  sibling  can  only  be  corroborated  or 
+refuted by empirical research. It is therefore advisable to collate a register of such donations 
+for this purpose. 
+
+10
+
+(vi) Given the relevance of parental motives for the moral evaluation, the parental intentions 
+regarding the upbringing of the future child and the coping capacity of the parents should be 
+discussed by a psychologist before the start of treatment. 
+
+For  the  full  statement,  see  ESHRE  Task  Force  on  Ethics  and  Law  (2005)  Taskforce  9:  The 
+application  of  preimplantation  genetic  diagnosis  for  human  leukocyte  antigen  typing  of 
+embryos. Human Reproduction 20 (4): 845-847. 
+
+Further information 
+
+Mr Guido Pennings
+President of the Task Force on Ethics and Law of the European Society of Human 
+Reproduction and Embryology (ESHRE) 
+Professor of Ethics and Bioethics, Ghent University 
+
+Address 
+Ghent University 
+Dpt of Philosophy and Moral Science 
+Blandijnberg 2 
+B – 9000 Gent 
+Belgium 
+Tel./Fax: + 32 (16) 620767 
+Email: Guido.Pennings@Ugent.be         
+
+Website: http://allserv.ugent.be/~gpenning
+
+1
+1
+
+Ethics and Health at WHO 
+
+(cid:3)
+
+Public Health Ethics 
+
+HIV/AIDS 
+
+• Ethics  and  Health  participates  in  policy  development  regarding  the  scaling-up  of 
+prevention,  testing,  treatment  and  care  for  HIV/AIDS  patients,  advising  the  HIV 
+department  on related ethical  issues, notably  in  clinical  care  and  research  (including  the 
+standard  of  care)  and  equitable  access  to  antiretroviral  treatment.  A  case  study,  entitled 
+Equity and fair process in scaling up antiretroviral therapy: potentials and challenges in 
+the  United  Republic  of  Tanzania,  was  published  in  June  2006,  in  collaboration  with  the 
+German Technical Cooperation (GTZ) and the Tanzanian Ministry of Health. 
+
+• Ethics  and  Health  has  also  collaborated  with  the  HIV  department  at  WHO  in  the 
+development  of  the  new  WHO/UNAIDS  Testing  and  Counselling  Policy,  which  is  now 
+available on the web at www.who.int/hiv/topics/vct. 
+
+• Ethics  and  Health  has  also  been  involved  in  analysing  the  issues  surrounding  the 
+
+criminalisation of  HIV transmission. 
+
+• A guidance document entitled "Basic Principles for Treatment and Psychosocial Support 
+of  Drug  Dependent  People  Living  with  HIV/AIDS",  produced  in  collaboration  with  the 
+Departments of HIV and Mental Health/Substance Abuse, has been published and can be 
+found at: 
+http://www.who.int/substance_abuse/publications/basic_principles_drug_hiv.pdf. 
+Its purpose is to promote equitable access to high-quality HIV care for intravenous drug 
+users,  particularly  those  involved  in  drug  treatment  programmes  or  the  criminal  justice 
+system.   
+
+Pandemic Preparedness 
+
+•
+
+In collaboration with WHO's Department of Epidemic and Pandemic Alert and Response 
+(EPR/CDS),  the  Ethics  and  Health  team  organised  an  international  consultation 
+"Addressing  Ethical  Issues  in  Influenza  Pandemic  Planning",  which  took  place  in 
+Geneva on 24-25 October 2006. The aim is to provide guidance  for  Member  States and 
+other stakeholders on how to include ethical considerations in pandemic preparedness.  
+
+Based on four working  papers already discussed during  a  technical meeting in May, the 
+discussion focused on the following topics:  
+- Equitable access to treatment and prevention; 
+- Isolation, quarantine and social distancing; 
+- Obligations of healthcare workers; 
+- International cooperation. 
+
+Publication of the WHO report and guiding principles is expected for June 2007. Regional 
+and national workshops have been held in Indonesia, France, Cambodia and Saudi Arabia.  
+
+1
+2
+
+ 
+ 
+ 
+ 
+Further information can be found at:  
+http://www.who.int/ethics/influenza_project/en/index.html.
+
+Ethics of Research  
+
+• Following  the  NEBRA  project  (Networking  for  Ethics  on  Biomedical  Research  in 
+Africa)3, Ethics and Health is involved in three proposals funded by EDCTP4. One is co-
+ordinated by the University of Neuchatel (Switzerland) and will provide African countries 
+with  tools  for  distance  learning  in  research  ethics.  The  other  two  projects  will  aim  to 
+support local research ethics committees in Nigeria and Gabon. 
+
+Training activities:  
+
+•
+
+In collaboration with the WHO Department of Reproductive Health Research, Ethics and 
+Health organised a regional training workshop in April 2007. The workshop took place in 
+Tunisia with participants from Algeria, Lebanon, Mauritania and Morocco in attendance. 
+
+• A  similar  training  workshop  supported  by  the  Program  for  Appropriate  Technology  in 
+Health  (PATH)  will  take  place  in  Ouagadougou  (Burkina  Faso)  in  July  2007  with 
+participants from several sub-Saharan African countries. 
+
+• Ethics and Health is part of the steering committee of the Global Forum on Bioethics in 
+Research and contributes to the preparation of its yearly meetings.  The next meeting is in 
+June this year, in Vilnius, Lithuania. It will  focus on  "building the infrastructure needed 
+for ethics review" and, as a sub-topic, the "ethical  aspects  of mental health research". A 
+satellite  meeting  organised  jointly  by  Ethics  and  Health  and  the  WHO  Initiative  for 
+Vaccine  Research  will  take  place  on  26  June,  focusing  on  specific  issues  related  to 
+vaccines trials. 
+
+• Planning is also under way for the 2008 meeting, scheduled for New Zealand in February, 
+which will focus on the ethics of indigenous people and cultural responsibility in research, 
+and the ethical aspects of research in vulnerable populations. 
+
+Collaboration with other organisations:  
+
+• Ethics  and  Health  enjoys  observer  status  within  the  Steering  Committee  on  Bioethics 
+
+(CDBI) of the Council of Europe. 
+
+• WHO  in  collaboration  with  UNESCO  organised  the  First  Regional  Meeting  of  National 
+Bioethics Committees in the Eastern Mediterranean Region, which took place in Cairo on 
+5-7  May  2007.  About  50  participants  from  national  committees  attended  and  discussed 
+topics ranging from stem cell research to biobanks and pandemic preparedness. Moreover, 
+a  strategy  for  strengthening  future  collaboration  amongst  national  committees  in  the 
+Region was outlined, and a further meeting is planned for 2009. 
+
+• Ethics and Health represents WHO at the UN Inter Agency Committee on Bioethics, the 
+current  issues  being  intellectual  property,  benefit  sharing,  issues  of  capacity  building  in 
+research ethics and access to essential medicines. Ethics and Health also participates in the 
+
+3 Project funded by the European Commission (6th Framework Programme,  Science and Society)  
+4 European and Developing Countries Clinical Trials Partnership 
+
+3
+1
+
+                                                
+UNESCO International Bioethics Committee (IBC) as an observer.  
+
+• Ethics and Health provides the permanent secretariat for the Global Summit of National 
+Bioethics  Commissions,  which  met  in  Beijing,  China,  in  August  2006,  jointly  with  the 
+World  Congress  of  Bioethics.    The  next  summit  will  take  place  in  Paris,  France,  in 
+September 2008, just before the World Congress which will be hosted in Croatia. 
+
+Further information 
+
+Ethics and Health at WHO (ETH) 
+Professor Alexander Capron 
+Director 
+
+Dr Andreas Reis 
+Technical officer, reisa@who.int 
+
+Dr Marie-Charlotte Bouësseau 
+Technical Officer, bouesseaum@who.int 
+
+Contact: Mrs Anne Newson 
+Tel: +41 22 791 1207 | Fax: +41 22 791 1399 
+Email: ethics@who.int  
+
+Address 
+WHO/SDE/ETH - World Health Organization 
+20 Avenue Appia 
+CH-1211 Genève 27 
+
+Website: www.who.int/ethics 
+
+1
+
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+15
+
+(cid:3)(cid:3)(cid:3)(cid:3)
+
+(cid:3)(cid:3)(cid:3)(cid:3)
+
+(cid:3)(cid:3)(cid:3)(cid:3)
+
+Owing  to  the  technical  and  technological  accomplishments  of  the  20th  century,  man's 
+influence over the environment has grown immensely. The activities of the participants in the 
+food chain affect not  only the natural but also the socio-cultural environment. Has mankind 
+utilised rationally the abundant natural resources available for agricultural production to meet 
+its own needs? 
+
+As  a  consequence  of  the  fundamental changes  in  agricultural production  over past decades, 
+many more foodstuffs can be produced than ever before. The most important factors inducing 
+these changes have been: migration of the population from the country to the cities, growing 
+mechanisation, better transportation possibilities, improvement of the quality  of propagation 
+materials  and  animals’  properties,  development  of  plant  protection,  emerging  new 
+technologies as well as international trade and competition in food products and feedstuffs.  
+
+However, these changes in agricultural practices have led to the overuse and deterioration of 
+natural  resources  upon  which  agriculture  depends.  For  instance,  in  cereal  production  the 
+systematic  use  of  pesticides  has  triggered  the  relative  resistance  of  pests,  increasing  the 
+frequency  and  cost  of  future  treatment  and  inducing  additional  soil  and  water  pollution 
+problems. In some areas, considerable quantities  of the upper soil levels are lost every  year 
+because of erosion resulting from irrational land use.  Landscaping and drainage bring about 
+the  death  of  wet  areas  while  also  reducing  biodiversity.  As  a  result  of  the  excessive  use  of 
+nitrogen and phosphate-based fertilizers, surface waters are being eutrophicated. Considering 
+the genetic uniformity of farm animals and the growing concentration of farms, it is getting 
+more and more difficult to overcome the various animal diseases. The overuse of antibiotics 
+in  animal  breeding  has  caused  the  development  of  resistance  to  antibiotics  among  certain 
+pathogens,  which  is  a  problem  not  only  for  the  environment  but  also  for  human  health. 
+Furthermore, intensive livestock keeping raises serious animal welfare issues.  
+
+While  in  the  developed  countries  the  food  industry  has  become  a  large-scale  operation 
+underpinned  by  a  completely  new  economic  model  where  new  telecommunication  and 
+computerised systems are applied, contracts are concluded on a new global market and new, 
+increasingly  refined  urban  consumers  are  targeted,  in  the  developing  regions  poverty  has 
+grown to huge dimensions and people are living under extreme climatic conditions struggling 
+with  food and drinking water  shortages.  According to the 2001  FAO  Report, a  total  of 792 
+million people are starving on Earth while 1.1 billion people are suffering from malnutrition 
+or are underweight.  
+
+The  prosperous  societies  have  seen  the  emergence  of  environmentally  aware  and  health-
+conscious consumer groups affecting directly both agricultural and food industrial production. 
+More and more „consumers” recognise their own responsibilities in preserving and improving 
+
+17
+
+the  environment,  and  expect  the  same  from  agrarian  industries.  In  recent  years,  however, 
+consumers’  confidence  in  the  food  industry  and  food  control  institutions  has  waned 
+considerably.  
+
+Genetic  engineering,  bioinformatics,  genomics  and  the  new  disciplines  generate  both 
+admiration  and  fear  in  society.  They  ensure  unprecedented  opportunity  (e.g.  a  genetically 
+tailored diet) but can also carry unforeseen hazards (e.g. the accumulation and wandering of 
+nanoparticles transmitted by  foods into  the organism). Given  the new  opportunities recently 
+created and due to man's technical accomplishments, the nature and margins of human action 
+have  changed  in  such  a way  and  on  such  a  scale  that  the  former  ethics  do  not  cover  them. 
+Modern  technology  has  given  mankind  numerous  opportunities  and  we  must  set  its  limits. 
+Simultaneously with the appearance of new ethical norms, we must be prepared to analyse the 
+likely future consequences. 
+
+Raw-material  production,  animal  husbandry,  food  production  and  commercialisation  have 
+numerous  ethical  aspects.  Nevertheless,  up  to  now  we  have  not  dealt  with  ethical  issues 
+related to agricultural and food sciences comprehensively and institutionally. Even the experts 
+face  only  incidentally  ethical  questions  to  be  answered  from  the  point  of  view  of 
+proportionality  and  the  precautionary  principle,  beneficence  (especially  with  regard  to 
+improvement and protection of health), the obligation not to harm, human dignity, equity and 
+fairness, integrity,  the concept  of prudence,  informed consent, liability,  freedom of research 
+(which  must  be  balanced  against  other  fundamental  principles),  which  are  related  to 
+genetically modified organisms, animal welfare, food labelling, the intellectual property rights 
+connected  with  living  organisms,  the  evolvement  of  agrarian  monopolies,  the  protection  of 
+biodiversity  as  well  as  health,  destroying  materials  utilised  or  emerging  in parallel  with  the 
+agricultural processes, cultivation and food processing technologies. So agrarian ethics must 
+find  its  proper  place  in  the  system  of  modern  ethics  along  with  bioethics,  environmental 
+ethics, business ethics and engineering ethics. 
+
+Further Information 
+
+Prof. Dr Diána Bánáti, 
+member of EGE 
+Director General, Central Food Research Institute 
+Budapest, Hungary
+
+Address 
+1022 Hungary, Herman Ottó út 15 
+Tel.: +36-1-3558 991 
+Fax: +36-1-212 9853 
+Email: d.banati@cfri.hu
+
+Website: www.cfri.hu 
+
+18
+
+           
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+19
+
+The Committee 
+
+The Cyprus National Bioethics Committee (CNBC) was established in 2001 by the Law No. 
+150 (I) of 2001, Law providing for the Establishment and Function of the National Bioethics 
+Committee. 
+
+The  Committee’s  mission  is  the  constant  monitoring,  survey,  systematic  analysis  and 
+evaluation  of  the  issues  and  problems  that  relate  to  the  scientific  research,  progress  and 
+implementation  of 
+the  sciences  of  biotechnology,  biology,  medicine,  genetics  and 
+pharmaceutics  as  well  as  to  the  human  intervention  on  the  biological  procedure  and  the 
+human  genotype  and  the  investigation  of  their  moral,  deontological,  social,  humanistic  and 
+legal dimensions. 
+
+The  CNBC  is  an  independent  body  and  is  not  subject  to  the  administrative  control  of  any 
+ministry,  independent  officer,  department  or  service  and  has  the  powers  provided  by  the 
+present or any other Law. 
+
+The  CNBC  has  13  members,  including  the  chairman.    The  members  represent  different 
+professions and disciplines, and are appointed by the Council of Ministers of the Republic of 
+Cyprus  for  a  term  of  office  of  four  years.  According  to  the  provisions  of  the  legislation,  at 
+least  four  members  must  emerge  from  the  humanities  and  social  sciences  sector;  four 
+members must emerge  from  the  area of medical and biological sciences, and  four  members 
+from  the  area  of  any  other  science  or  profession  or  who  are  distinguished  in  any  area  of 
+activity for their contribution. 
+
+that  Review  Biomedical  Research”  formulated  by 
+
+The  CNBC  adopted  with  very  few  changes  the  “Operational  Guidelines  for  Ethics 
+the  World  Health 
+Committees 
+Organization, to form the basis of the guidelines issued to the Cyprus Ethics Committees. The 
+operational  guidelines  for  the  establishment  of  ethics  committees  in  reviewing  biomedical 
+research involving human subjects in Cyprus came in effect on 31.3.2005 ((cid:512).(cid:507).(cid:518). 175/2005). 
+
+In  accordance  with  the  above  operational  guidelines  and  with  the  authority  assigned  to  the 
+committee  by  law  150(I)/2001  Law  providing  for  the  establishment  and  function  of  the 
+National Bioethics Committee, the Committee formed two Review Bioethics Committee: 
+
+I. The Review Bioethics Committee for Biomedical Research on Human  
+
+Beings and their biological substances, and  
+
+II. The Review Bioethics Committee for the clinical trials on Medicinal  
+
+Products of Human Use. 
+
+21
+
+The Role of the Review Bioethics Committees is: 
+
+(1) Contribute  to  safeguarding  the  dignity,  rights,  safety  and  well-being  of  all  actual  or 
+
+potential research participants. 
+
+(2) Provide independent, competent and timely review of the ethics of proposed studies. 
+(3) Responsible  for  carrying  out 
+
+the  review  of  proposal  research  before 
+
+the 
+
+commencement of the research. 
+
+CNBC  monitors,  directs,  coordinates,  and  reviews  the  work  performed  by  the  above  two 
+Review  Bioethics  Committees.  The  Members  of  the  Review  Bioethics  Committees  are 
+appointed for a period of two years. 
+
+CNBCs Previous Opinions 
+
+• Opinion on Human Organ Donor’s Registries 
+
+• Opinion on transplantation of biological substances of human origin 
+
+• Opinion on PGD and sex selection of the in-vitro procreated embryos 
+
+• Opinion on the use of Preimplation Genetic Diagnosis method 
+
+• Opinion on cord blood banking 
+
+• Opinion on medically assisted human procreation 
+
+Current work and forthcoming opinions 
+
+• Genetically Modified Organisms
+
+• Palliative Care
+
+• Use of predictive genetic tests and relevant information for insurance and employment 
+
+purposes
+
+2
+
+2
+
+Further Information 
+
+Rena Vrahimi- Petridou
+President, 
+The Cyprus National Bioethics Committee  
+
+Address 
+1 Apelli Street 
+1403 Nicosia 
+Cyprus 
+Tel.:  +357 22 889103  
+Fax:  +357  22  665080  
+Email: repetridou@law.gov.cy  
+
+Website: www.bioethics.gov.cy
+
+(cid:3)
+
+2
+
+3
+
+            
+Ethics Committees in Finland – benefits of diversity 
+
+There  are  two  major  factors  that  guarantee  the  important  role  of  science  and  research  in 
+society:  accurate  science  communication  in  general  and  research  ethics.  In  Finland,  the 
+science in society questions are mostly handled by two expert bodies attached to the Ministry 
+of Education - the Committee for Public Information (TJNK, http://www.tjnk.fi/en/), which is 
+responsible  for  promoting  the  use  and  dissemination  of  knowledge  in  society,  and  the 
+National  Advisory  Board  on  Research  Ethics  (TENK,  www.tenk.fi),  which,  as  a 
+multidisciplinary organisation, covers questions related to research integrity.  
+
+In  Finland,  the  ethical  aspects  of  research  are  followed  by  six  national  ethics  committees, 
+which are placed under three different ministries: the Ministries of Education, Social Affairs 
+and Health, and Agriculture and Forestry. The ethics committees represent different areas of 
+expertise:  research  integrity,  bio-  and  gene  technology,  medical  and  healthcare  ethics,  and 
+laboratory animal sciences. Each committee has its own responsibilities, but as a network all 
+committees benefit from  extensive cooperation. Synergy effects such as increased visibility, 
+authority  and  trustworthiness  are  products  of  cooperation.  The  benefits  of  diversity  include 
+wide expertise and better comprehension of multiplicity. 
+
+National Advisory Board on Research Ethics 
+
+The National Advisory Board on Research Ethics was founded to deal with ethical questions 
+relating to research and to the advancement of research ethics in Finland (Decree 1347 of 15 
+November  1991).  The  members  represent  the  most  important  disciplines  and  authorities 
+involved with research integrity.  
+
+for 
+
+and 
+
+procedures 
+
+The  most  important  task  of  the Board has  been  to  devise the  guidelines  for  Good  scientific 
+practice 
+science
+(http://www.tenk.fi/ENG/Publicationsguidelines/htkeng.pdf).  The  Board  promotes  research 
+integrity by disseminating information and arranging education and seminars on the principles 
+of  good  scientific  practice;  assists  research  institutes  in  arranging  education  about  research 
+ethics; develops and monitors the investigation of ethical misconduct and fraud in research; 
+develops  a  distinct  profile  in  disseminating  public  information  about  research  ethics;  and 
+
+handling  misconduct 
+
+fraud 
+
+and 
+
+in 
+
+24
+
+contributes  actively  to  Finnish  and  international  debates  on  research  ethics.  The  Board’s 
+activities are currently focused on ethical issues relating to the humanities and social sciences, 
+including  the  role  of  ethical  guidelines  and  ethical  preassessment,  and  the  creation  of  an 
+ethically sound research community. 
+
+Finnish National Advisory Board on Biotechnology 
+
+The  primary  task  of  the  Finnish  National  Advisory  Board  on  Biotechnology  (BTNK, 
+http://www.biotekniikanneuvottelukunta.fi/english1.htm),  attached  to  the  Ministry  of  Social 
+Affairs  and  Health,  is  to  consider  ethical  issues,  follow  public  debate  on  bio-  and  gene 
+technology, and promote public participation and perception of gene technology. The duties 
+of  BTNK  are  defined  in  the  Gene  Technology  Decree  (928/2004;  http://www.finlex.fi/en/).  
+BTNK  does not  give  legally  binding decisions,  but may issue opinions by  request  or  on its 
+own initiative. Members of BTNK represent authorities most relevant to the control of gene 
+technology, representative organisations of trade, consumers and industry, as well as research 
+in the various fields of gene technology. 
+
+BTNK  is  currently  branching  out  from  agricultural  bio-  and  gene  technology  (green 
+biotechnology)  to  medical  (red  biotechnology)  and  industrial  biotechnologies  (white 
+biotechnology).  These  activities  have  demonstrated  the  importance  of  dialogue  between 
+different  interest  groups,  e.g.  the  use  of  food  crops  for  energy  production  have  ethical 
+dimensions  that  need  to  be  explored.  Raising  public  awareness  of  the  diversity  of 
+biotechnological applications is also considered to be a means of moving on from the dead-
+end discussions about gmo issues which hinder fruitful discussion on the other applications of 
+biotechnology. 
+
+Board for Gene Technology 
+
+In  Finland  the  use  of  genetically  modified  organisms  is  regulated  by  the  Gene  Technology 
+Act (377/1995). 
+The  Board  for  Gene  Technology  (GTLK,www.geenitekniikanlautakunta.fi/e/index.html), 
+which is subordinated to the Ministry of Social Affairs and Health, is the competent authority 
+established  by  the  Act.  The  Board  is  appointed  for  five  years  by  the  Government.  The 
+members  represent  the  Ministry  of  Trade  and  Industry,  the  Ministry  of  Agriculture  and 
+Forestry,  the  Ministry  of  Social  Affairs  and  Health  and  the  Ministry  of  the  Environment, 
+among others. Ethical expertise must also be represented. The priorities of the Board include 
+processing notifications concerning the use and release of genetically modified organisms as 
+defined by the Act, and leading and co-ordinating the supervision of compliance with the Act. 
+
+National Advisory Board on Health Care Ethics 
+
+The  National  Advisory  Board  on  Health  Care  Ethics  (ETENE,  www.etene.org)  was 
+established  in  1998  by  incorporating  the  Board  into  the  Act  on  the  Status  and  Rights  of 
+Patients (amendment 330/1998 of 15 May 1998). The Government appoints the Board for a 
+four-year term. The members of the Board represent healthcare service users and providers, 
+healthcare  professionals,  and  representatives  of  various  scientific  disciplines  such  as  law, 
+medicine,  nursing  science  and  ethics,  with  the  addition  of  four  Members  of  Parliament. 
+ETENE handles ethical issues and aims to promote societal discussion relating principally to 
+healthcare  and  the  status  and  rights  of  patients,  providing  expert  assistance  for  the 
+development  of  healthcare  legislation,  and  collects  and  distributes  information  on  ethical 
+
+25
+
+issues and international ethical discourse relating to health care. It can  issue statements and 
+recommendations and propose initiatives on matters it considers important. 
+
+Central  issues  in  ETENE’s  work  have  included  the  realisation  of  patients’  rights,  equity, 
+justice  and  human  dignity  in  health  care.  In  2005  the  main  topic  was  human  enhancement 
+(Publication: “Imago Dei”, Man – an image of God or a product of health care) and in 2006 it 
+was needs in health care (Publication: Needs in health care – who or what defines them?). In 
+many  of  its  publications  ETENE  has  discussed  equity,  the  right  of  self-determination,  and 
+ethical boundaries in health care. 
+
+Sub-Committee on Medical Research Ethics 
+
+Sub-Committee 
+
+According  to  the  Medical  Research  Act  (488/1999,  amended  295/2004),  the  independent 
+Ethics  Committees  are  responsible  for  ethical  pre-evaluation  of  medical  research  and 
+(TUKIJA, 
+amendments.  The 
+www.etene.org/e/tukija/index.shtml) evaluates the ethical aspects of international multicentre 
+trials  on  medicinal  products.  It  can  also  delegate  that  duty  to  the  Hospital  District  Ethics 
+Committee.  As  a  national  Research  Ethics  Committee,  TUKIJA  also  supports  the  Ethics 
+Committees  of  Hospital  Districts  in  fundamental  ethical  issues  concerning  medical  or  other 
+healthcare  research,  and  assists  in  arranging  training  on  these  issues.  A  research  proposal 
+which has been given a negative opinion by a local Ethics Committee can be sent to TUKIJA 
+for revaluation. 
+
+on  Medical  Research  Ethics 
+
+TUKIJA  was first established in 1999 and it is nominated by the  Ministry  of Social Affairs 
+and  Health  for  a  four-year  mandate.  The  Ethics  Committees  of  Hospital  Districts  are 
+appointed by Hospital Districts and are registered by provincial state officers.  The members 
+of  Ethics  Committees  work  in  compliance  with  the  principles  of  official  accountability  and 
+confidentiality.  Additionally,  some  research  institutes  have  Ethics  Committees  or  Working 
+Groups  of  their  own  to  evaluate  the  kind  of  research  on  humans  that  is  not  covered  by  the 
+Medical Research Act – such as surveys and questionnaires. 
+
+Cooperation Group for Laboratory Animal Sciences 
+
+The Cooperation Group for Laboratory Animal Sciences (KYTÖ, http://wwwb.mmm.fi/koe-
+elaintoiminta/engl.htm) was founded in 2001 as a cooperative undertaking of the Ministries of 
+Agriculture  and  Forestry  and  Education  to  deal  with  questions  concerning  animal 
+experimentation.  The  cooperation  group,  which  is  nominated  for  a  term  of  three  years  at  a 
+time,  consists  of  members  representing  universities,  research  organisations,  industry  and 
+governmental authorities. Its task is to coordinate  research, education and  other activities  in 
+the  field;  to  promote  laboratory  animal  welfare  and  discussion  on  ethical  considerations  in 
+laboratory animal sciences; to promote high educational standards at all levels of animal care 
+and research and to raise awareness and increase information available to the general public 
+about laboratory animal sciences. 
+
+The  revised  Act  on  Animal  Experimentation  (62/2006)  was  implemented  in  2006.  The 
+competent  authority  established  by  the  Act  is  the  Committee  on  Animal  Experimentation, 
+which  is  appointed  for  a  five-year  period  by  the  Government.  The  members  represent 
+scientific  knowledge,  veterinary  expertise,  expertise  on  care  of  laboratory  animals  and 
+expertise in the field of animal protection or on ethical issues. 
+
+26
+
+Further Information 
+
+Outi Konttinen
+Senior officer, 
+The Sub-Committee on Medical Research Ethics  
+
+Address 
+P.O. Box 33 
+(Kirkkokatu 14, Helsinki) 
+00023 Valtioneuvosto  
+Tel.: + 358 9 160 73147 
+Fax: + 358 9 160 74312 
+Email: outi.konttinen@stm.fi 
+
+Website: www.research.fi/en/viewpoints/research_ethics
+
+27
+
+            
+Function 
+
+Following  the  German  Federal  Government’s  decision  of  2  May  2001,  the  National  Ethics 
+Council was established on 8 June 2001 as a national forum for dialogue about ethical issues 
+in the life sciences. It provides an umbrella for interdisciplinary discourse relating to science, 
+medicine, theology, philosophy and the social and legal sciences, expressing its views on both 
+the ethical aspects of new developments in the  life  sciences  and  their impact  on  individuals 
+and  society  as  a  whole.  The  National  Ethics  Council  consists  of  up  to  25  Members  who 
+represent  the  fields  of  science,  medicine,  theology,  philosophy,  society,  law,  ecology  and 
+economy,  and  are  appointed  by  the  Federal  Chancellor  for  a  period  of  four  years.  The 
+Members generally convene once a month in Berlin. 
+
+The National Ethics Council is an independent body, bound only by its purpose as stipulated 
+in the Government decision that established it. It determines the scope and organisation of its 
+work independently. The Ethics Council puts great emphasis on its work with the community 
+and  makes  its  opinions,  recommendations  and  reports  public.  The  National  Ethics  Council 
+cooperates  with  other  ethics  bodies  in  Germany  as  well  as  with  comparable  institutions  of 
+other countries and international organisations. 
+
+The  General  Secretariat  of  the  National  Ethics  Council  is  located  on  the  premises  of  the 
+Berlin  Brandenburg  Academy  of  Sciences  and  Humanities.  The  Council  and  its  General 
+Secretariat are funded by the German Federal Government. 
+
+Recent Opinions 
+
+Predictive health information in the conclusion of insurance contracts (2007-02-01)
+
+The  subject  of  this  Opinion  is  how  far  it  should  be  permissible  for  insurance  companies  to 
+make  the  conclusion  of  private  personal  insurance  contracts  and  the  relevant  premiums 
+dependent  on  the  collection  and  use  of  predictive  health  information  concerning  proposers. 
+Statutory  insurance  schemes,  such  as  statutory  health  or  pension  insurance,  are  beyond  the 
+scope of the Opinion.  
+
+Both genetic tests and other modern medical diagnostic procedures can predict health risks or 
+diseases  long  before  these  become  manifest.  The  National  Ethics  Council  therefore 
+recommends that the principles set out below for the protection of proposers' personal rights 
+should  be  applied  to  the  results  not  only  of  genetic  tests  but  also  of  other  predictive 
+examinations, such as imaging techniques or biochemical and electrophysiological methods.  
+
+Insurers should be allowed to collect information on a proposer's health only to the extent that 
+it  is  necessary  for  an  individual  contract  and  where  the  details  furnished  by  the  proposer 
+specifically suggest the existence of risks stemming from earlier or current medical conditions 
+or, where applicable, of lifestyle issues with possible health implications.  
+
+The  National  Ethics  Council  favours  the  continuation  of  the  voluntary  formal  commitment 
+whereby  the  member  companies  of  the  German  Insurance  Association  (Gesamtverband  der 
+Deutschen Versicherungswirtschaft e. V.) have agreed - for the time being until 31 December 
+2011 - not to require disclosure, and not to take account, of results of predictive genetic tests 
+that  are  known  to  the  proposer.  However,  the  moratorium  should  be  extended  to  predictive 
+genetic  information  obtained  by  the  proposer  otherwise  than  from  molecular  genetic  or 
+cytogenetic tests - for instance, from biochemical tests or the familial history.  
+
+28
+
+General  questioning  of  attending  physicians  in  the  absence  of  concrete  indications  of  a 
+disease or of the risk of a disease should not be permissible. Where attending physicians are 
+released  from  their  obligation  of  confidentiality  and  provide  information,  this  should  be 
+restricted to a specific situation on which the insurer may request information for the purposes 
+of risk calculation.  
+
+The  right  of  insurers  to  require  proposers  to  undergo  a  medical  examination  should  be 
+significantly limited. In the case of "ordinary" insurance contracts (i.e. where the sum insured 
+is  not  unusually  high),  screening  for  existing  medical  conditions  and  health  risks  that  are 
+unknown to the proposer and for which neither the clinical history nor the present condition 
+of  the  proposer  afford  concrete  indications  should  never  be  permissible.  This  applies 
+particularly to questions on familial history. "Ordinary" insurance contracts should be deemed 
+to comprise contracts to cover the cost of medical treatment and other therapeutic measures in 
+the  event  of  illness,  as  well  as  contracts  under  which  the  benefit  comprises  a  single  capital 
+payment,  an  old-age  pension,  occupational  incapacity  or  permanent  disability  benefit  or 
+dependency annuity insurance up to a stated limit.  
+
+The  restrictions  demanded  on  the  right  of  insurers  to  question  proposers  and  to  require 
+medical examinations in the case of an "ordinary" policy should not apply to contracts where 
+the benefit exceeds the usual levels.  
+
+A  comprehensive  statutory  basis  for  enforcement  of  the  restrictions  recommended  in  this 
+Opinion on the collection and use of predictive health information in the conclusion of private 
+personal  insurance  contracts  is  not  considered  essential.  The  courts  can  make  judgements 
+consistent  with  the  recommendations  by  appropriate  interpretation  of  existing  law.  The 
+insurance  industry  too  can  implement  the  recommendations  on  a  de  facto  basis  and  ensure 
+that  they  can  be  relied  upon  by  means  of  specimen  contractual  conditions  and  voluntary 
+formal commitments.  
+
+Increasing  the  number  of  organ  donations:  a  burning  issue  for  transplant  medicine  in 
+Germany (2007-04-24)
+
+The  shortage of  organs is a chronic problem  for transplant  medicine in  many  countries, but 
+particularly  so  in  Germany.  When the Transplantation  Law  came  into force  in 1997,  it  was 
+hoped  that  organ  donation would  increase, but  this has not happened.  There  are indications 
+that this state of affairs is due not only to deficiencies in the organisation of the health system 
+but  also  to  the  relevant  legislation,  which  provides  that  organ  donation  after  death  is 
+conditional on an explicit declaration of consent by the donor or his or her relatives. 
+
+The present Opinion considers whether a change in the current law to relieve the shortage of 
+organs would be ethically and constitutionally justifiable. It discusses various proposals aimed 
+at achieving a balance between the right of self-determination of potential donors, the desire 
+to save lives and to reduce suffering in others, and established principles of the health system 
+such as equal access to care. 
+
+The National Ethics Council proposes a graduated model combining elements of a system of 
+declared  consent  with  aspects  of  a  system  of  presumed  consent  with  provision  for  refusal. 
+This would require the State to ensure that its citizens: 
+1. are called upon by a formal procedure to make a personal declaration as to whether they 
+
+agree to organ donation, and 
+
+2. are  made  aware  that  in  the  absence  of  a  declaration  organ  removal  is  legal  unless  the 
+
+relatives refuse consent. 
+
+The National Ethics Council further recommends the introduction of appropriate legislation to 
+ensure  that  hospitals  comply  to  a  greater  extent  than  hitherto  with  their  obligation  to  give 
+
+29
+
+notice  of  potential  non-living  organ  donors.  Provision  must  also  be  made  for  adequate 
+reimbursement  to  hospitals  of  the  cost  of  notification  and  of  treatment  of  potential  organ 
+donors. 
+
+Conferences in 2007 
+• Bioethics: expert advice and public debates (19 April 2007) 
+•
+
+In  the  context  of  the  German  Presidency  of  the  European  Council,  from  23  to  25  May 
+2007  the  National  Ethics  Council  hosted  the  meetings  of  the  European  Conference  of 
+National  Ethics  Committees  (COMETH)  and  the  Forum  of  National  Ethics  Councils
+(NEC Forum), as well as the joint sessions with the European Group on Ethics in Sciences 
+and New Technologies (EGE). 
+
+Further Information 
+
+Dr Rudolf Teuwsen 
+Head of Office 
+German National Ethics Council 
+
+Address
+Jaegerstrasse 22/23 – 10117 Berlin 
+Tel.: +49/30/20370-612  
+Fax:+49/30/20370-252 
+Email: rteuwsen@ethikrat.org
+
+Website: www.ethikrat.org
+
+Ulrike Florian
+Press and public relations officer 
+
++49/30/20370-246 
+
+florian@ethikrat.org
+
+30
+
+(cid:3)
+(cid:3)
+
+Most recently issued  opinions
+
+March 2007:  Opinion on PD, PGD and embryo selection 
+
+The  above-mentioned  opinion  is  expected  to  be  translated  into  English  by  the  end  of  June 
+2007. 
+
+ February 2007: Opinion on umbilical cord blood banking 
+
+Abstract 
+
+The  Commission  believes  that  the  major  issue  with  regard  to  umbilical  cord  blood 
+banking is how to ensure the widest possible utilisation of the haemopoietic stem cells. 
+As things stand, this purpose is better served by heterologous transplantation, which is 
+ensured  by  networks  of  collections  (for-  or  non-profit),  and  not  by  autologous 
+transplantation.  Since  the  potential  use  of  this  material  exclusively  by  the  donor  or 
+his/her  family  members  is  negligible  (and,  conversely,  the  probability  of  final 
+destruction  of  cells  very  high),  the  choice  of  private  banking  cannot  be  justified  on 
+ethical grounds. All the more so considering that this choice would discourage making 
+cells available for common use and would drastically reduce the availability of graft to 
+those who need them. 
+
+Furthermore, the Commission stresses that the development of collection and storage 
+facilities  for  umbilical  cord  blood  must  meet  certain  quality  standards  as  it  involves 
+serious  matters  of  health  protection.  In  particular,  the  following  must  be  ensured:  i) 
+accurate and valid information to the public on the particular application either by the 
+State or by collecting organisations; ii) certification of these organisations under State 
+responsibility;  iii)  guarantee  of  viability  and  preservation  of  material  in  case  of 
+operation ceasing. 
+
+Please  note  that  the  full  text  (in  pdf  format)  of  all  opinions  and  reports,  issued  by  the 
+Commission, 
+following  URL: 
+http://www.bioethics.gr/category.php?category_id=55  or  requested  from  the  Secretariat, 
+Secretariat@bioethics.gr. 
+
+in  an  English  version,  can  be 
+
+found  at 
+
+the 
+
+MEDIA COVERAGE
+
+The Commission regularly sends press releases to the domestic journals soon after an opinion 
+is  issued.  Its  latest  opinion  on  PD,  PGD  and  embryo  selection,  issued  in  March    2007, 
+gained  extensive coverage in the national media (press, TV). 
+
+ENGAGEMENT WITH POLICY MAKERS
+
+The
+ Parliamentary  Permanent  Committee  on  Social  Issues  invited  the       Commission  to  a 
+meeting in March 2007,  in order to express its views on the amendments to the Bill of the 
+Ministry of Health and Social Welfare “On transplantations of human tissues and organs”. 
+
+31
+
+PUBLIC EVENTS
+
+The  Commission,  in  collaboration  with  the  M.E.D.E.L.  (Magistrats  Européens  pour  la 
+Démocratie et les Libertés, the Greek association) and the Institute of Biological Research of 
+the  National  Hellenic  Research  Foundation,  organised  a  Conference  which  was  held  on  9 
+February 2007 in Athens, with "Law & Bioethics" as the main topic of discussion.  
+
+The  Conference  attracted  a  wide  range  of  participants  (students,  scientists,  lawyers,  public 
+officers, physicians). 
+
+External relations / Future initiatives  
+
+The Commission is planning to organise by the end of 2007 a bioethics film event in Athens, 
+the details of which are still being explored.  
+The event will target the general public, academics, scientists, social scientists, students and 
+pupils, as well as other professionals. Its primary purpose will be to encourage the principle of 
+informed decision-making  by  the participants.  Furthermore,  through  this  event  we  intend  to 
+encourage  public  debate,  to  increase  public  awareness  of  scientific  and  technological 
+advances, and to promote young people’s interest in science.  
+For this reason, the Commission is keeping in touch with related bodies, in order to explore 
+the  opportunities  for  further  collaboration  on  this  project  (i.e.  the  Scottish  Council  of 
+Bioethics, the Rathenau Institute of Netherlands, the E.M.B.O., the Irish Council for Bioethics 
+and the Ethics of Science and Technology Section of UNESCO). 
+
+PUBLICATIONS
+
+By  the  end  of  June  2007  a  collection  of  all  Opinions  and  Reports  issued  since  2000  is 
+expected to be published by the National Printing Office. 
+Since the Commission intends to disseminate the above collection to related ethics bodies, 
+academic institutions etc. abroad, the publication will be translated into English as well.  
+(cid:3)
+(cid:3)
+(cid:3)(cid:3)
+Further Information 
+
+Mrs Marianna Dracopoulou
+Executive Head Secretary 
+Hellenic National Bioethics Commission 
+
+Address 
+47, Evelpidon str. 
+11362- Athens- Greece 
+Tel.: +30-210-88.47.700 
+Fax : +30-210-88.47.701 
+Email: Secretariat@bioethics.gr 
+
+Website: www.bioethics.gr
+
+32
+
+            
+(cid:3)
+
+LEGAL BASIS AND MANDATE
+
+The  National Bioethics Committee  (CNB)  was  established  by  a  decree  signed by  the 
+President of the Council of Ministers on 28 March 1990 as a consultative body of the 
+Presidency of the Council of Ministers. The CNB's composition was recently renewed 
+by the President of the Council’s Decree of 18 December 2006.  
+
+The CNB’s mission is “to address the ethical and legal problems that may emerge as a 
+result  of  the  progress  of  research and  the  emergence  of  possible  new  applications  of 
+clinical interest, taking into account the safeguarding of fundamental human rights and 
+human dignity  and the  other  values  as  expressed  in  the  Constitutional  Charter  and  in 
+the  international  instruments  supported  by  Italy”.  To  this  end,  the  CNB  provides 
+opinions, also upon its own initiative, to the Italian Parliament and Government. 
+
+The statutory bodies of the Committee are the President and the Vice Presidents. The 
+activity of the Committee consisting in discussion of specific topics is carried out by ad 
+hoc working groups. 
+
+According  to  the  Decree  of  18  December  2006,  the  composition  of  the  CNB  was 
+reduced to 35 members who are appointed for a duration of four years. 
+
+COMPOSITION OF THE COMMITTEE
+
+The President of the CNB is Prof. Francesco Paolo Casavola, former President of the Italian 
+Constitutional Court and President of the “Istituto dell’Enciclopedia Italiana”. 
+
+The members of the CNB are professors of medicine, philosophy, history and law. The 
+structure of the CNB is the  following:  I)  honorary  presidents: Giovanni Berlinguer, 
+Adriano Bompiani, Francesco D’Agostino, Rita Levi Montalcini, Adriano Ossicini; II) 
+vice  presidents:  Cinzia  Caporale,  Elena  Cattaneo,  Luca  Marini;  III)  members: 
+Salvatore Amato, Luisella Battaglia, Stefano Canestrari, Mauro Ceruti, Isabella Coghi, 
+Roberto  Colombo,  Gilberto  Corbellini,  Bruno  Dallapiccola,  Antonio  Da  Re,  Lorenzo 
+D’Avack, Maria Luisa Di Pietro, Riccardo Di Segni, Emma Fattorini, Carlo Flamigni, 
+Romano  Forleo,  Silvio  Garattini,  Marianna  Gensabella,  Laura  Guidoni,  Aldo  Isidori, 
+Claudia Mancina, Assunta Morresi, Demetrio Neri, Andrea Nicolussi, Laura Palazzani, 
+Alberto Piazza, Vittorio Possenti, Rodolfo Proietti, Lucetta Scaraffia, Monica Toraldo 
+di  Francia,  Giancarlo  Umani  Ronchi,  Grazia  Zuffa;(cid:3) IV)  secretariat  coordinator: 
+Dott.ssa  Emira  Aloe  Spiriti;  V)  scientific  secretariat:  Grazia  M.  De  Maria,  Stefano 
+Marcucci,  Daniela  Marrani;  Mariangela  Topa;  VI)  administrative  secretariat:  Delia 
+Amari, Lorella Autizi, Maria Paglia, Anna Piermarini, Stefano Tedesco.  
+
+33
+
+CURRENT WORK   
+
+The new CNB took office on 16 January 2007. The first task of the Committee was to 
+review the internal procedures and update the existing regulation. 
+
+Moreover,  the  CNB  has  scheduled  the  hearing  of  institutional  subjects  who  are 
+interested in bioethical issues. So far, the CNB hearings have involved the President of 
+the  National  Committee  for  Biosafety,  Biotechnology  and  Life  Sciences,  and  the 
+hearing  of  the  President  of  the  National  Federation  of  the  Medical  Associations  is 
+expected in the next few months.  
+
+The  CNB  has  put  in  place  a  series  of  working  groups  on  the  following  topics: 
+extremely  premature  babies  (prof.  D'Agostino);  the  ethics  of  neuroscience  (prof. 
+Marini);  cell  therapy  research  (prof.  Neri);  ethics  committees  (prof.  Caporale); 
+donation  of  embryo  cells  to  research  (prof.  d'Avack);  alternative  methods  to  animal 
+experimentation (prof. Battaglia); chimeras and hybrids (prof. Morresi); doctor-patient 
+relationship  and  the  total  or  partial  refusal  of  health  care  (prof.  Canestrari);  equity  in 
+access  to  sanitary  resources  (prof.  Forleo);  biometrics  (prof.  Amato/Caporale);  the 
+ethics  of  clinical  trials  (prof.  Garattini);  gender  difference  and  bioethics  (prof. 
+Palazzani); doping (prof. Isidori). 
+
+Since  its  inception  the  CNB  has  been  dealing  with  the  more  recent  bioethical  issues 
+such  as  the  purchase  of  oocytes  and  the  main  aspects  related  to  cord  blood 
+conservation. 
+
+With regard to the activity of the Regional and Local Ethics Committees, the relevant 
+discipline is provided by the Ministerial Decree of 12 May 2006, which did not make 
+changes to the competences  of such committees consisting  in  the  approval of clinical 
+drugs trials. 
+
+Further Information 
+
+Dr Emira Aloe Spiriti
+Secretariat coordinator 
+Italian National Bioethics Committee  
+
+Address 
+Via della Mercede, 96 
+00187 - Roma 
+Tel.: +39 06 67794601 
+Fax: +39 06 67794686  
+Email: cnbioetica@palazzochigi.it 
+
+Website: www.governo.it/bioetica/index.html 
+
+34
+
+            
+The  Romanian  National  Research  Ethics  Council  is  a  national  body  with  an  independent 
+status  within  the  Government  offices.  Administratively,  the  Council  is  affiliated  with  the 
+National Authority for Scientific Research. The Council is an advisory board to the Romanian 
+Government  on  ethical  issues  raised  by  scientific  and  technological  advances  in  research 
+activities  and  monitoring  the  application  of  the  moral  and  professional  code  in  research 
+activities.  
+
+The National Research Ethics Council was established by Order of the Ministry of Education 
+and Research of 22 February 2007. It was enacted in the good research practice law 206/2004. 
+The order of 22.02.2007 established the procedures governing appointments, composition and 
+function of the National Research Ethics Council. 
+
+The  National  Research  Ethics  Council  (NREC)  is  composed  of  11  members  with  different 
+competencies. They are nominated for a period of four years which is only renewable once. 
+The president of the NREC is Professor dr. ing Paun Otiman.  
+
+The Council has 3 Commissions for: 
+a) Socio-humanistic sciences;  
+b) Life sciences; 
+c) Technical sciences.  
+Each Commission has seven members. 
+
+Matters  for  consideration  are  referred  to  a  Commission  in  written  form  and  resolutions  are 
+adopted by a majority vote. 
+
+The National Research Ethics Council has the following tasks: 
+
+-
+
+-
+
+-
+
+to make, if necessary by exercising its faculty to access the required information in the 
+existing national operating centres,  
+
+to express opinions and suggest solutions, also for the purpose of preparing legislative 
+acts,  to  address  the  ethical  and  legal  problems  that  may  emerge  as  a  result  of  the 
+progress of research; 
+
+to promote the drawing up of codes of conduct for practitioners operating in the various 
+research sectors concerned and to encourage proper provision of information. 
+
+35
+
+Further Information 
+
+Ioana Ispas  
+Advisor for Bioethics Genomics and Health 
+National Research Ethics Council-Commission for Life Sciences 
+Official title: Consiliul National pentru Etica a Cercetarii Stiintifice, Dezvoltarii Tehnologice 
+si Inovarii – Acronym: NREC – Title in English: Romanian National Research Council 
+Head secretary: Mr Ggheorghe Asanica / Council secretary: Ms Mihaela Petrica   
+
+Address 
+National Authority for Scientific Research  
+21-25 Mendeleev street , 010362 Bucharest  
+Romania  
+Tel.: +4021 212 77 91  
+Fax: +4021 318 30 60  
+Email:  iispas@mct.ro – gasanica@mct.ro 
+
+Website: www.mct.ro
+
+36
+
+            
+(cid:3)
+
+CURRENT WORK 
+
+End-of-life issues
+
+The  Swedish  Council  on  Medical  Ethics  has  on  numerous  occasions  discussed  end-of-life 
+related  issues,  and  has  produced  several  opinions  on  these  matters.  The  Council  started  its 
+current  work  on  end-of-life  issues  in  autumn  2005.  The  question  was  once  again  raised  in 
+Sweden  when  a  young  paralysed  severely  ill  Swedish  citizen  connected  to  a  respirator 
+decided  to  end  his  life  in  a  “suicide  clinic”  in  Switzerland.  This  specific  situation  started  a 
+debate  in  Sweden  about  the  legal  situation  regarding  end-of-life  decision-making.  The 
+discussion revolved around why it would not be possible within the current legal framework 
+for a young paralysed person to end his life with assistance.  
+
+According to the Swedish law, persons have the right to decide if they want to continue their 
+treatment or not. In the above case, the person could have decided to turn off the respirator, 
+leaving him to a painful death by suffocation. The question was then whether the physician in 
+charge  would  have  been  legally  entitled  to  put  the  patient  to  sleep  before  shutting  the 
+respirator so as to help him to a painless death. The physicians’ involvement in this and other 
+issues related to end-of-life decision-making  seemed unclear and was  interpreted  differently 
+among  physicians  in  Sweden.  Finally,  The  Delegation  on  Medical  Ethics  of  the  Swedish 
+Society of Medicine presented new guidelines about withholding and terminating treatment in 
+March 2007. It  was made clear that a physician may terminate treatment in these situations, 
+and should also relieve a patient from pain in situations where the patient has decided to end 
+his life by refusing further medical treatment. 
+
+The Council considers different types of end-of-life topics with the focus on decision-making 
+and patient autonomy. Experts have  been invited  to  discuss the  questions involved with the 
+Council. In November 2006, the Council made a study-trip to The Hague to learn more about 
+the situation and legal framework in the Netherlands. The Council met representatives of the 
+Health Council and other experts in the field for a discussion and information exchange. 
+
+A conference about end-of-life decision-making is being planned for 1 February 2008, and the 
+discussions  and  work  of  the  Council  are  expected  to  be  summarised  in  an  opinion  in 
+2007/2008. 
+
+Children's rights in medical care and research 
+
+In February 2007  the Council arranged  a conference about children’s rights in  medical care 
+and  research.  The  Council  is  expected  to  continue  its  work  on  the  topic  with  the  aim  of 
+strengthening children’s rights in medical care.  
+
+37
+
+Neuroethics, chimeric embryos and nanomedicine 
+
+The Council has held initial discussions about the following topics: neuroethics – especially 
+brain  scanning,  chimeric  embryos  and  nanomedicine.  These  topics  will  be  under 
+consideration in the following year.
+
+RECENT ACTIVITIES 
+
+Opinion on prenatal diagnosis, 2006-11-06
+
+The  Council  discussed  ethical  implications  in  prenatal  diagnosis,  and  pointed  out  that 
+continuous follow-up of new methods of prenatal diagnosis is necessary.  A broad debate in 
+society  and  considerations  at both  the  individual  and  societal  level  are  of  great importance. 
+The  Council  raised  and  discussed  the  following  questions  among  others:  What  kind  of 
+prenatal diagnosis should society offer? Who should finance it? Which questions are crucial 
+for the individual women/family  when they are to make decisions about prenatal diagnosis? 
+The  issue  of  how  information  about  prenatal  diagnosis  is  given  is  crucial  from  an  ethical 
+perspective. 
+
+Opinion on advance directives (living wills) 2005-09-02 
+
+This  opinion  was  issued  on  request  by  the  Ministry  of  Justice  and  deals  with  a  report  by  a 
+committee that had reviewed legal substitutes for adults. The Council responded specifically 
+to a proposal about so called “end-of-life directives”. The Council holds the view that these 
+directives should be given more weight than that proposed by the committee. The term “end-
+of-life  directive”  is,  however,  inappropriate  for  binding  directives  concerning  future  life-
+sustaining  treatment  since,  according  to  the  Council,  this  type  of  document  should  be 
+respected  not  only  when  the  patient  is  irreversibly  dying  or  in  a  permanent  state  of 
+unconsciousness. The term “care directive”, or more specifically “advance directive  on life-
+sustaining  treatment”,  would  therefore  be  preferable.  In  the  opinion,  the  Council  makes  an 
+extensive analysis of decision-making situations including case studies. 
+
+Opinion concerning fetal reduction, 2005-10-05 
+
+The  opinion  on  ‘fetal  reduction’  was  issued  on  request  by  the  Ministry  of  Health.  ‘Fetal 
+reduction’ is a rarely performed medical intervention when a woman is pregnant with several 
+fetuses.  One  or  more,  but  not  all,  fetuses  are  removed.  It  is  performed  when  a  multiple 
+pregnancy  contains  a  severely  malformed  fetus  and  the  other(s)  is  (are)  seemingly  healthy. 
+When  a  multiple  pregnancy  is  the  result  of  infertility  treatment,  the  objective  of  ‘fetal 
+reduction’ can, however, also be only to reduce the number of fetuses. 
+
+The  Council  makes  a  distinction  between  selective  and  non-selective  reduction.  Selective 
+reduction should only be performed for special medical reasons. Social factors may also have 
+an  influence.  Selective reduction  should be  considered case-by-case and  permission  granted 
+by  the  Legal  Council  of  the  National  Board  of  Health.  The  implementation  should  be 
+evaluated after some time. 
+
+Non-selective  reduction  should  be  permitted  under  the  same  principles  as  those  governing 
+abortion, according to the Abortion Act. Cases of non-selective reduction should be reported 
+
+38
+
+to  the  National  Board  of  Health.  It  is  proposed  to  regulate  ‘fetal reduction’  in the  Abortion 
+Act.  
+
+For  further  information  about  the  Council  and  its  work  please  visit  the  Council’s  website: 
+www.smer.gov.se  
+
+Ms  Lisbeth  Löpare-Johansson,  Deputy 
+chairperson  of  the  Swedish  Association of 
+Health Professionals 
+Mr Göran Hermerén, Professor of Medical 
+Ethics,  President  of  the  European  Group 
+on Ethics 
+Ms  Karin  Johannisson,  Professor  of 
+History of Science and Ideas 
+Ms  Lena  Rehnberg,  Special  Expert  on 
+medical ethics at the Ministry of Health  
+Mr  Niels  Lynöe,  Professor  of  Medical 
+ethics 
+Ms  Elisabeth  Rynning,  Professor  of 
+Medical Law 
+Mr  Jan  Wahlström,  Professor  of  Clinical 
+Genetics 
+Ms  Ulla  Lönnqvist  Endre,  The  Swedish 
+Association  of  Local  Authorities  and 
+Regions 
+Ms Christina Wahrolin, Vice president the 
+Swedish Disability Federation 
+
+SECRETARIAT 
+Head of secretariat Dr. Erik Forsse 
+Council secretary Ms Lotta Eriksson 
+
+MEMBERS OF COUNCIL 
+Chairman:  
+Mr Daniel Tarschys,  Professor of Political 
+Science 
+
+(Social 
+
+Political members: 
+Ms  Mona  Berglund  Nilsson 
+Democratic Party) 
+Mr Leif Carlson  (Moderate Party) 
+Mr Sven-Olov Edvinsson (Centre Party) 
+Ms  Tuulikki  Koivunen  Bylund  (Green 
+Party) 
+Ms Elina Linna (Left Party) 
+Ms 
+Pålsson 
+Democrats) 
+Mr Barbro Westerholm (Liberal party) 
+Mr  Conny  Öhman  (Social  Democratic 
+Party) 
+
+(Christian 
+
+Chatrine 
+
+Expert members
+Ms Lena Barrbrink, The National Board of 
+Health 
+Mr Daniel Brattgård, Hospital Priest 
+
+Further information 
+
+Professor Daniel Tarschys 
+Chairman 
+Tel: +46 8 16 15 78 
+Email: daniel.tarschys@statsvet.su.se
+
+Secretariat: 
+Dr Erik Forsse, erik.forsse@social.ministry.se , tel: + 46 8 405 17 39 
+Ms Lotta Eriksson, lotta.eriksson@social.ministry.se , tel: + 46 8 405 27 58 
+
+Address 
+The Swedish Council on Medical Ethics 
+Ministry of Health and Social Affairs 
+Kv. Spektern 
+SE-103 33 Stockholm 
+Sweden 
+
+Website: www.smer.gov.se
+
+39
+
+INTRODUCTION 
+
+The Nuffield Council on Bioethics was established by the Trustees of the Nuffield Foundation 
+in 1991 to identify, examine and report on the ethical questions raised by recent advances in 
+biological  and  medical  research.  Since  1994,  it  has  been  funded  jointly  by  The  Nuffield 
+Foundation,  the  Medical  Research  Council  and  The  Wellcome  Trust.  The  Council’s 
+independence  of  government  has  become  increasingly  important,  particularly  as  a  result  of 
+growing  public  unease  about  aspects  of  biomedicine  and  biotechnology.  The  Council  has 
+achieved  an  international  reputation,  providing  advice  that  assists  policy-making,  addresses 
+public concerns and stimulates debate in bioethics.  
+
+CURRENT WORK 
+
+The forensic use of bioinformation: ethical issues  
+
+Using  the  National  DNA  Database  to  search  for  DNA  found  at  a  crime  scene  significantly 
+increases the chance that the perpetrator  will be identified. However,  this and other forensic 
+uses of bioinformation raise ethical questions. For example, is keeping the DNA  profiles of 
+victims,  suspects  and  people  who  are  not  eventually  charged  justified  by  the  need  to  fight 
+crime? Should children’s profiles be kept on the Database? Is it right to use the Database to 
+search  for  family  relationships?  And  should  anyone  other  than  the  police,  e.g.  researchers, 
+have access to the Database? A Working Group of the Council, set up in September 2006 to 
+consider  these  and other questions, will publish its conclusions in a Discussion Paper on 18 
+September 2007.  
+
+Public health: ethical issues 
+
+What are the responsibilities of governments, individuals and other parties, such as industry 
+and  the  media,  in  achieving  a  healthy  society?  And  how  can  allowing  individual  choice  be 
+balanced with achieving community benefit? The Council set up a Working Party in 2005 to 
+consider  the  ethical  and  social  dilemmas  raised  by  public  health,  focusing  on  five  case 
+studies:  infectious  diseases  (including  vaccinations),  obesity,  smoking,  alcohol  and  the 
+fluoridation of water. Questions to be considered include: could compulsory vaccination ever 
+be  justified?  What  are  the  obligations  of  parents,  schools  and  the  government  in  tackling 
+childhood obesity? And should the drinks, tobacco and food industries be subjected to stricter 
+regulatory  controls?  The  Working  Party  will  publish  its  conclusions  in  a  Report  on  13 
+November 2007.  
+
+40
+
+FUTURE WORK 
+
+Neurodegenerative diseases: ethical issues 
+
+Following  a  Workshop  on  the  ethical  issues  raised  by  neuroscience  held  in  May  2006,  the 
+Council  has  decided  to  set  up  a  Working  Party  to  consider  the  ethical  issues  raised  by 
+neurodegenerative diseases. The issues to be considered include: change or loss of personality 
+and  identity;  the  implications  of  a  ‘life  plan’  or  ‘living  will’;  the  adequacy  of  support  for 
+patients from different sectors of society; and whether practices vary across different cultures 
+or ethnic groups within a country. 
+
+Further information about the Council’s work is available at: www.nuffieldbioethics.org
+
+PREVIOUS PUBLICATIONS: 
+
+• Critical care decisions in fetal and neonatal medicine: ethical issues (November 2006) 
+• Supplement to the 1993 Report on Genetic Screening (August 2006) 
+• The ethics of research involving animals (May 2005) 
+• The ethics of research related to healthcare in developing countries: a follow-up 
+
+discussion paper (March 2005) 
+
+• The use of genetically modified crops in developing countries: a follow-up discussion 
+
+paper (December 2003) 
+
+• Pharmacogenetics: ethical issues (September 2003) 
+• Genetics and human behaviour: the ethical context (October 2002) 
+• The ethics of patenting DNA: a discussion paper (July 2002) 
+• The ethics of research related to developing countries (April 2002) 
+• Stem cell therapy: the ethical issues – a discussion paper (April 2000) 
+• The ethics of clinical research in developing countries: a discussion paper (October 1999) 
+• Genetically modified crops: the ethical and social issues (May 1999) 
+• Mental disorders and genetics: the ethical context (September 1998) 
+• Animal-to-human transplants: the ethics of xenotransplantation (March 1996) 
+• Human tissue: ethical and legal issues (April 1995) 
+• Genetic Screening: ethical issues (December 1993) 
+
+All  the  Council’s  publications  are  available  to  download  from  the  Council’s  website  at: 
+www.nuffieldbioethics.org/publications  
+
+MEMBERS OF COUNCIL 
+
+Professor Sir Bob Hepple QC, FBA 
+(Chairman) 
+Professor Peter Smith CBE Deputy 
+(Chairman) 
+Professor Roger Brownsword 
+Professor Sir Kenneth Calman KCB FRSE 
+Professor Sian Harding 
+Professor Peter Harper 
+Rt Reverend Lord Richard Harries DD 
+FKC FRSL 
+Professor Ray Hill FMedSci 
+
+41
+
+Professor Søren Holm 
+Mr Anatole Kaletsky 
+Dr Rhona Knight 
+Lord Krebs MA DPhil Kt FRS FMedSci 
+Professor Peter Lipton 
+Professor Alison Murdoch MD FRCOG 
+Dr Bronwyn Parry 
+Professor Hugh Perry 
+Lord Plant of Highfield 
+Professor Nikolas Rose 
+
+SECRETARIAT: 
+
+Director: Hugh Whittall 
+Deputy Director: Katharine Wright 
+Assistant Director: Harald Schmidt 
+PA to Secretariat: Carol Perkins 
+
+Communications & External Affairs Manager:  
+Catherine Joynson 
+
+Research Officer: Caroline Rogers 
+Research Officer: Julia Trusler 
+Secretary: Audrey Kelly-Gardner 
+
+Further information 
+
+Ms Catherine Joynson 
+Communications & External Affairs Manager 
+
+Address 
+Nuffield Council on Bioethics 
+28 Bedford Square 
+London WC1B 3JS, UK 
+Email: bioethics@nuffieldbioethics.org 
+Tel: +44 207 681 9619 
+Fax: +44 207 637 1712 
+
+Website: www.nuffieldbioethics.org
+
+42
+
+ 
+ 
+ 
+ 
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+(cid:3)
+
+43
+
+(cid:3)
+
+DATA PROFILING AND PERSONAL DATA MATCHING 
+in the European Information Society 
+
+An everyday occurrence 
+
+We are all familiar with the irritating question 'do you have a loyalty card?' when we reach the 
+check-out  of  our  local  supermarket.  Nonetheless,  many  of  us  willingly  sign  up  to  an 
+apparently innocent-looking way of gathering 'supermarket points' which can be the basis of a 
+powerful  form  of  surveillance  and  'customer  tracking'.  There  are  concerns  with  so  much 
+personal information being in the hands of a few private organisations.  
+
+Every time we make a telephone call, send an email, use a search engine, use our credit card, 
+withdraw cash from an automatic teller, or even when surfing the web, we leave traces of our 
+preferences and lifestyle.  Normally, when data records are directly associated with a specific 
+name the subject is protected by European and national data protection legislation (but such 
+legislation has a growing list of exceptions and other legislation at times takes preference over 
+this5). There are an increasing number of ways in which data about us are gathered without 
+our  knowledge  and  consent  (e.g.  video  surveillance  in  shops  and  public  spaces,  the  use  of 
+RFID in supermarkets), which will open new routes to building up a profile of an individual 
+through, for example, places visited, items purchased and carried, and people met. 
+
+An issue worthy of detailed consideration 
+
+Digital  convergence  coupled  with  this  ever-increasing  tracking  and  collection  of  data  about 
+individual  European  citizens  (through,  for  example,  online  activities,  ambient  technologies, 
+RFID  and  biometrics)  have  significantly  increased  the  ability  to  undertake  automatic  data 
+matching related to both individuals and groups. Whilst such activity might be beneficial and 
+legitimate, it can also give rise to some serious concerns about detrimental effects on privacy, 
+due process of law and presumption of innocence. It can challenge some fundamental human 
+rights6. Actions which appear legitimate under law might not necessarily  be legitimate from 
+an ethical standpoint. Once interconnectivity of personal data is established and data matching 
+implemented, it becomes very difficult to reverse in the event of a negative impact on citizens 
+or  society  being  identified.  It  follows  that  if  the  European  Information  Society  is  to 
+“contribute strongly to improvements in the quality of life” and “reinforce  social, economic 
+and  territorial  cohesion”7,  then  ICT-enabled  personal  data  matching  must  be  subjected  to 
+stringent ethical, social and legal audit. 
+
+5 For example, the European Directive on the retention of data generated or processed in connection 
+with the provision of publicly available electronic communications services or of public 
+communications networks and amending Directive 2002/58/EC
+6 As defined by the Convention for the Protection of Human Rights and Fundamental Freedoms as 
+amended by Protocol No 11 on 1 November 1998 
+7 COM(2005) 229 Final  - i2010 – A European Information Society for Growth and Employment 
+
+45 
+
+                                                
+Data profiling and personal data matching 
+
+Within  the  context  of  the  European  Information  Society,  data  profiling  is  the  process  of 
+automatically analysing data to validate it against expected data formats and values and leads 
+to  automatic  action  based  on  the  profiling  outcome.  It  is  often  incorporated  into  quality 
+assurance procedures for ICT applications and infrastructure such as ensuring the integrity of 
+data communication networks. Data profiling is also commonly used to match personal data 
+(as  defined  by  the  European  Directive  on  Data  Privacy8)  against  each  other  or  against  a 
+predefined profile. Such personal data are often from a variety of sources and are collected for 
+different purposes. Thus data profiling is the key process which underpins and enables  data 
+matching. Data matching is widespread, providing or prohibiting access,  enabling selection, 
+causing inclusion and exclusion. It is used in areas such as marketing (e.g. customer loyalty 
+programmes),  employment,  financial  sector  (e.g.  anti-money-laundering  profiling  and  fraud 
+prevention), forensics, education (e.g. application vetting and e-learning), social services (e.g. 
+benefit entitlement and tax liability), and government (e.g. democracy and voting, and rule of 
+law). 
+
+Ethical concerns about data matching
+
+Data  matching  is  used  to  identify  individuals  and  groups.  Using  data  profiling  techniques, 
+categories  of  people  are  targeted  and  individuals  within  those  categories  identified.  The 
+amount of personal data that could potentially be used  is huge. For example, it is estimated 
+that  in  the  UK  around  115  million  electronic  files,  all  with  the  potential  to  be  accessed  for 
+data matching, are held on individual citizens. Across Europe the personal data resource must 
+be enormous as it is likely that a similar number of files exists within each of the 27 Member 
+States in addition to those held by central European agencies. The types of data collected are 
+wide-ranging.  This  is  in  part  due  to  the  growth  in  online  activities  where  personal  data are 
+supplied by online users when applying for access or concluding transactions as well as data 
+collected through the planting of cookies. It is in part due to growth in tracking offline activity 
+through scanner data, customer loyalty cards and transaction data of credit /debit cards.  
+
+Data  matching  is  initiated  not  by  the  suspicion  concerning  an  individual  but  because  the 
+profile of a particular group is of interest. This leads, for example, to three issues.  
+
+• Privacy - Data matching is  likely to involve matching personal records compiled for 
+
+unrelated purposes, which may impact upon personal privacy. 
+
+• Due process of the law - Once a matching process has been undertaken it will result in 
+a number of positive hits. All those identified are in danger of being found guilty of 
+wrongdoing. It is unlikely that these individuals are given any notice of their situation, 
+since doing so might affect the investigation, or an opportunity to contest the results of 
+the  match  at  an  early  stage.  For  these  reasons  their  right  to  due  process  of  law  is 
+curtailed. 
+
+• Presumption  of  innocence  -  The  presumption  of  innocence  is  intended  to  protect 
+people  against  having  to  prove  that  they  are  free  from  guilt  whenever  they  are 
+investigated. Data matching can reverse this to a presumption of guilt. This is because 
+the  technology  of  data  matching  is  so  plausible  and,  for  example,  the  detection  of 
+fraud is much applauded. These powerful  influences will  weigh heavily in  favour of 
+the notion that those identified must be guilty. 
+
+8 Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995  
+
+46 
+
+                                                
+The “permanent” data shadow of citizens left by such files of personal data is concerning and 
+raises  many  ethical  issues  (including  the  three  just  discussed).  Clarke9  categorises  these  as 
+general  problems  with  personal  data  matching,  dangers  to  the  citizen  of  personal  data 
+matching and dangers to society of personal data matching. 
+
+A call for action 
+
+In  a  technology-dependent  world  it  is  inevitable  that  every  citizen  will  be  subjected  to  a 
+myriad  of  personal  data  collection.  There  has  to  be  proactive  socially-responsible  action  if 
+curtailment  of  movement  and  restrictions  on  unhindered  existence  are  to  be  avoided.  The 
+overt  and  covert  tracking  of  citizens  must  be  open  to  scrutiny  by  society.  The  linking  of 
+unrelated  personal  data  files  needs  to  be  properly  justified,  the  reasons  for  particular  data 
+matching need to be explained in detail, there must be procedures to sever personal data file 
+links and halt data matching exercises, and transparency of data matching should be the norm. 
+Only  then  will  data  matching  be  acceptable  to  the  citizens  of  the  European  Information 
+Society. 
+
+Further Information 
+
+Professor Simon Rogerson 
+Director 
+Centre for Computing and Social Responsibility 
+De Montfort University 
+The Gateway, Leicester, LE1 9BH, UK 
+
+Tel +44 116 257 7475 
+Email:  srog@dmu.ac.uk
+
+Or  
+
+Mr Frank Cunningham, 
+Evaluation & Monitoring Unit, 
+DG Information Society and Media, 
+European Commission 
+
+Tel + 32-2-296-8119 
+Fax + 32-2-296-6613 
+Email: frank.cunningham@ec.europa.eu 
+
+9 Clarke R., 1994, “The Digital Persona and its application to Data Surveillance.”, in The Information 
+Society, 10 (2), 2.
+
+47 
+
+                                                
+European Commission 
+
+Ethically speaking — Issue No 8 
+
+Luxembourg: Office for Official Publications of the European Communities 
+
+2007 — I –II, 48 pp. — 21 x 29.7 cm 
+
+ISSN 1725-5562 
+
+K
+A
+-
+A
+1
+-
+0
+7
+-
+0
+0
+8
+-
+E
+N
+-
+C
+
+The European Group 
+on Ethics in Science 
+and New Technologies
+to the European Commission
+
+A Newsletter providing information
+on the activities of the National Ethics Committees
+compiled by the Secretariat of the European Group 
+on Ethics in Science and New Technologies 
+to the European Commission
+
+ISSN 1725-5562
+
+EUROPEAN
+COMMISSION
+
+issue8
+
+July 2007
+ July 2007
+
+COVER.indd   1
+
+7/25/07   9:32:06 AM
+
+

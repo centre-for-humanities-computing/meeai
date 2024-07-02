@@ -1,0 +1,3520 @@
+The European Group on Ethics in Science and New  
+Technologies to the European Commission 
+
+Ethical aspects of animal cloning for food supply 
+
+- Opinion No 23 - 
+
+-  16 January 2008  - 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+
+ABSTRACT 
+
+I.  HAVING REGARD TO 
+
+1. PREAMBLE 
+
+2. SCIENTIFIC BACKGROUND TO ANIMAL CLONING 
+
+2.1. Definitions 
+
+2.2. Historical background  
+
+2.3. Somatic cell nuclear transfer (SCNT) 
+
+2.4. Dolly  
+
+2.4.1. Biological implications 
+
+2.5. Animal health and welfare problems related to cloning 
+
+2.5.1 Animal health 
+
+2.5.2. Animal welfare 
+
+2.6 Potential applications of animal cloning for the food supply 
+
+2.7 Long-term future applications of animal cloning 
+
+2.8 Safety and risk assessment of cloning for food 
+
+2.8.1 Report by the Food and Drug Administration (FDA)  
+
+on the health of cloned animals and safety of their food products  
+
+2.9 Biodiversity, epidemics 
+
+2.10. Farm animal cloning at international level 
+
+3. LEGAL ASPECTS  
+
+3.1 EU Regulatory Framework 
+
+3.1.1 EU food regulations 
+
+3.1.2 Other existing relevant EU legislation:  
+
+zootechnics, animal welfare, animal health  
+
+3.2 National legislation in the EU Member States 
+
+3.3 World Trade Organisation (WTO), GATT and SPS agreements 
+
+3.4 WHO-FAO Codex Alimentarius 
+
+3.5 Intellectual Property (IP) regulation  
+
+  1 
+
+  5 
+
+  6 
+
+  6 
+
+  6
+
+  8 
+
+  9 
+
+            10 
+
+10 
+
+11 
+
+12 
+
+12 
+
+15 
+
+15 
+
+15 
+
+17 
+
+18 
+
+20 
+
+20 
+
+21 
+
+23 
+
+26 
+
+27 
+
+28 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. ETHICAL ISSUES  
+
+4.1 The moral status of animals  
+
+4.2 Sustainability and animal farming  
+
+4.3 Religious considerations  
+
+4.4 Public perception and public acceptance 
+
+4.5 The consumer's right to know, free choice and labelling 
+
+5. OPINION 
+
+5.1 Scope of the opinion 
+
+5.2 Arguments on animal cloning for food 
+
+5.3 Food safety  
+
+5.4 Animal welfare and health 
+
+5.5 Farm animal biodiversity and sustainability  
+
+5.6 Societal aspects 
+
+5.6.1 Public participation  
+
+5.6.2 Public perception  
+
+5.7 Traceability and labelling 
+
+5.8 Intellectual property issues 
+
+5.9 Global trade 
+
+5.10 Conclusions 
+
+5.11 The need for revision of this Opinion 
+
+Appendix I 
+
+Addendum requested from Professor Krzysztof Marczewski,  
+
+EGE member 
+
+Appendix II 
+
+Secretariat EGE contact details 
+
+32 
+
+33 
+
+34 
+
+35 
+
+35 
+
+36 
+
+38 
+
+38 
+
+39 
+
+40 
+
+40 
+
+41 
+
+42 
+
+42 
+
+42 
+
+43 
+
+43 
+
+44 
+
+45 
+
+47 
+
+50 
+
+51
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABSTRACT 
+
+Ethical aspects of animal cloning for food supply 
+
+In  February  2007,  following  the  announcement  by  the  US  Food  and  Drug  Administration 
+
+(FDA)  concerning  possible  authorisation  of  food  products  derived  from  cloned  cattle,  pigs 
+
+and  goats  on  the  market,  President  Barroso  asked  the  European  Group  on  Ethics  of  science 
+
+and new technologies (EGE) to issue an Opinion on ethical implications of cloning animals 
+
+for food supply.  
+
+At the same time, the European Food and Safety Agency (EFSA), was asked to produce an 
+
+Opinion on food safety, animal health, and environmental implications of live cloned animals 
+
+obtained  through  somatic  cell  nuclear  transfer  technique  (SCNT),  their  offspring  and  the 
+
+products obtained from them.   
+
+After  several  months  of  internal  working  meetings,  expert  hearings,  a  public  consultation 
+
+launched  in  the  Europa  web  site  (800  contributions  received)  and  a  round  table  with 
+
+representatives from academia, industry, NGOs, civil society, International organisations and 
+industry1, on January 16, 2007, the EGE has adopted its latest Opinion on ethical aspects of 
+
+animal cloning for food supply. The Group is aware of the EFSA draft Opinion and the FDA 
+
+Report published the day before the adoption of the Opinion. 
+
+Considering the current level of suffering and health problems of surrogate dams and animal 
+
+clones,  the  EGE  has  doubts  as  to  whether  cloning  animals  for  food  supply  is  ethically 
+
+justified. Whether this applies also to progeny is open to further scientific research. 
+
+At present, the EGE does not see convincing arguments to justify the production of food from 
+clones and their offspring2. If in the future food products derived from cloned animals were to 
+
+be introduced to the European market, the EGE recommends that the following requirements 
+
+are met: 
+
+Food safety - The safety of food products for human consumption as a pre-condition for their marketing 
+
+must be guaranteed and scientific updates and follow up research into progeny should be carried out. 
+
+1 http://ec.europa.eu/european_group_ethics/activities/index_en.htm
+
+2 The conclusion in this paragraph was dissented by K. Marczewski.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+Animal welfare and health - In accordance with the Amsterdam Treaty (animals as sentient beings) and 
+
+the Lisbon Treaty, additional requirements should be met in intensive animal breeding, with the aim of 
+
+following  the  guidance  on  animal  welfare  provided  by  the  World  Organisation  for  Animal  Health 
+
+(OIE),  e.g.  the  five  freedoms:  from  hunger,  thirst  and  malnutrition;    from  fear  and  distress;  from 
+
+physical  and  thermal  discomfort;    from  pain,  injury  and  disease;  and  to  express  normal  patterns  of 
+
+behaviour. 
+
+Traceability - Current EU legislation on food regarding traceability of animals and their food products 
+
+should  be  enforced.  It  should  be  ensured  that  EU  legislation  provides  for  the  ability  to  identify 
+
+individual animals where necessary. 
+
+Global trade - The import of cloned animals, their offspring and materials derived from cloned animals 
+
+(e.g. semen and food products) should be conditional on proper documentation, in particular with regard 
+
+to traceability provisions and animal welfare.  
+
+In addition the EGE recommends that:  
+
+Animal welfare - Further studies and analyses on long-term animal welfare and health implications for 
+
+clones  and  their  offspring,  as  well  as  more  comparative  analyses  with  other  assisted  and  traditional 
+
+reproductive technologies in animal farming, should be carried out for a proper assessment of this issue, 
+
+in line with EFSA draft opinion. The Commission should take initiatives to prepare a Code of Conduct 
+
+on responsible farm animal breeding, including animal cloning. 
+
+Farm  animal  biodiversity  and  sustainability  –  The  Commission  should  take  proper  measures  to 
+
+preserve  the  genetic  heritage  of  farm  animal  species,  for  example  by  funding  projects  that  aim  to 
+
+preserve domesticated breeds in Europe and to promote sustainable agriculture. 
+
+Public  participation  -  Public  debates  should  be  promoted  on  the  impact  of  farm  animal  cloning  on 
+
+agriculture and environment, on societal impact of increasing meat consumption and rearing of bovines, 
+
+as well as on the fair distribution of food resources. The Commission should take a pro-active role in 
+
+promoting public discussion on the use of animal cloning, and its potential implications, by financing a 
+
+number  of  ad  hoc  initiatives  aimed  at  promoting  public  debate  on  the  marketing  of  food  products 
+
+derived from animal cloning.  
+
+ Public perception - The Commission should launch a thematic Eurobarometer survey and qualitative 
+
+studies on animal cloning for food supply, in order to collect indicators on public perception concerning 
+
+the introduction of such products to the food market as is being done in other countries.  
+
+Labelling  –  The  EGE  is  aware  of  the  technical  difficulties  of  labelling  products  from  offspring, 
+
+nevertheless it recommends that the Commission takes the initiative to devise targeted procedures prior 
+
+to the marketing of such food in the EU.   
+
+Intellectual property issues – It should be clarified whether the exclusion clauses in Directive 98/44/EC 
+
+(Art. 6d) on patentability of biological inventions and the EPO rules (23 d) to animal cloning for food 
+
+apply. 
+
+Global trade and consumer's freedom – The EGE is aware that import issues of food products derived 
+
+from  cloned  animals,  including  compliance  with  World  Trade  Organisations  provisions,  may 
+
+ 
+ 
+complicate the market situation, however, the EGE recommends that the Commission takes initiatives 
+
+to ensure consumers' freedom and rights. 
+
+Research - Further research is needed, in particular basic research on animal cloning, as well as impact 
+
+on  human  health,  animal  welfare  for  farmed  species  other  than  those  covered  by  EFSA.  Similarly, 
+
+further  ethical,  legal  and  social  implications  of  animal  cloning  for  food  supply  as  well  as  qualitative 
+
+studies on public perception should be carried out.  
+
+The  EGE  Opinion  has  been  issued  to  Commission  President  Barroso  on  16.01.2008,  the  Opinion  is 
+
+accessible at http://ec.europa.eu/european_group_ethics/index_en.htm
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPINION OF THE EUROPEAN GROUP ON ETHICS  
+
+IN SCIENCE AND NEW TECHNOLOGIES  
+
+TO THE EUROPEAN COMMISSION 
+
+No 23   
+
+         16.01.2008 
+
+************************************************************************** 
+
+ETHICAL ASPECTS OF ANIMAL CLONING FOR FOOD SUPPLY 
+
+Reference: 
+
+Request from President Barroso 
+
+Rapporteurs: 
+
+I. de Beaufort, P. Puigdomenech-Rosell,  J. Glasa 
+
+************************************************************************* 
+
+THE EUROPEAN GROUP ON ETHICS IN SCIENCE AND NEW TECHNOLOGIES (EGE), 
+
+I.  
+
+HAVING REGARD TO 
+
+Having regard to the Treaty on European Union, and in particular Article F. 2 of the Common 
+
+Provisions and the annexed Declaration n° 24 on the Protection of Animals, 
+
+Having  regard  to  The  Food  and  Agriculture  Organization  of  the  United  Nations  (FAO)  and 
+
+the World Health Organization (WHO) Codex Alimentarius of 1963 as a reference document 
+
+for consumers, food producers, manufacturers and national food control agencies, 
+
+Having  regard  to  Council  Directive  77/504/EEC  of  25  July  1977  on  pure-bred  breeding 
+
+animals of the bovine species, 
+
+Having regard to Council Directive 86/609/EEC regarding the protection of animals used for 
+
+experimental and other scientific purposes, 
+
+Having  regard  to  the  European  Conventions  of  the  Council  of  Europe  for  the  protection  of 
+
+animals  kept  for  farming  purposes  (1976-EST  87)  and  in  particular  the  Protocol  of 
+
+Amendment  thereto,  and  for  the  protection  of  vertebrate  animals  used  for  experimental  or 
+
+other scientific purposes (1986-EST 123), 
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Having  regard  to  Council  Directive  88/407/EEC,  laying  down  the  animal  health 
+
+requirements applicable to intra-community trade in and imports of and imports of, deep-
+
+frozen semen of domestic animals of the bovine species; amended by Council Directives 
+
+90/120/EEC, 90/425/EEC, 93/60/EEC, Decision 95/1/EEC, 
+
+Having regard to Council Directive 88/661/EEC of 19 December 1988 on the zootechnical 
+
+standards applicable to breeding animals of the porcine species, 
+
+Having  regard  to  Council  Directive  89/361/EEC  of  30  May  1989  concerning  pure-bred 
+
+breeding sheep and goats, 
+
+Having  regard  to  Council  Directive  89/556/EEC,  on  animal  health  conditions  governing 
+
+intra-Community  trade  in  and  importation  from  third  countries  of  embryos  of  domestic 
+
+animals of the bovine species,
+
+Having  regard  to  Directive  90/219/EEC  of  23  April  1990  on  the  contained  use  of 
+
+genetically  modified  microorganisms  (OJEC  L  117,  8  May  1990,  pp.  1  et  seq.,  as 
+
+amended) and Directive 98/81/EC, which amended it, 
+
+Having regard to Council Directive 90/220/EEC, regarding the deliberate release into the 
+
+environment  of  genetically  modified  organisms,  and  Directive  2001/18/EC  on  the 
+
+deliberate release into the environment of genetically modified organisms,  
+
+Having regard to Council Directive 90/427/EEC of 26 June 1990 on the zootechnical and 
+
+genealogical conditions governing intra-Community trade in equidae, 
+
+Having regard to Council Directive 91/629/EEC and 91/630/EEC, laying down minimum 
+
+standards for the protection of calves and of pigs, 
+
+Having regard to the United Nations Convention on Biodiversity of 6 June 1992, ratified 
+
+by the European Union on 25 October 1993, 
+
+Having  regard  to  Council  Directive  94/28/EEC,  Art.  4-7,  laying  down  the  principles 
+
+relating to. the zootechnical and genealogical conditions applicable to imports from third 
+
+2
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+countries  of  animals,  semen,  ova  and  embryos  which  are  covered  by  European  Union 
+
+Council Directives 77/504/EEC, 88/661/EEC, 89/361/EEC, 90/427/EEC and 91/174/EEC 
+
+and by the European Community decisions implementing these Directives, 
+
+Having  regard  to  the  Protocol  on  protection  and  welfare  of  animals,  annexed  to  the 
+Amsterdam Treaty1, 
+
+Having regard to the World Trade Organisation (WTO) Sanitary and Phyto-sanitary (SPS) 
+
+agreements of 1995, in particular to Art. 5.1, 5.2 and 5.3 on health risk assessments, 
+
+Having  regard  to  Regulation  No  258/97/EC  concerning  novel  foods  and  novel  food 
+
+ingredients,  
+
+Having regard to Council Directive 98/44/EC on the patentability of biological inventions, 
+
+specifically Article 6 thereof, 
+
+Having  regard  to  Council  Directive  99/74/EEC,  laying  down  minimum  standards  for  the 
+
+protection of laying hens, 
+
+Having regard to Directive 2000/13/EC, on the approximation of the laws of the Member 
+
+States relating to the labelling, presentation and advertising of foodstuffs, 
+
+Having regard to Directive 2001/18/EC of 12 March 2001 on the deliberate release into the 
+
+environment  of  genetically  modified  organisms  and  repealing  Council  Directive 
+90/220/EEC2, 
+
+Having regard to the General Food Law, Regulation (EC) No 178/2002, for 'the protection 
+
+of  human  life  and  health,  taking  account  of,  where  appropriate,  the  protection  of  animal 
+
+health and welfare, plant health and the environment', 
+
+Having  regard  to  Regulation  (EC)  No  1829/2003  of  the  European  Parliament  and  of  the 
+Council of 22 September 2003 on genetically modified food and feed3,  
+
+1 OJ C340, 10 November 1997 
+2 OJEC L 106, 17 April 2001 
+
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+Having  regard  to  Regulation  (EC)  No  1830/2003  of  22  September  2003  concerning  the 
+
+traceability  and  labelling  of  genetically  modified  organisms  and  the  traceability  of  food 
+
+and feed products produced from genetically modified organisms and amending Directive 
+2001/18/EC4, 
+
+Having  regard  to  Regulation  (EC)  No  1946/2003  of  15  July  2003  on  transboundary 
+movements of genetically modified organisms5, 
+
+Having regard to the Treaty of Lisbon, signed on 13 December 2007 and currently open 
+
+for ratification, 
+
+Having regard to Article 6 of the Seventh Framework Programme (FP7, 2007-2013): "All 
+
+the  research  activities  carried  out  under  the  Seventh  Framework  Programme  shall  be 
+
+carried out in compliance with fundamental ethical principles", 
+
+Having  regard  to  the  EGE  Opinion  Nr.  9  "Ethical  Aspects  of  Cloning  Techniques", 
+
+published on 28 May 1997, 
+
+Having heard the rapporteurs I. de Beaufort, P. Puigdomenech-Rosell,  J. Glasa 
+
+************ 
+
+3 OJEU L 268, 18 October 2003 
+4 OJEU L 268, 18 October 2003, pp. 24 et seq. 
+5 OJEU L 287, 5 November 2003, pp. 1 et seq. 
+
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                    
+ 
+Whereas: 
+
+1. Preamble 
+
+Given  that  the  issue  of  cloning  animals  for  food  supply  is  a  new  and  complex  topic,  the 
+
+Commission is considering it carefully in the context of the existing legal framework, bearing 
+
+in mind food safety, the desire of consumers for information, animal health and welfare, and 
+
+other relevant factors such as ethical considerations. 
+
+In  February  2007,  following  the  announcement  by  the  US  Food  and  Drug  Administration 
+
+(FDA)  concerning  possible  authorisation  of  food  products  derived  from  cloned  cattle,  pigs 
+
+and goats on the market, President Barroso asked the EGE to issue an Opinion on the ethical 
+
+implications of cloning animals for food.  
+
+At the same time, the European Food and Safety Agency (EFSA6), was asked to produce an 
+
+Opinion on food safety, animal health, and environmental implications of live cloned animals 
+
+obtained  through  somatic  cell  nuclear  transfer  technique  (SCNT),  their  offspring  and  the 
+products obtained from them7.   
+
+The EGE previously issued an Opinion on the ethics of animal cloning in 1997, but owing to 
+
+the  state  of  the  art  of  the  technology  at  that  time,  it  did  not  address  the  ethics  of  animal 
+
+cloning specifically for food supply. The present EGE Opinion complements and updates the 
+
+previous  one  and  is  intended  to  be  complementary  to  that  of  the  EFSA.  The  ethical 
+
+considerations  in  this  Opinion  will  therefore  refer  to  the  use  of  animal  cloning  in  breeding 
+
+establishments in order to produce progeny that could enter the food chain.   
+
+6  The  European  Food  Safety  Authority  (EFSA)  is  the  keystone  European  Union  Agency  on  risk  assessment 
+regarding food and feed safety. EFSA provides independent scientific advice and communication on existing and 
+emerging risks. http://www.efsa.eu.int
+
+5
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+2. Scientific background to animal cloning 
+
+2.1. Definitions 
+The term "cloning" is applied to different activities in life sciences8, but for the purposes of 
+
+this Opinion the word “cloning” will refer to cloning by somatic cell nuclear transfer (SCNT) 
+
+that  allows  scientists  to  create  genetic  replicas  (clones)  from  adult  animals  that  “share  the 
+same nuclear gene set” as another organism.9
+
+Cloning: The word 'cloning' derives from the Greek word for 'twin' and was originally used in 
+
+microbiology and in agriculture for the process of multiplying single organisms by means of 
+
+asexual reproduction to create a population of identical individuals.  
+
+Embryo  splitting  involves  the  division  of  embryos  at  an  early  stage  of  development  to 
+
+produce  two  embryos,  and  usually  can  only  be  performed  once  or  twice,  achieving  a 
+
+maximum of four genetically identical organisms. Experiments on embryo splitting date back 
+
+to 1891 with sea urchins and later on with salamanders (1902). 
+
+Cloning by somatic cell nuclear transfer (SCNT) involves replacing an egg’s nucleus with the 
+
+nucleus  of  an  adult  cell  (or  that  derived  from  an  embryo  or  foetus)  to  be  cloned,  and  then 
+
+activating  the  egg’s  further  development  without  fertilisation.  The  egg  genetically  re-
+
+programmes  the  transferred  nucleus,  enabling  it  to  develop  directly  into  a  whole  new 
+
+organism.  
+
+2.2. Historical background  
+
+In  nature,  the  normal  reproductive  process  in  bacteria  and  in  the  simpler  animals  may  be 
+
+considered a form of cloning. Amoebas are single-celled protozoa which reproduce by binary 
+
+fission,  resulting  in  two  offspring  with  identical  genes.  In  more  complex  animals,  cloning 
+
+occurs  when  a  fertilised  egg  splits  to  give  identical  twins.  In  the  case  of  humans  these  are 
+
+7  Animal  species  covered:  Captive  large  ruminants  (cattle);  Captive  small  ruminants  (goats,  sheep);  Pigs; 
+Oviparous animals (birds, chicken).  
+8 For example, molecular cloning involves different techniques to multiply DNA sequences either in-vitro or in 
+vivo, related to recombinant DNA techniques. Cellular cloning is the process of isolating single cells in culture 
+and  propagating  them  in  order  to  obtain  a  cell  population.  It  is  the  basic  procedure  for  produceingclonal  cell 
+lines, for example for the production of monoclonal antibodies. 
+9  In  their  phenotype  there  seem  to  be  differences  due  epigenetic  effects  influencing  gene  expression. 
+"Epigenetics"  aims  to  describe  the  inheritance  of  information  on  the  basis  of  gene  expression  in  contrast  to 
+"Genetics", which aims to describe the inheritance of information on the basis of DNA sequence. 
+
+6
+
+ 
+ 
+ 
+ 
+                                                                                                                                                         
+ 
+homozygous twins. This natural phenomenon has been studied over a long period of time, and 
+
+biologists  have  started  to  develop  techniques  to  induce  or  reproduce  the  cloning  of  living 
+
+organisms. 
+
+Examples of natural cloning 
+
+Contrary to the general perception, cloning is not a new technology. The first experiments of 
+
+nuclear  transfer  with  amphibians  (Rana  pipiens  and  Xenopus  laevis)  were  performed  in  the 
+
+United States and Britain during the 1950s to study the irreversibility of the modification of 
+
+genetic  material  of  differentiated  cells  from  adult  animals  (1952,  cloning  of  tadpoles). 
+
+Cloning  experiments  were  then  performed  in  amphibians  in  the  1960s  (fish  were  cloned  in 
+
+1963), in sheep in the 1980s, in monkeys in the 1990s, and in a range of animal species during 
+
+the last 10 years (from primates, to cattle, to swine in the early 2000's).  
+
+During the last decade (1997-2007) only non-primate mammals were reported to be cloned. 
+
+Most  recently,  in  2007  a  US-based  research  group  reported  the  creation  of  several  embryos 
+cloned from an adult rhesus monkey10.
+
+Table 1. Domestic animal species cloned so far: 
+
+Year of first cloning 
+1963 
+1996 
+1998 
+2000 
+2002 
+2003 
+2004 
+2005 
+2006 
+
+Species 
+Carp 
+Sheep 
+Cow, Mouse 
+Pig, Goat 
+Rat, Rabbit 
+Mule, Horse 
+Cat 
+Dog 
+Ferret 
+
+10 The Independent, 12 November 2007, http://news.independent.co.uk/sci_tech/article3152325.ece 
+
+7
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+2.3. Somatic cell nuclear transfer (SCNT) 
+At present, the most commonly used technique for animal cloning is Somatic Cell Nuclear 
+
+Transfer (SCNT). SCNT can be achieved via three main steps:  
+
+1)  enucleation of an oocyte, performed mechanically by fixing the oocyte and aspirating the nucleus 
+
+by using a sharp glass pipette. 
+transfer  of  the  nucleus  from  the  donor  cell11  into  the  fertilized  enucleated  oocyte12;  most 
+
+2) 
+
+commonly, the somatic cell's nucleus is injected under the zona pellucida of the egg cell by using a 
+
+micro-manipulator  and  a  microscope.  To  induce  membrane  fusion  of  the  two  cells,  a  short 
+
+electrical impulse is applied. 
+
+3)  activation and  reprogramming of  the reconstructed  embryo. In  order  to  kick  start development, 
+
+reprogramming  of  the  donor  nucleus  is  needed;  this  seems  to  happen  via  factors  present  in  the 
+
+recipient's cytoplasm, but the exact mechanisms are still unknown. A necessary step in this process 
+is to mimic the cellular conditions after physiological fertilisation13.  
+
+When the cloned embryo resulting from SCNT starts to develop it is transferred to a surrogate 
+
+mother,  which  carries  out  the  pregnancy.  The  transfer  to  the  surrogate  mother  is  species 
+
+specific, both in terms of timing and procedure. In some species, like pigs, the transfer has to 
+
+be done by surgical procedures, and it is usually carried out one day after the nuclear injection 
+
+and  embryo  activation  (a  single  one-cell  stage).  In  other  species,  like  cattle,  transfer  can  be 
+
+done  without  surgical  procedure,  and  embryos  are  usually  transferred  at  a  later  stage,  one 
+week after embryo reconstruction14. So far, around a dozen animal species have been cloned 
+
+via SCNT. Animal clones that are relevant for the food market include sheep, goats, bovines 
+
+and pigs. 
+
+As the commercial interest in cloning farm animals has grown, the cloning technique has been 
+
+refined  and  success  rates  are  improving.  A  step  in  this  process  is  the  establishment  of 
+
+alternative  and  simplified  procedures  for  the  production  of  cloned  animals.  For  example,  in 
+
+11 Donor somatic cells can now be derived from a variety of different tissues. Interestingly, some tissues seem to 
+be more suitable for SCNT than others, giving higher rates of pregnancy and live births, the reason thereof still 
+being  unclear.  At  present,  cloned  offspring  has  been  born  from  a  dozen  of  differentiated  donor  cells,  out  of 
+roughly 200 existing cell types. 
+12  Recipient  oocytes  are  often  obtained  from  slaughterhouses  (as  for  cows,  pigs,  sometimes  sheep),  so  that 
+material is abundant even if of lower quality, and extremely inexpensive. They are cultured in vitro and treated 
+with hormones for a variable length of time before they can differentiate and be used for SCNT. 
+13 Some of these conditions include: increase of the intra-cellular calcium, which usually follows the penetration 
+of the spermatozoa, and subsequent decrease of the maturation promoting factor (MPF). Both conditions can be 
+artificially  achieved  by  treating  the  reconstructed  embryo  after  SCNT  briefly  with  a  chemical  agent  to  block 
+protein synthesis, or by applying a brief electrical shock. 
+
+8
+
+ 
+ 
+ 
+                                                 
+ 
+order  to  reduce  the  need  for  expensive  equipment  such  as  micromanipulators  for  nuclear 
+transfer,  scientists  have  recently  discovered  so  called  'handmade'  cloning15.  This  nuclear 
+
+transfer  technology  might  also  make  the  techniques  available  to  less  developed  countries, 
+
+where it would not otherwise be possible to implement it successfully.   
+
+Figure 2 Scheme of the Cloning technique 
+
+2.4. Dolly  
+
+The attention of the general public was attracted when the birth of the first cloned mammal, 
+
+Dolly, was announced in 1996. Its embryo was derived from cells that had been taken from 
+
+the udder of a 6-year old Finn Dorset ewe and cultured for several weeks in the laboratory. 
+
+These cells were then fused with unfertilised eggs from which the genetic material had been 
+removed  and  then  successfully  implanted  in  a  surrogate  mother  sheep16.  Dolly’s  birth 
+provided a revolutionary method of producing animals identical to an adult one17.  
+
+14 In cattle, initially 1-4 embryos were transferred, but nowadays there is a tendency towards single transfer, to 
+avoid problems with multiple pregnancies. 
+15 Vajta G. "Handmade cloning: the future way of nuclear transfer? Trends Biotech, 25:250-253 (2007) 
+16  Biologists  cultured  276  of  these  reconstructed  eggs  for  6  days  in  temporary  recipients.  Twenty-nine  of  the 
+eggs  that  appeared  to  have  developed  normally  up  until  the  blastocyst  stage  were  implanted  into  surrogate 
+Scottish Blackface ewes. 
+17  The  innovatiove  feature  of  the  nuclear  transfer  technique  (NTT)  was  the  use  of  unfertilised  eggs  and  their 
+fusion with a cell that contained the genetic endowment of only one organism. 
+
+9
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                         
+ 
+After the successful experiment that produced Dolly, several laboratories18 began to work on 
+
+applications  of  animal  cloning  using  somatic  cell  nuclear  transfer.  Biologists  successively 
+
+cloned other animals, such as goats and cattle (see Revel, 2000:43-59). In 1997, the cloning of 
+
+a  transgenic  lamb  (Polly)  cloned  from  cells  engineered  with  a  marker  gene  and  a  human 
+gene19 was announced. In this way, the genetic modification of a lamb was combined with the 
+
+techniques of cloning, thereby generating animals that produce a new protein. 
+
+2.4.1. Biological implications 
+
+Contrary to the common perception, a number  of biological factors contradict to the claim 
+
+that clones are carbon copies of their ancestors:  
+
+1) The mitochondrial DNA comes from the egg and is therefore different from that in 
+
+the cells of the donor of the nucleus;  
+
+2)  Gene  expression  depends  not  only  on  the  sequence  of  naked  DNA,  but  also  on 
+
+DNA  modifications,  chromatin  structure  and  the  presence  of  small  RNAs.  These 
+
+mechanisms are the basis of epigenetic mechanisms and it is not known how they are 
+
+reprogrammed in the cloned embryo; 
+
+3)  The  whole  new  organism  develops  from  a  single  cell  that  multiplies  several 
+
+million  times  giving  origin  to  multiple  organs  and  allowing  for  spontaneous  DNA 
+
+mutations in single somatic cells and phenotypical differences;  
+
+4) Several organs including the immune system and the brain are not fully developed 
+
+at  the  embryonal  stage,  hence  clones  may  have  multiple  differences  from  their 
+
+nucleus donor. 
+
+2.5. Animal health and welfare problems related to cloning 
+
+As already stated, cloning is not a new technology, but it still has relatively low efficiency and 
+
+leads to high perinatal and postnatal disease and mortality of cloned organisms. Animal health 
+
+18  “In  cloning  procedures  generally,  nuclei  are  extracted  from  cultured  cells  that  might  have  come  originally 
+from  an  embryo,  a  foetus  or  an  adult  organism.  The  nuclei  are  inserted  into  egg  cells  which  have  had  their 
+original  nucleus  removed,  a  process  called  nuclear  transfer.  In  the  initial  work  at  the  Roslin  Institute,  the  egg 
+cells along with their transplanted nuclei were then implanted directly into a foster mother, where they developed 
+and, 
+offspring.” 
+resulted 
+(http://www.sciam.com/explorations/090297clone/beardsley.html).  
+
+Dolly, 
+
+viable 
+
+case 
+
+the 
+
+of 
+
+in 
+
+in 
+
+a 
+
+19 Human clotting factor IX (see: http://www.sciencemag.org/cgi/content/abstract/278/5346/2130) 
+
+10
+
+ 
+ 
+ 
+ 
+                                                 
+ 
+and welfare issues are therefore extremely important when assessing the implications of this 
+
+technology and its industrial use in terms of both efficacy and safety. 
+
+2.5.1 Animal health 
+
+The  mechanical  stress  exercised  on  the  donor  egg  cell  and  in  vitro  conditions  for  the 
+
+embryonic  culture  are  critical  aspects  of  the  cloning  techniques.  A  high  degree  of  technical 
+
+skill  and  quality  equipments  are  needed,  otherwise  the  ‘quality’  (viability,  health)  of  the 
+
+clones, as well as the overall SCNT efficacy are compromised.  
+
+In cattle, at day 50 post transfer, pregnancy rates can be as high as 65% (and therefore similar 
+
+to other assisted reproduction technologies), but a continual loss is observed up  to delivery, 
+
+leading  to  a  live  birth  efficiency  as  low  as  13%  (a  value,  which  is  highly  laboratory 
+
+dependent).  After  birth,  around  20%  of  calves  don't  survive  the  first  24h,  and  an  additional 
+
+15% die before weaning.  
+
+Animal  cloning 
+
+induces  several  complications  with  regard 
+
+to 
+
+the  pregnancy  and 
+
+developmental anomalies appear at both in vitro and in vivo phases (Table 2). Those comprise 
+
+for  example,  missing  embryo  development,  increased  foetal  loss,  placenta  inadequacy, 
+
+abnormal placenta and foetus size, increase in the average abortion rate.  
+
+For  the  cloned  animals,  following  abnormalities  are  observed  with  varying  frequencies:  an 
+
+increased weight; malformations and reduced viability at birth; respiratory problems; enlarged 
+
+foetal liver; epidermal haemorrhages; kidney abnormalities etc.  
+
+Epigenetic changes in reprogramming of the donor’s nucleus in SCNT have been implicated 
+
+in causing many of these anomalies. Much of the ongoing research in this rapidly expanding 
+
+field  is  focused  on  gathering  and  understanding  data  in  prospective  observation  studies  in 
+
+cloned animals during their lifetime.
+
+The  mentioned  phenotypic  abnormalities  are  documented  in  the  first  generation  (F0)  of 
+
+cloned  animals  (i.e.  in  the  clones  themselves),  while  their  offspring  (F1)  seems  to  be 
+
+apparently  healthy.  The  available  data,  however,  are  still  limited  to  allow  at  present  any 
+
+definitive conclusions. Due to the long life cycle of the most of the farm animals in question, 
+
+11
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the data and information gathering in order to respond to the questions regarding the SCNT 
+
+cloned animals’ health may require a longer period of time than the one analysed so far.  
+
+The EFSA Opinion will provide a more detailed analysis of the animal health implications of 
+
+SCNT based upon the actually available data.  
+
+Short-term 
+abnormalities
+Other 
+abnormalities
+
+Large offspring 
+syndrome20 
+(LOS)
+
+Post-natal 
+Mortality
+
+Table 2. Abnormalities correlated with SCNT 
+
+These abnormalities include decreased rate of growth and chromosomal abnormalities. 
+This usually leads to early embryonal death, within the first few weeks of gestation. 
+Abnormalities  can  be  observed  later  during  gestation  or  even  after  birth.  The  major 
+cause of such abnormalities is thought to be of epigenetic origin and can be correlated 
+with inadequate reprogramming of the donor DNA. 
+LOS  comprises  a  large  number  of  symptoms,  often  manifested  as  increased  birth 
+weight  of  offspring,  due  to  foetal  overgrowth  and  prolonged  gestation.  Also  due  to 
+LOS,  most  of  deliveries  in  cattle  are  performed  via  caesarean  section.  Following 
+problems  are  related  to  LOS:  placental  abnormalities,  stillbirth,  malformations  of 
+several  organs  (liver,  brain,  uro-genital  tract),  immune  dysfunction,  infections.  The 
+pathological  picture  can  vary  considerably  from  case  to  case  and  among  different 
+species. 
+Postnatal mortality is observed in a biphasic modality: early neonatal mortality, usually 
+within  one  week  after  birth,  or  later  in  life  up  to  6  months  of  age.  In  the  first  group, 
+death is usually due to cardiovascular failure, whereas in the second group the majority 
+of cases are related to immuno-deficiencies and / or liver failure. After six months of 
+age,  if  the  animal  reaches  adulthood,  it  is  usually  as  healthy  as  control,  non-cloned 
+animals 
+
+2.5.2. Animal welfare 
+
+The animal health problems related to SCNT cloning techniques (see 2.4.1. for details) pose 
+
+multiple and questions from the point of view of the animal welfare. When considering those 
+
+questions, the welfare of the clones themselves (F0 generation), of their “surrogate mothers”, 
+
+as well as of the next generations of the clones’ progeny (F1, F2 and subsequent) should be 
+
+taken into account, together with existing knowledge gaps in this area.       
+
+The  EFSA  draft  Opinion  provides  a  detailed  analysis  of  the  animal  welfare  implications  of 
+
+SCNT based on the actually available data.  
+
+2.6 Potential applications of animal cloning for the food supply 
+
+After  10  years  of  research  activity  the  main  planned  application  of  animal  cloning  for  food 
+
+production today is the propagation of a desirable genotype: individuals of high genetic merit, 
+
+improved traits such as an increase in productivity, animal health and/or the quality of food 
+
+products.  In  this  sense,  cloning  is  seen  as  a  way  of  ensuring  a  continuum  supply  of  genetic 
+
+material  from  elite  animals  to  be  used  in  breeding  programmes  for  farm  animals.  Thus,  the 
+
+20 The term used to describe some of these developmental anomalies is ‘large offspring syndrome” (LOS). 
+
+12
+
+ 
+ 
+ 
+                                                 
+ 
+animals to be cloned would be those having traits of interest for farming, such as resistance to 
+
+diseases, or characteristics of interest for food production, such as quantity of milk, quality of 
+
+meat or others. 
+
+Animal  cloning  is  therefore  seen  as  representing  a  further  technological  process  for  animal 
+
+breeding,  in  which  reproduction  occurs  in  an  asexual  manner  and  which  allows  the 
+
+propagation of desired traits more quickly than through standard mating schemes. At present a 
+
+range of breeding techniques is employed in animal farming, including: artificial insemination 
+
+(AI), in vitro fertilization (IVF) and embryo splitting. SCNT may have an impact on classical 
+
+farm  animal  breeding  because  it  would  be  possible  to  duplicate  animals  with  high  genetic 
+
+value  to  increase  their  number  of  offspring  (e.g.  increasing  the  number  of  valid  males  for 
+
+artificial insemination etc.).  
+
+Table 3. Current Animal Breeding techniques 
+
+Studies of AI for cattle breeding began as early as the 1900's. By the 1940's it had become 
+a routine procedure. It allows mating between high quality livestock without the physical 
+presence of the bull. The bull's semen is collected, frozen and shipped worldwide, where 
+female animals are inseminated. Nowadays AI represents nearly 75% of all inseminations 
+for  cattle  breeding  and  up  to  85%  for  swine  breeding.  Breeders keep  accurate  records in 
+order to avoid inbreeding problems. 
+IVF  is  employed  in  farm  animal  breeding  in  order  to  allow  embryo  selection  and  to 
+increase productivity.  
+
+Artificial 
+insemination 
+(AI)
+
+In Vitro 
+Fertilisation 
+(IVF)  
+
+Embryo 
+splitting
+
+Each good quality embryo can be dissected by means of a stereoscopic microscope and a 
+fine glass needle (or a razor) to give rise to twins. Using this procedure a 1.5 fold increase 
+in  productivity  can  be  achieved,  even  in  less  developed  countries,  as  the  technology 
+involved is not particularly complex.  
+
+Animal 
+cloning 
+breeding 
+purpose
+
+for 
+
+The extremely high fidelity in reproducing a particular genotype achieved by cloning could 
+lead  to  ‘tailor-made’  strains  of  livestock.  Biotechnology  companies  claim  that  the  major 
+potential benefit of cloning is the possibility of building up a herd of animals for breeding 
+that will create genetically determined populations. Cloning of animals for mating would 
+make  it  possible  to  respond  more  quickly  than  in  traditional  mating  programmes  to  the 
+needs of both animal breeding and the food industry. However, the relevance of SCNT to 
+the long-term future applications for farm animal breeding and food production in Europe 
+still needs to be explored.  
+
+The  potential  of  cloning  for  animal  breeding  programmes  has  been  boosted  by  the 
+
+improvement in the efficacy of the technology involved. In fact, when Dolly was created the 
+
+success rate was around 2%; now it is 10-20% in cattle, although the data are highly species-
+
+dependent. As for other ART used in animal breeding programmes, the post-natal success rate 
+
+of cloning generally  remains  quite  low, regardless of the methodology used. In some cases, 
+
+the low success rate - combined with the fact that cloned animals sometimes differ from the 
+
+original  animal  due  to  epigenetic  effects,  plus  the  high  final  cost  of  the  technology  -  may 
+
+13
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+make the possible applications of animal cloning in food and animal breeding industry a very 
+
+complex issue, and cloning might become unattractive from an economic point of view. 
+
+Frozen  semen  from  cattle  is  sold  widely  in  the  EU  for  artificial  insemination  purposes,  and 
+some  companies  in  the  US  already  offer  semen  from  cloned  bulls21,  envisaging  a  rapid 
+
+expansion of the market for cloned livestock from the US to the EU if this is commercialized. 
+
+This would suggest that the cloned animals have a low probability of entering the food chain 
+
+by themselves, and that only their progeny may be used for food production. Offspring from 
+
+cloned cattle and pigs are currently used for research purposes only, but may be ready to enter 
+
+the  food  chain  soon  if  this  technique  is  commercialized;  the  same  applies  to  food  products, 
+
+such as milk, meat and derivatives, obtained from the offspring of clones. 
+
+The  estimated  timeline  for  the  commercialization  of  food  products  derived  from  cloned 
+
+animals has been indicated for the USA and foresees the commercialization of food products 
+
+from cloned animals within a couple of years from now (see table 4 below).  
+
+Table 4. Indicative timetable for the commercialization of food products derived from cloned animals22
+
+2005 → 2010: 
+
+2010 → 2015: 
+
+Semen and offspring from cloned cattle, and milk, meat and derivatives from offspring of 
+cloned cattle; Semen and offspring from cloned pigs, and pig meat and derivatives from 
+offspring of cloned pigs. 
+Cloned  cattle  and  milk,  beef  and  derivatives  from  cloned  cattle;  Cloned  pigs,  pig  meat 
+and derivatives from cloned pigs. 
+
+If authorised by the FDA (or EFSA in the EU), it may be hypothesised that it will take at least 
+
+3-5 years before food from the offspring of clones becomes available to the consumer (earlier 
+
+for swine, later for bovines). In the dairy industry, most clones will be breeding bulls used for 
+
+semen collection.  
+
+According to EU experts, no cloned animals have yet reached the food chain in Europe and no 
+
+projects have yet been established to use bovine clones (or their products) for the food supply 
+
+industry. However, an accurate forecast for the EU is still very difficult to make at present. 
+
+The EFSA Opinion may provide some significant information on this question. 
+
+21 http://www.timesonline.co.uk/tol/life_and_style/food_and_drink/article1264944.ece 
+22  'Dolly  for  dinner?  Assessing  commercial  and  regulatory  trends  in  cloned  livestock.',  Suk  J.  et  al.,  Nature 
+Biotechnology, 25(1), 2007.  
+
+14
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+2.7 Long-term future applications of animal cloning 
+
+In the long run, the cloning of farm animals could be combined with genetic modifications so 
+
+as  to  have  livestock  with  specific  characteristics,  for  example,  genetic  resistance  to  specific 
+
+diseases (bovine BSE, mastitis, brucellosis, tropical diseases etc.) or producing food products 
+
+of higher value than natural ones, so-called "nutraceuticals", such as low-lactose milk, kappa 
+
+casein  rich  milk,  better  beef  from  myostatin  TG  cattle  etc.  In  this  way,  cloning  -  in 
+combination  with  transgenesis23  -  may  be  a  potentially  rich  source  of  edible  products  for 
+
+biomedical  purposes  (e.g.  production  of  proteins,  such  as  milk  proteins,  to  be  used  for 
+
+therapeutic  purposes  at  lower  cost,  or  providing  a  source  of  organs  or  tissue  for 
+
+xenotransplantation).  
+
+In Europe, the most promising application still appears to be cloning for biomedical purpose, 
+
+such as the production of animal models for biomedical purposes (e.g. research in the field of 
+Alzheimer’s  disease24,  models  to  improve  the  understanding  of  embryogenesis,  bioreactors 
+
+etc.) or as sources of organs for transplantation. This use of animal cloning, however, entails 
+
+completely  different  aspects  that  need  to  be  considered  from  the  legal  and  ethical  points  of 
+view, and so it is not addressed in this Opinion (see EGE Opinion on Cloning25). 
+
+2.8. Safety and risk assessment of cloning for food 
+
+To date, there has been no comprehensive scientific risk assessment at EU level on the use of 
+
+products  from  cloned  animals  or  their  offspring  (e.g.  meat  and  milk,  semen,  and  embryos). 
+
+EFSA is to produce a risk assessment that will cover food safety, human and animal health, 
+
+animal  welfare  and  the  environmental  implications  that  may  flow  from  this  use  of 
+
+biotechnology. The EFSA Opinion, due to be published in early 2008, will cover both cloned 
+
+animals and their offspring.  
+
+2.8.1  Report  by  the  US  Food  and  Drug  Administration  (FDA)  on  the  health  of  cloned 
+
+animals and safety of their food products 
+
+23  As  transgenic  clones,  the  clones  are  derived  from  donor  cells  containing  exogenous  DNA  inserted  by 
+molecular  biology  techniques,  they  are  subjected  to  risk  assessments  specific  to  the  inserted  construct,  its 
+insertion site, and its subsequent expression.   
+24  Vajta  lab,  Population  Genetics  and  Embryology,  Institute  of  Genetics  and  Biotechnology,  Faculty  of 
+Agricultural Sciences, University of Aarhus, DK-8830 Tjele, Denmark; Institute of Human Genetics, University 
+of Aarhus, DK-8000 Aarhus, Denmark. 
+25 http://ec.europa.eu/european_group_ethics/docs/opinion9_en.pdf 
+
+15
+
+ 
+ 
+ 
+ 
+                                                 
+ 
+The  US  agency  responsible  for  food  safety  (FDA)  carried  out  a  risk  assessment  of  cloned 
+animals  (cattle,  swine,  sheep  and  goats),  their  offspring  and  their  food  products26.  The 
+
+Opinion of the FDA has been adopted on January 15, 2008.  
+
+The FDA attempted first of all to identify hazards and risks on the basis of the available data 
+
+and  consideration  of  the  biological  processes  involved  in  cloning.  In  order  to  analyse  the 
+
+potential risks associated with food derived from animal clones and their progeny, the FDA 
+
+asked  whether  such  food  posed  any  additional  risk  relative  to  that  arising  from  sexually-
+derived animals or other kinds of 'conventional' animals27.  
+
+According to the FDA draft report, as cloning is a relatively new technology, available data 
+are  still  limited28,29.  Data-set  size  will  therefore  increase  in  the  near  future,  making  risk 
+assessment more and more significant30.  
+
+Because  no  additional  genes  are  inserted,  the  FDA  has  concluded  that  the  main  hazard  to 
+
+which  clones  are  exposed  is  that  arising  from  incomplete  or  inappropriate  nuclear 
+
+reprogramming  of  the  genetic  information  from  the  donor  somatic  nucleus  (e.g.  epigenetic 
+effects31).  This  would  explain  the  low  “success  rate”  of  cloning,  death,  metabolic 
+
+derangements,  or  other  the  perinatal  difficulties  observed  in  some  newborn  clones,  or 
+
+occasional  examples  of  altered  metabolic  pathways  in  very  young  animals.  Those  clones 
+
+exhibiting the above malformation will be excluded from the market; food hazard may remain 
+
+for  those  clones  that  have  apparently  normal  functions,  but  with  sub-clinical  physiological 
+
+26 http://www.fda.gov/bbs/topics/NEWS/2006/NEW01541.html 
+27 In this context, 'conventional animals' were defined as 'animals derived by any reproductive means other than 
+SCNT', thus comprising other ARTs such as artificial insemination and IVF. 
+28  Hazards  and  risks  are  being  identified,  as  well  as  the  degree  to  which  existing  data  (and  their  pool  size) 
+address questions of food safety. 
+29 At present, most of the research studies on animal cloning report on the success rates of this biotechnology 
+from various donor cell sources and culture conditions; they also report on the frequency of abnormalities and 
+other problems such as the large offspring syndrome (LOS), the nature and frequency of developmental defects.  
+30 The question arises as to whether enough data have been collected to draw confident conclusions regarding 
+food  products  derived  from  animal  clones.  It  is  true  that  the  cloning  technology  has  not  yet  generated  large, 
+statistically  strong  datasets  on  clones.  In  this  sense,  one  observation  made  by  the  FDA  concerning 
+Developmental Study was that the data on the health of livestock clones were consistent across species, even if 
+some anomalies appear to be species-specific. For example, although LOS seems to be more prevalent in cattle 
+and  sheep,  surviving  animals  overcame  initial  anomalies  and  became  “healthy  and  normal.”  According  to  the 
+FDA, such consistency increases the value of even small datasets (e.g. goats), and contributes to the judgments 
+regarding the health of these clones and their suitability as food sources. In addition, the FDA evaluated other 
+reports on the composition of meat and milk from clones and their progeny.  
+31  Epigenetics  describes stable  alterations  in gene  expression  potentials  that  arise  during  development  and cell 
+proliferation, or alterations in DNA function without alterations in DNA sequence. 
+
+16
+
+ 
+ 
+ 
+                                                 
+ 
+anomalies32. However, these effects are not transmitted to the offspring of the healthy animals 
+
+that  are  those  used  for  reproduction,  as  it  is  supposed  that  characteristics  of  an  epigenetic 
+
+nature are in general not transmitted to the descendance. 
+
+The FDA could not identify any toxicological hazard of concern for human consumers and, 
+
+although  they  stated  that  additional  data  from  other  sets  of  animals  would  be  useful  in 
+
+increasing confidence in food safety, the weight of evidence at this time is sufficient for the 
+
+agency  to  draw  the  conclusions  it  has  set  out  in  its  Draft  Risk  Assessment  with  reasonable 
+
+certainty. 
+
+Source 
+
+Cyagra 
+
+Animals 
+Cattle 
+
+Viagen 
+
+Swine 
+
+Number 
+
+67 clones 
+83 controls 
+
+7 clones  
+15 controls 
+
+4 clones 
+3 controls 
+
+F1 progeny: 
+402 clones 
+300 controls 
+
+Table 5. FDA study datasets 
+
+Group 
+
+1) Neonatal 
+2) 1-6 months 
+3)Up to 18 months 
+
+50 days to 6 months 
+
+Analysis 
+
+1) clinical chemistry and hematology 
+2) veterinary examination 
+
+Veterinary examination 
+Composition of meat 
+
+For fertility tests 
+
+Semen analysis, breeding capacity 
+
+Development  up  to  ca. 
+6 months 
+
+Abnormalities  and  weight  at  birth,  physiology 
+tests 
+Veterinary examination 
+
+Analysis was not performed in a double blind manner. 
+
+2.9 Biodiversity, epidemics. 
+
+Some  have  advocated  that  the  multiplication  of  bioengineered  gene  pools,  in  a  repetitive 
+
+number  through  cloning,  could  interact  with  mechanisms  of  population  genetics  and  may 
+seriously damage biodiversity33 and favour the consolidation of specific allelic frequencies 
+at a population level34. It may therefore have a negative impact on adaptive mechanisms35 of 
+
+the  species  and  significant  social  and  economic  consequences  for  rural  areas,  agricultural 
+
+32 The preliminary FDA draft described the analysis of the composition of meat (from bovine and swine clones) 
+and milk (from bovine clones) products from F0 generation. The above analysis has not shown any biologically 
+relevant difference with the control animals, or food commonly consumed from these species on a daily basis. 
+Another  dataset  on  the  progeny  (F1)  of  swine  clones  also  indicated  that  the  composition  of  meat  from  those 
+animals does not differ from that of traditionally bred animals (see Table 6). 
+33  An  example  in  agriculture:  the  1845  Irish  potato  famine  was  due  to  genetic  uniformity  of  potato  plants. 
+(http://www.centerforfoodsafety.org/pubs/fact%20sheet.pdf) 
+34  The  possibility  of  continuously  recombining  genetic  data  allows  adaptive  processes.  The  primary  source  of 
+genetic variations in living beings is random genetic mutation and during cell division. The first one creates new 
+genetic  information  that  will  be  naturally  selected  over  time,  the  second  one  reshuffles  the  random  genetic 
+changes created by mutations. 
+
+17
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+trade and public perception36. In the long run it may cause the affirmation of specific allelic 
+
+frequencies, which may lead to epidemics due to the spread of breeds sensitive to a disease 
+
+that may rapidly propagate. It may be a way to reduce diversity in species that are already 
+
+suffering from a reduction of their genetic base. Therefore, cloning may cause an increase in 
+
+pathogenic gene frequencies at a population level or the loss of adaptive capacities. 
+
+Countering  the  arguments  above,  some  have  advocated  that  cloning  cannot  affect  the 
+
+incidence of given genes at population or species level owing to the limited number of cloned 
+
+animals, and that cloning could be a useful tool to breed animals with specific gene lineage, 
+such as cattle that are resistant to diseases or to specific environments37. 
+
+2.10. Farm animal cloning at international level 
+
+The first labs involved in mammal SCNT were in the USA, UK and Japan. However, over the 
+
+last decade, and in particular between 1997 and 2003, SCNT research began to be carried out 
+
+in different regions of the globe. At present, more than 160 laboratories in about 37 countries 
+
+are working on SCNT. Most of the resources are directed towards livestock cloning (around 
+
+75% of cases), whereas less than 30% of the work is directed at laboratory animals. Cattle are 
+
+most efficiently cloned by SCNT, which is practised in around 80 laboratories (50% of total 
+
+cloning labs) in 24 countries.  
+
+European Union 
+
+At present, there are very few institutes working on the cloning of large animals, and fewer 
+
+still  that  have  an  economic  interest  in  doing  so  (mainly  for  racehorses  and  other  lucrative 
+
+business, less for the food industry per se). In the EU there are currently roughly 120 cattle 
+clones38: in France (ca. 80), Germany (ca. 30) and Italy (ca. 10). 
+
+Japan 
+
+Japan  is  the  country  with  probably  the  highest  number  of  cloned  animals.  Since  the  first 
+
+cloned  calves  born  in  1990,  some  1 242  cloned  bovine  animals  have  been  manufactured  in 
+
+Japan  to  date  (status  as  of  end  March  2007).  As  regards  the  cloning  of  pigs  for  biomedical 
+
+research purposes, the first third-generation pig was born in August 2007 at Meiji University 
+
+35 http://blog.greenparty.ca/en/node/461 
+36 http://www.soilassociation.org/ 
+37 http://www.kirinholdings.co.jp/english/ir/news_release0601.html 
+38 Data from Agrobiogen (Germany). http://www.agrobiogen.com/ 
+
+18
+
+ 
+ 
+ 
+                                                                                                                                                         
+ 
+in  Tokyo39.  Reaching  the  fourth  generation  of  clones  has  significant  implications  for  the 
+
+breeding  and  reproduction  of  valuable  large  cloned  animals,  such  as  racehorses  and  mating 
+
+bulls.  
+
+United States of America (USA) 
+
+So far the USA is the country in which most of the companies have been established with the 
+
+aim of animal cloning for the food industry. The FDA report was based on a large population 
+of  cloned  animals  derived  from  two  such  companies:  ViaGen40  and  Cyagra41.  There  are 
+
+currently between 1 000 and 2 000 cloned cattle in the USA.  
+
+Argentina 
+
+The first cloned calf was born in Argentina in summer 2002. Argentina then began to actively 
+
+invest  in  the  cloning  of  large  animals.  Some  of  the  US-based  livestock  cloning  companies 
+
+opened branches in South America, especially Argentina and Brazil. 
+
+China 
+
+Cloning  research  has  been  developing  in  China  since  the  1990's.  The  first  company 
+
+specialising in SCNT was founded in 2001 and its focus is mainly on the cloning of domestic 
+
+animals. At the moment, China seems to represent a possible market for cloned livestock, as 
+
+the first cloned calves of Australian origin were sold to China in early 2002. Chinese experts 
+
+advocated a use of SCNT for the preservation of endangered species, such as the giant panda.  
+
+39 The pig is an important model in biomedical research, particularly for therapeutic purposes for diseases such 
+as diabetes and transplantation of the pancreatic Langerhans islets. 
+40 http://www.viagen.com/en/our-services/cloning/ 
+41 http://www.cyagra.com/index.htm 
+
+19
+
+ 
+ 
+ 
+ 
+                                                 
+ 
+3. LEGAL ASPECTS  
+
+The framework of EU legislation on animal breeding, animal health and welfare and food is 
+
+applicable to any future technologies on animals, such as animal cloning (SCNT). Most EU 
+
+legislation  may  be  applicable  to  animal  cloning  under  specific  circumstances,  as  there  is 
+
+currently  no  dedicated  regulation  on  food  products  derived  from  cloned  animals  or  animal 
+
+cloning as such in the EU.  
+
+EU  legislation  on  animals  for  food  production  requires  EU  competence  in  the  following 
+
+sectors: 
+
+1.  Internal  market  for  foodstuffs:  National  laws  hinder  the  free  movement  of 
+
+foodstuffs and create unfair competition, thereby directly affecting the functioning 
+
+of the internal market. 
+
+2.  Food  safety and consumer health protection: In order to protect public health, 
+
+certain foods are subject to a safety assessment via a Community procedure before 
+
+being  marketed  in  the  EU  (harmonised  safety  approach  at  EU  level).  Labelling 
+
+measures are also desirable, in order for the consumer to make an informed choice. 
+
+3.  Animal welfare and health: protection of animal health and welfare is an animal 
+
+husbandry requirement in the EU. 
+
+4.  Zootechnics: regulation of the breeding aspects of animal husbandry. 
+
+Other relevant regulatory aspects to be taken into account include: 1) National legislation on 
+
+cloning  (EU  Member  States);  (2)  International  trade  agreements,  (3)  Intellectual  Property 
+
+Rights (IPR). 
+
+3.1 EU Regulatory Framework. 
+
+The  EU  Treaty  lays  down  a  number  of  principles  (which  are  properly  reflected  in  the 
+European  Charter  of  Fundamental  Rights42)  that  may  apply  to  animal  cloning  for  food 
+
+production, namely: 
+
+42  Charter  of  Fundamental  Rights:  ‘Conscious  of  its  spiritual  and  moral  heritage,  the  Union  is  founded  on  the 
+indivisible, universal values of human dignity, freedom, equality and solidarity; it is based on the principles of 
+democracy and the rule of law. It places the individual at the heart of its activities, by establishing the citizenship 
+of  the Union  and by  creating  an  area  of freedom,  security  and  justice.’ (…)  It  seeks  to  promote  balanced  and 
+
+20
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+Article 14 (‘Free movement of goods, persons, services and capital’); Article 94 (‘EU legislation for 
+
+the  approximation  of  such  legislation  of  the  Member  States  as directly  affects  the  establishment  or 
+
+functioning  of  the  common  market.’)  Article  95  (‘The  Commission,  in  its  proposals,  concerning 
+
+health, safety, environmental protection and consumer protection, will take as a base a high level 
+
+of protection, taking account in particular of any new development based on scientific facts. ) 
+
+The Additional Protocol to the Amsterdam Treaty also states that EU Member States desire to 
+
+ensure improved protection and respect for the welfare of ‘animals as sentient beings' and that  
+
+"the  European  Community,  in  formulating and  implementing  the  Community's  agricultural,  transport, 
+
+internal market and research policies, the Community and the Member States shall pay full regard 
+
+to the welfare requirements of animals, while respecting the legislative or administrative provisions 
+
+and  customs  of  the  Member  States  relating  in  particular  to  religious  rites,  cultural  traditions  and 
+
+regional heritage." 
+
+3.1.1 EU food regulations 
+Regulation  (EC)  N°  178/2002  lays  down  the  general  principles  of  EU  food  law43  with 
+
+regard to protection of human life and health and the protection of consumers' interests, taking 
+
+account of, where appropriate, the protection of animal health and welfare, plant health and 
+
+the environment. It entails in particular an obligation on operators to place on the market only 
+
+food for which they have an assurance of safety. According to the above Regulation, food that 
+
+complies  with  Community  provisions  governing  food  safety  shall  be  deemed  to  be  safe 
+insofar as the aspects covered by specific Community provisions are concerned44. The general 
+
+principles and provisions of food law apply to all foods, including food derived from clones 
+
+and their offspring. 
+
+EU Directive 2000/13/EC on the labelling of food products lays down rules for the labelling 
+
+of  foodstuffs  to  enable  European  consumers  to  obtain  comprehensive  information  on  the 
+
+content and the composition of food products. Labelling helps consumers make an informed 
+
+sustainable development and ensures free movement of persons, goods, services and capital, and the freedom of 
+establishment. 
+43 General Food Law (Regulation 178/2002): Objectives: High level of protection of human life and health and 
+the  protection  of  consumers'  interests,  including  fair  practices  in  food  trade,  taking  account  of,  where 
+appropriate,  the  protection of  animal  health  and welfare, plant  health  and  the  environment;  Free  movement  of 
+Food;  International  standards  taken  into  consideration;  Science  based  decisions-making.  In  some  cases  other 
+legitimate factors need to be taken into account: e.g. societal, economic, traditional, ethical and environmental 
+factors and the feasibility of controls. 
+
+21
+
+ 
+ 
+ 
+ 
+                                                                                                                                                         
+ 
+choice  when  purchasing  their  foodstuffs.  Under  the  terms  of  the  above  Directive,  it  is  not 
+
+necessary to label a production technique or process 'as such', e.g. a cloning technique, used in 
+
+the production of the foodstuff.  
+
+Regulation (EC) No 258/97 on novel foods and novel food ingredients covers food that was 
+
+not used to a significant degree for human consumption before 15 May 1997, and inter alia 
+
+falls into category (e) of Article 1(2):  
+
+foods  and  food  ingredients  consisting  of  or  isolated  from  plants  and  food  ingredients  isolated  from 
+
+animals,  except  for  foods  and  food  ingredients  obtained  by  traditional  propagating  or  breeding 
+
+practices and having a history of safe food use. 
+
+Regulation  (EC)  No  258/97  may  cover  animal  food  products  (e.g.  meat,  milk)  produced 
+
+from  a  clone,  but  not  food  products  derived  from  offspring  of  clones,  since  offspring  are 
+reproduced in a 'conventional' way45 (i.e. using a traditional breeding technique).  
+
+Regulation (EC) No 258/97 also states that, in order to protect public health, novel foods are 
+
+subject to a safety assessment and authorisation under a Community procedure before they are 
+
+placed on the market (EFSA). Additional specific labelling for novel foods may be required in 
+
+a  case  where  a  novel  food  or  food  ingredient  is no  longer  equivalent  to  an  existing  food  or 
+
+food  ingredient.  The  comparison,  based  on  a  scientific  assessment,  must  have  regard  to  the 
+
+accepted limits of natural variations for characteristics of food.  
+
+GMO legislation would apply only if the cloning technique were to be combined with genetic 
+
+modification.  Whilst  cloned  animals  are  not  necessarily  genetically  modified,  one  of  the 
+
+reasons for using cloned animals may be the rapid extension of inserted genetic material.  
+
+Directive  2001/18/EC  regulates  the  deliberate  release  into  the  environment  of  genetically 
+
+modified organisms and therefore has environmental and human health protection purposes 
+as stated under Article 1 of the Directive46. According to Directive 2001/18/EC47, 'genetically 
+
+44 When there are no specific provisions at Community level, food products have to conform to national food law 
+of the Member States in whose territory they are marketed (see also the Art. 28 and 30 of the EU Treaty). 
+45  EFSA  will  clarify  in  its  Opinion  the  applicability  of  EC/258/97  provisions  to  products  from  clones  and 
+offspring. 
+46 In accordance with the precautionary principle, the objective of this Directive is to approximate the laws, 
+regulations and administrative provisions of the Member States and to protect human health and the environment 
+when: 1) carrying out the deliberate release into the environment of genetically modified organisms for any other 
+purposes  than  placing  on  the  market  within  the  Community,  2)  placing  on  the  market  genetically  modified 
+organisms as or in products within the Community. 
+
+22
+
+ 
+ 
+                                                                                                                                                         
+ 
+modified organism' (GMO) means an organism, with the exception of human beings, in which 
+
+the genetic material has been altered in a way that does not occur naturally by mating and/or 
+
+natural  recombination.  Within  the  terms  of  this  definition,  a  genetic  modification  occurs  at 
+least through the use of one of the techniques listed in Annex I A of the above Directive48.  
+
+EU  legislation  on  GMOs  (Directive  2001/18/EC,  Regulations  (EC)  1829/2003  and 
+1830/200349)  therefore  seem  not  to  be  applicable  to  cloning  techniques  unless  SCNT  is 
+combined with genetic modification50. The applicability of this legal framework will need to 
+
+be explored on a case-by-case basis as regards the technique used to produce the clones.  
+
+Genetically  modified  foods  or  food  ingredients  may  be  exempt  from  the  requirements  of 
+
+Regulation  258/97  as  they  are  separately  covered  by  Regulation  1829/2003  on  genetically 
+
+modified food and feed.   
+
+3.1.2 Other existing relevant EU legislation: zootechnics, animal welfare, animal health  
+
+The  breeding  aspects  of  animal  cloning  are  covered  by  Community  legislation  on 
+
+zootechnics  (Directives  77/504/EEC,  88/661/EEC,  89/361/EEC,  90/427EEC,  94/28/EC), 
+
+which has as its aim the need to avoid trade restrictions for purebred animals.  
+
+Zootechnical  rules  have  harmonised  the  EU  marketing  and import  of  animals,  semen,  ova 
+
+and  embryos  whether  they  have  been  bred  by  natural  mating  or  produced  using 
+
+biotechnological  techniques  such  as  artificial  insemination,  embryo  transfer,  in-vitro-
+
+fertilisation or SCNT. The relevant provisions are the following: 
+
+"Member  States  shall  ensure  that  the  following  shall  not  be  prohibited,  restricted  or  impeded  on 
+
+zootechnical grounds: 1) intra-Community trade in pure-bred breeding animals of the bovine species, 2) 
+
+intra-Community trade in the semen and embryos of pure-bred breeding animals of the bovine species 
+
+(…) intra-Community trade in bulls used for artificial insemination". (Directive 77/504/EEC, Article 2) 
+
+47  Directive  2001/18/EC  on  the  deliberate  release  into  the  environment  of  genetically  modified  organisms; 
+Scope:   Article 2 
+48  Regulations  (EC)  No  1829/2003  and  1830/2003  refer  to  the  definition  of  GMO  laid  down  in  Directive 
+2001/18/EC. 
+49  Directive 2001/18/EC on the deliberate release of GMOs into the environment and Regulations 1829/2003 on 
+GM food and feed and 1830/2003 on labelling and traceability of GMOs. 
+50  The  above  Directive  would  therefore  apply  to  animal  cloning  if  manipulation  of  the  gene  sequence  of  the 
+cloned animal were to be carried out. 
+
+23
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                         
+ 
+Some  EU  regulations  are  designed  to  regulate  specific  animal  species,  for  example  Dir. 
+
+88/661/EEC  concerns  swine  species,  Dir.  89/361/EEC  sheep  and  goats,  and  Dir.  90/427 
+
+equidae. 
+
+Council Directive 94/28/EC amending Directive 77/504/EEC: Articles 4 – 7 inclusive refer to 
+
+the import of animals, semen, ova and embryos respectively: 
+
+"To  be  imported,  the  (animals,  semen,  ova)  embryos  referred  to  in  Article  1  must:  1)  come  from  an 
+
+animal which is entered or registered in a herd book or register kept by an authority shown on one of 
+
+the lists referred to in Article 3 (1); 2) be accompanied by a pedigree and zootechnical certificate to be 
+
+drawn up in accordance with the procedure laid down in Article 12.  
+
+Trade in food products or animal farming is therefore already regulated at EU level.  
+
+Animal  welfare  aspects  are  covered  by  the  Council  of  Europe’s  European  Conventions  on 
+the  Protection  of  Animals51  and  several  Council  Directives.  Council  Directive  98/58,  in 
+
+particular,  deals  with  the  protection  of  animals  kept  for  farming  purposes,  and  states  that 
+
+natural,  artificial  breeding  or  other  breeding  procedures  which  cause,  or  are  likely  to  cause, 
+
+suffering or injury to any of the animals concerned must not be practised.  
+
+The  more  recent  Council  Directive  1999/74/EC52  defines  the  minimum  welfare  criteria  and 
+
+addresses  alternative  forms  of  rearing  for  laying  hens,  such  as  free  range  and  enriched 
+environment to allow animals a more natural behaviour53. 
+
+In the case of cattle and pig rearing, Council Directives 91/629/EEC and 91/630/EEC opened 
+
+the debate about the most appropriate farming techniques to achieve better health and welfare 
+
+results to improve the quality of the meat; as a consequence, sow stalls were banned and other 
+
+51 http://ec.europa.eu/food/animal/welfare/references/farmspc/jour323_en.pdf 
+Article 1:" This Convention shall apply to the keeping, care and housing of animals, and in particular to 
+animals in modern intensive stock-farming systems". 
+52 1999/74/EC of 19 July 1999 laying down minimum standards for the protection of laying hens.  
+53  Since  then,  investments  have  been  increasing  for  research  into  the  correlation  between  hen  farming 
+methodology, animal welfare and public health. Simultaneously, the market quota of 'free range' eggs has been 
+increasing  steadily  in  many  EU  countries,  showing  European  consumers'  interest  in  welfare  friendly  food 
+products,  as  reported  by  two  Eurobarometers  surveys  on  "Consumers  attitudes  towards  welfare  friendly 
+products" in 2005 and 2006 http://ec.europa.eu/food/animal/welfare/euro_barometer25_en.pdf  
+
+24
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+measures  were  adopted54,  such  as  investing  in  research  to  find  alternative  solutions  to 
+
+castration of piglets.  
+
+EU  animal  health  rules  are  applicable  to  intra-Community  trade  in  and  imports  of  live 
+
+animals,  semen,  ova  and  embryos,  irrespective  of  whether  they  have  been  bred  by  natural 
+
+mating or produced using biotechnological techniques such as artificial insemination, embryo 
+
+transfer, and in vitro fertilisation. 
+
+Moreover, the framework of the present EU legislation on animal health is also applicable to 
+
+the  movement  of  live  animals  and  their  products  resulting  from  future  technologies  such  as 
+
+SCNT.  
+
+Council Directive 89/556/EEC of 25 September 1989 on animal health conditions governing 
+
+intra-Community  trade  in  and  importation  from  third  countries  of  embryos  of  domestic 
+
+animals  of  the  bovine  species  and  Council  Directive  88/407/EEC  of  14  June  1988  laying 
+
+down the animal health requirements applicable to intra-Community trade in and imports of 
+semen  of  domestic  bovine  species  regulate  the  import  of  bovine  semen  and  embryos55, 
+
+subject to the exceptions set out in Article 1(2) of Directive 89/556/EEC: "This Directive shall 
+
+not apply to embryos derived by transfer of nuclei". However, to date, no EU Member States 
+have taken action on this exclusion area, and therefore harmonised EU rules apply56.  
+
+In  addition,  there  are  numerous  directives  and  decisions  laying  down  animal  health 
+
+requirements  relating  to  the  movement  of  semen,  ova  and  embryos  of  other  animal  species, 
+
+but none of the other pieces of legislation include any such exception. Cloned embryos from 
+
+animal species other than bovines are therefore covered by EU animal health legislation.  
+
+The  legal  framework  that  regulates  animal  cloning  for  research  purposes  is  Directive 
+
+86/609/EEC on the protection of animals used for experimental and other scientific purposes. 
+
+The scope of that Directive is determined by the likelihood of an animal being subject to pain, 
+
+suffering, distress or lasting harm, including any course of action intended, or liable, to result 
+
+in the birth of an animal in any such condition.  
+
+54 91/629/EC and 91/630/EC of 19 November 1991 laying down minimum standards for the protection of cattle 
+and pigs. 
+55 For bovine embryos derived by transfer of nuclei, which are excluded from the scope of Directive 89/556/EEC 
+[OJ L 302, 19.10.89, p.1], Member States are allowed to set national import conditions. 
+
+25
+
+ 
+ 
+ 
+ 
+                                                 
+ 
+Article  2  (d)  'experiment'  means  any  use  of  an  animal  for  experimental  or  other  scientific  purposes 
+
+which may cause it pain, suffering, distress or lasting harm, including any course of action intended, or 
+liable, to result in the birth of an animal in any such condition,…"57
+
+The Council of Europe Convention ETS 123, on the same subject, was adopted in 1986. The 
+
+Community  is  a  party  to  this  Convention,  with  Directive  86/609/EEC  as  the  implementing 
+
+instrument. With reference to genetically altered animals, the Parties to the Convention agreed 
+
+to interpret the Convention as follows:  
+
+(1)  For  the  purpose  of  the  Convention,  Parties  understand  the  expression  "animals  carrying  harmful 
+
+genetic  modifications"  as  referring  to  genetically  engineered  animals  and  mutant  animals  capable  of 
+
+producing as a consequence offspring likely to suffer significantly.  
+
+(2)  Generating  a  transgenic  strain  is  considered  as  constituting  a  procedure  under  Article 1,  sub-
+
+paragraph 2 c.  
+
+(3)  The  breeding  of  animals  carrying  harmful  genetic  modifications  may  be  considered  on  certain 
+
+conditions  to  be  determined  by  each  Party  as  a  procedure  under  Article  1,  sub-paragraph  2  c.  Such 
+
+procedure must be carried out in accordance with the Convention.  
+
+(4)  If  the  breeding  of  animals  carrying  harmful  genetic  modifications  is  not  considered  to  be  a 
+procedure, Articles 14, 15 and 16 shall apply. 58
+
+3.2 National legislation in the EU Member States 
+
+Denmark  is  the  only  EU  Member  State  that  has  specific  legislation  on  cloning  and  genetic 
+
+modification of animals.  The law was passed in Denmark in June 2005 (Act no. 550 of 24 
+
+June  2005)  and  it  allowed  the  cloning  and  genetic  modification  of  vertebrate  animals  after 
+
+approval from the Animal Research Inspectorate (§ 1) for: 
+
+o  Basic research (studies of biological mechanisms) 
+
+o  Applied research aiming at considerable improvement of health or environment. 
+
+o  Breeding of animals producing substances of considerable benefit to health and the environment or 
+
+o  Teaching and education at universities and similar or other teaching at the same level and teaching of 
+
+persons who are dealing with cloning and gene modification. 
+
+56 There are plans for an amendment to Council Directive 89/556/EEC in the near future to close this gap. 
+57  Council  Directive  86/609/EEC  of  24  November,  OJ  L  358,  18.12.1986,  p.  1–28  -http://eur-
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31986L0609:EN:NOT 
+
+26
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                         
+ 
+According  to  Danish  law,  the  Animal  Experiments  Inspectorate  may  refuse  approval  if  the 
+
+cloning, the gene modification or the use of cloned or genetically modified vertebrates is not 
+
+evaluated  to  be  of  considerable  benefit.  The  same  applies  to  breeding  of  cloned  and 
+
+genetically modified animals used for experiments. Animal cloning is therefore not allowed if 
+the  expected  benefit  deriving  therefore  is  not  relevant59.  The  Animal  Experiments 
+
+Inspectorate will authorise cloning practice on a case-by-case basis and take the decision for 
+
+approval  following  an  assessment  based,  inter  alia,  on  scientific  issues,  animal  welfare, 
+
+integrity  of  the  cloned  animals,  environmental  risks  compared  to  the  benefits  of  such 
+
+technology, etc.  
+
+Possible  cloning  applications,  which  are  subject  to  approval,  include  the  use  of  this  animal 
+
+biotechnology for the production of human proteins (therapeutic use, e.g. producing milk with 
+
+a  special  composition),  but  not  animals  with  special  characteristics  for  food  production 
+
+purposes  (meat  aimed  at  a  special  market).  The  law  is  silent  about  the  import  of  cloned 
+
+animals and products derived from them. 
+
+3.3 World Trade Organisation (WTO), GATT and SPS agreements 
+
+The World Trade Organisation (WTO) has developed a multilateral system of trade to lower 
+
+customs and trade barriers, and abolish discrimination in international trade. WTO agreements 
+
+are the legal ground rules for international commerce which were negotiated and signed by a 
+
+large  majority  of  the  world's  trading  nations  and  ratified  by  their  parliaments.  The  General 
+
+Agreement  on  Tariffs  and  Trade  (GATT)  and  the  Sanitary  and  Phyto  Sanitary  (SPS) 
+
+agreement include measures that might be relevant for trade of food products resulting from 
+
+animal cloning.   
+
+Since 1995 (after the Uruguay Round of the General Agreement on Tariffs and Trade -GATT) 
+
+an  agreement  entered  into  force  regarding  food  safety,  animal  and  plant  health.  Aspects 
+
+covered  by  the  agreement  include  measures  related  to  food  contamination,  pests  and 
+
+pesticides and labeling. As a consequence, individual WTO Member States' policies regarding 
+
+the blocking of food imports are restricted to specific situations, and no WTO Member State 
+
+can  endorse  safeguard  measures  or  a  ban  against  a  specific  trade  product  (including  food) 
+
+58 http://www.coe.int/t/e/legal_affairs/legal_co-
+operation/biological_safety,_use_of_animals/laboratory_animals/Res%20interpretation.asp#TopOfPage 
+
+27
+
+ 
+ 
+ 
+                                                                                                                                                         
+ 
+unless it has carried out a relevant risk assessment and provides evidence to support a trade 
+
+restriction.    
+
+Under  the  WTO  SPS  agreement,  the  application  of  quarantine  policies  for  safety  reasons  is 
+
+regarded as a ‘technical barrier to trade’ to the detriment of foreign competitors. According to 
+
+the SPS agreement, if there is no scientific evidence proving a product to be a threat to human 
+
+health  and  the  environment,  its  marketing  must  be  authorized.  It  is  up  to  the  individual 
+
+member countries of the WTO to demonstrate that a product is dangerous before its trade can 
+
+be prevented, even if it is impossible to accurately predict all damage posed by all products.  
+
+Articles 5.1 and 5.2 of the SPS agreement state  
+
+“Members  shall  ensure  that  their  sanitary  or  phytosanitary  measures  are  based  on  an  assessment,  as 
+
+appropriate to the circumstances, of the risks to human, animal or plant life or health, taking into account 
+
+risk assessment techniques developed by the relevant international organizations” and “In the assessment 
+
+of risks, Members shall take into account available scientific evidence;  relevant processes and production 
+
+methods;    relevant  inspection,  sampling  and  testing  methods;    prevalence  of  specific  diseases  or  pests; 
+
+existence of pest- or disease-free areas; relevant ecological and environmental conditions; and quarantine 
+
+or other treatment”.  
+
+Article 5.3 addresses the manner in which risk assessments may be interpreted: 
+
+“In assessing the risk to animal or plant life or health and determining the measure to be applied 
+
+for  achieving  the  appropriate  level  of  sanitary  or  phytosanitary  protection  from  such  risk, 
+
+Members shall take into account as relevant economic factors: the potential damage in terms of 
+
+loss of production or sales in the event of the entry, establishment or spread of a pest or disease; 
+
+the  costs  of  control  or  eradication  in  the  territory  of  the  importing  Member;  and  the  relative 
+
+cost-effectiveness of alternative approaches to limiting risks.” 
+
+The  import/export  of  food  products  derived  from  animal  cloning  will  be  subject  to  WTO 
+
+provisions on trade and barriers to global trade. 
+
+3.4 WHO-FAO Codex Alimentarius 
+
+The Food and Agriculture Organization of the United Nations (FAO) and the World Health 
+
+Organization  (WHO)  have  encouraged  food-related  scientific  and  technological  research,  as 
+
+well  as  discussion,  to  raise  awareness  about  food  safety,  hygiene  and  related  issues  at 
+
+59 The Animal Experiment Inspectorate is not in possession of sufficient knowledge to make the evaluation; it 
+may obtain the opinion of a competent authority institution or the like before making the decision.  
+
+28
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                         
+ 
+international  level.  In  1963  they  created  the  Codex  Alimentarius60  as  a  reference  document 
+
+for consumers, food producers, manufacturers and national food control agencies. Since then, 
+
+the Codex Alimentarius has enabled the formulation and harmonization of food standards and 
+
+has  ensured  the  protection  of  public  health  and  fair  practices  in  the  food  trade  through  the 
+
+global implementation of such standards worldwide.  
+
+The Codex Alimentarius also has relevance for the international food trade. Thus, the WTO 
+
+Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement) and 
+
+the  Agreement  on  Technical  Barriers  to  Trade  (TBT  Agreement)  have  encouraged  the 
+
+international  harmonization  of  food  standards.  Codex  Alimentarius  standards  have  become 
+
+the  benchmarks  for  national  food  measures  and  regulations,  and  their  evaluation  within  the 
+
+legal parameters of the WTO Agreements.  
+
+The  latest  report  of  the  Ad  Hoc  Intergovernmental  Task  Force  on  Food  Derived  from 
+Biotechnology  (September  200761)  pointed  out  at  the  guidelines  for  risk  assessment  when 
+
+comparing  recombinant-DNA  animals  with  their  conventional  counterparts  in  order  to 
+
+identify new or altered hazards in the new animals. A key element in such analysis is to take 
+
+as a reference animals with a history of safe use. However, the established guidelines do not 
+
+apply to cloning. As the mandate of the work was discussed, the work was limited to genetic 
+
+modification and cloning was seen as an assisting technique for genetic modification. 
+
+3.5 Intellectual Property (IP) regulation  
+
+As a general rule, under Article 52 of the European Patent Convention, patents can be granted 
+
+to  any  invention  which  is  new,  is  susceptible  of  industrial  application  and  involves  an 
+
+inventive  step.  Exceptions  can  be  made  in  the  case  of  specific  classes  of  inventions  that 
+
+cannot be patented, namely for methods of treatment (for both diagnostic and surgery), plant 
+
+or  animal  varieties  and  essential  biological  processes  for  their  production  and,  lastly,  for 
+
+inventions  contrary  to  'ordre  public'  and/or  morality.  For  biotechnological  processes,  which 
+cloning  could  be  interpreted  to  be,  rules  23b,  c  and  d  apply62,  opening  the  possibility  of 
+
+60 http://www.codexalimentarius.net/web/index_en.jsp 
+61 http://www.codexalimentarius.net/web/archives.jsp?lang=en 
+62  Rule  23b…(2)  “Biotechnological  inventions”  are  inventions  which  concern  a  product  consisting  of  or 
+containing  biological  material  or  a  process  by  means  of  which  biological  material  is  produced,  processed  or 
+used. (3) “Biological material” means any material containing genetic information and capable of reproducing 
+itself or being reproduced in a biological system.; Rule 23c Biotechnological inventions shall also be patentable 
+
+29
+
+ 
+ 
+ 
+ 
+                                                 
+ 
+patenting,  if  cloning  were  not  to  fall  into  the  categories  described  in  Article  53(a)  and,  in 
+
+particular,  in  "processes  for  modifying  the  genetic  identity  of  animals  which  are  likely  to 
+
+cause  them  suffering  without  any  substantial  medical  benefit  to  man  or  animal,  and  also 
+
+animals resulting from such processes". 
+
+According to Rule 23d (d) of the European Patents Convention, patents shall not be granted to 
+
+processes  for  modifying  the  genetic  identity  of  animals  which  are  likely  to  cause  them 
+
+suffering without any substantial medical benefit to man or animal, and also animals resulting 
+from  such  processes63.  This  is  also  stated  in  Directive  98/44/EC  on  the  legal  protection  of 
+
+biotechnological  inventions  where  it  is  also  indicated  that  “inventions  shall  be  considered 
+
+unpatentable  where  their  commercial  exploitation  would  be  contrary  to  ordre  public  or 
+
+morality;  however,  exploitation  shall  not  be  deemed  to  be  so  contrary  merely  because  it  is 
+
+prohibited by law or regulation”. Directive EC/98/44, specifically Article 6, states: 
+
+1.  Inventions  shall  be  considered  unpatentable  where  their  commercial  exploitation  would  be  contrary  to 
+
+ordre  public  or  morality;  2.  On  the  basis  of  paragraph  1,  the  following,  in  particular,  shall  be  considered 
+
+unpatentable: (…) (d) processes for modifying the genetic identity of animals which are likely to cause them 
+
+suffering  without  any  substantial  medical  benefit  to  man  or  animal,  and  also  animals  resulting  from  such 
+
+processes. 
+
+This last condition may be interpreted to mean that animal cloning is not acceptable for public 
+
+order and morality if it involves animal suffering and is not carried out for medical purposes. 
+
+The question remains as to whether the arguments in support of animal cloning for food can 
+
+be  categorized  as  a  substantial  medical  benefit  and  whether  cloning  can  be  regarded  as  a 
+
+modification of the animal gene identity. 
+
+if they concern: (a) biological material which is isolated from its natural environment or produced by means of a 
+technical process even if it previously occurred in nature; (b) plants or animals if the technical feasibility of the 
+invention is not confined to a particular plant or animal variety; a microbiological or other technical process, or a 
+product obtained by means of such a process other than a plant or animal variety.; Rule 23d Under Article 53(a), 
+European patents shall not be granted in respect of biotechnological inventions which, in particular, concern the 
+following: (a) processes for cloning human beings; (b) processes for modifying the germ line genetic identity of 
+human beings; (c) uses of human embryos for industrial or commercial purposes; (d) processes for modifying the 
+genetic identity of animals which are likely to cause them suffering without any substantial medical benefit to 
+man or animal, and also animals resulting from such processes. 
+63  EPO:  Rule  23d"Exceptions  to  patentability  Under  Article  53(a),  European  patents  shall  not  be  granted  in 
+respect  of  biotechnological  inventions  which,  in  particular,  concern  the  following:  (a)  processes  for  cloning 
+human beings; (b) processes for modifying the germ line genetic identity of human beings; (c) uses of human 
+embryos  for  industrial  or  commercial  purposes;  (d)  processes  for  modifying  the  genetic  identity  of  animals 
+which  are  likely  to  cause  them  suffering  without  any  substantial  medical  benefit  to  man  or  animal,  and  also 
+animals 
+(http://www.european-patent-
+office.org/legal/epc/pdf/epc_2006_v5_bm_en.pdf) 
+
+processes." 
+
+resulting 
+
+from 
+
+such 
+
+30
+
+ 
+ 
+ 
+                                                                                                                                                         
+ 
+Article  27  (3)(b)  of  the  TRIPS  Agreement  (WTO)  provides  that  animals  other  than  micro-
+
+organisms, and essentially biological processes for the production of animals other than non-
+
+biological and microbiological processes, may be excluded from patentability. The European 
+
+Patent Convention recognizes this in rules 23b and 23c. 
+
+31
+
+ 
+ 
+ 
+ 
+ 
+4. Ethical issues  
+
+Animal cloning for food supply involves a number of specific ethical concerns that come to 
+
+play when decisions are to be made concerning the application of SCNT cloning technologies 
+
+in breeding establishments for farm animals.  
+
+These ethical concerns are related to a broad spectrum of decisions with regard to (see also 
+
+Table 6):  
+
+a)  cloned animals and their offspring (e.g. use of animals for humans’ purposes; animal 
+
+health; animal welfare; “animal integrity”);  
+
+b)  human beings (e.g. human health and wellbeing; food safety; bio-safety; possibility of 
+
+misuse – in humans (‘slippery slope arguments’));  
+
+c)  environment 
+
+(e.g.  biodiversity; 
+
+environmental  pollution 
+
+and  degradation; 
+
+environmental sustainability); 
+
+d)  human  society  at  large  (e.g.  social  desirability,  social  acceptance;  consumers'  rights; 
+
+justice issues – local, regional, global; intellectual property rights).  
+
+Table 6 Ethical concerns in animal cloning for food supply 
+
+Concerns  
+for humans 
+
+Concerns  
+for the environment 
+
+Concerns  
+for the society 
+
+Human health and 
+wellbeing (including food 
+safety and food security) 
+
+Biodiversity 
+Biosafety 
+
+Concerns  
+for the cloned animals 
+(and for their offspring) 
+Using the animals for 
+humans’ purposes  
+
+Animal health  
+Animal welfare 
+
+Animal “integrity” 
+(“animal rights”?)  
+
+Misuse in humans 
+(‘slippery slope’ 
+concerns) 
+
+Environmental 
+sustainability 
+
+Pollution, degradation 
+
+Public perception 
+Social desirability 
+Social acceptance 
+Consumers’ rights 
+
+Justice issues (local, 
+regional, global)  
+Intellectual property 
+rights 
+Industrialisation of 
+agriculture 
+Sustainability of 
+agriculture 
+
+It  should  be  pointed  out,  however,  ethical  issues  outlined  here  are  just  part  of  a  complex 
+framework of ethical concerns connected with modern agriculture64, and some advocated that 
+animals do not have a moral status and can be instrumentally used for human purposes65.  
+
+64  The  ethical  issues  connected  with  the  use  of  advanced  (bio)technologies  in  agriculture  will  be  analysed  in  the 
+
+following EGE Opinion. 
+
+65 See: Animal Rights & Human Morality by Bernard E. Rollin (Prometheus Books. September 30, 2006) 
+
+32
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+4.1 The moral status of animals  
+
+Historically,  the  moral  status  that  people  attributed  to  the  animals  (or  believed  the  animals 
+
+somehow  possess),  and  especially  to  the  domesticated  and  later  on  to  the  farmed  ones,  has 
+
+mainly evolved along two lines: either animals were seen as a mere objects possessed by their 
+
+owners and available to them for any purpose the owner might wanted to used them, or the 
+
+animals  were  given  various  degrees  of  respect.  These  attitudes  were  influenced  strongly  by 
+
+cultural and religious traditions. 
+
+More recently philosophers have defended the moral status of animals in a number of theories 
+arguing  that  an  animal  is  a  moral  subject  as  it  is:  (a)  able  to  feel  pleasure  and  pain66,  (b) 
+subject-of-a-life67, an element of biodiversity68 etc.  
+
+The first theory comes back to the philosophy of Bentham and Mill69, and has been advocated 
+
+more  recently,  inter  alia,  by  Peter  Singer.  According  to  his  theory,  actions  causing  pain  in 
+
+sentient  animals  are  morally  unacceptable,  since  animals  are  considered  moral  subjects  – 
+
+Need  quote-.  Therefore,  if  cloning  affects  animal  welfare  and  health,  then  this  use  of 
+biotechnology is ethically problematic70.   
+
+Another theory advocates that animals have a moral value in themselves as ‘subjects-of-life’ 
+
+(intrinsic  value  argument)  and  states  that  both  human  and  non-human  beings  are 
+
+(analogously)  moral  entities  because  of  their  sentient  capacities.  The  corollary  of  this 
+
+argument is the non-instrumentalisation of animals for human purposes.  
+
+A  number  of  philosophers  have  opposed  animal  bioengineering  on  the  basis  of  categorical 
+arguments  (animals’  intrinsic  value71,  or  integrity72,  or  telos73).  They  argued  that,  as  we 
+
+66  Singer  P.  (1985)  In  Defence  of  Animals  N.Y.:  Blackwell;  Singer  P.  (1990)  Animal  Liberation  N.Y.:  Avon 
+Books;  Suzuki  D.  &  Knudson  P.  (1987)  Genethics,  the  ethics  of  engineering  life  Stoddart  Publishing  Co. 
+Toronto  
+67 Regan T. (1983) The Case for Animal Rights Berkeley California.: University of California Press  
+68 Norton B. (1986) Why preserve natural Variety? Princeton University Press Princeton 
+69 Jeremy Bentham, The Introduction to the Principles of Morals and Legislation, edited by J. H. Burns and H. 
+L.  A.  Hart,    London:  Athline  Press,  1970.  Many  of  John  Stuart  Mill's  works  are  relevant,  especially  his 
+Utilitarianism and On Liberty.  
+70  Rollin  B.  (1998)  The  Unheeded  Cry.  Animal  Consciousness  Animal  Pain  and  Science.  Oxford  University 
+Press  
+71 Dol et al. (1999) Recognizing the intrinsic value of animals Van Gorcum & Comp. Assen 
+72 Van den Bos et al. (1997) Animal Consciousness and Animal Ethics Van Gorcum & Comp. Assen 
+
+33
+
+ 
+ 
+ 
+ 
+                                                 
+ 
+attribute  a  moral  value  to  human  beings,  we  ought  to  extend  this  ethical  concern  to  other 
+animal  species74  and  oppose  animal  biotechnology  (transgenic  animals  and  cloning  in 
+
+particular, but also other GM of animals for breeding purposes – blind chickens, for example).  
+
+Other  theories  have  advocated  the  possible  use  of  animals  in  animal  biotechnology  under 
+
+specific  conditions  where  animal  pain  is  minimised  and  authorised  in  well  justified 
+circumstances75  on  an  assessment  based  on 
+
+the  3Rs  (Reduction,  Refinement  and 
+
+Replacement)  principle  and  on  the  five  freedoms  as  defined  by  the  World  Organisation  for 
+
+Animal Health (OIE): freedom from (1) hunger, thirst and malnutrition;  (2) fear and distress; 
+
+(3)  physical and thermal discomfort; (4) pain, injury and disease; and (5) to express normal 
+
+patterns of behaviour. 
+
+4.2 Sustainability and animal farming  
+
+In the age of globalization, national boundaries tend to diminish in importance because each 
+
+country is largely interconnected with, and interdependent on, many others through economic 
+
+and  political  links.  In  the  area  of  farming,  several  kinds  of  methods  can  be  observed 
+
+worldwide, and such typologies often depend on the scale of farmed rural areas.  
+
+Whereas  in  several  countries  agriculture  is  characterized  by  very  large  farming  areas  which 
+
+belong to a few farmers, in Europe the average size of farming properties is much smaller and 
+
+they belong to a large number of farmers. It is only natural that farming processes have been 
+
+developing differently on different continents. In several countries, agriculture has generally 
+
+been  employed  on  a  large  scale  and  using  automated  means  of  production;  on  the  EU  side, 
+
+family-based  properties  have  tended  to  follow  a  more  traditional  type  of  farming  and  on  a 
+
+smaller scale (Small and Medium-sized Enterprises). Apart from any economic considerations 
+
+in terms of costs and revenues, this development is likely to remain on different tracks.  
+
+According  to  a  recent  FAO  report76  (2007),  cattle  breeds  currently  make  up  22%  of  the 
+
+world’s  recorded  mammalian  livestock  breeds,  and  human  kind  relies  upon  14  species  of 
+
+livestock  in  total  for  90%  of  its  animal  food  production.  Most  probably,  there  are  three 
+
+73 Rollin B. (1989) The Frankestein Syndrome. Ethical and Social Issues in the Genetic Engineering of Animals 
+Cambridge  Cambridge    University  Press.  Rollin  B.  (1998)  On  telos  and  genetic  engineering  in  Holland  and 
+Jonson (eds.) Animal Biotechnology and Ethics Chapman and Hall London 1998:162 
+74 Naess A. (1984) In defence of deep ecology Environmental Ethics 6(3):265-270 
+75  Fincham  J.R.  &  Ravez  J.J.  (1991)  Genetically  Engineered  Organisms:  Risks  and  Benefits  University  of 
+Toronto Press. Toronto-Buffalo; Fox. M. (1992) Superpigs and Wondercorm Lyons & Bufford N.Y.; Kaiser M. 
+Wellin S. eds. (1995) Ethical Aspects of Modern Biotechnology Centre for Research Ethics Goeteborg;  
+
+34
+
+ 
+ 
+ 
+                                                                                                                                                         
+ 
+countries  in  the  world  that  would  initially  use  animal  cloning  for  food  supply:  they  are 
+
+Argentina, USA, and China.  
+
+Consequently,  a  discussion  on  the  ethics  of  animal  cloning  for  food  cannot  be  restricted  to 
+
+economic or legal considerations alone. Other factors related to sustainable agriculture are just 
+
+as  important  (e.g.  human  responsibility  towards  the  environment  and  future  generations  – 
+
+intergenerational  justice  and  ecology).  Sustainable  farming  is  indeed  an  important  focal 
+
+concept.  It  involves  many  dimensions,  including  human  health,  safety,  animal  welfare, 
+
+environmental  concerns,  biodiversity  and global justice. It does not contain or add anything 
+
+that  is  not  covered  by  these  dimensions;  it  combines  them.  The  above  concerns  will  be 
+
+addressed  in  the  next  Opinion  of  the  EGE,  including  issues  related  to  the  ethics  of 
+
+industrialized agriculture at EU and international level. 
+
+Another  concern  that  has  been  put  forward  during  the  discussion  on  cloning  relates  to  the 
+
+potential  use  of  animal  cloning  as  a  tool  to  develop  SCNT  and  then  to  open  the  door  for 
+
+possible use of the technology with human beings (the "slippery slope" argument). 
+
+4.3 Religious considerations  
+
+To  a  great  extent,  the  relationship  between  mankind  and  animals  varies  according  to  the 
+
+religious views of the society involved. Generally speaking, humans' attitude to animals varies 
+
+considerably  between  Western  to  Eastern  cultures.  Eastern  -  predominantly  Hindu  or 
+
+Buddhist - cultures tend to have a greater respect for animals and their protection due to their 
+
+belief in reincarnation and in recognizing the divine in all living forms. Western cultures tend 
+
+to  view  animals  as  instrumental  to  human  wellbeing  and  necessities,  provided  that  such 
+
+necessities do not cause pain to animals.  
+
+4.4 Public perception and public acceptance 
+
+A  survey  conducted  in  the  US  by  the  International  Food  Information  Council  in  2005 
+
+reflected that 34% of respondents would be likely to buy food products from cloned animals if 
+
+the FDA determined them to be safe to eat (compared to 64% against).  Accordingly, public 
+
+perception  of  animal  cloning  is  likely  to  play  a  major  role  in  its  development  and  its 
+
+76 http://www.fao.org/newsroom/en/news/2007/1000598/index.html 
+
+35
+
+ 
+ 
+ 
+ 
+                                                                                                                                                         
+ 
+commercial  prospects.  This  perception  may  vary  greatly  between  countries,  including 
+
+between EU Member States.  
+
+Since  1991  the  Eurobarometer  surveys  have  examined  the  attitudes  of  the  European  public. 
+
+However,  no  specific  public  surveys  have  yet  been  conducted  on  the  social  perception  of 
+
+animal cloning for food supply. Knowledge in the EU about the public perception of animal 
+cloning  is  very  limited77.  According  to  the  available  data,  there  is  public  acceptance  for 
+
+cloning  as  a  research  tool  in  biomedicine  (e.g.  bio-pharming),  but  not  for  its  application  in 
+
+agriculture.  From  the  available  data  it  seems  that  European  citizens  differentiate  between 
+
+medical and agricultural applications and are most sceptical towards biotechnology when it is 
+
+applied  to  animal  rearing  or  food  production.  Public  concerns  about  cloning  tend  to  be 
+
+primarily human-related (food safety; socioeconomic effects, consumer choice) and less often 
+
+zoocentric (animal welfare and integrity). At the present time it seems that the public is not 
+
+fully informed about the uses and implications of cloning. Taking into account the precedents 
+
+of GM food, public interest would be likely to intensify as products came closer to marketing. 
+
+Under  the  6th  Framework  Programme,  the  Commission  has  supported  a  project  entitled 
+
+“Cloning in public”, a specific support action project co-ordinated by the Danish Centre for 
+
+Bioethics  and  Risk  Assessment  (CeBRA,  DK).    The  project  had  two  main  objectives:  1)  to 
+
+stimulate informed public debate across Europe on farm animal cloning and to ensure public 
+
+participation 
+
+in 
+
+the  formation  of  European  policies  and  regulation;  2) 
+
+to  make 
+
+recommendations on regulation and guidelines concerning research and applications of farm 
+
+animal cloning. The argument for this project was that 'Whether a decision is made to rely on 
+
+existing regulation or to introduce new, specifically targeted legislation, concerns about both 
+free trade and social acceptability in Europe will have to be negotiated78. 
+
+4.5 The consumer's right to know, free choice and labelling 
+
+Once food safety risks are ruled out, a possible concern would be a requirement for consumer 
+
+information and product labelling, either confined 'only' to clones and products derived from 
+
+77  Earlier  research  indicates  that  public  acceptance  of  animal  biotechnology  is  closely  related  to  the  perceived 
+usefulness of the applications suggested. Consequently, research and biomedical applications seem to be more 
+acceptable  to  the  public  than  agricultural  applications  which  are  regarded  more  negatively.  See  (a) 
+Eurobarometer  EB  52.1,  1999;  (b)  The  report  CLONING  IN  PUBLIC:  Public  perceptions  of  farm  animal 
+cloning in Europe (August 2005); and (c) Lassen, J, Gjerris, M & Sandøe, P (2005): After Dolly – ethical limits 
+to the use of biotechnology on farm animals. Theriogenology (Submitted). 
+78 http://www.sl.kvl.dk/cloninginpublic/
+
+36
+
+ 
+ 
+ 
+                                                 
+ 
+them,  and/or  on  offspring  and  their  products.  Since  a  clone  and  its  derived  products  cannot 
+
+effectively  be  distinguished  from  another  animal,  a  labelling  policy  would  have  to  be 
+
+associated  with  some  sort  of  trace-back  or  integrity  preservation  systems.  Currently,  beef 
+
+meat must be traceable. Animal semen and embryos are also already traceable. However, for 
+
+other  processed  products,  the  control  of  labelling  could  present  difficulties,  in  particular  for 
+offspring79.  
+
+From  a  technical  point  of  view,  the  "analytical"  traceability  entails  two  different  issues:  (1) 
+
+the  analytical 
+
+identification  of  clones/offspring  and  derived  products  and  (2) 
+
+the 
+
+authentication of traceability schemes for individual animals and derived products (not limited 
+
+to clones, but generalised). Traceability schemes for animals are already enhanced through the 
+
+use  of  Electronic  Identification/Radio  frequency  identification  of  animals  up  to  the 
+
+slaughterhouse, and this may be further improved through the use of molecular markers (see 
+
+also 2.4.2).  
+
+79  An  open  question  regarding  the  definition  of  offspring  would  be:  For  how  many  generations  would  the 
+offspring of clones have to be labelled?  
+
+37
+
+ 
+ 
+                                                 
+ 
+5. OPINION 
+
+The aim of farm animal breeding is to select animals that have genetic characteristics such as 
+
+disease resistance or quality features that are of interest to farmers. Cloning of vertebrates via 
+
+SCNT  is  a  recently  developed  technology  which  is  used  in  biomedical  research  and  animal 
+
+breeding, and can also be used for the production of' food, such as meat and dairy products. 
+
+The cloning technology may also be used for the reproduction of animals which are of high 
+
+value to their owners, such as racehorses and pet animals, as well as for the conservation of 
+
+endangered species. 
+
+Animal  cloning  for  food  supply,  however,  raises  a  wide  range  of  safety,  legal,  ethical  and 
+
+societal concerns, as well as political concerns of various kinds (e.g. global trade). Some of 
+
+these  concerns  are  being  analysed  by  the  EFSA,  in  particular  those  related  to  the  scientific 
+
+aspects of food safety and animal welfare.  
+
+5.1 Scope of the Opinion 
+
+The EGE issued an Opinion on ethical aspects of animal cloning in 1997, but given the state 
+
+of  the  art  of  the  technology  at  that  time  it  did  not  address  the  issue  of  animal  cloning 
+
+specifically for food supply. This EGE Opinion updates the previous one and is intended to 
+
+complement that of the EFSA. The ethical considerations in this Opinion will therefore refer 
+
+to the use of cloning in animal breeding in order to produce progeny that could enter the food 
+
+chain.   
+
+The EGE is aware that the experience in animal cloning could be used in the development of 
+
+genetically modified animals (genetic modifications to produce nutraceuticals, bio-pharming 
+
+or  prevention  of  animal  diseases  in  farm  breeding,  or  increasing  the  added  value  of  food 
+
+products from cloned animals and their offspring) or in the development of cloning techniques 
+as  such80.  However,  these  issues,  while  acknowledged  as  relevant  and  deserving  of  further 
+
+analysis  with  regard  to  their  scientific,  ethical,  legal  and  social  implications,  are  not  the 
+
+80  As  far  as  the  potential  use  of  SCNT  on  human  beings  for  reproductive  purposes  is  concerned,  the  Group 
+reaffirms its opposition to such practices.  
+
+38
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+subject of this EGE Opinion. In line with both the EFSA report and the request from President 
+
+Barroso, this Opinion is limited to the use of animal cloning without genetic modification.  
+
+5.2 Arguments over animal cloning for food 
+
+The major arguments in favour of animal cloning for food are economic ones, aiming, inter 
+
+alia: to keep up European competition vis-à-vis third countries on the free market; to facilitate 
+
+industrial  development;  to  improve  food  production  and  quality,  while  lowering  prices  for 
+
+consumers,  as  happens  in  the  case  of  other  intensive  farm  practices.  Some  have  therefore 
+
+advocated cloning as a possible development towards standardised, cheaper food production, 
+
+particularly meat, which would then be affordable for a larger proportion of  the  population. 
+
+Others  have  argued  that  cloning  may  be  a  useful  tool  to  accelerate  the  breeding  of  animals 
+with  specific  genetic  lineage,  such  as  cattle  resistant  to  diseases  or  adverse  conditions81,  or 
+
+that  it  might  have  proven  positive  effects  on  human  and  animal  health,    for  instance  in 
+conjunction with transgenesis82. 
+
+Arguments  against  this  use  of  animal  biotechnology,  on  the  other  hand,  articulate  concerns 
+
+that  are  based  on  human  health  and  safety,  animal  health  and  welfare,  animal  integrity, 
+
+biodiversity, the risk of epidemics, social and economic effects on rural areas, and agricultural 
+
+trade  (see  Chapters  2  and  4  of  this  Opinion).  Others  have  pointed  to  the  danger  of  animals 
+
+being valued only in terms of their instrumental use to humankind and identified the risk that 
+
+increased use of cloning might eventually facilitate human reproductive cloning. 
+
+The  Group  is  aware  that  there  are  differing  viewpoints  on  the  moral  acceptability  of  using 
+
+animals in modern farming and is aware that there are some very strongly held views against 
+
+the instrumental use of animals for human purposes regardless of positive consequences this 
+
+might have for humans. The Group therefore recognises that, for some people, animal cloning 
+
+for food supply is an ethically unacceptable practice, whatever conditions are required.   
+
+The EGE wishes to emphasise that embarking on cloning for food supply means opening up a 
+
+new dimension in the general context of breeding that is not merely technical, and which for 
+
+some people may create a moral unease that cannot be simply dismissed. 
+
+81 These last two arguments, however, cover uses of animal cloning other than that addressed in this Opinion. 
+82 See paragraph 2.7 of this Opinion. 
+
+39
+
+ 
+ 
+ 
+ 
+                                                 
+ 
+5.3 Food safety  
+
+The EGE has neither the competence nor the authority to assess risks related to food safety. 
+
+Nevertheless, the decision on the levels of risk to individuals and society that are acceptable 
+
+raises  ethical  issues.  The  scientific  risk  assessment  of  food  safety  of  products  derived  from 
+
+animal clones and/or their offspring falls within the remit of the EFSA (EFSA Opinion and its 
+
+subsequent updating) and the Group bases itself on that. EFSA's draft Opinion states that (1) 
+
+measures  restricting  animal  cloning  for  food  purposes  cannot  be  justified  on  food  safety 
+
+grounds, (2) "the available data for risk assessment are limited" and (3) there are uncertainties 
+in their assessment83. The EGE underlines the importance of guaranteeing the safety of food 
+
+products  for  human  consumption  as  a  precondition  for  their  marketing  and  stresses  the 
+
+importance of scientific updates and follow-up research into progeny. 
+
+5.4 Animal welfare and health 
+In  the  Amsterdam  Treaty  animals  are  recognised  as  'sentient'  beings84  and,  therefore,  while 
+
+meat  production  is  important  in  the  human  diet,  and  the  slaughter  of  animals  a  necessity,  it 
+
+should always be clear that the way in which we treat animals should be in accordance with 
+
+the existing animal welfare and health standards required by EU legislation (see 3.1.2 of this 
+
+Opinion). However, in addition to these standards, the Group believes that other requirements 
+
+should  be  taken  into  account  in  intensive  animal  breeding,  in  particular  the  guidance  on 
+animal  welfare  provided  by  the  World  Organisation  for  Animal  Health  (OIE85),  namely  the 
+
+five  freedoms  already  mentioned  in  paragraph  4.1  of  this  Opinion;  freedom:  from  hunger, 
+
+thirst and malnutrition;  from fear and distress; from physical and thermal discomfort;  from 
+
+pain, injury and disease; and to express normal patterns of behaviour. 
+
+Infringements of the above criteria would need to be balanced by important benefits to human 
+
+beings. The EGE, however, doubts whether infringements of these standards can be justified 
+
+by the benefits obtained through current procedures in cloning animals for food production.  
+
+83 See EFSA draft Opinion, Conclusions chapter, p.30. 
+84  This  notion  is  also  stated  in  the  Lisbon  Treaty,  currently  being  ratified,  and  which  is  extended  to  all 
+technological developments (B specific amendments). 
+85 www.oie.int 
+
+40
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+In addition, having regard to information provided by EFSA, the Group has noted a lack of 
+data86 on the long-term animal welfare and health implications of clones and their offspring87, 
+
+due  to  the  current  limited  use  of  the  technology.  Further  studies  and  analyses  on  long-term 
+
+animal  welfare  and  health  implications  for  clones  and  their  offspring,  as  well  as  more 
+
+comparative analyses with other assisted and traditional reproductive technologies in animal 
+
+farming, are needed for a proper assessment of this issue.  
+
+However,  the  Group  is  concerned  that  intensive  breeding  techniques  may  adversely  affect 
+
+animal welfare and feels that a review of current practices should be conducted at European 
+
+level.  For  this  reason  the  Group  suggests  that  the  Commission  take  initiative  to  prepare  a 
+
+Code of Conduct on responsible farm animal breeding, including animal cloning. 
+
+5.5 Farm animal biodiversity and sustainability  
+
+Although the Group acknowledges that cloning could be used to maintain certain rare animal 
+breeds among farm animal species88, the intensive industrial use of cloning applied to highly 
+
+prevalent animal races might ultimately reduce diversity and affect their global distribution. 
+
+Recent reports have highlighted the danger that the use of a limited number of breeding lines 
+
+in intensive animal farming may affect the biodiversity of farm animals (see Chapter 2.7.3 of 
+
+this Opinion) and create inbreeding problems.  
+
+While the Group is also aware that the use of animal cloning in animal husbandry would be 
+difficult  to  extend  on  a  global  level89,  it  nevertheless  advocates  the  need  to  protect 
+
+biodiversity and limit inbreeding in farm animal stocks as far as possible, in order – among 
+
+other things – to avoid the risk of global epidemics. In that respect, the Group recommends 
+the Commission to take proper measures to preserve the genetic heritage of animal species90, 
+
+for  example  by  funding  projects  designed  to  preserve  domesticated  species  and  breeds  in 
+
+Europe. 
+
+86 See EFSA draft Opinion, Conclusions chapter, p.30. 
+87  Similar  considerations  apply  to  the  existence  of  data  on  other  assisted  reproduction  technologies  (ART)  in 
+animal breeding. 
+88  Cattle  (Bos  bovis)  is  a  species  and  there  are  around  1.2  billion  individuals  worldwide,  falling  into  about  a 
+thousand breeds, or races, see 2.7.3. 
+89 By David Fraser,  ftp://ftp.fao.org/docrep/fao/009/a0158e/a0158e00.pdf 
+90 From the EGE Opinion No 3 on the ethical implications of Biotechnology: "Biodiversity … with ratification 
+of the UN Convention on Biological Diversity, the Community would be well advised to start considering the 
+matter with a view to clarifying what it understands the concept to mean in practical terms". 
+
+41
+
+ 
+ 
+ 
+                                                 
+ 
+The  Group  is  concerned  about  the  global  impact  of  increasing  meat  consumption  on  the 
+
+environment  as  cloning  of  farm  animals  could  be  another  step  towards  increasing  such 
+
+impact. 
+
+5.6 Societal aspects 
+
+5.6.1 Public participation  
+
+The Group realises that, while cloning is only one step, and so far a relatively marginal one in 
+
+the process of industrialisation of agriculture and globalisation, it is of the utmost importance, 
+
+in  terms  of  global  justice  and  environmental  impact,  that  a  debate  be  held  concerning  the 
+
+issues underlying and accompanying this global development. The Group therefore underlines 
+
+the importance of a public debate on the concept of biotechnologies in modern agriculture, the 
+
+environmental and societal impact of increasing meat consumption and rearing of bovines, the 
+
+fair distribution of food resources and the need to promote sustainable agriculture at EU level 
+
+and worldwide.  
+
+In order to be able to exercise its freedom of choice, the public also needs to be adequately 
+
+informed, and public debate should therefore be promoted.  
+
+The  Group  therefore  invites  the  Commission  to  take  a  pro-active  role  in  promoting  public 
+
+discussion on this use of animal cloning, and its potential implications, by financing a number 
+
+of  ad  hoc  initiatives  at  Member  State  and  pan-European  level  aimed  at  promoting  public 
+
+debate on the marketing of food products derived from animal cloning. Relevant stakeholders 
+
+(media,  industry,  policymakers,  NGOs  and  the  scientific  community)  should  participate  in 
+
+this effort in a pro-active manner and communicate reliable information about the work done. 
+
+Transparency at all decision-making levels (both private and institutional) is essential because 
+
+a  constructive  public  debate  can  only  take  place  on  a  basis  of  reciprocal  trust  and  in  full 
+
+knowledge of factual data. 
+
+5.6.2 Public perception  
+
+The  Group  acknowledges  that  the  "food  philosophy"  of  individuals  and  countries  (i.e.  their 
+
+views on the role and importance of food, the cultural and social traditions associated with it, 
+
+and  related  views  on  the  production  processes  for  different  ingredients)  varies  considerably 
+
+within  Europe  and  worldwide.  The  Group  also  acknowledges  that  European  citizens  have 
+
+different  perceptions  and  (religious)  beliefs  as  regards  the  consumption  of  meat  or  other 
+
+42
+
+ 
+ 
+ 
+  
+ 
+products  derived  from  cloned  animals  and/or  their  progeny91.  However,  there  are  as  yet  no 
+
+definitive  indicators  on  the  public  perception  of  animal  cloning  for  food  supply  and  food 
+
+products derived from cloned animals and their offspring. The Group therefore recommends 
+
+that  the  Commission  launch  a  thematic  Eurobarometer  survey  on  animal  cloning  for  food 
+
+supply, in order to collect indicators on public perception concerning the introduction of such 
+products to the food market as is being done in other countries92.  
+
+5.7 Traceability and labelling 
+
+Traceability  and  labelling  raise  many  issues,  which  can  be  related  to  the  well-known 
+
+precautionary principle, and are relevant to safety concerns, economic fairness and fairness in 
+
+the burden of proof as well as to the issues of consumer freedom discussed earlier.  This also 
+
+raises issues of conditions of liability. 
+
+As far as the labelling of food products derived from animal cloning is concerned, the Group 
+
+is of the opinion that consumer freedom can only be achieved when consumers have sufficient 
+
+information to be able to choose the kind of products they want. In order to protect consumer 
+
+freedom of choice, the Group points to the need for enforcement of current EU legislation on 
+food regarding traceability of animals and their food products (e.g. Directive 2000/13/EC)93. 
+
+However, the Group is aware of the technical difficulties and costs of labelling products from 
+
+offspring  (information  on  ancestors),  and  calls  on  the  Commission  to  devise  targeted 
+procedures (e.g. positive labelling of meat) prior to the marketing of such food in the EU94.   
+
+5.8 Intellectual property issues 
+
+So  far,  patenting  in  animal  cloning  is  limited  to  nuclear  transfer  techniques.  The  Group  is 
+
+concerned that patents might be extended to specific genes or to animals, and that this would 
+
+lead to a monopoly/concentration of the resources that are important for breeding.  
+
+91 In this respect the consumption of milk from cloned animals may probably have a different impact on public 
+perception than consumption of meat from clones.  
+92http://www.ap-foodtechnology.com/news/ng.asp?n=82108-farm-bill-cfs-cloning 
+93 See Chapter 3.1.1 of this Opinion. 
+94 The Group is aware that in addition to technical difficulties, costs to consumers will arise as a consequence of 
+the implementation of a broad labelling system. 
+
+43
+
+ 
+ 
+ 
+ 
+                                                 
+ 
+The Group also advocates further clarification, inter alia through research, on the applicability 
+
+of  the  exclusion  clauses  in  Directive  98/44/EC  (Art.  6)  and  the  EPO  rules  (23  d)  to  animal 
+cloning for food supply95. 
+
+5.9 Global trade 
+
+EU rules  lay  down requirements in respect of animal welfare and animal ethics  in  breeding 
+
+programmes.  On  the  other  hand,  WTO  agreements  are  based  on  the  requirement  that  only 
+
+scientifically  documented  risks  to  human  health  or  to  the  environment  can  legitimately  be 
+
+used as a reason to limit free trade. If meat from cloned animals were to be marketed in third 
+
+countries,  it  could  be  exported  to  the  EU.  This  presents  a  dilemma  between  free  trade 
+
+considerations on the one hand and ethical concerns regarding the cloning of animals on the 
+
+other. Resolving this political dilemma is not easy. On the one hand, ethical considerations, 
+
+including animal welfare, are seen as crucial – also in terms of public perception – while on 
+
+the  other  hand  import  issues,  including  WTO  compliance,  may  complicate  the  market 
+situation96.  
+
+The  Group  acknowledges  the  complexity  of  the  issue,  but  points  out  that  there  are  already 
+
+some  examples  of  specific  requirements  in  the  EU  covering  the  import  of  meat  and  food 
+
+products  from  third  countries,  for  example  as  regards  the  import  of  meat  containing 
+
+hormones.  The  Group  therefore  considers  that  the  import  of  cloned  animals,  their  offspring 
+
+and materials derived from cloned animals (e.g. semen and food products, as described in 3.1 
+
+and 3.3) should be conditional on the documentation as indicated in this Opinion, in particular 
+
+with regard to traceability provisions and animal welfare.  
+
+The  Group  notes  the  statement  in  the  preamble  and  in  Article  2  to  the  Agreement  on  the 
+
+Application  of  Sanitary  and  Phytosanitary  Measures  (SPS  Agreement)  that  members  should 
+
+not  be  prevented  from  adopting  or  enforcing  measures  necessary  to  protect  animal  health, 
+
+95  EPO:  Rule  23d  "Exceptions  to  patentability  Under  Article  53(a),  European  patents  shall  not  be  granted  in 
+respect  of  biotechnological  inventions  which,  in  particular,  concern  the  following:  (a)  processes  for  cloning 
+human beings; (b) processes for modifying the germ line genetic identity of human beings; (c) uses of human 
+embryos  for  industrial  or  commercial  purposes;  (d)  processes  for  modifying  the  genetic  identity  of  animals 
+which  are  likely  to  cause  them  suffering  without  any  substantial  medical  benefit  to  man  or  animal,  and  also 
+animals resulting from such processes." 
+ (http://www.european-patent-office.org/legal/epc/pdf/epc_2006_v5_bm_en.pdf) 
+96 For further considerations, please see: Challenges in regulating farm animal cloning. Recommendations from 
+the project 'Cloning in public', J. Gunning, M. Hartlev, C. Gambrog et al., Danish Centre for Bioethics and Risk 
+assessment (2006).  
+
+44
+
+ 
+ 
+ 
+                                                 
+ 
+subject  to  the  requirement  that  these  measures  are  not  applied  in  a  manner  which  would 
+
+constitute a means of arbitrary or unjustifiable discrimination between members. It also notes 
+
+Article  5(7)  of  the  Agreement  relating  to  risk  assessment.  There  is  not  enough  scientific 
+
+evidence  on  cloned  animals  and  their  offspring,  and  the  Group  believes  that  research  is 
+
+required as described in the EFSA report.   
+
+5.10 Conclusions 
+
+The  Group  is  aware  of  the  EFSA's  draft  scientific  findings  and  recommendations  on  food 
+
+safety,  animal  health  and  welfare  and  environmental  impact,  as  well  as  the  indications  of 
+
+current  gaps  in  knowledge  about  animal  welfare  and  health  of  animal  clones  and  their 
+
+offspring. The group is also aware of the results of the FDA report published the day before 
+
+the adoption of this Opinion. 
+
+Considering the current level of suffering and health problems of surrogate dams and animal 
+
+clones, the Group has doubts as to whether cloning for food is justified. Whether this applies 
+
+also to the offspring is open to further scientific research. 
+
+At present, the EGE does not see convincing arguments to justify the production of food from 
+clones and their offspring97. If, in the future, food products derived from cloned animals were 
+
+to  be  introduced  to  the  European  market,  the  EGE  recommends  that  the  following 
+
+requirements be met: 
+
+Food safety - The safety of food products for human consumption as a precondition for their 
+
+marketing  must  be  guaranteed  and  scientific  updates  and  follow-up  research  into  progeny 
+
+should be carried out. 
+
+Animal  welfare  and  health  -  In  accordance  with  the  Amsterdam  Treaty  (animals  as  sentient 
+
+beings)  and  the  Lisbon  Treaty,  additional  requirements  should  be  met  in  intensive  animal 
+
+breeding,  with  the  aim  of  following  the  guidance  on  animal  welfare  provided  by  the  World 
+
+Organisation  for  Animal  Health  (OIE),  e.g.  the  five  freedoms:  from  hunger,  thirst  and 
+
+malnutrition;  from fear and distress; from physical and thermal discomfort;  from pain, injury 
+
+and disease; and to express normal patterns of behaviour. 
+
+97 The conclusion in this paragraph was dissented by K. Marczewski.  
+
+45
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+Traceability - Current EU legislation on food regarding traceability of animals and their food 
+
+products should be enforced. Steps should be taken to ensure that EU legislation provides for 
+
+the ability to identify individual animals where necessary. 
+
+Global  trade  -  The  import  of  cloned  animals,  their  offspring  and  materials  derived  from 
+
+cloned  animals  (e.g.  semen  and  food  products)  should  be  conditional  on  proper 
+
+documentation, in particular with regard to traceability provisions and animal welfare.  
+
+In addition the EGE recommends the following:  
+
+Animal  welfare  -  Further  studies  and  analyses  on  long-term  animal  welfare  and  health 
+
+implications for clones and their offspring, as well as more comparative analyses with other 
+
+assisted and traditional reproductive technologies in animal farming, should be carried out for 
+
+a  proper  assessment  of  this  issue,  in  line  with  the  EFSA  draft  opinion.  The  Commission 
+
+should  take  initiatives  to  prepare  a  Code  of  Conduct  on  responsible  farm  animal  breeding, 
+
+including animal cloning. 
+
+Farm animal biodiversity and sustainability – The Commission should take proper measures 
+
+to  preserve  the  genetic  heritage  of  farm  animal  species,  for  example  by  funding  projects 
+
+designed to preserve domesticated breeds in Europe and to promote sustainable agriculture. 
+
+Public  participation  -  Public  debates  should  be  promoted  on  the  impact  of  farm  animal 
+
+cloning  on  agriculture  and  the  environment,  on  the  societal  impact  of  increasing  meat 
+
+consumption  and  rearing  of  bovines,  and  on  the  fair  distribution  of  food  resources.  The 
+
+Commission should take a pro-active role in promoting public discussion on the use of animal 
+
+cloning  and  its  potential  implications,  by  financing  a  number  of  ad  hoc  initiatives  aimed  at 
+
+promoting public debate on the marketing of food products derived from animal cloning.  
+
+ Public  perception  -  The  Commission  should  launch  a  thematic  Eurobarometer  survey  and 
+
+qualitative studies on animal cloning for food supply, in order to collect indicators on public 
+
+perception concerning the introduction of such products to the food market as is being done in 
+
+other countries.  
+
+Labelling  –  The  EGE  is  aware  of  the  technical  difficulties  of  labelling  products  from 
+
+offspring;  nevertheless  it  recommends  that  the  Commission  take  the  initiative  in  devising 
+
+targeted procedures prior to the marketing of such food in the EU.   
+
+Intellectual  property  issues  –  Clarification  should  be  provided  as  to  whether  the  exclusion 
+
+clauses in Directive 98/44/EC (Art. 6d) on patentability of biological inventions and the EPO 
+
+rules (23 d) apply to animal cloning for food supply. 
+
+Global trade and consumer freedom – The EGE is aware that import issues in respect of food 
+
+products derived from cloned animals, including compliance with World Trade Organisation 
+
+46
+
+ 
+ 
+ 
+provisions,  may  complicate  the  market  situation;  however,  the  EGE  recommends  that  the 
+
+Commission take initiatives to ensure consumers' freedom and rights. 
+
+Research - Further research is needed, in particular basic research into animal cloning, as well 
+
+as  the  impact  on  human  health,  and  animal  welfare  for  farmed  species  other  than  those 
+
+covered  by  EFSA.  Similarly,  further  studies  on  the  ethical,  legal  and  social  implications  of 
+
+animal cloning for food supply as well as qualitative studies on public perception should be 
+
+carried out.  
+
+5.11 The need for revision of this Opinion 
+
+Since  further  research  is  needed  and  cloning  technologies  are  constantly  improving,  this 
+
+Opinion  could  be  reconsidered,  and  possibly  revised,  in  the  light  of  new  scientific  data  and 
+
+societal considerations.  
+
+47
+
+ 
+ 
+ 
+ 
+Appendix IAddendum requested from Professor Krzysztof Marczewski, EGE memberAppendix IAddendum requested from Professor Krzysztof Marczewski, EGE member

@@ -1,0 +1,8562 @@
+The ethical aspects of ICT implants in the human body 
+
+Proceedings of the Roundtable Debate 
+
+Amsterdam, 21 December 2004 
+
+Secretariat of the EGE 
+
+European Group on Ethics in Science and New Technologies to the European Commission 
+
+- December 2004 - 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Europe Direct is a service to help you find answers  
+to your questions about the European Union 
+
+Freephone number: 
+00 800 6 7 8 9 10 11 
+
+A great deal of additional information on the European Union is available on the Internet. 
+It can be accessed through the Europa server (http://europa.eu.int). 
+
+Cataloguing data can be found at the end of this publication. 
+
+Luxembourg: Office for Official Publications of the European Communities, 2005 
+
+ISBN 92-894-9035-7 
+
+© European Communities, 2005 
+Reproduction is authorised provided the source is acknowledged. 
+
+Printed in Luxembourg 
+
+PRINTED ON WHITE CHLORINE-FREE PAPER 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+
+Introduction ........................................................................................................................ 1 
+
+Roundtable Programme.................................................................................................. 3 
+
+Presentations .................................................................................................................... 5 
+
+Brain implants - scientific overview and ethical aspects 
+Jacques BROTCHI........................................................................................................ 7 
+Powerpoint slides used in the presentation.....................................................11 
+
+Becoming a Cyborg: some ethical and legal implications of ICT implants 
+James H. MOOR..........................................................................................................41 
+
+ICT brain implants - a patient's perspective 
+Peter HOOGENDOORN ..............................................................................................45 
+
+ICT implants in the human body: a review 
+Fabienne NSANZE.......................................................................................................49 
+
+Main Points Arising from the Discussion....................................................................59 
+
+Written Comments on the Roundtable .......................................................................63 
+
+Comments on issues discussed and raised at the Roundtable 
+Helen BARKER, LL.M. 
+School of Legal Studies, University of Wolverhampton, UK .........................................65 
+
+"Are Brain Implants a Threat to Our Civilisation?" 
+Article from Europe Infos (Monthly of Comece & Ocipe, N° 68, February 2005) 
+Fred HAMBURG 
+COMECE, Commission of the Bishops' Conferences of the European Community     71 
+
+Participants .......................................................................................................................73 
+
+Secretariat of the EGE ...................................................................................................79 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+
+The  European  Group  on  Ethics  (EGE)  is  an  independent,  pluralist  and  multidisciplinary  body, 
+which advises the European Commission on ethical aspects of science and new technologies in 
+connection with the preparation and implementation of Community legislation or policies. 
+
+The Group is composed of twelve independent high level experts appointed by the Commission 
+for their individual expertise and personal qualities. 
+
+During  its  first  mandate  the  EGE  (1998-2000)  provided  Opinions  on  subjects  as  diverse  as 
+human tissue banking, human embryo research, personal health data in the information society, 
+doping in sport and human stem cell research. 
+
+In April 2001 the Commission appointed the current twelve Members for the second mandate 
+period  (2001-2004).  Under  this  second  mandate,  the  Group  has  published  Opinions  on  the 
+ethical aspects of patenting inventions involving human stem cells (N° 16, 7 May 2002), clinical 
+research  in  developing  countries  (N°  17,  4  February  2003),  genetic  testing  in  the  workplace 
+(N° 18, 28 July 2003), and on umbilical cord blood banking (N° 19, 16 March 2004). 
+
+The Group is currently finalising its 20th Opinion on “the Ethical Aspects of Information and 
+Communication Technology (ICT) Implants in the Human Body”. 
+
+In preparing its opinions, the EGE engages in a broad consultation, involving individual experts, 
+representatives  of  European  institutions  and  other  international  institutions  as  well  as 
+representatives of civil society. The roundtable organised by the European Group on Ethics was 
+held  on  21  December  2004,  in  order  to  promote  a  transparent  dialogue  between  parties 
+representing many different interests. 
+
+The  following  report  is  a  summary  of  the  presentations  and  discussions  which  took  place  in 
+Amsterdam. 
+
+The Opinion of the Group will be published in the first quarter of 2005. 
+
+Dr Michael D. ROGERS 
+Head  of the EGE Secretariat 
+
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RROOUUNNDDTTAABBLLEE    
+Ethical aspects of ICT implants in the human body 
+
+Tuesday 21 December 2004, Amsterdam 
+
+Organised by the European Group on Ethics in Science and New Technologies 
+
+PROGRAMME 
+
+12H30– 13H30 
+
+Lunch at the Royal Netherlands Academy of Arts and Sciences 
+(KNAW), Kloveniersburewal 29, Amsterdam 
+
+13H30 
+
+13H40 
+
+13H50 
+
+14H10 
+
+14H30 
+
+14H50  
+
+15H10 
+
+15H30 
+
+16H40 
+
+Welcome address by Professor WJM Levels, President of the Royal 
+Netherlands Academy of Arts and Sciences (KNAW) 
+
+Introduction to the EGE Roundtable by Professor Göran Hermerén, 
+Chairman of the EGE 
+
+Presentation by Professor Jacques Brotchi, Head of the neuro-surgery 
+department at the Erasmus University Hospital, Brussels, Belgium 
+“Brain implants – scientific overview and ethical aspects” 
+
+Presentation by Professor James H. Moor, Professor of Philosophy, 
+Dartmouth College, USA 
+“Becoming a Cyborg : Some ethical and legal implications of ICT 
+implants” 
+
+Presentation by Mr Peter Hoogendoorn, President of the Dutch 
+Parkinson Society, The Netherlands 
+“ICT Brain implants – A Patient’s Perspective” 
+
+Presentation by Dr. Fabienne Nsanze, M.D., Brussels, Belgium 
+“ICT implants in the human body – A review” 
+
+Coffee break 
+
+Discussion with contributions from the participants 
+
+Closing comments from EGE members 
+
+17H00   
+
+End of Roundtable 
+
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Presentations 
+
+5
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jacques BROTCHI 
+Professor Jacques Brotchi 
+Erasmus University Hospital, Brussels, Belgium 
+
+Biography 
+
+Born in Liege (Belgium), in 1942, Jacques Brotchi graduated in Medicine (M.D.) from the State 
+University  of  Liege  in  1967.  He  completed  his  training  in  Neurosurgery  under  Professor  Joel 
+Bonnal at the Neurosurgical Clinic of the University of Liege. 
+
+Since 1963, his high interest in Neurological Sciences led him to work as student and thereafter 
+as researcher at the Laboratory of Neuroanatomy of the University of Liege where he spent 19 
+years with Professor Michel Alexandre Gerebtzoff, deeply involved in histoenzymology of the 
+peripheral  and  central  nervous  system.  He  was  awarded  a  Ph.D.  in  histochemistry  of  focal 
+epilepsies.  Parallel  to  his  laboratory  research,  he  was  very  busy  with  neurosurgical  practice 
+and published, with J. Bonnal, in all fields of Neurosurgery with special emphasis on sphenoid 
+meningiomas and on sinus repair in parasagittal meningiomas.    
+
+In 1982, he moved from Liege to Brussels where he created the Department of Neurosurgery 
+at Erasmus University Hospital. He is now Head of the Department (since 1982), Professor and 
+Chairman  at  the  Free  University  of  Brussels  (ULB)  (since  1984).  He  is  also  Director  of  the 
+Laboratory of Experimental Neurosurgery at the ULB.  
+
+He has trained numerous neurosurgeons among which several became Head of Department or 
+Professor  of  Neurosurgery  in  different  Belgian  Universities.  He  has  published  more  than  250 
+papers in international journals and 30 book chapters, with special emphasis on meningiomas, 
+intraspinal  cord  tumours  and  surgical  approaches  of  pineal  lesions.  He  has  stimulated  much 
+work  in  his  department  and  emphasized  the  role  and  the  use  of  PET-Scan  combined  with 
+Neurosurgery (PET guided stereotactic biopsies, PET guided neuronavigation, and PET guided 
+Gamma Knife treatment) as well as interventional MRI since 2001. 
+
+Member of the editorial board of several neurosurgical journals, he has been guest of honour at 
+numerous  national  and  international  congresses  and  is  deeply  involved  in  the  educational 
+programme  of  the  World  Federation  of  Neurosurgical  Societies  (WFNS)  (since  1991). 
+Chairman  of  the  WFNS  Education  Committee  from  1997  to  2001,  he  has  organised  many 
+courses worldwide, particularly in developing countries.  
+
+At  the  present  time,  he  is  President-elect  of  the  WFNS,  Coordinator  of  WFNS  Committee 
+Activities  and  Vice-Chairman  of 
+in 
+Neurosurgery.  
+
+the  World  Health  Organization  Working  Group 
+
+He is Corresponding, Titular and Honorary Member of various national Neurosurgical societies. 
+He is honoured to be President of the Belgian Neurosurgical Society, French Speaking Society 
+of  Neurosurgery,  Chairman  of  the  Brain  Tumour  Group  of  the  European  Organization  for 
+Research and Treatment of Cancer (EORTC).  
+
+7
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In  1998,  his  department  was  distinguished  by  WHO  and  nominated  “First  Worldwide  WHO 
+Collaborating Centre for Research and Training in Neurosurgery”. 
+
+In  2000,  he  received  one  of  the  most  prestigious  Belgian  medical  prizes:  “Scientific  Prize 
+Joseph  Maisin-Clinical  Biomedical  Sciences”  within  the  scientific  quinquennal  prizes  of  the 
+National Research Foundation, period 1996-2000.  
+
+Member of the Royal Academy of Medicine of Belgium, of the French Academy of Surgery and 
+of the American Academy of Neurological Surgeons, he was awarded Commandeur de l’Ordre 
+de Leopold of Belgium, Chevalier de la Légion d’Honneur of France, Chevalier of Danneborg 
+Order of Denmark and Grand Commandeur of the Civil Order of Spain. 
+
+In  1988,  King  Baudouin  of  Belgium  ennobled  him  for  his  contributions  to  Neurosurgery  and 
+Belgium. 
+
+In July 2004, he was made a Belgium Senator. 
+
+Dr. Brotchi and his wife Rachel have one daughter, Nathalie and two grandchildren, Nina and 
+Dylan. 
+
+8
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brain implants – scientific overview and ethical aspects 
+
+Jacques BROTCHI 
+
+SUMMARY 
+
+Neurosurgeons  are  familiar  with  brain  and  peripheral  implants  at  the  level  of  the  spinal  cord 
+and the nervous system. 
+
+However,  nerve  trunk  stimulation  and  spinal  cord  stimulation  are  not  sources  of  big  ethical 
+debates.  So,  my  presentation  will  focus  on  brain  stimulation  either  through  cortical  or  deep 
+brain  electrodes.  Cortical  electrodes  are  used  for  epilepsy  recording  in  the  preoperative 
+planning.  Cortical  stimulation  is  routinely  used  for  the  localization  of  motor  strip  during 
+neurosurgery  in  eloquent  areas  or  as  a  treatment  for  chronic  pain  relief  with  implanted 
+electrodes at the surface of the brain.  
+
+Nevertheless, the main brain implants we should discuss today are deep brain stimulation for 
+Parkinson’s disease and other indications such as Obsessive-Compulsive Disorder (OCD) and 
+perhaps the problems of obesity as well as of sexual disorders. 
+
+Those aspects raise considerable ethical debates. 
+
+PRESENTATION 
+
+Neurosurgeons  are  familiar  with  brain  and  peripheral  implants  at  the  level  of  the  spinal  cord 
+and the nervous system. 
+
+Nerve trunk stimulation is being studied for paraplegic patients (SUAW project: “stand-up and 
+walk”) with some promising results. Vagus nerve stimulation (VNS) for intractable epilepsy is 
+commonly  used.  VNS  is  also  starting  for  treatment-resistant  depressions.  Spinal  cord 
+stimulation  is  in  daily  use  for  peripheral  pain  relief.  Some  experimental  studies  have  been 
+conducted to take advantage of the sympathetic effect of spinal cord stimulation in lower limb 
+arteriopathies. However, those implants do not raise big ethical controversies. 
+
+Brain  stimulation  may  be  made  through  cortical  stimulation  (at  the  surface  of  the  brain)  or 
+through deep brain stimulation with implanted electrodes. Electrodes at the surface of the brain 
+are  used  for  recording  electrical  activity  in  refractory  epilepsy  with  the  aim  of  localising  the 
+epileptic  focus  that  could  be  treated  by  neurosurgery.  The  implants  are  also  used  for  brain 
+stimulation  in  the  treatment  of  severe  chronic  pain  and  for  the  localization  of  the  motor  strip 
+during neurosurgical procedures in eloquent areas of the brain. Those activities do not give rise 
+to much ethical debate. 
+
+9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+However,  when  we  enter  the  field  of  deep  brain  stimulation  we  open  a  delicate  window, 
+certainly  not  in  the  case  of  Parkinson’s  disease,  but  definitively  for  other  indications.  For 
+Parkinson’s  disease,  it  is  evident  that,  at  the  present  time,  deep  brain  electrodes  into  the 
+subthalamic  nucleus  with  selective  stimulation  offers  the  best  choice  for  those  patients  who 
+have no relief from medical treatment. A few years ago, we had great hope in the grafting of 
+foetal cells, which was eventually stopped because of limited long-term results. Nevertheless, 
+the expectation of obtaining better results with other cell (stem cells for example) in the future 
+remains  a  great  hope  since  with  deep  brain  stimulation,  we  treat  the  symptoms  but  not  the 
+illness itself that might be repaired by cell transplantation. 
+
+Incidentally,  when  implanting  these  electrodes  in  the  deep  thalamus,  some  colleagues  have 
+observed,  by  chance,  a  positive  effect  on  obesity.  At  the  present  time,  no  results  have  been 
+published but this could be a very important scientific and ethical topic. 
+
+What is on the way at the present time is long-term electrical capsular stimulation in patients 
+with  obsessive-compulsive  disorders  (OCD).  Psychoneurosurgery  has  been  performed  in  the 
+past  for  several  psychiatric  disorders  such  as  schizophrenia,  depression,  anxiety  and  OCD. 
+The procedure was pre frontal leucotomy. The often unacceptable side effects of this treatment 
+and the advent of psychotropic drugs, led to waning enthusiasm for psychosurgery. By the way, 
+ethics  has  become  more  and  more  important  in  our  daily  life  and  leucotomy  is  no  longer 
+acceptable. Unfortunately, the prognosis of treatment-resistant affective disorders and OCD are 
+quite  poor,  so  these  patients  and  their  families  are  burdened  with  extreme  emotional  and 
+psychic  costs,  as  well  as  marked  suicide  risks.  Therefore  recently  there  has  been  a 
+renaissance of interest in surgical approaches to psychiatric disease with new targets like the 
+cingulum, limbic lobe or the anterior limb of the internal capsule and techniques (stereotactic 
+capsulotomy,  Gamma  Knife  capsulotomy  or  long-term  electrical  capsular  stimulation).  These 
+procedures require very close ethical control.  
+
+One  should  also  take  advantage  of  modern  neuro-imaging  in  the  definition  of  the 
+pathoanatomic basis of mental disorders. The interest in deep brain stimulation is the reversible 
+possibility  which  is  very  important  in  psychomodulation.  New,  minimally  invasive,  or  non 
+invasive  procedures  based  on  functional  imaging  and  an  improved  knowledge  of  psychiatric 
+diseases  may  use  neuroaugmentative  or  transplantation  methods.  These  new  methods  may 
+change  the  attitude  of  governments,  psychiatrists,  third-party  players,  and  society  which  still 
+equate  psychoneurosurgery  with  the  destructive  procedures  of  the  past.  Randomized  blind 
+prospective studies across European centres using standardized assessment tools should be 
+encouraged. Furthermore, one should also focus in the future on studies which could protect 
+society  against  criminal  paedophilia  and  sexual  disorders  of  people  released  from  jails.  That 
+cannot be made without strong ethical guidelines. 
+
+The powerpoint slides that accompanied this presentation are on the following pages. 
+
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4
+0
+0
+2
+
+r
+e
+b
+m
+e
+c
+e
+D
+1
+2
+
+,
+
+m
+a
+d
+r
+e
+t
+s
+m
+A
+
+,
+
+E
+L
+B
+A
+T
+D
+N
+U
+O
+R
+E
+G
+E
+
+i
+
+m
+u
+g
+e
+B
+
+l
+
+l
+
+,
+s
+e
+s
+s
+u
+r
+B
+
+,
+
+B
+L
+U
+
+-
+
+l
+
+a
+t
+i
+p
+s
+o
+H
+y
+t
+i
+s
+r
+e
+v
+n
+U
+s
+u
+m
+s
+a
+r
+E
+
+i
+
+S
+T
+N
+A
+L
+P
+M
+
+I
+
+I
+
+N
+A
+R
+B
+
+S
+T
+C
+E
+P
+S
+A
+L
+A
+C
+H
+T
+E
+
+I
+
+D
+h
+P
+
+,
+
+D
+M
+
+,
+i
+h
+c
+t
+o
+r
+B
+s
+e
+u
+q
+c
+a
+J
+
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+N
+
+f
+o
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+D
+
+I
+
+D
+N
+A
+W
+E
+V
+R
+E
+V
+O
+C
+F
+T
+N
+E
+C
+S
+
+I
+
+I
+
+I
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S
+T
+N
+A
+L
+P
+M
+
+I
+
+I
+
+L
+A
+C
+G
+R
+U
+S
+O
+R
+U
+E
+N
+
+l
+
+i
+
+a
+g
+e
+p
+a
+r
+a
+p
+n
+
+i
+
+n
+o
+
+i
+t
+
+l
+
+a
+u
+m
+
+i
+t
+s
+
+k
+n
+u
+r
+t
+e
+v
+r
+e
+N
+
+i
+
+s
+n
+o
+s
+s
+e
+r
+p
+e
+d
+t
+n
+a
+t
+s
+s
+e
+r
+
+i
+
+t
+n
+e
+m
+t
+a
+e
+r
+T
+–
+
+y
+s
+p
+e
+
+l
+i
+
+p
+e
+
+l
+
+e
+b
+a
+t
+c
+a
+r
+t
+n
+I
+–
+
+r
+o
+
+f
+
+n
+o
+
+i
+t
+
+l
+
+a
+u
+m
+
+i
+t
+s
+e
+v
+r
+e
+n
+
+s
+u
+g
+a
+V
+
+r
+o
+
+f
+
+n
+o
+
+i
+t
+
+l
+
+a
+u
+m
+
+i
+t
+s
+d
+r
+o
+c
+
+l
+
+i
+
+a
+n
+p
+S
+
+•
+
+•
+
+•
+
+12 
+
+s
+b
+m
+
+i
+l
+
+r
+e
+w
+o
+
+l
+
+f
+o
+
+e
+s
+a
+e
+s
+d
+
+i
+
+i
+
+c
+h
+t
+a
+p
+o
+i
+r
+e
+t
+r
+
+A
+–
+
+f
+e
+
+i
+l
+
+e
+r
+
+i
+
+n
+a
+P
+–
+
+s
+t
+n
+a
+p
+m
+
+l
+
+i
+
+i
+
+n
+a
+r
+B
+
+•
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+
+ 
+S
+T
+N
+A
+L
+P
+M
+
+I
+
+I
+
+N
+A
+R
+B
+
+s
+a
+e
+r
+a
+
+t
+n
+e
+u
+q
+o
+e
+
+l
+
+n
+
+i
+
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+N
+–
+
+14 
+
+l
+
+s
+e
+d
+o
+r
+t
+c
+e
+e
+e
+c
+a
+f
+r
+u
+S
+
+•
+
+y
+s
+p
+e
+
+l
+i
+
+p
+E
+–
+
+i
+
+n
+a
+P
+–
+
+i
+
+n
+a
+r
+b
+e
+h
+
+t
+
+n
+
+i
+
+s
+e
+d
+o
+r
+t
+c
+e
+e
+p
+e
+e
+D
+
+l
+
+•
+
+’
+
+s
+n
+o
+s
+n
+k
+r
+a
+P
+–
+
+i
+
+l
+
+i
+
+i
+
+r
+e
+d
+r
+o
+s
+D
+e
+v
+s
+u
+p
+m
+o
+C
+-
+e
+v
+s
+s
+e
+s
+b
+O
+–
+
+i
+
+ 
+ 
+ 
+ 
+ 
+ 
+I
+
+N
+A
+P
+
+l
+
+s
+u
+m
+a
+a
+h
+t
+e
+h
+
+t
+
+f
+
+o
+s
+u
+e
+c
+u
+n
+
+l
+
+l
+
+a
+r
+t
+n
+e
+v
+
+r
+o
+i
+r
+e
+t
+s
+o
+P
+
+•
+
+x
+e
+t
+r
+o
+c
+
+t
+
+r
+o
+o
+m
+e
+h
+
+t
+
+f
+
+o
+n
+o
+
+i
+t
+
+l
+
+a
+u
+m
+
+i
+t
+s
+
+i
+
+c
+n
+o
+r
+h
+C
+
+•
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+n
+o
+i
+t
+a
+v
+i
+t
+c
+a
+I
+R
+M
+
+f
+
+)
+d
+n
+a
+h
+(
+
+)
+d
+n
+a
+h
+(
+
+M
+C
+
+i
+
+n
+o
+i
+t
+a
+v
+i
+t
+c
+a
+I
+R
+M
+
+f
+
+)
+1
+0
+0
+.
+0
+<
+p
+(
+
+)
+e
+u
+g
+n
+o
+t
+(
+
+M
+C
+
+i
+
+)
+e
+u
+g
+n
+o
+t
+(
+
+16 
+
+ 
+ 
+ 
+l
+u
+f
+n
+i
+a
+p
+
+o
+t
+
+d
+e
+t
+a
+l
+e
+r
+
+x
+e
+t
+r
+o
+C
+
+r
+o
+t
+o
+M
+
+f
+o
+
+n
+o
+i
+t
+a
+l
+u
+m
+
+i
+t
+S
+l
+a
+r
+u
+d
+i
+p
+E
+c
+i
+n
+o
+r
+h
+C
+
+n
+i
+a
+p
+e
+t
+a
+i
+v
+e
+l
+l
+a
+o
+t
+
+t
+n
+e
+m
+g
+e
+s
+
+c
+i
+t
+a
+m
+o
+s
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+’
+
+i
+
+e
+s
+a
+e
+s
+D
+s
+n
+o
+s
+n
+k
+r
+a
+P
+
+i
+
+m
+u
+d
+
+i
+l
+l
+
+a
+p
+
+l
+
+l
+
+a
+r
+e
+t
+a
+o
+r
+e
+t
+s
+o
+p
+o
+r
+t
+n
+e
+V
+–
+
+n
+o
+
+i
+t
+
+l
+
+a
+u
+m
+
+i
+
+i
+t
+s
+n
+a
+r
+b
+p
+e
+e
+D
+
+•
+
+18 
+
+s
+u
+e
+c
+u
+n
+
+l
+
+i
+
+l
+
+c
+m
+a
+a
+h
+t
+b
+u
+S
+–
+
+s
+t
+n
+a
+p
+m
+
+l
+
+i
+
+l
+l
+
+e
+C
+
+•
+
+ 
+ 
+e
+s
+a
+e
+s
+d
+
+i
+
+’
+
+s
+n
+o
+s
+n
+k
+r
+a
+P
+
+i
+
+19 
+
+ 
+ 
+-
+
+I
+
+B
+U
+S
+U
+A
+Y
+O
+N
+F
+O
+N
+O
+T
+A
+L
+U
+M
+T
+S
+C
+N
+O
+R
+H
+C
+
+I
+
+I
+
+S
+U
+E
+L
+C
+U
+N
+C
+M
+A
+L
+A
+H
+T
+
+I
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+l
+
+i
+
+c
+m
+a
+a
+h
+t
+b
+u
+S
+
+l
+
+s
+u
+e
+c
+u
+N
+
+f
+
+o
+n
+o
+
+i
+t
+
+l
+
+a
+u
+m
+
+i
+t
+
+i
+
+S
+c
+n
+o
+r
+h
+C
+
+21 
+
+ 
+ 
+ 
+ 
+m
+m
+3
+3
+-
+
+.
+
+:
+
+V
+
+-
+
+P
+A
+C
+A
+d
+m
+
+i
+
+m
+m
+2
+1
+
+:
+
+t
+
+a
+L
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+
+ 
+24 
+
+ 
+I
+
+I
+
+I
+
+N
+O
+T
+A
+L
+U
+M
+T
+S
+C
+M
+A
+L
+A
+H
+T
+-
+B
+U
+S
+L
+A
+R
+E
+T
+A
+L
+B
+
+I
+
+25 
+
+ 
+ 
+ 
+1
+u
+P
+
+2
+u
+P
+
+3
+u
+P
+
+4
+u
+P
+
+1
+a
+C
+
+2
+a
+C
+
+r
+r
+o
+o
+t
+t
+o
+o
+M
+M
+
+i
+i
+r
+r
+o
+o
+s
+s
+n
+n
+e
+e
+S
+S
+
+c
+c
+i
+i
+b
+b
+m
+m
+L
+L
+
+i
+i
+
+e
+e
+v
+v
+i
+i
+t
+t
+a
+a
+i
+i
+c
+c
+o
+o
+s
+s
+s
+s
+A
+A
+
+n
+n
+e
+e
+m
+m
+a
+a
+t
+t
+u
+u
+P
+P
+
+w
+w
+e
+e
+i
+i
+v
+v
+l
+l
+a
+a
+i
+i
+x
+x
+A
+A
+
+s
+t
+n
+a
+p
+m
+
+l
+
+i
+
+l
+l
+
+e
+C
+
+.
+
+.
+
+M
+C
+T
+U
+
+.
+
+.
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+S
+L
+L
+E
+C
+D
+E
+T
+F
+A
+R
+G
+F
+O
+L
+A
+V
+V
+R
+U
+S
+↑
+
+I
+
+I
+
+?
+N
+O
+T
+C
+E
+T
+O
+R
+P
+O
+R
+U
+E
+N
+
+I
+
+?
+N
+O
+T
+A
+R
+E
+N
+E
+G
+E
+R
+
+F
+N
+D
+G
+
+-
+
+V
+A
+A
+
+I
+
+S
+E
+V
+T
+C
+E
+P
+S
+R
+E
+P
+
+E
+L
+A
+N
+O
+R
+U
+E
+N
+N
+O
+T
+A
+T
+N
+E
+R
+E
+F
+F
+D
+
+I
+
+I
+
+I
+
+S
+E
+L
+U
+L
+L
+E
+C
+
+S
+E
+H
+C
+U
+O
+S
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+n
+o
+h
+c
+y
+s
+P
+
+28 
+
+ 
+29 
+
+ 
+30 
+
+ 
+y
+r
+o
+t
+s
+H
+
+i
+
+e
+h
+t
+
+t
+p
+e
+k
+
+e
+v
+a
+h
+t
+a
+h
+t
+
+s
+t
+n
+e
+m
+
+i
+t
+n
+e
+s
+
+r
+e
+n
+i
+f
+
+e
+h
+t
+
+s
+e
+h
+s
+i
+l
+
+o
+b
+a
+
+d
+n
+a
+
+;
+d
+e
+e
+c
+c
+u
+s
+n
+o
+i
+t
+a
+r
+e
+p
+o
+e
+h
+t
+
+s
+e
+o
+d
+s
+y
+a
+w
+l
+a
+
+t
+o
+N
+«
+
+t
+i
+
+t
+a
+h
+t
+n
+
+i
+
+,
+l
+l
+e
+w
+o
+o
+t
+
+s
+d
+e
+e
+c
+c
+u
+s
+
+t
+i
+
+s
+e
+m
+
+i
+t
+e
+m
+o
+s
+
+e
+t
+a
+u
+q
+e
+d
+a
+
+f
+o
+s
+d
+n
+u
+o
+b
+n
+h
+t
+i
+
+i
+
+w
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+
+i
+
+k
+c
+i
+s
+
+e
+h
+t
+
+r
+o
+f
+
+y
+r
+o
+t
+c
+a
+f
+s
+i
+t
+a
+s
+
+e
+b
+y
+a
+m
+
+t
+a
+h
+W
+
+.
+r
+o
+i
+v
+a
+h
+e
+b
+
+»
+
+y
+
+l
+i
+
+m
+a
+f
+
+e
+h
+t
+o
+t
+
+s
+u
+o
+n
+n
+u
+r
+
+i
+
+e
+b
+y
+a
+m
+
+t
+n
+e
+i
+t
+a
+p
+
+.
+2
+4
+9
+1
+
+,
+s
+t
+t
+a
+W
+d
+n
+a
+n
+a
+m
+e
+e
+r
+F
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+
+N
+O
+T
+A
+L
+U
+M
+T
+S
+S
+G
+V
+
+I
+
+E
+U
+G
+A
+V
+F
+R
+E
+N
+N
+O
+T
+A
+L
+U
+M
+T
+S
+
+I
+
+I
+
+0
+0
+0
+2
+b
+e
+F
+
+,
+4
+r
+e
+b
+m
+u
+n
+,
+7
+4
+
+l
+
+o
+v
+y
+r
+t
+a
+i
+h
+c
+y
+s
+P
+
+l
+
+i
+
+a
+c
+g
+o
+o
+B
+
+i
+
+l
+
+r
+o
+
+f
+
+n
+o
+
+i
+t
+
+l
+
+a
+u
+m
+
+i
+t
+s
+e
+v
+r
+e
+n
+
+s
+u
+g
+a
+V
+
+i
+
+:
+r
+e
+g
+n
+n
+e
+H
+R
+G
+&
+m
+u
+b
+n
+e
+s
+o
+R
+R
+J
+
+l
+
+y
+b
+
+l
+
+a
+i
+r
+o
+
+t
+i
+
+d
+E
+
+i
+
+:
+s
+n
+o
+s
+s
+e
+r
+p
+e
+d
+
+t
+
+n
+a
+
+i
+
+t
+s
+s
+e
+r
+-
+t
+n
+e
+m
+t
+a
+e
+r
+t
+
+r
+o
+f
+n
+o
+i
+t
+a
+u
+m
+
+l
+
+i
+t
+s
+e
+v
+r
+e
+n
+s
+u
+g
+a
+V
+
+:
+.
+J
+.
+A
+h
+s
+u
+R
+
+y
+d
+u
+t
+s
+
+r
+e
+
+t
+
+n
+e
+c
+i
+t
+l
+
+u
+m
+a
+
+d
+n
+a
+h
+c
+r
+a
+e
+s
+e
+r
+n
+a
+r
+b
+r
+o
+
+i
+
+f
+
+l
+
+o
+o
+t
+
+w
+e
+n
+a
+:
+n
+o
+i
+t
+a
+u
+m
+
+l
+
+i
+t
+s
+e
+v
+r
+e
+n
+s
+u
+g
+a
+V
+
+:
+
+S
+M
+e
+g
+r
+o
+e
+G
+
+y
+p
+a
+r
+e
+h
+
+t
+
+i
+
+n
+o
+s
+s
+e
+r
+p
+e
+d
+t
+n
+a
+t
+s
+s
+e
+r
+-
+t
+n
+e
+m
+a
+e
+r
+t
+
+t
+
+i
+
+•
+
+•
+
+•
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+:
+
+E
+R
+U
+T
+U
+F
+
+i
+
+s
+e
+u
+q
+n
+h
+c
+e
+
+t
+
+i
+
+e
+v
+s
+a
+v
+n
+
+i
+
+s
+s
+e
+L
+
+s
+e
+d
+n
+o
+f
+o
+r
+p
+s
+e
+d
+o
+r
+t
+c
+e
+é
+r
+a
+p
+n
+o
+
+l
+
+i
+t
+
+l
+
+a
+u
+m
+
+i
+t
+
+S
+
+l
+
+a
+n
+r
+e
+n
+
+t
+
+i
+
+f
+
+o
+s
+b
+m
+
+i
+l
+
+r
+o
+i
+r
+e
+t
+n
+a
+n
+
+i
+
+n
+o
+i
+t
+a
+u
+m
+
+l
+
+i
+t
+s
+
+l
+
+a
+c
+i
+r
+t
+c
+e
+E
+
+l
+
+.
+l
+a
+t
+
+e
+n
+
+i
+t
+t
+
+u
+N
+
+,
+
+9
+9
+9
+1
+t
+e
+c
+n
+a
+L
+
+.
+s
+u
+m
+a
+a
+h
+
+l
+
+t
+
+f
+o
+n
+o
+i
+t
+a
+u
+m
+
+l
+
+i
+t
+s
+
+i
+
+y
+c
+n
+e
+u
+q
+e
+r
+f
+-
+h
+g
+h
+y
+b
+e
+m
+o
+r
+d
+n
+y
+s
+
+)
+r
+e
+t
+t
+e
+l
+(
+4
+2
+7
+
+:
+
+3
+5
+3
+
+e
+
+t
+t
+
+e
+r
+u
+o
+T
+a
+
+l
+
+e
+d
+s
+e
+
+l
+l
+i
+
+G
+
+f
+o
+t
+n
+e
+m
+t
+a
+e
+r
+t
+
+c
+i
+t
+c
+a
+t
+o
+e
+r
+e
+t
+S
+
+.
+l
+a
+t
+e
+e
+
+l
+l
+
+a
+w
+e
+d
+n
+a
+V
+
+)
+r
+e
+t
+t
+e
+l
+(
+6
+2
+5
+1
+:
+4
+5
+3
+
+,
+
+9
+9
+9
+1
+
+t
+e
+c
+n
+a
+L
+
+i
+
+i
+
+l
+
+.
+r
+e
+d
+r
+o
+s
+d
+e
+v
+s
+u
+p
+m
+o
+c
+-
+e
+v
+s
+s
+e
+s
+b
+o
+
+i
+
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+n
+
+i
+
+l
+
+s
+e
+u
+s
+p
+a
+c
+
+•
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+n
+o
+i
+t
+
+l
+
+a
+u
+d
+o
+m
+o
+h
+c
+y
+s
+p
+
+n
+
+i
+
+t
+n
+a
+t
+r
+o
+p
+m
+
+i
+
+y
+r
+e
+v
+
+s
+
+i
+
+i
+
+h
+c
+h
+w
+
+t
+c
+e
+
+f
+f
+
+l
+
+i
+
+e
+e
+b
+s
+r
+e
+v
+e
+R
+
+I
+
+E
+V
+S
+L
+U
+P
+M
+O
+C
+E
+V
+S
+S
+E
+B
+O
+
+-
+
+I
+
+R
+E
+D
+R
+O
+S
+D
+
+I
+
+s
+b
+m
+
+i
+l
+
+r
+o
+i
+r
+e
+t
+n
+a
+h
+o
+b
+
+t
+
+f
+
+o
+n
+o
+
+i
+t
+
+l
+
+a
+u
+m
+
+i
+t
+s
+
+i
+
+c
+n
+o
+r
+h
+C
+
+l
+
+s
+e
+u
+s
+p
+a
+c
+
+l
+
+a
+n
+r
+e
+n
+
+t
+
+i
+
+e
+h
+
+t
+
+f
+
+o
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+s
+t
+
+n
+e
+
+i
+t
+
+a
+P
+n
+
+i
+
+n
+o
+
+i
+t
+
+l
+
+a
+u
+m
+
+i
+t
+
+S
+
+l
+
+r
+a
+u
+s
+p
+a
+C
+
+l
+
+l
+
+a
+c
+i
+r
+t
+c
+e
+E
+m
+r
+e
+t
+-
+g
+n
+o
+L
+
+i
+
+i
+
+l
+
+r
+e
+d
+r
+o
+s
+D
+e
+v
+s
+u
+p
+m
+o
+C
+-
+e
+v
+s
+s
+e
+s
+b
+O
+h
+t
+i
+
+i
+
+w
+
+.
+
+G
+e
+d
+
+l
+i
+
+H
+
+;
+.
+
+.
+
+D
+h
+P
+
+,
+
+l
+
+i
+
+n
+e
+e
+G
+s
+n
+a
+r
+F
+;
+.
+
+.
+
+D
+h
+P
+
+,
+.
+
+.
+
+D
+M
+
+,
+s
+l
+e
+b
+y
+G
+
+.
+
+M
+n
+a
+J
+;
+.
+
+.
+
+D
+h
+P
+
+,
+t
+n
+o
+p
+u
+D
+
+.
+
+A
+n
+r
+ö
+B
+
+j
+
+;
+.
+
+.
+
+D
+h
+P
+
+,
+.
+
+.
+
+D
+M
+
+,
+
+s
+n
+y
+s
+o
+C
+
+.
+
+R
+
+l
+
+u
+a
+P
+
+;
+.
+g
+n
+E
+.
+c
+S
+M
+
+.
+
+,
+.
+
+.
+
+D
+M
+
+,
+
+s
+e
+a
+M
+
+.
+
+F
+x
+e
+A
+
+l
+
+;
+.
+
+.
+
+D
+M
+
+,
+t
+r
+e
+a
+n
+u
+S
+
+.
+
+G
+n
+a
+f
+e
+t
+S
+
+,
+.
+
+.
+
+D
+M
+
+;
+.
+
+.
+
+D
+M
+
+,
+
+h
+c
+t
+i
+
+w
+e
+é
+r
+d
+n
+A
+
+j
+e
+g
+r
+e
+S
+
+;
+.
+
+.
+
+D
+h
+P
+
+,
+s
+l
+ë
+i
+r
+b
+a
+G
+
+.
+
+A
+s
+e
+o
+L
+;
+.
+
+.
+
+D
+h
+P
+
+,
+.
+
+.
+
+D
+M
+
+,
+
+n
+i
+t
+t
+u
+N
+
+.
+
+J
+
+t
+r
+a
+B
+
+.
+
+.
+
+D
+h
+P
+
+,
+r
+e
+t
+s
+e
+e
+m
+e
+u
+e
+m
+e
+D
+
+l
+
+,
+.
+
+.
+
+D
+M
+
+,
+
+n
+o
+s
+r
+e
+y
+e
+M
+
+.
+
+J
+k
+c
+
+i
+r
+t
+a
+P
+
+;
+.
+
+.
+
+D
+h
+P
+
+e
+k
+e
+
+i
+l
+
+t
+
+o
+h
+a
+K
+
+t
+
+,
+y
+m
+o
+a
+n
+a
+o
+r
+u
+e
+N
+d
+n
+a
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+N
+
+l
+
+a
+t
+n
+e
+m
+
+i
+r
+e
+p
+x
+E
+
+f
+o
+y
+r
+o
+t
+a
+r
+o
+b
+a
+L
+,
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+N
+
+f
+
+o
+
+t
+
+n
+e
+m
+
+t
+r
+a
+p
+e
+D
+
+,
+
+n
+e
+p
+r
+e
+w
+n
+A
+g
+n
+
+t
+
+i
+l
+l
+
+e
+
+t
+s
+n
+
+I
+
+e
+r
+i
+a
+
+t
+i
+s
+r
+e
+v
+n
+U
+
+i
+
+i
+
+,
+y
+r
+t
+a
+h
+c
+y
+s
+P
+
+f
+o
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+D
+
+i
+
+m
+u
+g
+e
+B
+
+l
+
+,
+n
+e
+v
+u
+e
+L
+
+,
+n
+e
+v
+u
+e
+L
+
+t
+i
+
+e
+
+t
+i
+s
+r
+e
+v
+n
+U
+
+i
+
+a
+k
+s
+n
+
+i
+l
+
+o
+r
+a
+K
+
+i
+
+,
+y
+r
+t
+a
+h
+c
+y
+s
+P
+
+f
+
+o
+n
+o
+
+i
+t
+c
+e
+S
+
+,
+
+i
+
+e
+c
+n
+e
+c
+s
+o
+r
+u
+e
+N
+
+l
+
+a
+c
+n
+
+i
+
+i
+l
+
+C
+
+f
+o
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+D
+
+n
+e
+d
+e
+w
+S
+
+,
+
+l
+
+m
+o
+h
+k
+c
+o
+S
+
+t
+
+d
+n
+a
+e
+u
+
+t
+
+t
+i
+t
+s
+n
+
+I
+
+a
+k
+s
+n
+
+i
+l
+
+o
+r
+a
+K
+
+,
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+N
+
+f
+o
+n
+o
+i
+t
+c
+e
+S
+
+i
+
+,
+e
+c
+n
+e
+c
+s
+o
+r
+u
+e
+N
+
+l
+
+a
+c
+n
+
+i
+
+i
+l
+
+C
+
+f
+o
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+D
+
+,
+
+p
+r
+e
+w
+n
+A
+
+t
+
+,
+
+n
+e
+p
+r
+e
+w
+n
+A
+g
+n
+
+t
+
+i
+l
+l
+
+e
+t
+s
+n
+I
+e
+r
+i
+a
+t
+i
+s
+r
+e
+v
+n
+U
+
+i
+
+i
+
+,
+y
+r
+t
+a
+h
+c
+y
+s
+P
+
+f
+o
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+D
+
+i
+
+m
+u
+g
+e
+B
+
+l
+
+,
+
+p
+r
+e
+w
+n
+A
+
+t
+
+i
+
+m
+u
+g
+e
+B
+
+l
+
+,
+l
+
+a
+
+t
+i
+
+p
+s
+o
+H
+
+,
+
+n
+e
+v
+u
+e
+L
+
+t
+i
+
+e
+
+i
+
+t
+i
+s
+r
+e
+v
+n
+U
+e
+k
+e
+
+i
+l
+
+t
+
+o
+h
+a
+K
+
+l
+
+,
+y
+g
+o
+o
+d
+a
+R
+
+i
+
+f
+o
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+D
+
+n
+e
+d
+e
+w
+S
+
+,
+
+l
+
+m
+o
+h
+k
+c
+o
+t
+S
+
+,
+l
+a
+t
+i
+p
+s
+o
+H
+d
+n
+a
+e
+u
+
+t
+
+t
+i
+t
+s
+n
+
+I
+
+t
+
+y
+r
+o
+a
+r
+o
+b
+a
+L
+
+d
+n
+a
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+N
+
+l
+
+t
+
+a
+n
+e
+m
+
+i
+r
+e
+p
+x
+E
+
+f
+
+o
+y
+r
+o
+t
+a
+r
+o
+b
+a
+L
+
+,
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+N
+
+f
+o
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+D
+
+.
+c
+n
+I
+
+i
+
+,
+c
+n
+o
+r
+t
+d
+e
+M
+
+i
+
+m
+u
+g
+e
+B
+
+l
+
+,
+
+n
+e
+v
+u
+e
+L
+
+i
+
+m
+u
+g
+e
+B
+
+l
+
+,
+
+,
+
+n
+e
+v
+u
+e
+L
+
+n
+e
+v
+u
+e
+L
+
+,
+
+n
+e
+v
+u
+e
+L
+t
+i
+e
+t
+i
+s
+r
+e
+v
+n
+U
+e
+k
+e
+
+i
+
+i
+l
+
+o
+h
+t
+a
+K
+
+i
+
+,
+e
+n
+c
+d
+e
+M
+
+i
+
+l
+
+r
+a
+e
+c
+u
+N
+
+f
+o
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+D
+
+t
+i
+
+e
+
+i
+
+t
+i
+s
+r
+e
+v
+n
+U
+e
+k
+e
+
+i
+l
+
+o
+h
+t
+a
+K
+
+i
+
+,
+e
+n
+c
+d
+e
+M
+
+i
+
+l
+
+r
+a
+e
+c
+u
+N
+
+f
+o
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+D
+
+i
+
+m
+u
+g
+e
+B
+
+l
+
+,
+
+n
+e
+v
+u
+e
+L
+
+i
+
+m
+u
+g
+e
+B
+
+l
+
+,
+
+n
+e
+v
+u
+e
+L
+
+,
+
+n
+e
+v
+u
+e
+L
+
+t
+i
+
+e
+
+i
+
+t
+i
+s
+r
+e
+v
+n
+U
+e
+k
+e
+
+i
+l
+
+o
+h
+t
+a
+K
+
+,
+y
+m
+o
+t
+a
+n
+a
+o
+r
+u
+e
+N
+d
+n
+a
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+N
+
+l
+
+t
+
+a
+n
+e
+m
+
+i
+r
+e
+p
+x
+E
+
+f
+
+o
+
+i
+
+m
+u
+g
+e
+B
+
+l
+
+,
+n
+e
+v
+u
+e
+L
+,
+n
+e
+v
+u
+e
+L
+t
+i
+e
+t
+i
+s
+r
+e
+v
+n
+U
+e
+k
+e
+
+i
+
+i
+l
+
+o
+h
+t
+a
+K
+
+t
+
+,
+y
+m
+o
+a
+n
+a
+o
+r
+u
+e
+N
+
+•
+
+•
+
+35 
+
+3
+0
+0
+2
+
+,
+4
+7
+2
+1
+-
+3
+6
+2
+1
+
+:
+2
+5
+
+,
+
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+N
+
+•
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.
+l
+
+a
+
+t
+
+e
+n
+
+i
+t
+t
+
+u
+N
+
+l
+
+r
+a
+o
+p
+i
+r
+d
+a
+u
+q
+
+d
+e
+
+t
+
+l
+
+n
+a
+p
+m
+
+i
+
+y
+
+l
+l
+
+a
+c
+i
+t
+c
+a
+t
+o
+e
+r
+e
+t
+s
+
+e
+W
+
+:
+
+S
+D
+O
+H
+T
+E
+M
+
+i
+
+-
+e
+v
+s
+s
+e
+s
+b
+o
+
+e
+r
+e
+v
+e
+s
+
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+
+x
+s
+
+i
+
+o
+t
+n
+
+i
+
+l
+
+s
+e
+u
+s
+p
+a
+c
+
+l
+
+a
+n
+r
+e
+
+t
+
+n
+
+i
+
+e
+h
+
+t
+
+f
+
+o
+
+s
+b
+m
+
+i
+l
+
+r
+o
+i
+r
+e
+t
+n
+a
+
+h
+t
+o
+b
+
+n
+
+i
+
+s
+e
+d
+o
+r
+t
+c
+e
+e
+
+l
+
+A
+
+.
+t
+
+n
+e
+m
+s
+s
+e
+s
+s
+a
+
+l
+
+a
+c
+n
+
+i
+
+i
+l
+
+c
+
+d
+n
+
+i
+l
+
+l
+
+b
+-
+e
+b
+u
+o
+d
+
+a
+
+d
+e
+m
+r
+o
+f
+r
+e
+p
+
+o
+
+t
+
+d
+e
+s
+u
+
+s
+a
+w
+n
+g
+s
+e
+d
+
+i
+
+r
+e
+v
+o
+s
+s
+o
+r
+c
+m
+o
+d
+n
+a
+r
+
+d
+e
+d
+n
+
+i
+l
+
+b
+
+t
+
+n
+e
+w
+r
+e
+d
+n
+u
+
+o
+h
+w
+
+,
+s
+t
+n
+e
+i
+t
+a
+p
+
+e
+s
+o
+h
+t
+
+f
+o
+
+r
+u
+o
+f
+
+s
+s
+e
+s
+s
+a
+
+.
+r
+e
+t
+f
+a
+e
+r
+e
+h
+t
+
+n
+o
+i
+t
+a
+u
+m
+
+l
+
+i
+t
+s
+
+s
+u
+o
+u
+n
+i
+t
+n
+o
+c
+
+i
+
+l
+
+s
+t
+s
+g
+o
+o
+h
+c
+y
+s
+p
+
+d
+n
+a
+
+i
+
+s
+t
+s
+i
+r
+t
+a
+h
+c
+y
+s
+P
+
+.
+r
+e
+d
+r
+o
+s
+d
+
+i
+
+l
+
+i
+
+e
+v
+s
+u
+p
+m
+o
+c
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+t
+
+a
+h
+
+t
+
+e
+
+t
+
+i
+
+a
+c
+d
+n
+
+i
+
+.
+l
+
+a
+
+t
+
+e
+n
+
+i
+t
+t
+
+u
+N
+
+s
+n
+o
+i
+t
+a
+v
+r
+e
+s
+b
+o
+
+e
+s
+e
+h
+T
+
+:
+
+I
+
+N
+O
+S
+U
+L
+C
+N
+O
+C
+
+•
+
+i
+
+l
+
+e
+v
+s
+u
+p
+m
+o
+c
+-
+e
+v
+s
+s
+e
+s
+b
+o
+
+i
+
+y
+r
+o
+t
+c
+a
+r
+f
+e
+r
+-
+t
+n
+e
+m
+t
+a
+e
+r
+t
+
+i
+
+,
+g
+n
+d
+n
+a
+t
+s
+
+l
+
+a
+n
+o
+g
+e
+r
+
+i
+
+n
+
+i
+
+s
+e
+g
+n
+a
+h
+c
+
+d
+e
+t
+i
+c
+
+i
+l
+
+e
+
+n
+o
+i
+t
+a
+u
+m
+
+l
+
+i
+t
+s
+
+e
+h
+T
+
+.
+r
+e
+d
+r
+o
+s
+d
+
+i
+
+c
+i
+t
+
+e
+n
+g
+a
+m
+
+l
+
+a
+n
+o
+
+i
+t
+c
+n
+u
+f
+
+y
+b
+
+d
+e
+r
+u
+s
+a
+e
+m
+s
+a
+
+y
+t
+i
+v
+i
+t
+c
+a
+
+i
+
+n
+a
+r
+b
+
+i
+
+n
+o
+s
+s
+m
+e
+
+i
+
+n
+o
+r
+t
+i
+s
+o
+p
+
+d
+n
+a
+
+i
+
+g
+n
+g
+a
+m
+
+i
+
+e
+c
+n
+a
+n
+o
+s
+e
+r
+
+.
+y
+h
+p
+a
+r
+g
+o
+m
+o
+t
+
+)
+3
+0
+0
+2
+
+,
+4
+7
+2
+1
+-
+3
+6
+2
+1
+
+:
+2
+5
+
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+N
+
+(
+
+-
+g
+n
+o
+
+l
+
+,
+
+e
+r
+e
+v
+e
+s
+
+h
+
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+
+n
+
+i
+
+y
+r
+e
+g
+r
+u
+s
+
+r
+e
+t
+f
+a
+
+s
+h
+t
+n
+o
+m
+
+1
+2
+
+s
+m
+o
+
+t
+
+p
+m
+y
+s
+
+e
+r
+o
+c
+
+s
+e
+c
+u
+d
+e
+r
+
+n
+o
+i
+t
+a
+u
+m
+
+l
+
+i
+t
+s
+
+l
+
+r
+a
+u
+s
+p
+a
+c
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+
+ 
+ 
+E
+R
+U
+T
+U
+F
+
+d
+e
+s
+a
+b
+
+y
+r
+e
+g
+r
+u
+s
+o
+r
+u
+e
+N
+c
+i
+t
+c
+a
+o
+e
+r
+e
+S
+
+t
+
+t
+
+l
+
+a
+n
+o
+i
+t
+c
+n
+u
+F
+
+•
+
+s
+e
+
+i
+t
+i
+l
+
+a
+m
+r
+o
+n
+b
+a
+
+c
+
+i
+l
+
+o
+b
+a
+t
+e
+m
+n
+o
+
+»
+n
+o
+i
+t
+
+l
+
+a
+u
+d
+o
+m
+o
+h
+c
+y
+s
+p
+e
+v
+i
+t
+
+t
+
+a
+n
+e
+m
+g
+u
+a
+-
+«
+
+i
+
+»
+y
+r
+t
+a
+h
+c
+y
+s
+p
+e
+v
+i
+t
+a
+r
+o
+t
+s
+e
+r
+-
+«
+
+:
+s
+n
+o
+
+i
+t
+
+l
+
+t
+
+a
+n
+a
+p
+s
+n
+a
+r
+t
+o
+r
+u
+e
+N
+
+•
+
+39 
+
+?
+?
+a
+
+i
+l
+i
+
+h
+p
+o
+d
+e
+p
+
+l
+
+a
+n
+m
+
+i
+
+i
+r
+c
+&
+s
+r
+e
+d
+r
+o
+s
+d
+
+i
+
+l
+
+a
+u
+x
+e
+S
+
+•
+
+ 
+ 
+ 
+ 
+E
+R
+U
+T
+U
+F
+
+r
+o
+
+f
+
+d
+e
+e
+N
+
+i
+
+s
+e
+d
+u
+
+t
+s
+
+e
+v
+i
+t
+c
+e
+p
+s
+o
+r
+p
+
+d
+e
+d
+n
+
+i
+l
+
+b
+
+i
+
+d
+e
+z
+m
+o
+d
+n
+a
+R
+–
+
+40 
+
+s
+e
+n
+
+i
+l
+
+e
+d
+u
+g
+
+i
+
+l
+
+i
+
+a
+c
+h
+t
+e
+
+g
+n
+o
+r
+t
+
+S
+–
+
+ 
+ 
+ 
+James H. MOOR 
+Professor James H. Moor 
+Dartmouth College, USA 
+
+Biography 
+
+James  Moor  is  a  Professor  of  Philosophy  at  Dartmouth  College  and  is  an  adjunct  professor 
+with The Centre for Applied Philosophy and Public Ethics (CAPPE) at the Australian National 
+University. 
+
+He carries out research on computer ethics, philosophy of artificial intelligence, philosophy of 
+the mind, philosophy of science, and logic. 
+
+He  is  the  editor  of  the  recent  book  The  Turing  Test:  The  Elusive  Standard  of  Artificial 
+Intelligence (Kluwer, 2004) and is the editor of the philosophical journal Minds and Machines.  
+
+He is the President of the International Society for Ethics and Information Technology (INSEIT) 
+and in 2003 received the American Computing Machinery SIGCAS Making a Difference Award. 
+
+41
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Becoming a Cyborg: Some ethical and legal implications 
+of ICT implants 
+
+James MOOR 
+
+SUMMARY 
+
+A common complaint about ethics is that it does not keep up with technology. Implicit 
+in  the  remark  is  the  suggestion  that  ethics  could  keep  up  with  technology  if  only  ethicists, 
+policy-makers, legislators, theologians, or perhaps people in general should think more about 
+ethics.  To  an  extent  this  suggestion  is  correct.  We  should  do  our  best  to  anticipate 
+technological change and put policies in place to accommodate it. However, ultimately ethics 
+will  always  lag  behind.  We  cannot  foresee  all  technological  changes  and  consequences 
+accurately  or  precisely.  We  possess  well-established  ethical  concepts  and  principles,  but 
+application of ethics requires interpretation and analysis of situations as well as knowledge of 
+concepts and principles. When new technology generates novel situations, as it usually does, 
+we need to assess afresh what we should do. Hence, we should expect that setting ethical and 
+legal policies for ICT implants will be a dynamic enterprise. We can and should begin to frame 
+such policies, but we must remind ourselves that the job will be ongoing. I expect ICT implants 
+to be an evolving growth industry that will require the generation and reevaluation of ethical and 
+legal policies for decades, if not centuries, to come. We are now only beginning on what will be 
+a long journey. 
+
+What  is  special  about  ICT  implants  as  opposed  to  implants  in  general  or  to  genetic 
+manipulation?  The  answer  lies  at  what  is  at  the  heart  of  information  and  communications 
+technology – the computer. Computers, whether they be massive machines or nanochips, are 
+logically  malleable  both  syntactically  and 
+in  principle  universal  machines.  They  are 
+semantically.  We  can  alter  their  programs  and  we  can  redefine  what  their  states  represent. 
+Although there are well known logical limits to computers, practically speaking the limits of their 
+application  depend  largely  on  our  imaginations.  Implanting  ICT  devices  will  give  humans 
+functionality  well  beyond  what  they  currently  have  or  could  ever  have  through  traditional 
+transplants  or  genetic  manipulations.  ICT  implants  provide  us  with  colossal  opportunities  for 
+improved  and  novel  capabilities.  However,  they  will  also  be  a  continual  source  of  policy 
+vacuums. 
+
+ What difference does it make if the ICT device exists inside the body or outside? Isn’t 
+ICT  the  same  wherever  it  occurs?  The  difference  is  that  psychologically  and  socially  we 
+typically take our bodies as defining our boundaries as persons. We base many of our customs 
+and laws on this assumption. As an example, consider a situation in which a patient requests a 
+doctor to turn off a pacemaker located outside the patient’s body. Such a request is generally 
+regarded as a refusal of treatment and doctors in the United States are obligated to follow the 
+patient’s request. This is regarded as allowing the patient to die, but not killing the patient which 
+is illegal in the US. However, now suppose the pacemaker is located inside the patient’s body 
+and he makes the same request. Is a doctor obligated to follow the patient’s request? Should 
+shifting the pacemaker from outside the patient to inside the patient make an ethical or legal 
+difference?  
+
+43
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What  ethical  principles  should  we  follow  when  considering  whether  to  allow  ICT 
+implants? Most people agree that ICT implants used for therapeutic purposes are acceptable. 
+Hundreds  of  thousands  of  people  have  had  cardiac  pacemakers  or  defibrillators  implanted. 
+Significant  progress  is  being  made  in  developing  bionic  eyes.  Interestingly,  there  has  been 
+some reluctance among some in the deaf community toward cochlear implants. This illustrates 
+that a device that is taken to be therapeutic by some may be regarded as enhancing by others. 
+In fact, often devices that are therapeutic have some enhancing aspects. An implant that picks 
+up a paralysed patient’s brain pattern may allow him to operate a computer, but it also gives 
+him  the  unusual  capacity  to  manipulate  physical  objects  in  the  world  by  merely  using  his 
+thought patterns. 
+
+Beyond  therapeutic  applications,  I  wish  to  argue  that  a  principle  of  autonomy  should 
+give people a broad choice of ICT implants, even those that are clearly enhancing. However, 
+the  principle  of  autonomy  does  not  override  all  considerations.  Considerations  which  may 
+trump  autonomy  are  health,  duty  (for  example,  the  duty  of  a  parent),  privacy,  control,  and 
+fairness. I will discuss some examples of these limiting constraints.  
+
+Finally,  many  philosophers  and  others  have  argued  that  ethics  and  law  should  be 
+based at least in part on human nature. However, ICT implants give us a non-biological way to 
+alter that nature. There is, therefore, the distant but nevertheless disquieting possibility that by 
+routinely implanting enough devices that dramatically alter our mental and physical capacities 
+we might begin to shift how we understand ourselves and our ethical decisions. 
+
+For an elaboration of this position please see: 
+
+James H. Moor, “Should We Let Computers Get Under Our Skin?” in The Impact of the 
+Internet  on  Our  Moral  Lives,  Robert  J.  Cavalier  (ed.),  Albany:  State  University  of  New  York 
+Press, 2005, pp. 121-138. Also, printed in Contemporary Moral Issues, 3rd edition, Lawrence M. 
+Hinman (ed.), Englewood Cliffs, NJ: Prentice-Hall, 2005. 
+
+44
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Peter HOOGENDOORN,  
+President of the Dutch Parkinson Society, Den Haag, The Netherlands 
+
+Biography 
+
+Peter Hoogendoorn (1940) studied sociology at Leyden University and mass communication at 
+the University of Amsterdam. He followed a career in advertising and became a civil servant as 
+head of the Communications Department of the Municipality of  The Hague and of  The Hague 
+Regional  Authority.  He  published  articles  on  public  consultation,  marketing  research  and 
+municipal communication.  
+He retired in September 2001. 
+
+Peter married his wife Willy in 1965, they have two sons Rick and Bart (1967 and 1970) and 
+two granddaughters Sophie (2000) and Wende (2004). Willy was diagnosed with Parkinson’s 
+Disease in 1988 and had a deep brain operation (in the Sub Thalamus Nucleus) in February 
+2000.  
+
+Since  1994  Peter  has  been  involved  in  the  Dutch  Parkinson’s  Disease  Patients  Association. 
+Initially as a member of the Publicity Working Group. In 1998 he was elected a member of the 
+board  and  has  been  Chair  of  the  association  since  2000.  In  2001  Peter  was  elected  to  the 
+Administration Board of the European Parkinson’s Disease Association (EPDA), of which he is 
+Vice President at the moment.  
+
+45
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ICT brain implants – a patient’s perspective 
+
+Peter HOOGENDOORN 
+
+SUMMARY 
+
+Parkinson’s Disease (PD) is a neurological degenerative affection of the basal ganglia in the 
+inner part of the brain. Dopamine, a neurotransmitter made by the brain itself, is in insufficient 
+supply  because  of  the  premature  death  of  neurons  in  the  substantia  nigra.  Dopamine  is 
+necessary for movement. Movement disorders are the most notable symptoms of PD but the 
+disease has also an effect on almost every aspect of the central nervous system (CNS) and 
+daily  living:  bladder  control,  sweating,  speech,  writing,  dressing,  washing,  balance,  but  also 
+mood, character change, depression, dementia and cognition.  
+
+Combating  the  symptoms  is  the  only  possibility;  there  is  no  cure  and  no  prevention.  For  the 
+fight against the symptoms we have medication (levodopa and dopamine agonists), but they all 
+have side effects and in a later stage of the disease still higher doses are needed for the same 
+effect. Eventually the drugs have a smaller and smaller effect. 
+
+Stereo tactic operations are another possibility to fight the symptoms. Destroying brain cells in 
+some  parts  of  the  brain  (thalamus,  globus  pallidus)  by  heating  (coagulation)  can  bring  relief. 
+Nowadays doctors and patients choose mostly the Deep Brain Stimulation technique (DBS). A 
+set of electrodes is implanted in one of the nuclei in the brain (thalamus, globus pallidus and - 
+most of the time - the sub thalamus nucleus - STN). The electrodes are connected with pulse 
+generators  (a  kind  of  pacemaker)  implanted  in  the  chest.  When  the  parameters  of  the 
+generators  are  well  set  and  the  use  of  the  medication  is  adjusted,  in  a  majority  of  cases  a 
+profound improvement is obtained.  
+
+However, there are also setbacks and risks. Problems can increase with speech and balance 
+and  also  in  the  psychological  sphere:  apathy,  depression  and  even  suicide  are  serious 
+unwanted side effects. Still it can be a good solution for most of the patients. We feel that is up 
+to  the  patient  to  make  the  decision.  It’s  the  patient’s  choice  and  his  quality  of  life.  Informed 
+consent is essential of course. 
+
+47
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dr. Fabienne NSANZE 
+MD, Trainee at the EGE Secretariat of the European Group on Ethics in Science 
+and New Technologies to the European Commission (EGE) 
+
+Biography 
+
+Born in Tournai in 1976, Fabienne Nsanze completed with honours her medical studies at the 
+Leuven Catholic University in Brussels, Belgium in 2001.   
+
+She has considerable experience in Computer Science, and has implemented a project in the 
+field  of  Education  and  Information  and  Communication  Technologies  (ICTs)  at  the  Leuven 
+Catholic  University  (UCL),  Louvain-La-Neuve,  Belgium.  In  May  2003,  she  presented  her 
+research  “The  Virtual  Patient”  at  the  20th  International  Congress  of  AIPU  (Association 
+Internationale de Pédagogie Universitaire) on «ICTs and Teaching», Sherbrooke, Canada. 
+
+Fabienne  Nsanze  has  a  strong  interest  in  Public  Health  and  Development  Cooperation,  and 
+holds a University Diploma on the Methods and Practices in Epidemiology, in the Institute of 
+Public Health, Epidemiology and Development of the University of Bordeaux II, France. 
+
+She  was  also  trained  in  the  «Methods  of  Planning  in  the  Health  Sectors»,  at  the  School  of 
+Public  Health  of  the  Free  University  of  Brussels  (ULB),  Brussels,  Belgium,  as  well  as  on 
+interdisciplinary  approaches  to  Development  Cooperation,  from  the  Coopération  Technique 
+Belge (CTB), Brussels, Belgium.   
+
+At the present time, she holds a traineeship appointment (October 2004 – February 2005) 
+within the Secretariat of the European Group on Ethics in Science and New Technologies, 
+where she has written the scientific background for the EGE’s forthcoming Opinion N° 20 on 
+“ICT implants in the Human Body”. She is also preparing a short paper on stem cell research 
+for possible future use by the EGE. 
+
+49
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ICT implants in the human body : a review 
+21 December 2004 
+
+Fabienne NSANZE 
+
+Introduction 
+
+Present day uses such as heart pacemakers, cochlear implants and neurostimulators are 
+not  the  focus  of  this  paper.  Rather,  attention  is  given  to  implants  that  use  computer 
+technology either for control/surveillance or enhancement purposes. 
+Apart from one example (the subdermal RFID device, Verichip™, see below), all of these 
+ICT implantations are active implantable devices for “functional electrical stimulation”. They 
+partially replace the neural functions of the body by means of electrodes that establish a 
+direct contact to nerves. 
+http://www.medics-network.com/download/schneidersteiglitz_jf04.pdf 
+
+“Over  the  last  50  years,  we  have  seen  evolution  of  pacemaker  technologies,  as  an 
+accepted form of intrusion into human body.” This is confirmed by the recent U.S. Food and 
+Drug Administration approval of implantable ID chips in humans, for security, financial and 
+personal identification or safety applications. 
+Besides  medical  purposes,  “for  [healthy]  beneficiaries,  implant  technologies  involve 
+possibly some future advantages, like rapid math, memory capacity or communication by 
+thought. “ 
+[quoted from http://www.unido.org/file-storage/download/?file_id=10499] 
+
+Categorisation of Implantable Devices 
+
+Implantable devices can be categorised as  medical  or non-medical devices, both either 
+passive or active devices. 
+
+  Implantable medical devices  
+
+Most  passive  implants  are  structural  devices  such  as  artificial  joints,  vascular  grafts  and 
+artificial valves. On the other hand, active implantable devices require power to replace or 
+augment an organ’s function or to treat an associated disease. 
+The  Council  Directive  90/385/EEC  on  active  implantable  medical  devices  gives  the 
+following  definition:  "active  implantable  medical  device"  means  any  active  medical  device 
+which is intended to be totally or partially introduced, surgically or medically, into the human 
+body or by medical intervention into a natural orifice, and which is intended to remain after 
+the procedure; 
+The  "device"  definition  within  the  meaning  of  Directive  90/385/EEC  relates  to  a  product 
+intended by the manufacturer for a medical purpose "whether used alone or in combination, 
+together with any accessories or software for its proper functioning". The medical purpose 
+may be achieved either by a "stand alone device" or as a result of several devices acting 
+each in combination with the other as part of a system. 
+
+51
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Implantable non-medical devices  
+
+An example of a passive device is the radio frequency identification (RFID) device. Active 
+devices may use electrical impulses to interact with the human’s nervous system. 
+
+PART I: Implantable devices already available on the market 
+
+This first section contains information about implants in the human body that are available 
+in commercial form and have been researched, in some cases, for decades.  
+
+1.  Current active medical devices  
+
+  Cardiovascular pacers for patients with conduction disorders or heart failure 
+  Cochlear and brainstem implants for patients with hearing disorders 
+  Implantable programmable drug delivery pumps 
+
+(cid:57)  Intrathecal  administration  of  Baclofen  for  patients  with  Multiple  Sclerosis 
+
+with severe spasticity 
+(cid:57)  Insulin pump for Diabetes 
+(cid:57)  Neuroleptic /antipsychotic drugs, the so-called "psychiatric implants" 
+
+  Implantable Neurostimulation Devices 
+
+(cid:57)  Spinal cord stimulation for chronic pain management 
+(cid:57)  Sacral nerve stimulation for control of urinary incontinence 
+(cid:57)  Vagus nerve stimulation (VNS) for seizure control in epilepsy and 
+mood control in severe depression cases: the small generator and 
+lead  are  surgically  attached  to  the  rib  cage,  with  the  wires  travelling 
+under  the  skin  up  to  the  neck  and  wrapping  around  the  left  Vagus 
+nerve. From there the generator sends electrical signals via the Vagus 
+nerve to the brain. 
+
+The  VNS  therapy  system,  developed  by  Cyberonics,  Texas,  has  been  widely  used  to 
+reduce epileptic seizures since 1997 in the US. 
+In July 2004, the US Food and Drug Administration approved the implantable VNS therapy 
+as a treatment for untreatable chronic depression. 
+According to studies presented by Cyberonics, “stimulation of the left Vagus nerve 
+produces widespread and bilateral effects in the parts of the brain implicated in epilepsy, 
+depression, anxiety and memory.” 
+http://usmedicine.com/article.cfm?articleID=912&issueID=64 
+ (Accessed on 29 November 2004) 
+
+  Deep brain (thalamic) stimulation 
+
+(cid:57)  for  tremor  control  in  patients  with  Parkinson's  disease:  “On  April 
+therapy  (Activa®  Therapy,  Medtronic,Inc; 
+1998,  a  breakthrough 
+http://www.medtronic.com)  combating 
+the  symptoms  of  disabling 
+Parkinson’s disease, obtained the CE mark and was released on the 
+European Union market. This technology involves mild electrical  
+
+52
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+stimulation  of  the  globus  pallidus  or  the  subthalamic  regions  of  the 
+brain to control the major symptoms of Parkinson’s – stiffness of limbs 
+and joints, slowness or absence of movement, impaired balance and 
+co-ordination,  in  addition  to  the  characteristic  involuntary  rhythmic 
+shaking  (tremor).  More  than  one  million  people  across  Europe  are 
+estimated to suffer from Parkinson’s disease. Patients whose disease 
+is not controlled by medications have difficulty in performing the basic 
+tasks of daily life.” 
+
+the 
+
+The  implantable  system  includes  a  neurostimulator  connected  to  a  lead  with  four  tiny 
+electrodes  near 
+tip.  “The  neurostimulator,  which  contains  a  battery  and  a 
+microelectronic circuitry, is placed under the skin near the collarbone and provides the mild 
+electrical stimulation that is carried through the lead to the electrodes implanted deep in the 
+brain. 
+The level of stimulation can be adjusted externally to meet individual patient needs. 
+The  therapy  is  completely  reversible.  The  estimated  longevity  of  the  implanted  battery  is 
+three to five years, with 16 hours of use per day.”  
+http://www.eucomed.be/docs/MT-IP-parkinson%60s%20disease.pdf 
+October 25 2004) 
+
+(Accessed  on  25 
+
+(cid:57)  for essential tremor: Patients with essential tremor have no symptom 
+other than tremor, which may occur in their hands, head, legs, trunk or 
+voice.  As  for  patients  with  Parkinson’s  disease,  they  can  be  helped 
+thanks to the deep brain stimulation therapy. 
+
+2.  Current identification and location devices  
+
+  Introduction: microchip devices might have three embodiments 
+
+(cid:57)  “Read-Only: this is the simplest form of devices that have a read-only 
+character, similar to that now used for identification of animals. Even 
+this most basic form would have numerous applications, for example, 
+to  identify  Alzheimer’s  patients,  children  and  the  unconscious.  A 
+broader  use  would  be  as  a  sort  of national  identification  card,  based 
+upon the identifying number carried on the microchip.” 
+
+(cid:57)  “Read-Write: this type of microchip would be capable of carrying a set 
+of  information  which  could  be  expanded  as  necessary.  It  allows  the 
+storage of data and is programmable at distance. For example, when 
+the  microchip  carries  a  person’s  medical  history  and  the  history 
+evolves,  the  subsequent  information  could  also  be  added  to  the 
+microchip  without  the  necessity  of  removing  the  implanted  chip.  It 
+could  also  facilitate  and  record  financial  transactions.  The  third 
+important  set  of  information  that  a  read-write  microchip  could  carry 
+would be criminal records.” 
+
+At  present,  the  Verichip™  (see  below),  for  example,  includes  a  memory  that  holds  128 
+characters  only.  Larger  microchips,  and  highly  specialized  and  more  sophisticated  ones, 
+are underway. 
+
+53
+
+ 
+ 
+ 
+ 
+implantable. 
+
+If  a  microchip 
+
+(cid:57)  “Read-Write with tracking capabilities: in addition to the read-write 
+capabilities  described  above,  a  device  can  also  emit  a  radio  signal 
+which  could  be  tracked.  Applications  would  again  be  numerous  as 
+evidenced  by  the  less  advanced  technologies  already  in  existence. 
+Such  a  device  needs  a  power  source,  that  has  to  be  miniaturized 
+tracking 
+before  being 
+capabilities,  it  would  be  superior  to  the  currently  available  electronic 
+tether because it would not require the telephone as an adjunct. With a 
+microchip implant, constant monitoring would be possible. If each chip 
+implanted 
+emitted  a  signal  of  a  unique 
+individuals  could  be  tracked  by  simply  dialling  up  the  correct  signal. 
+Because the receiver is mobile, the tagged individual can be tracked 
+anywhere. “ 
+www.fplc.edu/risk/vol8/fall/ramesh.htm  
+(Accessed on 24 October 24 2004) 
+
+implant  had 
+
+frequency, 
+
+identifying 
+
+  RFID devices 
+
+Millions  of  Radio  Frequency  Identification  Device  (RFID)  tags  have  been  sold  since  the 
+early 1980s. They are used for livestock, pet, laboratory animals, and endangered-species 
+identification. 
+This technology contains no chemical or battery. The chip never runs down and has a life 
+expectancy of 20 years.  
+How it works. 
+The  chip  is  an  ID  tag  which  is  inert/passive  (not  independently  powered).  When  radio-
+frequency energy passes from a scanner, it energizes the chip, which then emits a radio-
+frequency  signal  transmitting  the  chip's  information  to  the  reader,  and  which  in  turn  links 
+with a database.  
+How  the  information  is  used  is  determined  by  the  administrators  of  the  security  systems 
+and databases. 
+
+  VeriChip™ or the “human bar coding” 
+
+VeriChip™ is a subdermal RFID device, about the size of a grain of rice, commercialized by 
+Applied Digital Solutions (ADS), one US-based company.  
+
+What is its composition? 
+
+“The RFID implant consists of a microchip, an antenna 
+coil and a capacitor all enclosed within a sealed glass 
+tube.  An anti-migration cap surrounds the glass tube to 
+inhibit  movement  of  the  RFID  within  the  tissue  where 
+the device is placed.” 
+
+www.angelfire.com/hi2/gracebelievers/microchip_implants_apr2003.pdf 
+
+The  idea  for  employing  the  tags  to  identify  humans  came  after  the  horror  of  the  11 
+September 2001 attacks on the World Trade Centre in New York. 
+
+54
+
+ 
+ 
+ 
+ 
+ 
+              
+ 
+ 
+in 
+
+data) 
+
+testing 
+
+FDA  appears  to  have  carried  out  a  preliminary  risk  assessment  (using  the  company’s 
+safety 
+device 
+giving  marketing 
+(http://www.sec.gov/Archives/edgar/data/924642/000106880004000587/ex99p2.txt).  
+The letter of approval lists all the identified hazards and indicates that there is “reasonable 
+assurance of the safety” of the device for the intended use (as a subcutaneous RFID). The 
+potential risks to health identified by FDA include “adverse tissue reaction, migration of 
+implanted transponder, failure of implanted transponder, electromagnetic interference, 
+electrical hazards, magnetic resonance imaging (MRI) incompatibility and needle stick." 
+
+approval 
+
+this 
+
+for 
+
+Current application of the VeriChip™ 
+
+According to ADS, VeriChip™ provides security for:        
+
+(cid:57)  Medical  records  and  healthcare  information  (blood  type,  potential 
+
+allergies and medical history) 
+(cid:57)  Personal information/identity 
+(cid:57)  Financial information (secondary verification) 
+
+Besides  these  areas,  the  extended  applications  include  public  transportation  security, 
+access  to  sensitive  buildings  or  installations  and  tracking  down  of  people  on  parole,  ex-
+convicts, criminals, etc. 
+Right now, a person has to stand within a few feet of a scanner for the tag to “wake up”. 
+Thus, the tags can be used to follow someone's steps only when they are near scanners. 
+Consequently,  the  VeriChip™  is  not  for  the  moment  an  implantable  GPS  device  (see 
+below). 
+At present, the implantation is purely voluntary.  
+
+After  Mexico,  Colombia,  Argentine,  Brazil,  Chilli,  Paraguay  and  Uruguay,  and  following  a 
+broad  advertisement  tour  in  North  America,  the  Verichip™  is  now  arriving  in  Europe  as 
+well. 
+
+1.  In South America, faced with the huge problem of kidnappings, the VeriChip™ is 
+
+being marketed mainly to identify kidnapped children or adults. 
+
+2.  Italy:    On  April  2004,  the  Ministry  of  Health  and  the  Instituto  Nazionale  Lazzaro 
+Spallanzani Hospital started a study to evaluate the VeriMed™ system’s impact on 
+improving the quality of care provided to patients 
+
+3.  England: Surge IT Solutions intends to use the VeriChip™ technology for secure 
+building  access  for  government  installations,  educational  facilities,  and  various 
+identification applications. 
+
+3.  Current commodity devices  
+
+  Credit card implant 
+
+In the Baja Beach Club (in Spain and The Nederlands), people use the VeriChip™ much 
+like a smartcard to speed drink orders and payment. http://www.baja.nl. (Accessed on 24 
+October  2004). 
+
+55
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Remote-control Orgasm Implant 
+
+For the electronic orgasm device to work, a physician would implant electrodes into the 
+spine and a small signal generator in the skin under the buttocks. A patient would then 
+control the sensation with a handheld remote control. 
+http://www.newscientist.com/news/news.jsp?id=ns9999397  
+(Accessed on 8 December 2004) 
+
+PART II: Implantable devices UNDER DEVELOPMENT 
+
+4.  Future active medical devices 
+
+  MEMS (Micro Electro-Mechanical System)  
+
+The micro-electro mechanical systems device (MEMS) is an implantable micro-sensor that 
+can  send  data  to  a  hand-held  receiver  outside  the  body,  alerting  doctors  to  a  potential 
+medical crisis, without using any wires or batteries. 
+
+  Brain prosthesis  
+
+(cid:57)  artificial  hippocampus:  an  implantable  brain  chip  that  could  restore 
+
+or enhance memory. 
+
+The hippocampus plays a key role in the laying down of memories. Unlike devices such as 
+cochlear  implants,  which  merely stimulate brain activity, this  chip implant will perform the 
+same processes as the damaged part of the brain it is replacing.  It will be a way to help 
+people who have suffered brain damage due to stroke, epilepsy or Alzheimer's disease. 
+There are several research teams in Europe and the US that are currently working on so-
+called neural-silicon hybrid chips. 
+Theodore Berger at the University of Southern California in Los Angeles is emulating the 
+neurons’  behaviour  on  slices  of  rat  brain  bombarded  by  electrical  input.  Now,  its  silicon 
+microcircuit is about to be tested in live rats.  
+Berger and his team have taken nearly ten years to develop their current chip models of 
+100 neurons. However it will need at least a 10,000-neuron chip model for implantation in a 
+primate hippocampus. http://www.newscientist.com/news/news.jsp?id=ns99993488 
+
+(cid:57)  Cortical implant for the blind:  
+
+Electrodes implanted in the visually responsive areas of the brain   would supply vision to 
+the profoundly blind. Cortical implants require brain surgery and the pneumatic insertion of 
+electrodes  into  the  brain  to  penetrate  the  visual  cortex  and  produce  highly  localized 
+stimulation. http://www.spectrum.ieee.org/publicaccess/9605teaser/9605vis6.html 
+
+  Ocular  implant  :  implantation  of  an  electrode  array  on  the  retina;  retinal  implants 
+avoid  brain  surgery  and  link  a  camera  in  eyeglass  frames  via  laser  diodes  to  a 
+healthy optic nerve and nerves to the retina 
+
+  Brain-computer interfaces or direct brain control  
+
+56
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The  technologies  involved  here  are  communication  technologies;  they  take  information 
+from the brain and externalize it.  
+There are internalizing technologies (cochlear or optic-nerve implants) whose purpose is 
+to  take  information  from  the  outside  and  provide  individual  access  to  it.  These  two 
+technologies  will  eventually  come  together  to  form  interactive  technologies  which  would 
+allow input-output interactions. 
+
+A  US-based  company  called  Cyberkinetics,  specialized  in  neurotechnologies  wiring 
+computers  to  human  brain,  has  received  Food  and  Drug  Administration  approval  in  April 
+2004 for a clinical trial of the BrainGate™ Neural Interface System. If successful, this four-
+square-millimeter  chip  could  allow  paralyzed  people  to  send  computer  commands  by 
+thought. 
+How does the BrainGate™ work?    
+“The neural signals are interpreted by the System and a cursor is shown to the user on a 
+computer screen that provides an alternate "BrainGate pathway".  Then, the user can use 
+that 
+used.” 
+http://www.cyberkineticsinc.com 
+Although human studies show the feasibility of using brain signals to command and control 
+external devices, the researchers emphasize that many years of development and clinical 
+testing will be required before such devices - including “neuroprosthetic” limbs for paralyzed 
+people, become available.  
+At the same time, because of what most people mean by brain-computer interfaces (BCI), 
+there is also a lot of work done to create non-invasive BCIs.  
+
+a  mouse 
+
+computer, 
+
+control 
+
+cursor 
+
+just 
+
+the 
+
+as 
+
+to 
+
+is 
+
+  Neurofeedback 
+
+Neurofeedback is a learning procedure – a kind of exercise for the brain - that is already 
+widely used for conditions such as depression, epilepsy, sleep disorders and many others. 
+
+Several companies are now looking to find a way to increase mental well being and mental 
+prowess using brain-computer interface and neurofeedback techniques.  
+This process involves connecting electrical impulses from the user’s brain to the computer 
+and  back  again,  creating  a  feedback  loop  between  the  computer  and  the  user. 
+Neurofeedback allows the computer to interact with the user through electrical impulses.  
+Such  devices  induce  brain  states  that  are  similar  to  those  seen  on  an  EEG  when  one  is 
+learning or concentrating on a task. By artificially inducing these brain states researchers 
+hope to provide a means of personal control of ones own mood and emotional state. 
+
+5.  Future personal tracking devices  
+
+  Subdermal GPS Personal Location Device 
+
+Such a device would allow an individual with a scanner to pinpoint someone's position on 
+the globe. 
+In  May  2003,  Applied  Digital  Solutions  (ADS)  claimed  that  a  prototype  implantable  GPS 
+tracking device had been successfully tested. However, technical experts are questioning 
+whether  the  system  could  really  work.  The  disc-shaped  "personal  location  device" 
+
+57
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+measures 6.35 centimetres in diameter and 1.27 centimetres in depth - roughly the same 
+size as a pace-maker. http://www.adsx.com/news/2003/051303.html 
+Currently  it  consists  of  an  antenna  to  receive  signals  from  the  satellite  constellation  that 
+comprises  the  Global  Positioning  System  and  an  induction-based  power-recharging 
+system. The latter should make it possible to recharge the device's batteries from outside 
+the user's body. Eventually the device will need to connect to a cell phone network if it is to 
+relay the satellite-determined position of its host to another person.  
+ADS says it should be possible to shrink the overall size of the device by at least half. 
+This GPS monitoring could be used for several purposes, such as for example, 
+
+• 
+
+in case of Medical emergencies 
+(cid:57)  Heart attack 
+(cid:57)  Epilepsy 
+(cid:57)  Diabetes 
+
+• 
+
+for identification and location purposes 
+
+(cid:57)  People in high risk occupations 
+(cid:57)  Children 
+(cid:57)  Stalkers 
+(cid:57)  Suspected terrorists. 
+
+In  England,  Kevin  Warwick,  a  professor  at  Reading  University,  is  also  developing  an 
+implantable GPS microchip. http://www.kevinwarwick.com 
+
+6.  Future enhancement or commodity devices  
+
+According  to  Ellen  McGee  “computer  scientists  predict  that  within  the  next  twenty  years 
+neural interfaces will be designed that will not only increase the dynamic range of senses, 
+but  will  also  enhance  memory  and  enable  "cyberthink"  —  invisible  communication  with 
+others.”  [quoted  from  http://www.bu.edu/wcp/Papers/Bioe/BioeMcGe.htm,  4  April  1999, 
+accessed on 18 October 2004] 
+
+  Prosthetic cortical implant (intelligence or sensory “amplifiers”) 
+
+The  user's  visual  cortex  will  receive  stimulation  from  a  computer  based  either  on  what  a 
+camera sees or based on an artificial "window" interface.  
+
+  Audio tooth implant or tooth phone 
+
+Described in 2002, the Audio tooth implant, designed by James Auger, still only exists in 
+concept form.  
+A micro-vibration device and a wireless low frequency receiver are implanted in the tooth 
+during  routine  dental  surgery.  The  tooth  communicates  with  an  array  of  digital  devices, 
+such as mobile telephones, radio and computers.  
+Sound  information  is  transferred  from  the  tooth  into  the  inner  ear  by  bone  transduction. 
+Sound  reception  is  totally  discreet  enabling  information  to  be  received  anywhere  at 
+anytime.  
+http://www.scienceandsociety.co.uk/results.asp?image=10328750&wwwflag=&imagepos=2
+. Accessed on 26 November 2004 
+Artificial  hippocampus:  as  mentioned  above,  this  implantable  brain  chip  could  enhance 
+memory. 
+
+58
+
+ 
+ 
+ 
+ 
+ 
+Main Points Arising from the Discussion 
+
+59
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RROOUUNNDDTTAABBLLEE    
+Ethical aspects of ICT implants in the human body 
+
+The Discussion 
+
+Organised by the European Group on Ethics in Science and New Technologies 
+
+The three presentations were followed by a session of questions and answers as well as a 
+wide ranging and lively discussion. Some of the key points from the discussion are summarised 
+below. 
+
+•  A  critical  discussion  took  place  regarding  autonomy.  Different  views  were  expressed, 
+ranging from those who thought that adults could do whatever they wanted provided they 
+did no harm to others, to those who thought that some individuals need controlling and that 
+therefore complete autonomy is not desirable. Mention was made of possible military use of 
+implants for tracking purposes (dual use). This is still at the early research stage but could 
+become  a  serious  issue  in  the  future.  In  spite  of  the  wide  range  of  views  there  was 
+nevertheless a consensus that implants could represent a threat to autonomy and that some 
+form of guidelines for enhancement were needed.  
+
+•  Another  issue  which  was  mentioned  on  several  occasions  concerned  informed  consent. 
+Implants  can  generate  undesired  side  effects  and  it  is  commonly  agreed  that  informed 
+consent is necessary prior to any decision to use implants. Nevertheless, because implants 
+can indeed change/improve the capacities of individuals, it was debated whether in some 
+cases  informed  consent  should  also  be  sought  after  the  person  had  been  implanted  and 
+therefore more in possession of “full faculties”. There is a dividing line between “care” and 
+“autonomy”  and  clearly  consent  for  implant  procedures  is  necessary  but  it  may  not  be 
+sufficient where brain implants are concerned. 
+
+•  The question of the impact of ICT implants on public health was discussed. Although it is 
+obvious that some kinds of ICT based monitoring could be useful, several participants were 
+concerned that the public health drive might accelerate the use of implants to “do societal 
+good”. The example of obesity was mentioned, as it was discovered by chance that the part 
+of  the  brain  regulating  obesity  can  be  stimulated  and  controlled  with  electrodes.  Cost-
+effectiveness is a condition sine qua non when public health is concerned and surely in the 
+case of obesity the criteria of cost-effectiveness would be fulfilled leading to pressures for its 
+use.  Another  concern  which  arose  in  this  context  was  the  uncertainty  that  the  initial 
+objective of the monitoring remains the same over time. There is perhaps a moral obligation 
+to “offer” but not to “compel” the use of a “beneficial” implant – say for obesity. 
+
+•  The  reversibility  of  ICT  implants  was  mentioned  on  several  occasions.  Indeed,  it  is 
+
+considered as an advantage as opposed to brain surgery or genetic enhancement. 
+
+•  Amongst possible enhancements that might be possible through ICT implants are memory 
+chips  to  augment  the  memory  capacity.  This  possibility  raised  strong  concerns,  notably 
+because if it would help improve the memory capacity there would also be a risk that the 
+memory  keeps  things  that  are  not  desirable  to  retain.  This  poses  strong  ethical  concerns 
+and may be on the edge of “what should be allowed” in the view of one participant. 
+
+61
+
+ 
+ 
+ 
+ 
+ 
+•  The ethical question of testing ICT implants in the great apes was raised. In response the 
+experts  stressed  the  complexity  and  sensitivity  of  this  issue  and  the  wide  variation  in 
+approaches between the Member States. It was emphasized that the question could only be 
+approached  with  complete  transparency.  The  scientific  and  medical  evidence  and  interest 
+had to be presented together with the ethical guidelines.  
+
+•  The  issues  of  fairness  and  technological  drives  were  debated  but  without  clear 
+conclusions.  It  was  obvious  to  the  participants  that  the  field  needs  regulation  and  that 
+perhaps  implantable  devices  should  be  regulated  in  the  same  way  as  drugs  when  the 
+medical  goal  is  the  same.  A  number  of  areas  of  legislation  could  be  involved  (medical 
+devices, privacy, telecoms, etc.) and an analysis of what is missing would be valuable. We 
+should not allow this technology to control our lives (cf. the Verichip).  
+
+62
+
+ 
+ 
+ 
+ 
+ 
+Written Comments Received 
+
+on issues discussed and raised 
+at the EGE Roundtable on the 
+Ethical aspects of ICT implants 
+ in the human body 
+
+63
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comments 
+on issues discussed and raised at the EGE  RROOUUNNDDTTAABBLLEE  OONN    
+the Ethical aspects of ICT implants in the human body 
+
+-    Health Care / Medical Treatment Issues   - 
+
+ Helen BARKER, LL.M., 
+School of Legal Studies, University of Wolverhampton, UK 
+
+A.  Informed Consent 
+
+As with any  other kind  of medical treatment or medical procedure, ICT  implants  should only  be used 
+where there has been a free/voluntary and fully informed consent by the patient or someone authorised 
+to consent on their behalf. 
+
+This requirement raises a number of ethical and legal problems and may not be satisfied in all cases. 
+
+1)  As yet, most ICT implants in the human body are still experimental and subject to ongoing research 
+and monitoring in respect of their use and effectiveness.  Consequently, the use of ICT implants, for 
+both  therapeutic  and  non-therapeutic  purposes,  should  not  only  be  governed  by  and  conform  to 
+national and European law, conventions, codes of practice and codes of ethics, but should also be 
+governed by and conform to international conventions and codes of ethics, such as the Declaration 
+of Helsinki 1964. 
+
+ICT  implants  should  not  normally  be  used  in  randomised  trials,  as  the  requirements  of  informed 
+consent are particularly difficult to satisfy for randomisation.   
+
+2)  Some patients, or particular types of patient, may be unable to give informed consent, or may be 
+
+especially vulnerable and, therefore, their consent may not be truly voluntary. 
+
+a. 
+
+Incompetent Patients 
+
+ICT implants give rise to particular ethical and legal problems when used in the care and treatment of 
+incompetent patients.  Clearly, incompetent patients are unable to give consent to medical procedures 
+or treatment and some form of proxy consent is, therefore, necessary.  Key issues here are: ‘on what 
+basis should proxy consent be given and by whom’?  Such decisions are usually made either on the 
+basis of the ‘best interests’ of the patient, or on the basis of ‘substituted judgment’. 
+Both tests import some evaluation of the patient’s quality of life, but this is a concept that continues to 
+trouble  lawyers  and  ethicists:  how  should  quality  of  life  be  measured,  especially  when  the  patient 
+personally is unable to contribute to the debate?  Furthermore, it is now generally acknowledged that 
+‘best interests’ may be wider than just best ‘medical’ interests and that substituted judgment may not  be 
+an appropriate test for decision making where a patient has never had capacity. 
+
+As with other sensitive or controversial areas of medical treatment, health care and personal welfare, 
+proxy consent for ICT implants may need to be qualified or subject to certain limitations and restrictions. 
+
+65
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b.  Changes in Circumstances 
+
+Certain patients may have given a so-called informed consent at some stage prior to the procedure in 
+question, but their condition may have deteriorated to such an extent that their consent can no longer be 
+relied  on,  or  may  be  invalidated  by  later  events.    This  kind  of  situation  was  alluded  to  by  Peter 
+Hoogendoorn  when  he  gave  the  example  of  a  patient  suffering  from  Parkinson’s  Disease,  whose 
+condition must have degenerated to a certain degree before an ICT implant would be considered as a 
+means  of  combating  the  patient’s  symptoms.    In  this  kind  of  situation,  either  proxy  consent  must  be 
+obtained or the patient must be denied the treatment. 
+
+c.  Vulnerable Patients 
+
+Certain types of patient, or specific groups (eg. patients with mental health problems, prisoners) may be 
+especially  vulnerable  and  their  consent  may  not  be  truly  voluntary.    People  facing  a  long  period  of 
+confinement may readily agree to anything that appears to offer the prospect of a ‘cure’ or early release. 
+
+In all cases, there must be an exit.  Where consent has been given, it must be possible to withdraw that 
+consent at any time.  This would not be possible if the ICT implant or the effects of it were irreversible. 
+
+B.  Finding Things by Serendipity 
+
+Where  ICT  implants  are  being  used  for  one  or  more  particular  purposes,  the  incidental  or  accidental 
+discovery of other potential applications/treatments must not be exploited.   
+
+Any  additional  or  alternative  uses  of  the  ICT  implant  must  be  subject  to  the  same  requirements  of 
+informed consent as those governing the original procedure or treatment.  The individual patient cannot 
+be given additional treatment or be subjected to additional procedures for which a valid consent has not 
+been obtained. 
+
+There is a further risk here of ICT implants being used in respect of a wider class of persons, rather than 
+just the individual patient.  The incidental/accidental discovery of the control or treatment of illnesses or 
+health problems which may have public safety, public health or health care cost implications provides a 
+good example of the potential for abuse and exploitation.  Here again, the use of ICT implants must be 
+governed by the same ethical and legal principles as those which govern the use of such implants in 
+respect of individual patients.   
+
+ICT implants should not be used as a means of social control.  In the UK, we already have examples of 
+health care and health care law being used in this way (e.g. mental health treatment and mental health 
+laws).    Whether  in  relation  to  an  individual  patient,  or  a  wider  class  of  patients  or  persons,  non-
+consensual treatment or compulsion can only rarely, and only in the most extreme circumstances, be 
+justified.  Compulsion must be based on clear, objective medical criteria and there must be appropriate 
+procedural safeguards.   
+
+C.  Risks/Side Effects 
+
+Because of the relatively recent use of, and experimental nature of, ICT implants in the human body, we 
+may not yet be fully aware of possible risks and side effects.  Even when ICT implants are reversible, 
+the  effects  of  these  may  not  be;  which  clearly  also  has  implications  in  relation  to  the  requirement  of 
+informed consent. 
+
+The  argument  put  forward  by  Professor  Jacques  Brotchi  that  ICT  implants  (including  deep  brain 
+implants) are less invasive forms of ‘treatment’ than other accepted techniques, such as psychosurgery,  
+
+66
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+are not entirely convincing.  Clearly, the more invasive a treatment or procedure, the greater the ethical 
+problems.  However, whilst ICT implants may be less destructive initially, and possibly in the short term, 
+than other treatments or procedures, if we are not yet fully apprised of the risks and side effects how 
+can we be sure that such techniques and procedures are less invasive or indeed reversible?  
+
+D.  Therapy versus Enhancement 
+
+The distinction between therapy and enhancement is often difficult to define and the boundary between 
+them  is,  therefore,  difficult  to  draw.    Dr  James  Moor’s  discussion  of  the  controversy  within  the  deaf 
+community on the issue of cochlear implants is an excellent example of the problems encountered in 
+attempting to draw a line between therapy and enhancement.    
+
+If  one  adopts  the  classic  definition  that  ‘therapeutic’  means  of  benefit  to  the  patient,  then  enhancing 
+implants could also be covered by this definition.  The distinction between therapy and enhancement 
+must,  therefore,  lie  in  the  fact  that  therapy  is  concerned  with  maintaining,  repairing  or  restoring  body 
+parts or functions which the patient previously had or enjoyed, whilst enhancement is concerned with 
+the creation, improvement or betterment of body parts or functions which were previously not present or 
+are not otherwise damaged or malfunctioning.  Ethical issues are raised by both therapeutic and non-
+therapeutic  or  enhancing  applications  of  ICT  implants  although,  generally,  the  former  will  give  rise  to 
+fewer concerns than the latter.  
+
+1)  The  key  ethical  issues  in  relation  to  therapeutic  implants  are,  as  noted  above,  the  consent 
+requirements, which must be satisfied, and the risks and side effects of the application or treatment, 
+which  must  be  weighed  against  the  potential  benefit(s)  of  the  treatment  or  application.    Caution 
+needs to be exercised, however, as patients who agree to ICT implants for therapeutic purposes 
+may  be  especially  vulnerable  and  willing  to  consent  in  the  hope  of  alleviating  or  curing  their 
+condition. 
+
+2)  A  number  of  ethical  issues  are  raised  by  enhancing  implants,  not  le
+
+ast  those  relating  to  human 
+dignity, personal freedom, risk of harm to the individual implanted and risk of harm to others and to 
+the wider community and society. 
+Conflicting  interests  may  arise  here  (although  human  dignity  and  personal  freedom  are  not 
+necessarily mutually exclusive nor necessarily conflicting principles). 
+An individual may freely agree to an enhancing implant, but should they be  allowed to?  Do we as 
+a society have a right to override that individual’s freedom on the grounds of a higher and wider 
+moral duty to others?  On the other hand, if we deny an individual this freedom, is this not just a 
+different  or  inverse  form  of  compulsion.    For  example,  we  might  not  introduce  a  programme  of 
+compulsory castration for all  male sex  offenders,  but we  might allow  an individual  offender to be 
+castrated if he chose this option himself on the basis that it would make him a better person.  That 
+said, if we did allow it, and justified it on the ground of individual freedom, would it make it right? 
+
+Law has always imposed certain restrictions on people’s personal freedom and, like law, ethics has 
+a role to play here.  Personal freedom cannot be the sole or main criterion for allowing enhancing 
+implants  (or  indeed  for  allowing  certain  types  of  therapeutic  implants).    People  cannot  exercise 
+complete freedom, because  an individual’s freedom has to be balanced against the rights of other 
+individuals and against the collective rights of society as a whole.   
+
+67
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3)  The  distinction  between  therapy  and  enhancement  is  particularly  important  in  the  contexts  of 
+
+human autonomy and ‘normality’. 
+
+a)  Human Autonomy 
+
+If one subscribes to the view that human autonomy involves more than merely the  ability to carry out 
+certain functions, then ICT implants, whether therapeutic or enhancing, do not necessarily facilitate or 
+increase human autonomy. 
+
+If  autonomy  embraces  the  capacity  to  think,  reason,  decide  and  act  freely  and  independently  on  the 
+basis of  such thought, reasoning and decision, then actions, functions or behaviour which are activated 
+or stimulated by ICT implants may be nothing more than automatic.  This does not make an individual 
+more  autonomous, but may merely make them an automaton.  The example given by Dr James Moor 
+of the paralysed patient who has a chip implanted that allows them to control the lights provides a good 
+illustration of this: while this chip might give this individual a certain degree of independence, it might not 
+give them true autonomy.  Likewise, Dr Jacques Brotchi’s example of a depressed patient who can be 
+made to smile by brain stimulation is another example of automatic behaviour, rather than of autonomy. 
+
+b)  Normality 
+
+The key question here is: ‘what is meant by normality’? 
+
+Even  if  ‘normality’  can  be  defined  or  measured,  the  concept  of  normality  does  not  assist  us  in 
+determining whether an ICT implant is being used for therapy or enhancement. 
+
+The  Oxford  dictionary  defines  ‘normal’  as  an  adjective  meaning  ‘conforming  to  standard’  and  defines 
+‘standard’  as  a  noun  meaning  ‘an  object  or  quality  or  measure  to  which  others  should  conform  or 
+against  which  others  are  judged’.    However,  ‘normal’  is  also  defined  as  including  ‘usual’.    Usual  is 
+defined as something which ‘commonly occurs’. 
+
+Clearly,  if  we  substitute  ‘usual’  for  ‘normal’  then  people  do  not  have  to  conform  to,  or  be  measured 
+against,  a  standard.    Instead,  some  people  will  have,  or  display,  certain  commonly  occurring 
+characteristics,  which  may  not  occur  in  others.    In  this  way,  some  people  may  be  unusual,  but  not 
+abnormal.  Thus, any ICT implant which operates to bring people within what may be called the ‘range 
+of normality’ would be enhancing, rather than therapeutic. 
+
+This line of argument is similar to that which is often mooted in relation to the concept of ‘disability’.  Are 
+people  really  disabled  or  are  they  simply  lacking  certain  abilities?    (Again,  Dr  James  Moor  cites  the 
+example  of  the  diverging  views  amongst  the  deaf  community  as  to  whether  or  not  deafness  is  a 
+disability). 
+
+Even if we prefer to use traditional terminology such as ‘normal’ and ‘disabled’, we are still faced with 
+the  issue  of  whether  ICT  implants  are  therapeutic  or  enhancing  and  whether  they  should  be  used  to 
+repair,  correct  or change people who  do not conform to  our  perceptions of  ‘normal’.   This  means  we 
+must also ask ourselves the following question: ‘what is wrong with being disabled’? 
+
+Society  seems  to  be  increasingly  uncomfortable  or  uneasy  with  the  concept  of  disability.    This  is  so, 
+despite a population that is more aware of and more educated about disability and in spite of equality 
+laws aimed specifically at eradicating discrimination towards disabled persons. 
+
+Many disabled people function adequately within their own community or culture.  Correcting disabilities 
+or abnormalities is not the only, nor necessarily the best way of overcoming them.    
+
+68
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All too often, disability is associated with issues of ‘quality of life’, but these are not inextricably linked.  
+The only appropriate or true test for measuring a person’s quality of life is a subjective one, because 
+only the individual in question can decide what quality or value their life has for them.  In cases where 
+treatment decisions are made in respect of incompetent patients using the quality of life criterion, they 
+are  usually  made  in  accordance  with  so-called  objective  criteria,  without  the  individual  patient  being 
+involved in that decision-making process.  
+
+Special caution is needed in the use of ICT implants which have the potential or capability to change 
+people’s physical characteristics, mental characteristics or personality.  It is human diversity that makes 
+people human beings and human beings that make society. 
+
+ICT implants should not be used for eugenic practices or to create a ‘better’ or more ‘perfect’ race. 
+
+E.  Privacy, Confidentiality and Data Protection 
+
+The  increased  use  of  information  technology  in  the  field  of  health  care  and  medical  practice  already 
+poses a risk of abuse and misuse of personal and medical data and of breaches of confidentiality.  (For 
+example, there is much disquiet at present in the UK concerning the NHS’s Electronic Patient Record). 
+
+As  with  other  areas  of  health  care  and  medical  practice,  patients  must  be  able  to  give  an  informed 
+consent to the use of ICT implants for personal and medical data. 
+
+Patients  must  know  who  can  access  the  data  and  for  what  purposes.    Given  the  nature  of  modern 
+health  care  and  medical  practice,  medical  information  and  data  are  already  disclosed  on  what  is, 
+arguably,  more  than  a  ‘need  to  know  basis’.    It  cannot  be  assumed  that  when  the  patient  gives  an 
+express  consent  for  their  data  to  be  accessed  by  certain  persons  and  for  certain  purposes  that  this 
+express consent carries with it an implied consent for the data to be used by other persons or for other 
+purposes which may be associated with the patient’s care and treatment.    
+
+Patients must also know of their own rights of access to the data.  Will patient access have to be limited 
+in  some  way?    Under  current  laws,  patients  may  be  denied  access  to  medical  data  in  certain 
+circumstances.  Will this be permissible when using ICT implants? 
+
+There  is  also  a  risk  here  of  personal  and  medical  data  being  used  as  a  means  of  social  control, 
+particularly in cases of dangerous patients and public health matters. 
+
+Risk  assessment  of  the  potential  threat  to  individual  privacy  and  medical  confidentiality  must  be 
+undertaken.  There may need to be improved data protection principles and data protection laws if ICT 
+implants are to be used as sources of and receivers for patient information and medical records/data. 
+
+69
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+“Are Brain Implants a Threat to Our Civilisation?”∗
+
+Impressions on the “Ethical Aspects of ICT Implants in the Human Body” 
+Roundtable organised by the European Group on Ethics in Science 
+and New Technologies (EGE). 
+
+Fred HAMBURG, 
+Commission of the Bishops’ Conferences of the European Community 
+(COMECE) 
+Member of the Foundation for Medical Ethics – Stichting Medische Ethiek, 
+The Netherlands and Professor of "Decision Analysis & Neuroscience" 
+Rotterdam Hogeschool 
+
+I was invited to attend, as a representative of COMECE, a Roundtable organised by the EGE, 
+which is an advisory body of the European Commission on ethical issues of science and new 
+technologies.  Implants  of  Information  and  Communication  Technology  (ICT)  in  the  human 
+body, in particular in the brain, are emerging at the top of areas in which fundamental ethical 
+questions are arising. New ways of influencing the human brain are likely to emerge in the next 
+decades, with serious implications for healthcare and society. 
+
+Prospects 
+The  advances  in  psychopharmacology,  neuro-imaging,  brain  surgery,  nano-technology, 
+informatics,  agent-technology  and  genetics  are  immense.  They  will  be  developed  to  correct 
+neural  defects  and  make  normal  people  ‘better  than  well’.  These  advances  could  lead  to 
+growing stem cells in patients suffering from dementia or Parkinson’s disease, but it will signify 
+much more.  
+Already,  high  school  children  are  swallowing  Ritalin  to  get  an  edge  when  taking  intelligence 
+tests. It is also very likely that advances in the ability to ‘read’ the brain will be used to reveal 
+brain  states.  As  I  write,  lawyers  are  attempting  to  submit  brain  scans  as  evidence  of  their 
+clients’ innocence! The problem will become even bigger when more people will want to use 
+remote  controlled  electrodes  and  TMS  (transcranial  magnetic  stimulation)  to  improve  mood, 
+increase  concentration,  and  deepen  experiences.  Ultimately  they  will  want  to  enhance  their 
+brains in general. 
+
+Ethical Concerns  
+All  of  these  prospects  are  frightening  indeed.  Neuro-technologies  have  raced  ahead  of  the 
+ethical issues they raise. Along with all of this comes the nightmare of a ‘perfect surveillance-
+society.’  Ultimately,  the  most  challenging  problem  of  all  lurks  in  the  shadow:  modulating 
+cognition might change our understanding of what it means to be human.  
+The EGE Roundtable was meant to formulate the beginning of a discussion about the legal and 
+institutional  answers  to  these  complex  and  looming  problems.  Four  speakers  were  invited  to 
+express their opinions on the ethical problems that are raised by ICT-implants in the brain: a 
+
+∗   Article first published in 'Europe Infos' – February 2005 - N° 68, p. 10 (Monthly Review of the Commission of 
+Bishops' Conferences of the European Community – Publication Director: Noël Treanor – Editor: Clare Coffey) - 
+COMECE: 42 rue Stévin, 1000 Brussels, Belgium – Tel 00 32 2 235 05 10 – Fax: 00 32 2 230 33 34 - Website: 
+www.comece.org. 
+
+71
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+surgeon,  an  ethicist,  a  representative  of  a  patient  group,  and  a  physician  with  a  speciality  in 
+researching ICT-implants. 
+
+Many Questions: Limited Answers 
+The general discussion concentrated on four issues. The first raised questions in connection to 
+what  I  call  ‘technical’  aspects.  Secondly  a  few  questions  were  addressed  about  a  general 
+uneasiness in the face of the reality of brain implants, for example in relation to security. (What 
+about  involvement  of  the  military  via  ‘dual  use’?)  Thirdly,  some  respondents  managed  to 
+converge  their  fears  on  the  specific  topic  of  the  surveillance  society.  Finally,  most  other 
+questions  concerned  ‘classic’  ethical  concerns  relating  to  the  autonomy  of  the  individual. 
+Should patients’ autonomy be guaranteed, now and forever? And in the case of remote-control: 
+who is in charge? 
+
+In the present all pervading neo-liberalism, it comes as no surprise that the autonomy of the 
+individual was hotly debated. Generally, in such cases one does not mean ‘vertical autonomy’, 
+i.e.:  the  question  of  our  relation  to  God.  This  problem,  of  course,  was  solved  long  ago.  In 
+today’s  secular  societies,  what  people  mean  is  ‘horizontal  autonomy’  -  the  autonomy  of  the 
+individual in relation to his doctor (or any other authority). Of course total autonomy does not 
+exist.  Society  will  always  have  the  right  –  if  necessary  –  to  limit  the  claims  of  the  individual. 
+However,  concerning  these  limits,  the  speakers  and  respondents  of  the  Roundtable  were 
+strikingly mute.  
+
+In any case, the general discussion made one thing very clear: the questions far outnumber the 
+answers.  This  being  so,  the  most  pressing  need  is  to  identify  key  ethical  issues.  The 
+Roundtable unfortunately did not address the last subject. 
+
+72
+
+ 
+ 
+ 
+ 
+ 
+ 
+Participants 
+
+73
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Members of the European Group on Ethics (EGE) 1 
+
+Dr Nicos C. ALIVIZATOS 
+Professor of Public Law 
+University of Athens 
+Athens, Greece 
+
+Prof. Inès DE BEAUFORT 
+Medical Faculty, Dept of Medical Ethics 
+University of Erasmus 
+Rotterdam, The Netherlands 
+
+Prof. Göran HERMERÉN, President 
+Philosopher, Professor of Medical Ethics 
+Faculty of medicine, Lund University 
+Lund, Sweden 
+
+Prof. Rafael CAPURRO 
+Professor of Information Management and 
+Information Ethics at Fachhochschule 
+Stuttgart, Hochschule der Medien 
+University of Applied Sciences 
+Stuttgart, Germany 
+
+Dr. Yvon ENGLERT 
+Head of Fertility Clinic, Free University of 
+Brussels (ULB), Professor of Medical 
+Ethics and Deontology 
+Brussels, Belgium 
+
+Prof. Anne McLAREN 
+Geneticist, Research Associate at 
+Wellcome CRC Institute 
+Cambridge, United Kingdom 
+
+Dr. Pere PUIGDOMÈNECH ROSELL 
+Research Professor, Department for 
+Molecular Genetics, Director of Institut de 
+Biologia Molecular de Barcelona, CSIC 
+Barcelona, Spain 
+
+Dr. Stefano RODOTA 
+Professor of Civil Law, University of Rome 
+Chairman of the Italian Data Protection 
+Authority, Chairman of the European 
+Group of the Data Protection Authorities 
+Roma, Italy 
+
+Dr. Günter VIRT 
+Professor of Theology, Institute of Catholic 
+Moral Theology, University of Vienna 
+Vienna, Austria 
+
+Speakers 
+
+Dr. Jacques BROCHI 
+Head of the Neuro Surgery Dpt 
+Hopital ERASME 
+Brussels, Belgium 
+
+Dr. James H. MOOR 
+Professor of Philosophy 
+Dartmouth College 
+Hanover, USA 
+
+Mr Peter HOOGENDOORN 
+President of the Dutch Parkinson Society 
+The Hague, The Netherlands 
+
+Dr Fabienne NSANZE 
+Trainee at the EGE Secretariat 
+Brussels, Belgium 
+
+1 The following EGE Members were unavoidably absent from the Roundtable : Prof. Catherine 
+LABRUSSE – RIOU, Centre de Recherche en Droit Privé, Université de Paris I Panthéon-Sorbonne, 
+Paris, France - Dr. Linda NIELSEN, University of Copenhagen, Faculty of Law, Institute of Legal 
+Science, Copenhagen, Denmark - Dr. Peter WHITTAKER, Biologist, Professor of Biology, Head of 
+the Biology Department, National University of Ireland, Maynooth - Ireland 
+
+75
+
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+European Commission 
+
+Representatives of Universities 
+
+Group of Policy Advisers 
+(and EGE Secretariat) 
+
+Dr Michael D. ROGERS 
+Ms Patricia MOMMENS 
+Mr Guy WILMES 
+Brussels, Belgium 
+
+DG Information Society (INFSO) 
+
+Mrs Diane WHITEHOUSE 
+ICT for Health Unit: Project Officer 
+eHealth Systems & Services for Health 
+Professionals, Social, economic & 
+organisational aspects of eHealth, 
+eEurope 2005, Link to eAccessibility 
+Brussels, Belgium 
+
+DG Research (RTD) 
+
+Dr Maurizio SALVI 
+Coordinator of Unit 
+Ethics & Society 
+
+Representatives of the Council of Europe 
+
+Dr Helen BARKER, LL.M., 
+School of Legal Studies 
+University of Wolverhampton 
+Wolverhampton, UK 
+
+Representatives of Religions 
+
+Professor Fred HAMBURG 
+COMECE 
+Member of Stichting Medische Ethiek 
+Hogeschool Rotterdam 
+Rotterdam, The Netherlands 
+
+Representatives of the NEC 
+(National Ethics Committees) 
+
+Dr Michael ASCIAK 
+Chairman 
+National Bioethics Committee 
+Birkirkara, Malta 
+
+Professor Francesco D'AGOSTINO 
+President of the Italian NEC 
+Roma, Italy 
+
+Dr Elaine GADD 
+Special Adviser 
+COMETH 
+Bioethics Department of the Council of Europe 
+London, UK 
+
+Professor Sadek BÉLOUCIF 
+Comité Consultatif National d'Ethique 
+Pour les sciences de la vie et de la santé 
+CCNE 
+Paris, France 
+
+Representatives of Government 
+
+Dr Wybo DONDORP 
+Health Council (Gezondheidsraad) 
+Standing Committee on Medical Ethics 
+& Health Law 
+Amsterdam, The Nederlands 
+
+Dr Emily de GRAE 
+Research Officer 
+Irish Council for Bioethics 
+Ireland 
+
+Dr Marianna DRACOPOULOU 
+General Secretary of the Hellenic 
+Bioethics Commission 
+Athens, Greece 
+
+76
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Professor Paula MARTINHO DA SILVA 
+President 
+National Council of Ethics for the Life Sciences 
+Lisboa, Portugal 
+
+Mr Jean-Claude MILMEISTER 
+Chargé d’Etudes 
+Comité National d’Ethique 
+Luxembourg, Grand-Duché-de-Luxembourg 
+
+Dr Dorottya MOGYOROSI 
+Head of the Secretariat 
+National Ethics Committee 
+Budapest, Hungary 
+
+Professor Cesar NOMBELA CANO 
+President of the Advisory Committee on Ethics 
+of Scientific and Technical Research 
+Madrid, Spain 
+
+Dr Ragnhild RIIS 
+Vice-President 
+Danish Council of Ethics 
+Copenhagen, Denmark 
+
+Ms Micheline ROELANDT 
+Présidente du Comité Consultatif de Bioéthique 
+Brussels, Belgium 
+
+Dr Laima RUDZE 
+Secretary General 
+National Ethics Committee 
+Rigas, Latvia 
+
+Dr Harald SCHMIDT 
+Assistant Director 
+Nuffield Council of Bioethics 
+London, UK 
+
+Professor Daniel TARSCHYS 
+President  
+National Council on Medical Ethics 
+Stockholm, Sweden 
+
+Dr Rudolf TEUWSEN 
+Head of Office 
+Nationaler Ethikrat 
+Berlin, Germany 
+
+Dr Berit A. FABER 
+Executive Director 
+Danish Council of Ethics 
+Det Etiske Rad 
+Copenhagen, Denmark 
+
+Professor Eugenijus GEFENAS 
+Chairman 
+Lithuanian National Ethics Committee 
+Lithuania 
+
+Professor Jozef GLASA, M.D., PhD 
+Institute of Medical Ethics and 
+Bioethics Foundation 
+Bratislava, Slovakia 
+
+Dr Robert GMEINER 
+Head of the Secretariat of the Bioethics 
+Commission – Federal Chancellery 
+Vienna, Austria 
+
+Professor Andrzej GORSKI 
+President of the Bioethics Commission 
+Ministry of Health 
+Warsaw, Poland 
+
+Mr Jean-Paul HARPES 
+President du Comité National d’Ethique 
+Luxembourg, Grand-Duché-de-Luxembourg 
+
+Mr Ole HARTLING 
+President of the Danish Council of Ethics 
+Copenhagen, Denmark 
+
+Professor André KNOTTNERUS 
+President of the Health Council 
+of the Netherlands 
+The Hague, The Netherlands 
+
+Mr Outi KONTTINEN 
+Executive Secretary of the Sub-Committee 
+on Medical Ethics, National Advisory Board on 
+Health Care Ethics, 
+Ministry of Social Affairs & Health 
+The Government, Finland 
+
+Professor George MANIATIS 
+Vice-President of the Hellenic National 
+Bioethics Commission 
+Athens, Greece 
+
+77
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Professor Joze TRONTELJ 
+President 
+National Ethics Committee 
+Ljubljana, Slovenia 
+
+Dr Menno VAN LEEUWEN 
+Executive Director 
+Health Council of the Netherlands 
+Standing Committee on Medical Ethics 
+And Health Law 
+The Hague, The Netherlands 
+
+Professor Vladimir VIKLICKY 
+President 
+Bioethics Commission 
+Research and Development Council 
+Prague, Czech Republic 
+
+78
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretariat of the EGE 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Secretariat of the European Group on Ethics  
+
+Dr Michael D. Rogers 
+Head of the EGE Secretariat 
+
+Tel: 32 (0) 2 295 45 47 
+Fax: 32 (0) 2 299 45 65 
+E-mail: michael.rogers@cec.eu.int 
+
+Ms Patricia Mommens 
+
+Tel: 32 (0) 2 296 84 74 
+Fax: 32 (0) 2 299 45 65 
+E-mail: patricia.mommens@cec.eu.int 
+
+Ms Joelle Bezzan 
+
+Tel: 32 (0) 2 296 19 48 
+Fax: 32 (0) 2 299 45 65 
+E-mail: joelle.bezzan@cec.eu.int 
+
+Dr Fabienne Nsanze 
+
+Tel: 32 (0) 2 296 67 03 
+Fax: 32 (0) 2 299 45 65 
+E-mail: fabienne.nsanze@cec.eu.int 
+
+Mail address 
+
+European Commission 
+Secretariat of the European Group on Ethics in Science and New technologies 
+BERL 10/350 
+B – 1049 – Brussels - Belgium 
+
+Office 
+
+European Commission 
+Berlaymont Building – rue de la Loi 200 
+B – 1049 – Brussels - Belgium 
+
+Web site 
+http://europa.eu.int/comm/european_group_ethics 
+
+81
+
+ 
+ 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+          
+          
+  
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+European Commission 
+
+The ethical aspects of ICT implants in the human body 
+Proceedings of the Roundtable Debate 
+
+Luxembourg: Office for Official Publications of the European Communities 
+
+2005 — 81 pp. — 21 x 29.7 cm 
+
+ISBN 92-894-9035-7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

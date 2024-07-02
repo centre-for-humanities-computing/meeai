@@ -1,0 +1,2146 @@
+#EthicsGroup_EU
+
+Values  
+in times  
+of crisis: 
+Strategic crisis 
+management  
+in the EU
+
+European Group  
+on Ethics in Science and
+New Technologies
+
+Research and 
+Innovation 
+
+European Group on Ethics in Science and New Technologies 
+Values in times of crisis: Strategic crisis management in the EU
+
+European Commission
+Directorate-General for Research and Innovation
+Unit 03 
+
+Contact 
+Email 
+
+Jim DRATWA
+ EC-ETHICS-GROUP@ec.europa.eu  
+ RTD-PUBLICATIONS@ec.europa.eu
+
+European Commission
+B-1049 Brussels
+
+Manuscript completed in October 2022.
+
+The European Commission is not liable for any consequence stemming from the reuse of this publication. The contents of this Statement are 
+the sole responsibility of the European Group on Ethics in Science and New Technologies (EGE). The views expressed in this document reflect the 
+collective view of the EGE and may not in any circumstances be regarded as stating an official position of the European Commission.
+
+This is an EGE Statement, written and adopted by the members of the EGE: Nikola Biller-Andorno, Maria do Céu Patrão Neves (Vice-Chair), Migle 
+Laukyte, Paweł Łuków, Pierre Mallia, Fruzsina Molnár-Gábor, Thérèse Murphy, Herman Nys, Laura Palazzani, Barbara Prainsack (Chair), Nils-Eric 
+Sahlin (Vice-Chair), Tamar Sharon, Jeroen van den Hoven, Renata Veselská, Takis Vidalis. 
+
+PDF
+
+ISBN 978-92-76-55607-7
+
+doi:10.2777/79910
+
+KI-07-22-806-EN-N
+
+Luxembourg: Publications Office of the European Union, 2022 
+
+©  European Union, 2022
+
+The reuse policy of European Commission documents is implemented by Commission Decision 2011/833/EU of 12 December 2011 on the reuse 
+of Commission documents (OJ L 330, 14.12.2011, p. 39). Unless otherwise noted, the reuse of this document is authorised under a Creative 
+Commons Attribution 4.0 International (CC BY 4.0) licence (https://creativecommons.org/licenses/by/4.0/). This means that reuse is allowed provided 
+appropriate credit is given and any changes are indicated.
+
+For any use or reproduction of elements that are not owned by the European Union, permission may need to be sought directly from the respective 
+rightholders. The European Union does not own the copyright in relation to the following elements:
+Image credits: Cover page: ©Mihail, #356496615, 2022. Source: stock.adobe.com
+
+EUROPEAN COMMISSION
+
+European Group on Ethics  
+in Science and New Technologies
+
+Values in times  
+of crisis:
+Strategic crisis  
+management in the EU
+
+Brussels, October 2022
+
+2022
+
+Directorate-General for Research and Innovation
+
+Table of contents 
+
+EXECUTIVE SUMMARY ................................................................................................ 3 
+
+INTRODUCTION......................................................................................................... 4 
+
+1. POLICYMAKING IN TIMES OF CRISIS........................................................................ 6 
+
+2. THE PUBLIC INTEREST ........................................................................................... 9 
+
+3. FROM ATOMISTIC RIGHTS TO WELL-BEING FOR ALL: THE VALUE OF SOLIDARITY ......... 12 
+
+4. POVERTY AND SOCIAL INEQUALITIES ...................................................................... 16 
+
+5. SOLIDARITY IN LAW AND POLICY IN THE EU AND BEYOND ......................................... 19 
+
+6. PRIORITISATION OF HEALTHCARE RESOURCES: ETHICAL REQUIREMENTS ................... 22 
+
+7. DATA, COMMUNICATION, AND PUBLIC TRUST ........................................................... 24 
+
+RECOMMENDATIONS ................................................................................................. 28 
+
+REFERENCES ............................................................................................................ 31 
+
+ 
+ 
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+EXECUTIVE SUMMARY 
+
+European Group on Ethics in Science and New Technologies 3 
+
+ 
+ 
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+Introduction 
+
+In  a  crisis,  the  fundamental  values  or,  in  other  words,  the  functioning  of  a 
+society  is  under  threat  (SAPEA,  2022,  p. 38).  A  difficulty  in  strategic  crisis 
+management  is  that  responses  to  the  situation  need  to  be  developed  quickly, 
+yet  under  circumstances  of  uncertainty.  Time  pressure  and  social  pressure  in 
+decision-making often go hand in hand with a lack of a solid evidence base and 
+experience  that  can  be  drawn  on.  Another  key  difficulty  is  that  crisis 
+management  measures  need  to  be  implemented  at  the  same  time  as  current 
+affairs continue to be managed. 
+
+In  this  statement,  the  European  Group  on  Ethics  in  Science  and  New 
+Technologies  (EGE)  addresses  how  ethical  values  can  contribute  to  strategic 
+crisis  management.  Values  play  an  important  role  in  how  we  understand  and 
+make sense of crises. They influence how we frame the problems that strategic 
+crisis management is supposed to address and how we choose the instruments 
+to  do  so.  Very  often,  however,  values  remain  implicit  and  invisible. 
+Foregrounding the values that are inherent in, and should guide, strategic crisis 
+management is an important task to which this statement seeks to contribute. 
+
+Values play an important role in how 
+we  understand  and  make  sense  of 
+crises.  They  influence  how  we  frame 
+the  problems  that  strategic  crisis 
+management  is  supposed  to  address 
+and  how  we  choose  the  instruments 
+to do so. 
+
+Of  particular  relevance  in  the  context  of  crises  is 
+solidarity  (see  also  EGE,  2020),  which  is  a  value 
+that is frequently appealed to in crises, but often 
+in a merely symbolic or tokenistic manner. When 
+solidarity  is  mobilised  by  politicians  merely  to 
+demand  of  people 
+they  comply  with 
+that 
+measures,  support  each  other  or  are  resilient  in 
+the  face  of  hardship,  then  it  can  do  more  harm 
+than  good –  especially  when  governments 
+themselves  are  seen  to  act  in  ways  that  are  detrimental  to  solidarity.  When 
+solidarity  is  used  as  an  analytic  lens  on  whom  we  prioritise  and  whom  we 
+exclude, however, or on the ways in which we establish the boundaries between 
+‘us’  and  ‘the  other’,  it  can  help  to  make  better,  more  ethical  and  (socially  and 
+politically) more sustainable decisions. Similarly, as a value, solidarity can be a 
+guiding  principle  for  overcoming  crises  and  strengthening  societal  resilience. 
+This  is  because  it  bridges  individual  and  collective  needs  and  interests  in  the 
+deep  awareness  of  human  interdependence  across  borders,  social  groups,  and 
+other boundaries. 
+
+Given  that  many  people  and  groups  are  negatively  affected  by  crises,  while 
+others benefit from them, a key challenge within strategic crisis management is 
+to  assess  how  societies  should  equitably  distribute  the  burdens  and  benefits 
+arising  in  a  crisis.  How  can  democratic  societies  protect  the  economically, 
+socially,  or  medically  most  vulnerable ( 1)?  How  do  we,  as  people  in  Europe, 
+
+(1)  Vulnerability  can  refer  to  specific  vulnerabilities –  such  as  having  diminished  autonomy 
+due  to  illness or  injury, or other  conditions, or belonging  to  a  marginalised or otherwise 
+disadvantaged  group –  or  to  the  common  human  vulnerability  towards  war,  disease, 
+oppression,  etc.  (e.g.  Ten  Have,  2006).  The  principle  of  vulnerability  expresses  two 
+obligations:  the  first  is  a  positive  one  (a  claim),  an  obligation  to  provide  assistance,  to 
+
+European Group on Ethics in Science and New Technologies 4 
+
+ 
+ 
+                                                
+Values in times of crisis: Strategic crisis management in the EU 
+
+decide  whose  needs  to  prioritise  when  resources  are  scarce  and  how  financial 
+and other support is provided to those in need? These are just a few questions 
+that previous crises have raised  and that need to be considered in the present 
+for the future. 
+
+In  this  statement  we  frequently  draw  upon  one  of  the  ongoing  crises,  namely 
+the  COVID-19  pandemic,  to  highlight  lessons  to  be  learned  and  illustrate  the 
+role that solidarity and other values play – and should play – in strategic  crisis 
+management.  Where  some  of  our  examples  focus  on  public  health  and 
+healthcare, our broader arguments pertain to all crises. 
+
+Our  argument  proceeds  by  means  of  the  following  steps.  In  Section 1,  we  lay 
+out the key challenges of policymaking in crisis situations. We draw attention to 
+the  performative  effects  of  framing,  and  of  language  more  broadly:  how  we 
+describe  a  problem  influences  how  we  think  about  solving  it,  and  what  ethical 
+strategies and policy instruments we choose for this purpose. Calling something 
+a  crisis,  rather  than  an  emergency  or  a  disaster,  opens  different  policymaking 
+toolboxes.  In  Section 2,  we  turn  to  a  notion  that  is  frequently  mobilised  in 
+strategic  crisis  management,  namely  public  interest.  Contrary  to  much  of  the 
+political  discourse  at  present,  we  note  that  individual  rights  and  the  public 
+interest (understood as a legal enshrinement of common goods) are not binary 
+opposites.  They  are  complementary  and  often  cannot  be  realised  without  each 
+other.  In  Section 3,  we  argue  that  the  notion  of  solidarity,  because  it  reflects 
+the  close  connection  between  individual  interests  and  the  common  good,  is 
+particularly  helpful  for  strategic  crisis  management.  Solidarity  acknowledges 
+that  the  interests  and  identities  of  human  beings  are  shaped  by  their 
+relationships  to  others.  It  draws  our  attention  to  concrete  questions  of  how  all 
+groups  in  society  can  be  adequately  supported  and  how  such  attention  to  the 
+needs of everyone can help to strengthen societal resilience in crisis situations, 
+which  is  the  focus  of  Section 4.  Section 5  sketches  the  role  of  solidarity  in  EU 
+and  international  law.  Section 6  uses  the  example  of  healthcare  and  public 
+health  to  outline  the  role  of  values  in  the  prioritisation  of  scarce  resources  in 
+crisis  contexts.  Section 7  then  underscores  the  importance  of  data,  good 
+communication and public trust in strategic  crisis  management. We end with a 
+set of recommendations directed at policymakers at all levels, and at a range of 
+stakeholders. 
+
+positively  act  (action),  i.e.  the  obligation  to  provide  special  protection;  the  second  is  a 
+negative  one  (a  prohibition),  an  obligation  to  refrain  from  any  kind  of  interference 
+(omission),  i.e.  the  obligation  to  show  respect,  to  acknowledge  or  to  take  into 
+consideration  human  vulnerability  within  human  relationships.  The  most  vulnerable 
+people  are  those  who  are  most  susceptible  to  being  negatively  affected  by  a  specific 
+situation. 
+
+European Group on Ethics in Science and New Technologies 5 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                                             
+Values in times of crisis: Strategic crisis management in the EU 
+
+1. Policymaking in times of crisis 
+
+A  crisis  is  always  disruptive.  The  fact  that  it  breaks  with  the  routines  of 
+everyday life is part of what makes a crisis so threatening. Crises can be local, 
+regional, or global. They can be triggered by an environmental emergency (e.g. 
+floods, droughts, fires), a pandemic, an economic situation or a war, and can be 
+compounded by other developments, such as climate change. At the same time, 
+crises  can  also  be  opportunities  for  positive  transformation.  They  can  be 
+catalysts  for  a  new  reality  that  benefits  from  the  knowledge  of  the  past,  and 
+from successful solutions in the present, strengthening societies for the future. 
+Ideally, all crises should convert difficulties into opportunities for improvement. 
+Values could  and  should  play an  important role  in this  dynamic, with solidarity 
+being the bond that helps us move in the same direction. 
+
+As  the  United  Nations  Sustainable  Development  Goals  (SDGs)  and  the  work  in 
+complexity  science  on  social  systems  has  made  clear,  many  issues  relating  to, 
+for example, energy, food, water, health, education, security or the rule of law 
+are  interconnected  and  cannot  be  dealt  with  in  isolation.  The  long  series  of 
+crises  that  we  have  experienced  since  2008 –  including  economic,  health-
+related,  social,  and  environmental  crises –  have  all  added  to  our  awareness  of 
+the  connections  between  different  domains  of  practice  and  policymaking,  and 
+also our interdependencies as humans and with other species and forms of life. 
+Current  crises  are  ‘transboundary’  (Boin,  2019),  in  the  sense  that  they  cut 
+across  geographical  borders,  fields  of  practice  and  policy,  and  fields  of 
+expertise.  They  demand  assessment  and  responses,  not  in  isolation  but  with 
+due regard to the different spatial and temporal scales of (often nested) crises – 
+and of the cascading impacts, different 
+and 
+expressions 
+of 
+intractability,  and  often  also 
+the 
+unintended consequences of the policy 
+responses  themselves.  One  of  the 
+main 
+responding 
+adequately  to  a  crisis  is  to  be  mindful 
+of  the  many  ways  in  which  issues, 
+domains,  problems,  and  solutions  are 
+related,  and  of  the  fact  that  the  fates 
+of  groups  and  individuals  are  often 
+intimately connected to each other.  
+
+A  crisis  often  favours  utilitarian  policy  responses 
+that  count  lives  or  aggregate  units  of  well-being, 
+while  larger  values  such  as  equity,  dignity  and 
+respect  for  people  temporarily  recede  into  the 
+background.  Strategic  crisis  management  should 
+resist these forms of reduction or tapering. In this 
+respect,  making  explicit  the  values  that  give  rise 
+to  particular  framings  and  solutions  can  also 
+improve  the  transparency  and  quality  of  decision-
+making. 
+
+uncertainty 
+
+challenges 
+
+of 
+
+What is required is a systems perspective that considers the well-being not only 
+of those immediately  and obviously  affected, but also of those whose  lives will 
+be affected further downstream, in distant places or in a distant future. In this 
+context, a ‘crisis framing’ can be helpful – but it can also invite the opposite. A 
+crisis is not merely ‘raw reality out there’. How we represent it and intervene in 
+it  always  results  from  a  choice  of  what  is  foregrounded,  what  is  connected, 
+what  is  part  of  the  picture –  and  what  is  left  out.  For  example,  if  flooding  is 
+framed  as  a  weather-induced  crisis,  this  renders  invisible  the  larger  process  of 
+climate change that has made such extreme weather events more likely, along 
+with the economic, political, and social practices that have contributed to it.  
+
+European Group on Ethics in Science and New Technologies 6 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+A  crisis  often  favours  utilitarian  policy  responses  that  count  lives  or  aggregate 
+units  of  well-being,  while  larger  values  such  as  equity,  dignity  and  respect  for 
+people  temporarily  recede  into  the  background.  Strategic  crisis  management 
+should  resist  these  forms  of  reduction  or  tapering.  In  this  respect,  making 
+explicit  the  values  that  give  rise  to  particular  framings  and  solutions  can  also 
+improve the transparency and quality of decision-making (see also EGE, 2021). 
+It  is  here  that  matters  of  trust  and  legitimacy,  of  public  participation  and 
+communication,  of  co-construction  and  coordination  come  in.  The  best  answer 
+will  not  always  come  from  the  highest  international  level:  with  due  regard  to 
+subsidiarity,  different  levels  (from  the  local  to  the  international)  can  all 
+contribute.  Here,  cooperation  and  coordination  are  of  key  importance.  This  is 
+where  a  reinforced  European  governance  for  strategic  crisis  management  can 
+bring the most added value (see also GCSA et al., 2020a).  
+
+Individual rights and common goods: not a trade-off 
+
+A  common  characteristic  of  all  crises  is  the  unequal  effects  they  produce  on 
+various population groups. Some groups suffer more than others either because 
+of  their  economic  status  or  for  other  reasons  that  shape  vulnerabilities,  which 
+can be specific to specific crises. In times of crisis especially, care for others is a 
+requirement for the functioning of a society. Individual rights and freedoms, on 
+the  one  hand,  and  care  for  others  (expressed  in  moral  and  sometimes  legal 
+duties), on the other, are not zero-sum games, where one needs to give for the 
+other  one  to  gain.  Often,  the  protection  of  individual  rights  and  freedoms 
+requires the protection of common goods, and vice versa (2). In a society where 
+people  need  to  worry  about  getting  killed  in  the  street,  they  may  formally  be 
+able  to  exercise  their  full  set  of  individual  rights,  yet  in  reality  they  cannot 
+meaningfully exercise them. Similarly, when inadequate protections are in place 
+to  prevent  the  spread  of  viruses  in  public  places  during  a  public  health 
+emergency, people who  are afraid of  leaving their homes due to high  infection 
+risks  cannot  exercise  their  individual  rights.  In  the  domain  of  health,  Mallia 
+(2015)  argued  that  the  ‘health-of-the-public’  (HoP)  approach  is  a  good 
+complement  to  the  concept  of  public  health,  with  the  latter  focusing  on  the 
+health  of  people  as  a  collective  and  the  HoP  approach  directing  our  gaze 
+towards  the  health  of  all  individual  people  in  our  societies.  The  HoP  approach 
+thus draws attention to the importance of primary care, along with services that 
+support individual people and families. Strengthening the health of the public in 
+this  way  will  support  public  health  and  solidarity  in  crisis  situations,  and  vice 
+versa. 
+
+In  these  examples,  social  peace  and  public  health,  respectively,  are  common 
+goods that enable the enjoyment of individual rights and freedoms and increase 
+
+(2)  We  use  the  term  ‘common  goods’  as  a generic  term  to  refer  to  those  goods or  facilities 
+that  serve  the  basic  needs of  all  members  of  a community  or  provide  benefits  to  all.  In 
+Hussain’s (2018) words, “[t]he facilities that make up the common good serve a special 
+class of interests that all citizens have in common, i.e., the interests that are the object of 
+the civic relationship.” 
+
+European Group on Ethics in Science and New Technologies 7 
+
+ 
+ 
+ 
+                                                
+Values in times of crisis: Strategic crisis management in the EU 
+
+individual  well-being.  In  other  words,  to  respect  individual  rights  in  times  of 
+crisis  we  need  to  be  aware  of  the  complementarity  of  individual  rights  and 
+common goods ( 3). This  makes it imperative to fulfil our duties towards others 
+and  towards  society  as  a  whole.  Strategic  crisis  management  should  be  an 
+opportunity  to  complement  the  dominant  logic  of  rights  with  a  corresponding 
+logic  of  duties.  In  crisis  circumstances,  an  ‘atomistic’  exercise  of  individual 
+rights  may  not  only  deprive  others  of  their  rights,  but  also  eventually  limit 
+every individual’s ability to exercise them. 
+
+Balancing  competing  rights  and  interests  and  translating  the  outcome  of  this 
+balancing  into  practices,  policies  and  technical  measures  is  a  complicated 
+normative task at the best of times. It becomes even more complex under crisis 
+conditions.  Traditionally,  when  balancing  individual  interests  in  the  protection 
+and promotion of rights, their relative relationship to the rights and freedoms of 
+others  is  analysed  in  the  context  of  the  broad  societal  interest  in  promoting 
+values  and  achieving  a  high  standard  of  participation  and  welfare.  Crisis 
+situations, however, are characterised by the fact that the relevant interests at 
+stake  are  multiple  and  fragmented,  meaning  that  their  reconciliation  often 
+cannot be achieved solely through opposing and balancing legal positions based 
+on a condensation of singular dependencies. Moreover, in crises, public interest 
+is  often  appealed  to  when  public  bodies  justify  limitations  of  individual  rights 
+and  freedoms,  suggesting  that  public  interest  is  of  a  higher  order  than 
+individual  rights  and  freedoms  as  such.  The  latter  view,  however,  is  mistaken. 
+Instead of public interest or individual rights taking priority over the other, each 
+one  requires  the  other.  The  notion  of  solidarity,  as  we  argue,  is  a  useful 
+concept,  especially  for  strategic  crisis  management,  because  it  acknowledges 
+and  accommodates  this 
+interdependence  of  the 
+individual  and  the  collective  level.  While,  as  we  will 
+argue,  there  are  situations  in  which  individual  rights 
+and  interests  can  be  in  opposition  to  public  interest 
+and  the  broader  common  good,  they  are  not  in 
+opposition  to  each  other  in  principle.  Recognising  this 
+fact  moves  some  of  the  goalposts  of  strategic  crisis 
+management:  rather  than  asking  how  we  should  ideally  ‘balance’  individual 
+rights  and  the  public  interest,  it  makes  us  ask  how  we  can  make  sure  that 
+everyone’s basic needs are met also in a crisis, and how everyone receives the 
+best  support  possible.  Before  we  fully  unpack  this  argument,  we  will  take  a 
+closer look at the role of the public interest.  
+
+Instead  of  public  interest  or 
+individual rights taking priority 
+over 
+the  other,  each  one 
+requires the other. 
+
+(3)  This intertwinement of individual and common interest is rooted in the foundational works 
+of social contract theory, as exemplified by Jean-Jacques Rousseau’s call to “[f]ind a form 
+of association that defends and protects the person and goods of each associate with all 
+the common force” (Rousseau, 1949). 
+
+European Group on Ethics in Science and New Technologies 8 
+
+ 
+ 
+ 
+ 
+                                                
+Values in times of crisis: Strategic crisis management in the EU 
+
+2. The public interest 
+
+The  interest  of  a  group  of  people  is  more  than  just  the  sum  of  the  individual 
+interests or their common denominator; it elevates the interests to be assigned 
+to  a  group.  These  interests  can  then  be  enshrined  in  law  and  become  legal 
+goods  in  which  the  respective  society  is  deemed  to  have  an  interest  strong 
+enough to be manifested through law. In this sense, the formulation of a public 
+interest  aims  at  the  accomplishment  and  the  protection  of  common  goods  (4) 
+and the underlying common values. 
+
+The public interest also guides the balancing of competing rights and interests. 
+In  that  sense,  it  is  used  to  legitimise  and  justify  relevant  decisions.  The  public 
+interest  can  also  be  expressed  through  the  law  itself.  For  example,  human 
+rights – including the right to the highest attainable standard of health and the 
+right to share and receive information, including via a free press – can be seen 
+as expressions of public interest. This is the case because a strong and effective 
+healthcare  system  and  structures  that  facilitate  free  and  open  information 
+sharing  and  deliberation  benefit  both  individuals  and  society  as  a  whole. 
+Relatedly,  human  rights  spell  out  the  circumstances  in  which  it  may  be 
+legitimate  for  their  scope  to  be  restricted  (i.e.  in  the  public  interest). 
+Occasionally,  the  exercise  of  certain  rights,  such  as  the  right  to  movement  or 
+the  right  to  private  life,  may  be  restricted  in  proportionate  and  lawful  ways  to 
+protect  the  rights  and  freedoms  of  others,  to  ensure  public  health  or  national 
+security. 
+
+Free,  democratic  states  governed  by  the  rule  of  law  are  characterised  by  a 
+multiplicity of common concerns that must be weighed against each other. In a 
+crisis,  conflicts  between  different  common  concerns  and  between  individual 
+interests  and  the  public  interest  regularly  intensify.  The  instruments  and 
+methods for balancing them are often unclear, and the pursuit of an appropriate 
+balance can become a time-consuming endeavour that hinders a quick response 
+or  any  response  at  all.  Often  the  emphasis  is  on  ‘acting  first  and  assessing 
+later’,  with  an  assumption  that  courts  and  tribunals  of  inquiry  will  adjudicate 
+and rectify harms after the fact. 
+
+Prioritisation  among  different  aspects  of  public  interest  presupposes  an 
+integrated  approach  to  all  of  them  and  is  subject  to  specific  justification  by 
+government authorities following transparent criteria. Citizens have the right to 
+know  why,  in  urgent  situations,  some  aspects  of  the  overall  public  interest  (in 
+the  economy,  public  health,  education,  public  security,  environment,  etc.)  are 
+not  prioritised,  and  governments  are  accountable  for  providing  relevant 
+reasons.  Precautionary  measures  to  prevent  crises,  and  post-crisis  resolution 
+measures,  also  involve  a  challenging  balance  of  different  aspects  of  the  public 
+
+(4) The ‘common good’ refers to the facilities – whether material, cultural or institutional – that 
+the  members  of  a  community  provide  to  all  members  in  order  to  fulfil  a  relational 
+obligation  they  all  have  to  care for  certain  interests  that  they  have  in  common. It  hence 
+includes a range of facilities, from the road system to human rights to clean air and water. 
+(https://plato.stanford.edu/entries/common-good/) 
+
+European Group on Ethics in Science and New Technologies 9 
+
+ 
+ 
+                                                
+Values in times of crisis: Strategic crisis management in the EU 
+
+in 
+
+Involving  new 
+
+interest,  for  example  in  the  context  of  risk-friendly  innovation  and  technology 
+development. 
+crisis-preventive  policies 
+technology 
+presupposes that we are aware not only of predictable risks for common goods 
+(such  as  the  environment  or  privacy)  but  even  of  risk  uncertainty,  in  terms  of 
+the extent of potential risks and their possibility of occurring. Both the likelihood 
+and  the  extent  of  possible  harm  determine  the  intensity  of  the  potential 
+interference  with  the  rights  and  freedoms  of  those  affected.  The  risk  of 
+interference with rights must be included in the assessment of proportionality of 
+the  measure  causing  that  risk.  Under  this  view,  the  precautionary  principle  (a 
+notion developed in the context of international environmental law, referring to 
+the  duty  to  refrain  from  acting  whenever  the  potential –  serious  and 
+irreversible – consequences are not yet known; see also Schröder, 2014) needs 
+to  be  taken  seriously  by  governmental  authorities 
+in  decision-making 
+procedures. When associated with risk uncertainty, innovative technologies may 
+be  implemented  on  the  necessary  condition  that  reasonable  measures  for 
+preventing  potential  risks  are  in  place.  In  this  approach,  the  precautionary 
+principle  (to  the  extent  that  it  is  applicable  in  a  crisis  when  urgent  action  is 
+needed)  and  the  risk-based  approach  must  go  hand  in  hand;  they  influence, 
+condition, and complement each other. 
+
+It  is  necessary  to  add  to  these  considerations  that  we  understand  humans  as 
+relational  beings,  whose  interests  are  shaped  by  their  relationships  to  others. 
+An approach guided by this understanding and by the principle of solidarity (see 
+Sections  1  and  3)  can  help  to  overcome  false  dichotomies  between  the 
+individual interest and the collective and the public interest. 
+
+A  further  challenge  is  that,  in  a  crisis,  the  interpretation  of  the  public  interest 
+can  be  thwarted  by  actors  without  any  democratic  legitimation,  but  that  are, 
+nevertheless,  very  powerful.  We  must  bear  in  mind  that,  in  a  democratic 
+society,  the  content  of  the  public  interest  is  necessarily  a  subject  of  public 
+debate and deliberation. Even if there are general interests that are very widely 
+(or even universally) accepted, there is always room for diverging opinions and 
+interpretations  when  we  attempt  to  determine  their  specific  meaning  and 
+implications  for  action  in  concrete  situations,  particularly  in  times  of  crisis. 
+Nowadays,  with  the  development  of  new,  often  online-based  technological 
+applications  (social  media,  etc.),  this  public  debate  could  ideally  be  facilitated. 
+Instead,  however,  they  are  often  abused,  and  regularly  hinder  public 
+deliberations rather than promoting them. 
+
+At  the  same  time,  there  is  no  guarantee  or  evidence  that  these  networks 
+provide valid information to determine the actual content of the public interest. 
+On  the  contrary,  the  informal  nature  of  exchanges  on  social  media,  where  no 
+specific  requirements  of  democratic  deliberation,  legitimacy  and  accountability 
+exist  (other  than  the  fact  of  their  popularity),  allows  the  dissemination  of 
+subjective opinions presented as ‘news’ or ‘facts’, and even of fabricated ‘facts’ 
+(fake  news).  In  crisis  situations,  when  valid  information  could  help  to  engage 
+the  public  in  urgent  policies  and  regulatory  measures,  this  uncertain  situation 
+occurring between the freedom of expression, on the one hand, and the right to 
+information,  on  the  other,  becomes  highly  problematic:  again,  striking  a 
+
+European Group on Ethics in Science and New Technologies 10 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+balance regarding the exercise of these two competing individual rights requires 
+special attention by any democratic society. 
+
+Moreover,  although  we  generally  see  the  law’s  procedural  and  substantive 
+requirements  as  a  safeguard,  where  there  is  a  rush  to  create  new  legal 
+measures  in  response  to  a  crisis,  the  crucial  task  of  filtering  public  values  into 
+the  legally  protected  public  interest  can  be  incomplete  or  bypassed  altogether. 
+Any  such  disruption  between  the  legally  protected  public  interest  and  public 
+values is risky; it can cause instant and lasting damage to society, including to 
+trust and even to democracy itself. Thus, even in times of crisis, any attempt to 
+use the law to secure public interest must be based on the social validity of that 
+interest that represents the common good and corresponds to the central goals 
+of a state, including welfare obligations securing equality, justice, and fairness. 
+
+An equally important issue refers to the extent of public interest when it comes 
+to  cross-border  or  even  global  crises.  The  question  here  is  whether  national 
+governments  may  determine  the  public  interest  and  the  measures  to  be  taken 
+in  relation  to  the  crisis  effects  by  focusing  on  national  considerations 
+exclusively,  leaving  aside  the  cross-border  effects  of  a  crisis  that  may  occur 
+when  adopting  national-oriented  policies.  The  COVID-19  experience,  for 
+instance,  has  demonstrated  poor  coordination  of  national  policies,  and  even 
+highly  diverging  approaches  and  measures  in  relevance  (including  formal 
+requirements  for  travelling,  compulsory  vaccination  adopted  in  some  EU 
+Member  States  or  patient  prioritisation  in  access  to  essential  healthcare 
+services).  This  indicates  the  need  to  foster  international  debates  on  shared 
+values  and  introduce  a  more  comprehensive  concept  of  public  interest  that  is 
+broader  in  terms  of  geographical  scope  but  also  actionable  within  that  scope. 
+Here too, due to its focus on what people have in common across borders and 
+other boundaries, solidarity can be helpful. 
+
+European Group on Ethics in Science and New Technologies 11 
+
+ 
+ 
+ 
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+3. From atomistic rights to well-being for all: the value of solidarity 
+
+Ethics  scholarship  is  not  unanimous  as  to  the  nature,  content,  and  scope  of 
+solidarity.  Solidarity  has  been  considered  a  virtue,  a  moral  duty,  a  value,  an 
+ideal  to  be  achieved  or  a  characteristic  of  institutions.  What  virtually  all 
+conceptualisations  of  solidarity  have  in  common  is  that  they  signify  pro-social 
+phenomena  that  express  or  increase  the  cohesiveness  of  groups  or  entire 
+societies.  Most  conceptualisations  of  solidarity  have  three  features,  as  follows. 
+First, they refer to some kind of support, to people standing up with, besides or 
+for  each  other  (e.g.  Dawson  and  Jennings,  2012;  Brunkhorst,  2005).  Second, 
+the  people  who  provide  support  have  something  in  common  with  those  who 
+receive the support: a shared goal, a common characteristic, a common threat 
+or –  in  the  most  general  sense –  the  recognition  of  our  shared  humanity. 
+Despite  the  many  ways  in  which  actors  may  be  different,  in  the  case  of 
+solidarity  it  is  the  similarities,  and  not  the  differences,  that  give  rise  to  action 
+(Prainsack  and  Buyx,  2011,  2017).  Third,  solidarity  is  not  an  isolated,  one-off 
+interaction, but is part of a social or political fabric. It can be the basis of social 
+or  political  institutions.  As  such,  it  requires  some  level  of  (indirect)  reciprocity 
+(e.g. Sternø, 2005; Molm et al., 2007; Ewuoso et al. 2022); it is stronger when 
+the people who contribute to solidaristic arrangements in the present know that 
+someone will have their back when they need support in the future. This is one 
+of the features that sets solidarity apart from other values and practices such as 
+altruism or charity: solidarity does not demand  selfless sacrifice or devotion to 
+the  interests  of  others.  It  links  self
+regarding  practice  with  the  interests  of 
+others  within  a  collaborative  undertaking,  which  presupposes  recognition  of 
+vulnerability and the mutuality of collaborators. 
+
+‐
+
+As noted, in a legal sense, solidarity generally denotes a sense of community in 
+a group or society, from which a mutual identification arises (Federico, 2018, p. 
+506).  This  mutual  identification  is  based  on  the  interconnectedness  and 
+interdependencies  between  the  goals  of  the  actors  involved  in  solidaristic 
+relations,  and  on  the  interdependencies  between  their  individual  goals  and  the 
+fulfilment of common goals, especially common-good-oriented goals, which can 
+only  be  meaningfully  achieved  in  cooperation  with  the  other  members  of  a 
+community  (Koroma,  2012,  p.  103).  Between  the  individual  members  of  a 
+community,  this  dependence  establishes  a  bond  and  can  form  the  normative 
+legal  dimension  of  solidarity,  which  also  describes  related  duties  of  conduct 
+(Calliess,  2022a,  Recital 2).  In  this  sense,  solidarity  is  not  only  an  individual 
+virtue,  but  a  structural  and  structuring  principle  and  practice.  It  can  also 
+manifest  itself  in  legal  obligations  or  in  the  formulation  of  legal  obligations,  in 
+both a positive  and  a negative sense. This  is especially true for the solidaristic 
+relations  of  formal  groups,  such  as  states  and  supranational  and  international 
+communities  (Lahusen  and  Federico,  2018,  pp.  11,  15;  Durkheim,  1984). 
+Furthermore,  this  means  that  an  analysis  of  existing  laws  and  regulations  is 
+decisive  in  identifying  the  extent  to  which –  and  how –  solidarity  is  introduced 
+and  implemented  in  these  communities  (see  Section 5).  It  also  means  that  in 
+addition  to  recognising  solidarity  as  a  structural  principle,  it  also  needs  to  be 
+introduced  and  realised  through  implementation  tools,  through  policy  and 
+regulation,  and  through  jurisprudence  (Federico,  2018,  p.  535).  As  far  as  the 
+
+European Group on Ethics in Science and New Technologies 12 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+institutionalisation  of  solidarity  is  concerned,  law  itself  can  be  seen  as  one  of 
+the most important media for it. 
+
+Jürgen  Habermas’  famous  description  of  solidarity  as  ‘the  other  side  of  justice’ 
+refers to the nature of solidarity as the ‘glue’ between the bricks that make up 
+the architecture of our political  and social  institutions (Habermas, 1984, 1986; 
+see also Scholz 2008). Within this architecture, solidarity cannot be prescribed; 
+it  is  what  people  do  on  their  own  initiative  and  will.  Solidarity  does,  however, 
+ground  obligations  that  can  bind  individuals  involved  in  the  activities  and 
+institutions that deliver goods or services. Such obligations of solidarity include 
+the obligation to provide, or contribute to the procurement of, a good or service 
+that  is to be made available to others who need it; the obligation to share the 
+good  or  service  according  to  a  standard  that  does  not  require  maximisation  of 
+compensation  for  the  costs  or  burdens  of  its  production;  the  obligation  of 
+support to provide for those in need of the good or service despite an absence 
+of  prospects  for  reciprocation;  and  the  obligation  of  loyalty  to  sustain  the 
+cooperative relationship between providers and recipients of the good or service 
+(Tranow, 2021). 
+
+Solidarity,  from  both  an  ethical  and  a  legal  perspective,  can  manifest  itself  at 
+various levels: at the interpersonal level, at the group level and at the level of 
+formal institutions and norms. When solidarity is enacted at the individual level, 
+from  person  to  person,  we  can  speak  of  tier 1  solidarity.  When  actions  of 
+mutual  support  become  so  common  that  they  turn  into  ‘normal’,  expected 
+behaviour  in  some  groups  (organisations  and  states),  we  see  an  instance  of 
+tier 2  solidarity.  When  solidarity  expresses  itself  at  the  institutional  level  in 
+legal, administrative, and bureaucratic norms, regulations, and designs, we call 
+it tier 3 solidarity. Tier 3 solidarity typically happens when individual and group-
+level  practices  have  solidified  into  ‘harder’,  more  structural  forms  of  solidarity 
+(Prainsack and Buyx, 2017; Lahusen and Federico, 2018, p. 17). The potency of 
+solidarity  as  a  concept  manifests  itself  in  different  ways  in  each  of  these  tiers, 
+with the tiers being highly interdependent. 
+
+Contrary to popular misconception, the idea of solidarity does not imply that the 
+needs  of  the  public  should  be  put  above  individual  rights  and  freedoms 
+(Prainsack,  2022).  It  instead  bridges  the  two.  Solidarity  views  people  as 
+relational  beings  whose  relationships  with  others  influence  their  interests  and 
+identities.  People  are  autonomous  because  of  their  relationships  with  their 
+human,  natural  and  artificial  environments,  not  in  spite  of  them  (see  e.g. 
+Mackenzie  and  Stoljar,  2010).  The  degree  of  an  individual’s  autonomy  is  also 
+determined  by  these  relationships.  Although  some  of  these  linkages  and  ties 
+have  the  potential  to  be  exploitative  or  harmful  and  put  the  interests  of 
+individuals  at  odds  with  those  of  the  group,  such  conflicts  are  not  the  default 
+state of human existence. Individual and collective rights and interests are not 
+a zero-sum game in which one must always give for the other one to gain. Our 
+relationships  with  our  social  and  natural  contexts  are  crucial  in  shaping  our 
+identities  and  interests.  The  concept  of  solidarity  effectively  expresses  this 
+important aspect of human nature.  
+
+European Group on Ethics in Science and New Technologies 13 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+formalised  group  and 
+
+its  members.  Such  a 
+
+While  solidarity  between  individual  people  may  be  inherently  anchored  in 
+mutual  respect  for  individual  autonomy  and  freedom  as  its  very  virtual 
+condition,  solidarity  at  the  group  level  operates  in  a  bidirectional  manner 
+between  groups  and –  depending  on  the  degree  of  formalisation  of  a  group – 
+between  a 
+focus  on 
+institutionalisation  of  solidarity  is  immediately  relevant  to  policymaking  during 
+crises. People have been better protected from some of the harshest effects of 
+crises  in societies with robust public infrastructures, especially those with well-
+funded and inclusive healthcare. When people lose their employment or income, 
+social support services can help them avoid losing their homes and livelihoods. 
+The importance of solidaristic institutions – such as policies that support people 
+according  to  their  needs  and  require  contributions  according  to  economic 
+ability –  is  highlighted  again  in  these  ongoing  crises.  What  we  can  take  from 
+this  is  a  different  way  of  thinking  about  crisis  preparedness,  one  that 
+understands the creation and strengthening of solidaristic institutions as one of 
+its core tasks, next to – and closely related to – the abolishment of poverty and 
+the reduction of inequalities. Poverty and grave inequalities are the root causes 
+of much of human suffering during any crisis, ranging from health crises to war 
+or climate change (see also GCSA et al., 2020a). 
+
+Normative  frameworks  that  are  effective  in  times  of  crisis  require  a  review  of 
+horizontal  and  vertical  solidarity  relations  and  of  the  various  tiers  and  their 
+interdependencies  to  distinguish  levels  of  cooperation  and  contribution  and  to 
+achieve  coherence  and  consistency  of  policies.  In  both  vertical  and  horizontal 
+solidarity relations, the procedural aspects of solidarity measures  are crucial in 
+crisis  situations.  They  need  to  be 
+further 
+concretised  in  specific  policies  and  linked  to 
+implementation  and  enforcement  measures. 
+Accordingly,  solidarity  as  a  structural  principle 
+should  be  brought  to  the  political  level  to 
+become  a  practised  value  that  creates  concrete 
+and  enforceable  shared  responsibilities  that 
+contribute  to  a  better  operationalisation  of 
+human rights in crisis and to the further levelling 
+of solidarity as a human right. 
+
+What  we  can  take  from  this  is  a 
+different  way  of  thinking  about  crisis 
+preparedness,  one  that  understands 
+the  creation  and  strengthening  of 
+solidaristic  institutions  as  one  of  its 
+core  tasks,  next  to  –  and  closely 
+related to – the abolishment of poverty 
+and the reduction of inequalities. 
+
+Furthermore,  it  is  important  not  only  to  identify  and  deal  with  obstacles  to 
+solidarity  in  crises,  but  also  to  identify  which  other  principles  can  help  to 
+manage those obstacles. Other goals and values that decision-making during a 
+crisis should aim at include preparedness and response (requiring resources and 
+training), prevention, accountability, auditing and public trust. Their relation to 
+solidarity  and  the  connection  between  them  in  the  procedure  of  their 
+operationalisation  need  to  be  further  clarified.  When  the  focus  is  on  the 
+operationalisation  of  human  rights  through  public  policy,  the  monitoring  and 
+review  of  past  (identified)  crises  becomes  crucial.  Making  the  results  of  such 
+audits publicly available, understandable, and part of public debate can help to 
+repair and strengthen public trust, which in times of crisis can become a source 
+of  doubts  and  insecurities  and  needs  to  re-establish  its  role  as  a  basis  for 
+stability, reliance and hope. Furthermore, the repair and strengthening of public 
+
+European Group on Ethics in Science and New Technologies 14 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+trust  emerge  from  contingency  plans  based  on  these  audits:  such  plans  such 
+plans must build upon – and enable – learning from past errors. 
+
+European Group on Ethics in Science and New Technologies 15 
+
+ 
+ 
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+4. Poverty and social inequalities 
+
+Solidarity,  as  noted,  is  different  from  other  pro-social  practices  in  that  it  is 
+based on what people have in common, and not what sets them apart. Despite 
+all of the differences that inevitably exist between people and groups, solidarity 
+is  based  on  what  people  have  in  common –  in  the  most  general  sense,  our 
+shared humanity. This is evident when one sees  people rise to the occasion to 
+help  and  comfort  each  other,  as  evidenced  during  COVID-19.  Conversely,  it 
+may not be so evident between countries, where we witnessed competition for 
+resources.  In  such  a  context,  a  merely  symbolic  reference  to  solidarity  can  do 
+more harm than good (West-Oram, 2021). 
+
+Political discourse that emphasises differences between people and groups – for 
+example  that  ‘immigrants’  take  resources  from  ‘us’,  or  that  ‘we’  must  accept 
+restrictions  of  our  freedoms  to  support  ‘those’  at  risk  during  a  pandemic – 
+makes  it  harder  for  people  to  see  what  they  have  in  common  with  others.  It 
+makes  it  harder  to  see,  and  act  upon,  the  fact  that  everyone  is  vulnerable  in 
+certain respects and contexts, and that we all have in common that we want to 
+be safe from poverty, disease, violence, and oppression. It is in this sense that 
+solidarity  draws  attention  to  the  ways  in  which  poverty  and  inequalities  are 
+problems  for  all  of  us  and  that  we  have  a  collective  responsibility  to  address 
+them.  
+
+Marginalised  groups  become 
+even  more  disadvantaged  in 
+crises,  both  within  a  country 
+and between countries. 
+
+One  of  the  most  important  lessons  that  previous  crises  have  taught  us  is  that 
+the  improvement  of  social  determinants  is  an  essential  game  changer. 
+Marginalised  groups  become  even  more  disadvantaged  in  crises,  both  within  a 
+country  and  between  countries.  To  give  an  example  from  the  COVID-19 
+pandemic,  research  across  the  globe  has  shown  that 
+those  who  live  in  poor  economic  and  social  conditions 
+have  been  particularly  strongly  affected  by  both  the 
+direct  and  the  indirect  consequences  of  the  pandemic 
+(e.g. Abedi et al., 2021; Agrawal, 2021; Bambra et al., 
+2021; Delaporte et al., 2021). Poverty has been both a 
+social  and  a  medical  risk  factor.  People  in  poor  social 
+and  economic  conditions  have  had  fewer  opportunities  and  means  to  protect 
+themselves  from  infection.  They  live  in  smaller  homes,  are  more  likely  to  hold 
+jobs  with  higher  risk  exposure  (and  no  possibility  to  work  from  home),  use 
+public  transportation  more  frequently,  and  have  less  money  to  buy  necessities 
+such as disinfectants and masks. Poverty has also been a medical risk factor, in 
+that the average health status of people in lower social and economic strata  is 
+worse  than  that  of  more  economically  advantaged  groups.  Similarly,  in 
+connection  with  the  climate  crisis,  so-called  frontline  communities –  that  is, 
+groups  where  several  types  of  disadvantage  intersect  along  social,  economic, 
+racialised and gendered lines – are the ‘first and worst’ affected. They often live 
+in  the  poorest  areas  of  a  city  or  region  and  are  particularly  exposed  to  the 
+fallout  from  climate  change,  such  as  fires,  flooding,  or  heat.  In  other  words, 
+disadvantaged  groups  enter  any  crisis  in  worse  health  than  other  groups,  and 
+therefore  their  risk  of  suffering  a  serious  disease  or  complications  or  being 
+subject to long-term effects is higher. If no measures are undertaken to support 
+people in difficult social and economic circumstances, their social and economic 
+
+European Group on Ethics in Science and New Technologies 16 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+disadvantage  can  become  compounded  by  crisis  management:  any  crisis-
+related  measure  that  prioritises  people  with  better  health  or  better  prognosis 
+exacerbates  discrimination  against  those  who  are  already  disadvantaged 
+(Schmidt et al., 2022). 
+
+Also  in  this  context,  solidarity  is  of  immediate  relevance.  As  the  next  section 
+(Section 5)  will  show,  solidarity  is  not  merely  a  lofty  ideal,  but  is  enshrined  in 
+EU  and  international  law.  It  is  both  a  structural  principle  and  an  emerging 
+human  right,  one  that  increasingly  places  positive  duties  on  governments  to 
+ensure  that  rights  and  freedoms  can  be  fully  exercised.  Equality  and  non-
+discrimination lie at its core. It is also in this sense that solidarity has a strong 
+connection to the reduction of poverty and social inequalities. Not only because 
+a  life  in  poverty  makes  it  practically  impossible  for  people  to  exercise  their 
+rights and freedoms, but also because grave inequalities cannot be justified by 
+factors  that  affected  people  can  control;  they  are  thus  inequities,  i.e.  unfair 
+injustices.  From  the  status  of  solidarity  as  a  human  right,  it  follows  that 
+governments  have  a  positive  duty  to  reduce  poverty  and  inequalities  (e.g. 
+Wester, 2018). 
+
+Specific  to  strategic  crisis  management,  given  the  considerable  effects  of 
+poverty  and  of  stark  social  inequalities  on  the  well-being  of  societies  (e.g. 
+Wilkinson  and  Pickett,  2011;  Stiglitz,  2012;  Dorling,  2019),  and  in  particular 
+during  crises  (e.g.  Mendoza,  2011),  the  abolishment  of  poverty  and  the 
+reduction  of  inequalities  needs  to  be  part  of  any  crisis  preparedness  and 
+management  plan.  These  goals  require  stable  and  affordable  housing,  good 
+education  for  all,  and  strong  and  accessible  healthcare  (Wagenaar  and 
+Prainsack, 2021). We have a collective responsibility to make this happen (see 
+also GCSA et al., 2020a). 
+
+It  should  be  emphasised  here  that  poverty  and  social  inequalities  are  not 
+inevitable  facts  of  nature.  They  are  part  of  a  political  and  economic  order  that 
+is, itself, the outcome of decisions of political, business, and financial decision-
+makers. From an ethical perspective, it is of the utmost importance not only to 
+try to improve policymaking within existing institutional arrangements, but also 
+to submit these very arrangements to ethical scrutiny. Great social inequalities 
+make  some  social  groups  more  vulnerable  during  crises  and  make  it  more 
+difficult for disadvantaged populations to recover once the worst of the crisis is 
+over.  Grave  social  inequalities  may  also  weaken  the  system  in  other  ways,  for 
+example by reducing the number of essential workers. 
+
+In  this  context,  resilience  is  a  concept  that  is  often  mobilised.  Resilience  is  an 
+important  concept  at  the  systemic  and  policymaking  levels,  where  it  refers  to 
+the  way  that  societies  adapt  to  and  recover  from  crises  due  to  latent 
+vulnerabilities  and  neglected  threats.  It  “needs  to  be  understood  within  the 
+constantly  changing  dynamics  of  complex  adaptive  systems”  (SAPEA,  2022, 
+p. 41).  Societal  resilience  is  closely  linked  to  solidarity  in  several  ways.  First, 
+solidarity can strengthen societal resilience in the sense that where people trust 
+and  support  each  other,  societies  are  stronger  in  crises.  This  applies  both  to 
+person-to-person  solidarity  and  to  institutionalised  solidarity.  Second,  some  of 
+the  same  measures  that  arise  from  the  normative  principle  of  solidarity – 
+
+European Group on Ethics in Science and New Technologies 17 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+namely  that  governments  need  to  make  sure  that  everyone’s  basic  needs  are 
+met, and that vulnerable people receive special support – also support societal 
+resilience.  
+
+is  also  an  established  concept 
+
+From  an  ethical  perspective,  the 
+frame  of  resilience,  applied  to 
+individuals,  is  problematic  as  it 
+can  lend  itself  to  social  control, 
+or even victim blaming. 
+
+in 
+Resilience 
+psychology,  where 
+it  denotes  the  capacity  of 
+individuals to constructively deal with, and overcome, 
+adversity.  The  American  Psychological  Association, 
+for  example,  defines  it  as  “the  process  and  outcome 
+of successfully adapting to difficult or challenging life 
+experiences,  especially  through  mental,  emotional,  and  behavioural  flexibility 
+and adjustment to external and internal demands” (APA, 2022). From an ethical 
+perspective,  the  frame  of  resilience,  applied  to  individuals,  is  problematic  as  it 
+can  lend  itself  to  social  control,  or  even  victim  blaming  (Joseph,  2013,  p. 40): 
+When individuals who struggle in a crisis are seen as not resilient enough, this 
+draws  attention  away  from  structural  and  collective  solutions  that  are  the 
+preconditions  for  the  ability  of  individual  people  to  get  through  a  crisis.  In  the 
+words of the sociologist Jonathan Joseph (2013, p. 40), resilience: 
+
+fits with a social ontology that urges us to turn from a concern with the 
+outside  world  to  a  concern  with  our  own  subjectivity,  our  adaptability, 
+our  reflexive  understanding,  our  own  risk  assessments,  our  knowledge 
+acquisition and, above all else, our responsible decision-making. … [T]he 
+way resilience works … is to move fairly swiftly from thinking about the 
+responsibility, 
+to  emphasising 
+dynamics  of  systems 
+adaptability and preparedness. 
+
+individual 
+
+Resilience  thinking  applied  to  individuals  should  be  avoided.  When  used  at  the 
+societal  level,  and  especially  when  it  is  understood  as  a  call  to  build 
+‘redundancies’  into  the  system  by  strengthening  public  infrastructures  and 
+systems  of  economic  and  social  support,  it  can  strengthen  solidarity,  and  vice 
+versa.  Understood  in  this  sense,  resilience  thinking  can  play  an  important  role 
+in strategic crisis management. 
+
+European Group on Ethics in Science and New Technologies 18 
+
+ 
+ 
+ 
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+5. Solidarity in law and policy in the EU and beyond 
+
+Solidarity  is  an  important  value  that  is  also  enshrined  in  the  EU  treaties  and 
+within  the  framework  of  international  law.  In  this  context  it  describes 
+interdependence  within  the  European  constitutional  network  in  a  broad  sense, 
+on  which  both  the  EU  and  the  Member  States  rely,  and  which  thus  forms  the 
+basis  for  both  internal  integration  and  external  cooperation  (Terhechte,  2017, 
+Recital 28, 29). In this sense, it focuses strongly on solidarity between Member 
+States  and  can  be  seen  as  a  system-relevant  guiding  value  within  the  EU’s 
+alliance of states, laws, and values (Lenaerts and Gerard, 2014, p. 316). In this 
+alliance,  solidarity  becomes  the  central  prerequisite  for  the  transition  to 
+cooperation  between  states  in  law-making  for  a  European  common  good.  The 
+importance  of  solidarity  is  underlined  by  the  treaties  themselves,  which 
+explicitly  refer  to  the  concept  a  total  of  15  times.  Even  where  solidarity  is  not 
+explicitly  mentioned  in  the  treaties,  it  is  often  a  guiding  value  in  a  variety  of 
+provisions  and  mechanisms  (Calliess,  2022a,  Recital 6).  Horizontal  solidarity  is 
+established  both  as  a  general  principle  for  internal  cooperation  to  achieve  the 
+overall  objective  of  the  EU  and  as  a  specific  provision  in  strategic  policy  areas 
+(e.g.  asylum,  immigration,  energy,  foreign  policy,  and  natural  or  human-made 
+disasters).  A  number  of  provisions  standardise  solidarity  between  EU  Member 
+States  (e.g.  Articles 80,  122,  194  and  222  of  the  Treaty  on  the  Functioning  of 
+the European Union). 
+
+The vertical dimension of solidarity focuses on the relationship between the EU 
+and  its  Member  States,  on  the  one  hand,  and  between  the  EU  and  individual 
+people,  on  the  other.  In  the  supranational  construct  of  cooperation,  the 
+cornerstones are legally manifested in the distribution of competences between 
+the EU  and  its Member  States (di Napoli  and Russo, 2015, p. 207). Procedural 
+aspects  of  solidarity  obligations  (Wellens,  2005,  p. 13;  Calliess,  2022b, 
+Recital 5,  6)  in  the  form  of  rules  addressing  mutual  information  and 
+coordination measures are also typical of solidaristic relations in a supranational 
+community. 
+
+The  realisation  of  solidarity  in  its  vertical  dimension  by  the  state  and  its 
+institutions  vis-à-vis  individuals  ties  in  with  the  understanding  of  constitutional 
+and  fundamental  rights  as  guarantees  of  the  state  for  its  citizens  and  for  all 
+people. The Charter of Fundamental Rights of the European Union (the Charter) 
+refers to this guarantee in its preamble. Moreover, the entirety of Title IV of the 
+Charter (Articles 27–38) is devoted to solidarity (as the title suggests) ( 5). 
+
+(5)  This section of the Charter contains provisions on the fundamental rights of workers such 
+as the right to information and consultation within the undertaking (Article 27), access to 
+placement  services  (Article 29),  protection  in  the  event  of  unjustified  dismissal 
+(Article 30),  the  prohibition  of  child  labour  and  the  protection  of  young  people  at  work 
+(Article 32), and the right to a family and professional life (Article 33), to name but a few. 
+Social  security  and  social  assistance  (Article 34),  environmental  protection  (Article  37), 
+and consumer protection (Article 38) are also fundamental rights defined in this section. 
+
+European Group on Ethics in Science and New Technologies 19 
+
+ 
+ 
+                                                
+Values in times of crisis: Strategic crisis management in the EU 
+
+By  opening  up  public  space  to  citizens’  engagement  in  the  realisation  of 
+fundamental rights two insights emerge. On the one hand, it becomes clear that 
+the  duty  to  participate  and  social  cohesion  are  of  key  importance  for  the 
+implementation  of  solidarity.  On  the  other  hand, the  close  connection  between 
+the  vertical  and  horizontal  dimensions  of  solidarity  becomes  clear  (Federico, 
+2018, p. 514). In addition to solidarity, which is presupposed as a value in the 
+second  sentence  of  Article 2  of  the  Treaty  on  European  Union  (TEU),  and 
+solidarity  between  its  members,  which  is  guaranteed  by  Articles 27  et  seq.  of 
+the  Charter,  Article 3(5)  TEU  recognises  mutual  respect  among  peoples  and 
+Article 21(1) TEU recognises external solidarity. 
+
+As  a  principle  at  the  international  level,  solidarity  itself  is  less  a  concrete 
+obligation  than  a  foundational  structural  principle  from  which  concrete  rights 
+and obligations can arise (Wolfrum, 2010, pp. 227 et seq.; Wellens, 2005). It is 
+the  cornerstone  of  the  responsibility  to  protect  people  and  defend  their  rights 
+(Slaughter, 2005) ( 6). In this sense, solidarity is a basic prerequisite for human 
+dignity  (Human  Rights  Council,  A/HRC/12/27,  p. 16)  and  the  realisation  or 
+fulfilment of human rights (Beyer, 2010, p. 102), being a key instrument for the 
+implementation  and  interpretation  of  human  rights  (for  references  in  the 
+context  of  sustainable  development  and  humanitarian  aid,  refugee  law,  the 
+responsibility to protect and the international law of disaster relief, to name but 
+a few, see Koroma, 2012, pp. 104 et seq.). The related rights of solidarity and 
+the  right  to  international  solidarity ( 7)  (‘third  generation  human  rights’,  see 
+Sanders,  1981)  serve  to  maintain  order  and  the  survival  of  an  international 
+society, which should be based on mutual assistance, especially when a country 
+is faced with a natural disaster, poverty and/or terrorism, or is in a post-conflict 
+situation.  In  particular,  the  similarities  between  the  concept  of  solidarity  and 
+that of the responsibility to protect have led to the view that the responsibility 
+to  protect  can  be  seen  as  an  institutionalised  form  of  international  solidarity 
+(Campanelli, 2011, Recital 22). 
+
+The United Nations (UN) General Assembly has explicitly referred to the concept 
+of  solidarity  on  multiple  occasions  (e.g.  Resolutions  55/2  and  56/151).  It  has 
+also  been  referenced  in  the  context  of  the  UN’s  commitment  to  ‘unconditional 
+solidarity  that  sets  disaster  aid  provision  apart’  in  times  of  acute  crisis.  The 
+individuals and institutions that engage in endeavours of solidarity in such times 
+
+(6)  Cf. UN Resolution A/RES/59/193 of 18 March 2005 on the promotion of a democratic and 
+equitable international order, paragraph 4(f) which states that such an order requires the 
+realisation  also  of  “[s]olidarity,  as  a  fundamental  value,  by  virtue  of  which  global 
+challenges  must  be  managed  in  a  way  that  distributes  costs  and  burdens  fairly,  in 
+accordance with basic principles of equity and social justice, and ensures that those who 
+suffer  or  benefit  the  least  receive  help  from  those  who  benefit  the  most”.  Furthermore, 
+paragraph 4(o)  states  “[t]he  shared  responsibility  of  the  nations  of  the  world  for 
+managing worldwide economic and social development as well as threats to international 
+peace  and  security  that  should  be  exercised  multilaterally”.  The  resolution  was  adopted 
+on 20 December 2004. 
+
+(7)  Draft declaration on the right to international solidarity, annex to report A/HRC/35/35 of 
+
+the Independent Expert on Human Rights and International Solidarity, Virginia Dandan. 
+
+European Group on Ethics in Science and New Technologies 20 
+
+ 
+ 
+                                                
+Values in times of crisis: Strategic crisis management in the EU 
+
+are considered donors, who work ‘on the basis of needs, without any regard to 
+political or other situations’ (Moonen, 2021. p. 5). Solidarity encourages that – 
+especially during an acute crisis – difference and disagreement be put aside so 
+that  people,  communities,  and  countries  can  work  together  and  help  each 
+other.  Current  crises  underscore  the  need  to  develop  public  policies  grounded 
+on solidarity, while promoting and strengthening it at the same time. 
+
+As  an  emerging  human  right,  solidarity  is  based  on  equality  and  non-
+discrimination  to  meaningfully  participate  in,  contribute  to,  and  enjoy  a  social 
+and  international  order  in  which  all  human  rights  and  fundamental  freedoms 
+can  be  fully  realised  (Scholz,  2014,  p. 54).  It  triggers  strong  procedural  rights 
+that  compel  governments  to  share  information  with  civil  society,  thereby 
+reducing  the  likelihood  of  human  rights  violations  (with  regard  to  procedural 
+rights generally, see Minnerop et al., 2018, Recital 26). 
+
+In the following section, we will turn again to the tangible role of solidarity as a 
+moral  principle.  To  demonstrate  this,  we  take  the  example  of  prioritisation  of 
+scarce  resources  in  healthcare,  which  has  been  of  particular  importance  in  the 
+current COVID-19 pandemic. Our argument about how prioritisation should take 
+place in light of scarce resources is applicable to all crisis contexts. 
+
+European Group on Ethics in Science and New Technologies 21 
+
+ 
+ 
+ 
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+6. Prioritisation of healthcare resources: ethical requirements 
+
+The  allocation  of  scarce  healthcare  resources  has  been  at  the  centre  of 
+bioethical debate during COVID-19. At the macro level, it has focused on health 
+services  and  their  organisation  and  availability;  at  the  micro  level,  it  has 
+focused on patients and their prioritisation in access to medical care. 
+
+including  by  strengthening  societal 
+
+The need for an efficient and ethical macro and micro allocation is not limited to 
+the current pandemic or to other crises. In crisis contexts, however, it becomes 
+most  urgent  and  challenging,  as  the  chronic  shortage  of  health  resources 
+deepens and the pressure on the healthcare system increases. The best way to 
+prevent  these  situations  or  to  minimise  their  impact  is  by  implementing 
+preparedness  measures, 
+resilience 
+(Section 4).  These  measures  should  include  contingency  plans  (i.e.  plans  that 
+are  designed  to  take  account  of  possible  future  events  or  circumstances) 
+relating  to  the  reorganisation  of  space  and  the  redistribution  of  resources. 
+Preparedness plans – along with resource allocations in healthcare – and public 
+policies  in  general  should  be  based  on  scientific  evidence,  also  acknowledging 
+when  there  is  no  available  or  robust  science  (see  also  GCSA  et  al.,  2020b; 
+GCSA,  2019).  They  should  also  comply  with  core  ethical  principles,  those  that 
+structure  the  organisation  of  our  societies  and  identify  our  common  morality, 
+also corresponding to an ‘ethics of minima’, i.e. the minimum set of obligations 
+and  duties  with  which  everyone  should  comply.  This  obligation  also  emerges 
+from  the  principle  of  solidarity,  which  implies  a  collective  responsibility  for 
+everyone’s  basic  needs  being  met.  Next  to  solidarity,  preparedness  measures 
+should  also  refer  to  fundamental  values  within  the  EU,  namely  respect  for 
+human  rights  and  the  dignity  of  every  human  being;  commitment  to  social 
+justice and the promotion of equity, as specifications of the principle of justice, 
+acknowledging the moral duty to act for the common good; and transparency of 
+criteria  as  basis  for  decision-making  and  of  procedures  concerning  public 
+policies. 
+
+When  confronted  with  scarce  resources  in  the  healthcare  sector,  two  different 
+strategies can be employed: rationing and rationalisation (Patrão Neves, 2020). 
+Rationing broadly refers to restrictions on accessing goods or services, either in 
+principle  or  in  a  certain  quantity  or  time  frame.  Rationing  either  occurs  in  a 
+(formally)  egalitarian  way  or  limited  resources  are  distributed  to  people 
+following  specific  criteria  (e.g.  profession,  age,  gender,  nationality,  severity  of 
+health  condition,  treatment  alternatives,  or  prognosis).  People  can  be  included 
+or  excluded  based  on  these  characteristics.  Depending  on  the  criteria,  non-
+egalitarian rationing might lead to an equitable distribution based on needs, but 
+it  can  also  interfere  with  respect  for  human  dignity,  justice,  equality,  and 
+equity, and e.g. lead to undue discrimination. 
+
+Rationalising,  in  contrast,  broadly  refers  to  the  most  efficient  use  of  limited 
+resources;  i.e.  to  the  optimisation  of  the  limited  resources  available  under  the 
+single  criterion  of  efficiency.  Instead  of  selecting  people  to  be  prioritised 
+according  to  specific  characteristics,  it  seeks  to  contribute  to  the  health  and 
+well-being  of  as  many  people  as  possible  with  the  resources  available,  giving 
+these resources to those who are likely to benefit the most, regardless of social 
+
+European Group on Ethics in Science and New Technologies 22 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+or  demographic  characteristics  (Patrão  Neves,  2020).  Because  of  this, 
+rationalisation – i.e. the prudent, efficient use of scarce (public) resources – is a 
+moral (and often legal) requirement. If rationalisation goes wrong it can lead to 
+implicit rationing, which is to be avoided. 
+
+In  all  cases,  guidelines  for  prioritisation,  for  example  in  intensive  care  triage, 
+need to be developed based on scientific evidence and grounded in fundamental 
+ethical  principles,  rejecting  the  use  of  social  determinants  (e.g.  ethnicity  and 
+economic  status)  to  discriminate  against  people,  and  with  particular  attention 
+paid not only to direct but also to indirect discrimination (e.g. structural ageism 
+and  ableism)  (e.g.  Joebges  and  Biller-Andorno,  2020;  Joebges  et  al.,  2020; 
+Vinay et al., 2021). 
+
+When faced with the choice of who is to be included and who is to be excluded 
+from  access  to  scarce  healthcare  resources,  criteria  that  deepen  inequities  will 
+not be ethically acceptable, such as prioritising (programmatically or practically) 
+those  who  can  pay  for  services  over  those  who  cannot,  or  giving  preferable 
+treatments to individuals who hold important social positions or who are seen to 
+have  contributed  more  to  society,  or  to  those  with  the  highest  likelihood  of 
+returning to productive life. In the spirit of solidarity, we are challenged to put 
+forward  prioritisation  criteria  that  acknowledge  the  obligation  to  contribute  to 
+the  good  of  society  as  a  whole  and,  at  the  same  time,  to  help  the  weakest  or 
+most vulnerable, while aiming to neglect no one. Any prioritisation needs to be 
+preceded  by  a  well-established  indication  for  the  treatment  in  question  and  a 
+clearly  stated  will  on  the  part  of  the  patient  (by  the  patient,  an  advance 
+directive  and/or  a  legal  representative)  that  the  patient  in  fact  prefers  this 
+treatment (e.g. intensive care) over other options (such as palliative care). 
+
+Although  the  principles  and  criteria  for  priority  setting  are  the  subject  of 
+ongoing  debate,  decisions  made  on  prioritisation  of  patients  need  to  be 
+grounded  in explicit moral values and communicated transparently (Sahlin and 
+Schwaag  Serger,  2022).  Clear  and  succinct  information  should  be  available  to 
+all  citizens,  and  (time  permitting)  everyone  should  have  the  possibility  to 
+in  priority  setting  through  community  consultation.  Ideally, 
+participate 
+individuals  should  be  enabled  to  understand  why  hard  choices  must  be  made, 
+and  what  is  expected  of  them.  This  is  the  only  way  to  ensure  trusted,  shared 
+practices,  founded  in  an  interdisciplinary  dialogue  involving  science,  ethics, 
+politics, and society. 
+
+We  expand  on  the  importance  of  public  trust,  of  transparent,  dialogical,  good 
+communication, and of data in the next section.  
+
+European Group on Ethics in Science and New Technologies 23 
+
+ 
+ 
+ 
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+7. Data, communication, and public trust 
+
+The  accessibility  of  data  to  build  evidence  for  crisis  management  interventions 
+is  of  great  importance  in  any  crisis.  In  a  pandemic,  for  example,  it  may  be 
+necessary  to  minimise  the  individual  and  social  impact  of  crisis  management 
+measures,  such  as  through  a  better  understanding  of  the  risk  factors  and  the 
+severity of illness (World Health Organization, 2020). To achieve this, it is often 
+necessary to process people’s data that are subject to data protection rules. In 
+addition, responsible data sharing between different sectors, such as healthcare 
+and  research,  and  between  different  actors,  such  as  the  public  and  private 
+sectors, can be crucial to provide the necessary insights for policymaking (Peek, 
+2020).  Different  sectors  may  have  to  comply  with  different  data  processing 
+rules, which hinders the free flow of data between them. Furthermore, to obtain 
+datasets that are large and detailed enough to provide the necessary evidence, 
+data  from  different  jurisdictions  may  need  to  be  merged,  which,  in  turn,  too 
+often  leads  to  a  confrontation  with  different  conditions  for  data  access  and 
+sharing (RDA, 2020). For example, the GloPID-R Roadmap for Data Sharing in 
+Public  Health  Emergencies  highlights  the  need  to  comply  with  national  and 
+international  regulations,  to  use  preapproved  approaches  and  to  use 
+anonymisation  (GloPID-R,  2019).  Anonymisation  of  data  is  not  always  a 
+solution,  as  it  can  lead  to  a  decrease  in  the  richness  of  data  that  can  diminish 
+its  value  and  affect  the  quality  of  evidence,  and  thus  the  conclusions  that  can 
+be meaningfully drawn. It is necessary to develop new technical and normative 
+infrastructures  for  data  sharing  for  the  purpose  of  crisis  management  and 
+containment  that  also  allow  the  sharing  of  sensitive  information  where 
+necessary  and  have  adequate  safeguards  in  place  to  avoid  harm  to  individuals 
+and  groups.  If  anyone  is  harmed  nevertheless,  they  need  to  have  easy  access 
+to effective remedies. 
+
+Next  to  having  good  data  and  evidence,  having  suitable  communication 
+strategies  and  channels  in  place  is  key  to  crisis  prevention,  preparedness, 
+response, and resilience (Wernli et al., 2021). When people are confronted with 
+contradicting messages, then confusion, panic, and anger may result, and trust 
+in  public  authorities  and  people’s  willingness  to  adhere  to  measures  will 
+typically  decrease (see also GCSA et  al., 2020b). In the context of the  current 
+COVID-19  pandemic,  this  phenomenon  has  been  referred  to  as  an  ‘infodemic’, 
+and  its  potential  negative  impact  on  public  health  can  be  significant  (World 
+Health Organization, n.d.). At the same time, it  is important to note that good 
+communication  is  not  a  replacement  for  good  crisis  management  and  good 
+policy  measures.  Whether  or  not  people  ‘comply’  with  measures  to  prevent, 
+contain, and mitigate crises depends not only on their willingness to do so, but 
+also on whether they have the financial, social, and psychological means to do 
+so (see SAPEA, 2019; Fiske et al., 2022; Spahl et al. 2022). When measures for 
+crisis  management  are 
+fair,  consistent  and  effective,  however,  good 
+communication  can  help  to  convey  the  importance  of  supporting  and  adhering 
+to these measures. 
+
+Risk  and  crisis  communication  in  democratic  societies  seems  to  be  facing  an 
+ethical  dilemma:  if  communication  is  to  happen  effectively  and  fast,  top-down 
+approaches appear to be the method of choice – telling people what they need 
+
+European Group on Ethics in Science and New Technologies 24 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+to  do,  best  done  in  three-word  sentences  that  are  easy  to  understand  and  to 
+remember.  Although  this  communicative  strategy  can  be  considered  an 
+imposition  for  some  citizens,  it  works  if  there  is  societal  consensus  about  the 
+urgency  and  the  content  of  the  messages,  along  with  public  trust  in  the 
+institutions sending them. However, in crises, particularly in protracted or even 
+chronic  ones,  matters  often  become  more  complex.  Assessments  of  the 
+situation  and  of  the  appropriateness  of  chosen  measures  can  be  expected  to 
+differ,  and  societies  concerned  about  democratic  values  and  about  civil  and 
+human  rights  will  respect  freedom  of  expression,  and  in  fact  encourage  public 
+discourse. Feedback from citizens – including those who belong to less-vocal or 
+harder-to-reach  groups –  will  be  decisive  for  performing  the  difficult  task  of 
+iteratively  adjusting  crisis  management  strategies  and  measures  in  a  volatile 
+situation and in the light of continuously emerging new information. 
+
+information 
+
+Individuals or groups that feel that their voice is not heard may be tempted to 
+withdraw  into  closed  circles,  where  content  is  not  challenged  but  continuously 
+repeated and confirmed by like-minded conversation partners. In social media, 
+automated  filters  are  known  to  enhance  this  effect,  leading  to  ‘filter  bubbles’ 
+and  ‘echo  chambers’.  Mistrust  of  authorities  and  societal  polarisation  may 
+result,  as  has  been  seen  in  the  context  of  COVID-19  vaccination  policies  (e.g. 
+Germani  and  Biller-Andorno,  2021).  Another  danger  comes  from  ‘fake  news’, 
+by 
+including 
+algorithms  or  by 
+is 
+misleading  and  deceitful,  yet  can  appear  as 
+completely  reliable  and  truthful  information. 
+In  some  contexts,  it  is  very  difficult  to 
+distinguish 
+from 
+algorithm-generated 
+Moreover, 
+human  beings  are  often  more  likely  to  trust 
+information  that  confirms  their  beliefs  and 
+opinions.  
+
+Feedback  from  citizens  –  including  those 
+who  belong  to  less-vocal  or  harder-to-
+for 
+reach  groups  –  will  be  decisive 
+performing  the  difficult  task  of  iteratively 
+adjusting  crisis  management  strategies 
+and measures in a volatile situation and in 
+the  light  of  continuously  emerging  new 
+information. 
+
+information 
+fakes. 
+
+individuals 
+
+generated 
+
+truthful 
+
+that 
+
+Such developments can  undermine public risk and crisis communication efforts 
+and limit their effectiveness. There is a range of possible ways to address this. 
+One  is  to  respond  in  a  top-down  manner,  employing  methods  such  as  the 
+removal  or  sanctioning  of  problematic  content,  or  the  ‘deplatforming’  of 
+individuals  or  organisations  known  to  share  misleading  information.  Another 
+strategy  is  to  use  social  engineering  techniques,  possibly  including  artificial-
+intelligence-based  predictions,  to  nudge  or  manipulate  people  into  compliance, 
+adopting  similar  means  to  those  who  are  spreading  misinformation  on  social 
+media  and  elsewhere.  Finally,  more  participatory  approaches  would  rely  on 
+engaging  citizens,  offering  platforms  that  provide  targeted,  group-specific, 
+needs-based  information,  while  at  the  same  time  providing  opportunities  for 
+citizens  to  give  feedback  to  decision-makers  and  empowering  especially  those 
+who find it difficult to make themselves heard to participate in public discourse 
+(Spitale  et  al.,  2021).  Reaching  out  to  all  groups  in  society  is  of  prime 
+importance,  not  only  to  understand  how  information  needs  to  be  delivered  to 
+reliably reach all groups, but also to grasp how measures affect them and what 
+is needed to ensure everyone is well supported. From an ethical point of view, 
+those approaches to information and communication, which seek to manipulate 
+
+European Group on Ethics in Science and New Technologies 25 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+people  into  compliance,  are  clearly  problematic.  Whereas  different  situations 
+may  require  a  different  mix  of  strategies,  risk  and  crisis  communication  needs 
+to be shaped in such a way that it strengthens rather than undermines not only 
+people’s physical health but also social cohesion and democratic values. 
+
+Given the key role of communication in crisis management and its potential for 
+harm  in  case  of  failure,  a  systematic  evaluation  and  review  of  communication 
+strategies  would  seem  appropriate.  Principles  such  as  openness,  transparency, 
+inclusivity,  intelligibility,  and  privacy  can  be  expected  to  be  at  the  centre  of 
+such appraisals (Spitale  et al., 2022). A solid normative framework can  inform 
+risk  and  crisis  communication  strategies  that  are  both  effective  and  fair, 
+fostering trust, critical thinking, and constructive engagement.  
+
+Crisis  management  that  values  solidarity  needs  to  ensure  sufficient  data  are 
+available on how a crisis and its management affects different populations, and 
+it  needs  to  provide  an  opportunity  for  individuals  and  social  groups  to 
+participate in the constant re-evaluation and readjustment of crisis response by 
+sharing  experiences  and  arguments.  Good  crisis  communication  can  therefore 
+be  considered  a  key  procedural  requisite  of  realising  solidarity  in  crisis 
+management. 
+
+scientific 
+
+Crisis  communication  involves  different  actors,  among  them  policymakers, 
+scientists,  and  the  public.  Data  and  evidence  play  a  key  role  in  developing, 
+assessing,  explaining,  and  justifying  measures  in  response  to  a  crisis.  The 
+science  of  science  communication  has  taught  us  several  important  things 
+(SAPEA,  2019;  see  also  GCSA  et  al.,  2020b;  GCSA,  2019).  First,  for  example, 
+we know that there is no ready-made strategy for conveying information about 
+science,  risks,  and  uncertainty.  Each  communication  strategy  must  be  tailored 
+to the purpose it serves (Fischhoff and Davis, 2014). These purposes need to be 
+aligned with ethical and legal norms and, in the case of state action, subject to 
+political  legitimation.  Second,  communication  needs  to  target  groups  based  on 
+their specific informational needs and background knowledge. A one-size-fits-all 
+approach  is  of  limited  value.  Third,  science  communication  will  be  greatly 
+facilitated  by  science  literacy.  If  a  society  is  prepared  to  process  and  engage 
+with 
+conveyed,  and 
+misunderstandings  avoided.  Part  of  such  educational  efforts  needs  to  be  an 
+understanding  of  how  science  works.  We  cannot  ‘follow  the  science’  if  there  is 
+no science to follow, or if the science that we have points in many directions or 
+is  unclear.  Fourth,  empirical  studies  have  also  taught  us  what  kind  of 
+information people want and need during a crisis such as a pandemic. Research 
+shows that people want facts, even if they make them anxious (Fischhoff et al., 
+2018).  People  also  want  science  to  be  presented  accurately.  People  expect 
+‘facts, not spin’ from trustworthy information sources (Pittsburgh Post-Gazette, 
+2020).  Fifth,  it  is  not  enough  to  tell  citizens  what  to  do.  Good  information 
+should be provided on why certain kinds of action are necessary. People need to 
+have  the  opportunity  to  voice  their  dissent  in  an  appropriate  manner  and  to 
+engage  in  a  discourse  on  how  crisis  response  could  be  improved.  Finally, 
+communication  strategies  can  be  dangerous  tools.  Our  communication 
+approaches  must  be  tested  and  evaluated,  and  risks  must  be  assessed  and 
+mitigated. We have a moral obligation to ensure that the chosen strategy is fit 
+
+information,  more 
+
+can  be 
+
+content 
+
+European Group on Ethics in Science and New Technologies 26 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+for  the  (democratically  legitimated  and  ethically  justified)  purpose  we  want  to 
+achieve.  These  insights  should  be  heeded  in  the  design  and  deployment  of 
+communication strategies. 
+
+European Group on Ethics in Science and New Technologies 27 
+
+ 
+ 
+ 
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+RECOMMENDATIONS 
+
+All public policies are shaped by moral values. Even when these values remain 
+implicit,  they  can  frame  how  problems –  such  as  managing  a  crisis –  are 
+described  and  which  policies  are  designed  to  address  them.  Making  the  values 
+that underlie  public policy explicit  is  important for several reasons: to  increase 
+transparency,  to  improve  deliberation  and  communication,  and  to  build  trust 
+between  parties.  It  also  helps  to  enhance  citizens’  engagement  and  public 
+support for policies. 
+
+The  EGE  emphasises  the  important  role  that  the  value  of  solidarity  can  and 
+should play in the context of strategic crisis management and puts forward the 
+following recommendations. 
+
+1.  Solidarity is a key European value that should be a guiding principle 
+for  strategic  crisis  management.  Insofar  as  it  is  grounded  in  an 
+understanding  of  humans  as  relational  beings,  whose  interests  are  shaped 
+by  their  relationships  to  others,  the  value  of  solidarity  overcomes  false 
+dichotomies  between  the  individual  and  the  collective,  and  between  the 
+individual and public interest, which often seem to be in conflict, especially 
+in  times  of  crisis.  Above  all,  it  shows  and  enhances  our  shared  human 
+identity  and the bond that unites humanity  across borders and boundaries. 
+In  light  of  the  transnational,  and  often  global,  nature  of  crises,  the  saying 
+that  ‘nobody  is  safe  until  everyone  is  safe’  is  empirically  accurate,  in  the 
+sense that problems and risks related to complex crises such as pandemics, 
+climate  change,  and  violent  conflict  cannot  be  addressed  only  at  the 
+national  level.  Solidarity  means  that  those  in  more  advantaged  positions 
+should  be  willing  to  accept  some  costs –  in  economic  terms,  or  in  terms  of 
+giving  up  some  privilege,  status  of  power,  or  comfort –  to  alleviate  the 
+suffering of others if needed, within and across countries. 
+
+(a) Solidaristic  institutions  at  the  national,  supranational,  and 
+international 
+levels  should  be  strengthened.  Solidaristic 
+systems are those to which people contribute their abilities and from 
+which  they  receive  support  as  they  need  it.  Taking  solidarity 
+seriously  as  a  guiding  principle  for  crisis  management  means 
+directing  financial  and  other  resources  to  solidaristic  systems  of 
+social  and  economic  support.  This  is  important  for  several  reasons. 
+First, in societies with strong public infrastructures, people are better 
+insulated  from  some  of  the  worst  burdens  of  crises.  Second,  while 
+interpersonal  acts  of  solidarity  can  be  expected  at  the  onset  of 
+crises,  these  tend  not  to  persist  in  the  long  run  and  should  not  be 
+relied  on  as  a  crisis  management  strategy.  Robust  institutional 
+support, including policies that help people who lose their homes or 
+livelihoods  in  times  of  crisis  or  that  facilitate  access  to  childcare  for 
+
+European Group on Ethics in Science and New Technologies 28 
+
+ 
+ 
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+frontline  workers,  also  bolster  people’s  ability  and  willingness  to 
+enact  solidarity  with  others.  Importantly,  this  may  also  increase 
+trust in governments. 
+
+(b) Policymakers at the national, supranational, and international 
+levels  should  actively  strengthen  all  aspects  of  solidarity, 
+including  horizontally  through  communication  and  coordination 
+measures  among  themselves  that  lead  to  the  implementation  of 
+coherent and consistent crisis management strategies, and vertically 
+through 
+implementation  and  strengthening  of  people’s 
+procedural  rights  (such  as  the  rights  to  access  information  and 
+public  participation).  The  latter  requires  that  policymakers  and 
+stakeholders  share  information  with  civil  society  and  provide 
+opportunities for feedback. This contributes to strengthening human 
+and fundamental rights and to strengthening public trust. 
+
+the 
+
+(c) Designing and deploying actions that express solidarity needs 
+to rest on a solid understanding of how individuals and social 
+groups  are  affected  by  crises.  Harnessing  participatory 
+approaches  that  empower  citizens,  and  particularly  underprivileged 
+groups, to articulate their experiences, concerns, and priorities helps 
+provide the necessary information for this purpose. Public authorities 
+and  political  decision-makers  should  establish  suitable  opportunities 
+for individuals from as many social groups as possible to share their 
+experiences and perceptions. 
+
+2.  Human dignity and solidarity should also guide the macro and micro 
+allocation  of  scarce  resources.  Policymakers  at  all  levels  should  ensure 
+that  guidance  for  the  prioritisation  of  access  to  healthcare  and  other 
+resources  respects  the  equal  worth  of  all  human  beings.  Attempts  to 
+maximise resource efficiency should take care to avoid undue discrimination 
+and  ensure  that  the  needs  of  disadvantaged  people  receive  special 
+consideration. 
+
+3.  Governments  have  a  duty  to  combat  poverty  and  inequities,  to 
+ensure  that  everyone  receives  the  economic,  social,  health-related, 
+and  psychological  support  that  they  need.  Numerous  studies  have 
+shown that societies with lower levels of social and economic inequality are 
+better prepared to respond to crises. When  people are economically safe  it 
+is also easier for them to support others. 
+
+European Group on Ethics in Science and New Technologies 29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+4.  Policymakers  and  the  media  should  apply  resilience  thinking  at  the 
+systemic,  societal  level  but  not  at  the  level  of  individuals.  When 
+applied to individuals, the frame of resilience lends itself to victim blaming: 
+Those who struggle in a  crisis are seen  as not resilient enough. This draws 
+attention  away  from  structural  and  collective  solutions  that  are  the 
+preconditions for the ability of individual people to get through a crisis. More 
+broadly, structural problems cannot be addressed solely by trying to change 
+individual  behaviour,  but  they  require  structural  solutions.  Changing 
+individual  behaviour  can  only  ever  be  one  element  in  a  larger  set  of 
+measures. 
+
+5.  Policymakers  and  funders  at  all  levels  should  strengthen  the 
+technical  and  normative  infrastructure  for  data  sharing  for  the 
+purpose  of  crisis  management  and  containment,  including  sensitive 
+data subject to legal protection, with adequate protections in place. 
+
+depends 
+
+6.  Strategic  crisis  management  can  require  difficult  measures.  Their 
+effectiveness 
+dialogical 
+significantly 
+communication.  During  a  crisis,  when  there  are  many  uncertainties  and 
+considerable  knowledge  gaps,  communicating  policies  and  their  underlying 
+scientific  evidence  is  particularly  difficult.  In  addition  to  clear  and 
+transparent  communication,  honesty  is  critical  to  building  trust.  Also  with 
+regard  to  Recommendation 7,  a  European  code  of  science  communication, 
+along  with  making  science  communication  an  integral  part  of  research 
+programmes, would contribute to this goal. 
+
+good, 
+
+on 
+
+7.  When 
+
+take 
+
+agencies 
+
+government 
+
+issue 
+recommendations,  the  values  upon  which  these  decisions  and 
+recommendations  are  based  must  be  made  clear.  Public  decision-
+making always involves a combination of evidence and values. Values need 
+to  be  made  explicit  to  be  open  to  public  scrutiny  and  appeal.  Value 
+transparency  is  a  prerequisite  for  an  ethically  justified  crisis  management 
+framework, based on solidarity, equality, trustworthiness, and participation. 
+
+decisions 
+
+or 
+
+European Group on Ethics in Science and New Technologies 30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+References 
+
+Abedi, V., Olulana, O., Avula, V., Chaudhary, D., Khan, A., Shahjouei, S., Li, J. and Zand, R. 
+(2021), ‘Racial, economic, and health inequality and COVID-19 infection in the United States’, 
+Journal of Racial and Ethnic Health Disparities, Vol. 8, No 3, pp. 732–742. 
+
+Agrawal,  S.,  Cojocaru,  A.,  Montalva,  V.,  Narayan,  A.,  Bundervoet,  T.  and  Ten,  A.  (2021), 
+‘COVID-19 and inequality: How unequal was the recovery from the initial shock?’, World Bank, 
+Washington DC, https://openknowledge.worldbank.org/handle/10986/35867. 
+
+American  Psychological  Association  (2022),  ‘Resilience’,  https://www.apa.org/topics/resilience 
+(accessed 5 September 2022). 
+
+Arguedas,  A. R.,  Robertson,  C. T.,  Fletcher,  R.  and  Nielsen,  R. K.  (2022),  ‘Echo  Chambers, 
+Filter  Bubbles,  and  Polarisation:  A  literature  review’,  Reuters  Institute  for  the  Study  of 
+Journalism, 
+https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2022-
+01/Echo_Chambers_Filter_Bubbles_and_Polarisation_A_Literature_Review.pdf. 
+
+Oxford, 
+
+Bambra, C., Lynch, J. and Smith, K. E. (2021), ‘The Unequal Pandemic: COVID-19 and health 
+inequalities’, Policy Press, Bristol. 
+
+Beyer,  G. J.  (2010),  ‘Recovering  Solidarity –  Lessons  from  Poland’s  unfinished  revolution’, 
+University of Notre Dame Press, Notre Dame. 
+
+BIOMED  II  Project  (1998),  ‘The  Barcelona  Declaration  on  Policy  Proposals  to  the  European 
+Commission 
+Biolaw’, 
+http://hrlibrary.umn.edu/instree/barcelona.html. 
+
+Principles 
+
+Bioethics 
+
+Ethical 
+
+Basic 
+
+and 
+
+on 
+
+in 
+
+Boin,  A.  (2019),  ‘The  transboundary  crisis:  Why  we  are  unprepared  and  the  road  ahead’, 
+Journal of Contingencies and Crisis Management, Vol. 27, No 1, pp. 94-99. 
+
+Boin,  A.,  McConnell,  A.  and  ’t  Hart,  P.  (2021),  ‘Governing  the  Pandemic –  The  politics  of 
+navigating a mega-crisis’, Springer Nature. 
+
+Brunkhorst,  H.  (2005),  ‘Solidarity:  from  civic  friendship  to  a  global  legal  community’,  MIT 
+Press, Cambridge. 
+
+Calliess, C. (2022a), in: Calliess, C. and Ruffert, M. (eds),  EUV/AEUV – Das Verfassungsrecht 
+der  Europäischen  Union  mit  Europäischer  Grundrechtecharta  (“TEU/TEUF  –  The  Constitutional 
+Law of the European Union including the EU Charter of Fundamental Rights”), Kommentar. 6. 
+Aufl., C.H. Beck, Munich, Art. 222 TFEU, Recital 2. 
+
+Calliess, C. (2022b), in: Calliess, C. and Ruffert, M. (eds), EUV/AEUV – Das Verfassungsrecht 
+der Europäischen Union mit Europäischer Grundrechtecharta, Kommentar, 6. Aufl., C.H. Beck, 
+Munich, Art. 194 TFEU, Recital 5, 6. 
+
+Campanelli, D. (2011), ‘Principle of solidarity’, in: Wolfrum, R. (Ed.), Max Planck Encyclopedia 
+Press,  
+of 
+https://opil.ouplaw.com/view/https://doi.org/10.1093/law:epil/9780199231690/law-
+9780199231690-e2072?rskey=mUxydQ&result=1&prd=MPIL. 
+
+International 
+
+University 
+
+Oxford 
+
+Public 
+
+Law, 
+
+Daniels, N. (2000), ‘Accountability for reasonableness’, The BMJ, Vol. 321, No 7272, pp. 1300–
+1301. 
+
+Dawson,  A.  and  Jennings,  B.  (2012),  ‘The  place  of  solidarity  in  public  health  ethics’,  Public 
+Health Reviews, 34(1), pp.1-15. 
+
+European Group on Ethics in Science and New Technologies 31 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+Delaporte,  I.,  Escobar,  J.  and  Peña,  W.  (2021),  ‘The  distributional  consequences  of  social 
+distancing  on  poverty  and  labour  income  inequality  in  Latin  America  and  the  Caribbean’, 
+Journal of Population Economics, Vol. 34, No 4, pp. 1385–1443. 
+
+European  Group  on  Ethics  in  Science  and  New  Technologies  (EGE)  (2021),  ‘Values  for  the 
+Future:  The  role  of  ethics  in  European  and  global  governance’,  Publications  Office  of  the 
+European Union, Luxembourg, https://data.europa.eu/doi/10.2777/595827. 
+
+EGE (2020), ‘Statement on European solidarity and the protection of fundamental rights in the 
+COVID-19 
+pandemic’,  
+https://ec.europa.eu/info/sites/default/files/research_and_innovation/ege/ec_rtd_ege-
+statement-covid-19.pdf.   
+
+Dorling, D. (2019), ‘Inequality and the 1%’, Verso, London. 
+
+Durkheim, E. (1984), ‘The division of Labour in Society’, Macmillan, New York. 
+
+Ewuoso, C., Obengo, T. and Atuire, C. (2022), ‘Solidarity, Afro-communitarianism, and COVID-
+19 vaccination’, Journal of Global Health, 12. 
+
+Federico, V. (2018), ‘Conclusion: Solidarity as a Public Virtue?’, in: Federico, V. & Lahusen, C. 
+(Eds.), Solidarity as a Public Virtue? Law and Public Policies in the European Union, Nomos, pp. 
+495-541. 
+
+Fischhoff,  B.  and  Davis,  A. L.  (2014),  ‘Communicating  scientific  uncertainty’,  Proceedings  of 
+the 
+pp. 13664–13671. 
+https://www.pnas.org/doi/10.1073/pnas.1317504111. 
+
+Sciences, 
+
+Academy 
+
+Suppl. 4, 
+
+Vol. 111, 
+
+National 
+
+of 
+
+Fischhoff,  B.,  Wong-Parodi,  G.,  Garfin,  D. R.,  Holman,  E. A.  and  Silver,  R. C.  (2018),  ‘Public 
+understanding  of  Ebola  risks:  Mastering  an  unfamiliar  threat’,  Risk  Analysis,  Vol. 38,  No 1, 
+pp. 71–83. 
+
+Fiske,  A.,  Galasso,  I.,  Eichinger,  J.,  McLennan,  S.,  Radhuber,  I.,  Zimmermann,  B.  and 
+Prainsack,  B.  (2022),  ‘The  second  pandemic:  Examining  structural  inequality  through 
+reverberations  of  COVID-19  in  Europe’,  Social  Science  &  Medicine,  Vol. 292,  Elsevier, 
+https://doi.org/10.1016/j.socscimed.2021.114634. 
+
+Group  of  Chief  Scientific  Advisors  of  the  European  Commission  (GCSA)  (2019),  ‘Scientific 
+advice  to  European  policy  in  a  complex  world’,  Scientific  Opinion  No 7,  Publications  Office  of 
+the European Union, Luxembourg, https://data.europa.eu/doi/10.2777/80320. 
+
+GCSA,  EGE  and  Piot,  P.  (2020a),  ‘Improving  Pandemic  Preparedness  and  Management – 
+Lessons  learned  and  ways  forward’,  Publications  Office  of  the  European  Union,  Luxembourg, 
+https://data.europa.eu/doi/10.2777/370440. 
+
+GCSA,  EGE  and  Piot,  P.  (2020b),  ‘Statement  on  scientific  advice  to  European  policymakers 
+during  the  COVID-19  pandemic’,  Publications  Office  of  the  European  Union,  Luxembourg, 
+https://data.europa.eu/doi/10.2777/854269. 
+
+GCSA  (2022),  ‘Strategic  Crisis  Management  in  the  EU’,  Scientific  Opinion  No  13,  Publications 
+Office of the European Union, Luxembourg. 
+
+Germani, F. and Biller-Andorno, N. (2021), ‘The anti-vaccination infodemic on social media: A 
+behavioral analysis’, PLOS ONE, Vol. 16, No 3, https://doi:10.1371/journal.pone.0247642. 
+
+European Group on Ethics in Science and New Technologies 32 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+Global Research Collaboration for Infectious Disease Preparedness (GloPID-R) (2019), ‘GloPID-
+R  roadmap  for  data  sharing  in  public  health  emergencies’,  https://www.glopid-r.org/wp-
+content/uploads/2019/06/glopid-r-roadmap-for-data-sharing.pdf. 
+
+Habermas,  J.  (1990),  ‘Discourse  ethics:  Notes  on  philosophical  justification’,  in:  Moral 
+Consciousness  and  Communicative  Action,  trans.  Lenhardt,  C.  and  Weber  Nicholson,  S.,  MIT 
+Press, Cambridge, Massachusetts. 
+
+Hassoun,  N.  (2021),  ‘Against  vaccine  nationalism’,  Journal  of  Medical  Ethics,  Vol. 47,  No 11, 
+pp. 773–774. 
+
+Jonas,  H.  (1979),  ‘The  Imperative  of  Responsibility –  In  search  of  an  ethics  for  the 
+technological age’, University of Chicago Press, Chicago. 
+
+Hussain,  W.  (2018),  ‘The  common  good’,  The  Stanford  Encyclopedia  of  Philosophy  (spring 
+2018 
+(ed.), 
+https://plato.stanford.edu/archives/spr2018/entries/common-good  (accessed  20  September 
+2022). 
+
+edition), 
+
+Zalta, 
+
+E. N. 
+
+Joebges,  S.  and  Biller-Andorno,  N.  (2020),  ‘Ethics  guidelines  on  COVID-19  triage –  An 
+emerging 
+No 201, 
+https://doi.org/10.1186/s13054-020-02927-1. 
+
+international 
+
+consensus’, 
+
+Vol. 24, 
+
+Critical 
+
+Care, 
+
+Joebges,  S.,  Vinay,  R.,  Luyckx,  V.  and  Biller-Andorno,  N.  (2020b),  ‘Recommendations  on 
+COVID-19  triage –  International  comparison  and  ethical  analysis’,  Bioethics,  Vol. 34,  No 9, 
+pp. 948–959, https://doi.org/10.1111/bioe.12805. 
+
+Joseph,  J.  (2013),  ‘Resilience  as  embedded  neoliberalism:  A  governmentality  approach’, 
+Resilience, Vol. 1, No 1, pp. 38–52, https://doi.org/10.1080/21693293.2013.765741. 
+
+Koroma,  A.G.  (2012),  ‘Solidarity:  Evidence  of  an  emerging  international  legal  principle’,  in: 
+Hestermeyer,  H.P.  et  al.  (eds),  Coexistence,  Cooperation  and  Solidarity, Vol. 1, Nijhoff 2012, 
+pp. 103-131, p. 103. 
+
+Lahusen,  C.  and  Federico,  V.  (2018),  ‘Introduction’,  in:  Federico,  V.  and  Lahusen,  C.  (Eds.). 
+Solidarity as a Public Virtue? Law and Public Policies in the European Union, Nomos, pp. 11-32. 
+
+Levinas, E. (1974), ‘Humanisme de l’autre homme’, LGF – Livre de Poche. 
+
+Levinas, E. (1974), ‘Autrement qu’être ou au-delá de l’essence’, Livre de Poche. 
+
+Lenaerts, K. and Gerard, D. (2004), ‘The structure of the Union according to the Constitution 
+of Europe: The emperor is getting dressed’, European Law Review, Vol. 29, No 3, pp. 289–322. 
+
+Mackenzie,  C.  and  Stoljar,  N.  (eds)  (2000),  ‘Relational  Autonomy:  Feminist  perspectives  on 
+autonomy, agency, and the social self’, Oxford University Press. 
+
+Mallia, P. (2015), ‘Towards an ethical theory in disaster situations’, Medicine, Health Care and 
+Philosophy, Vol. 18, pp. 3–11. 
+
+Marks, S. P. (1981), ‘Emerging human rights: A new generation for the 1990s?’, Rutgers Law 
+Review, Vol. 33. 
+
+Marmot,  M.,  Allen,  J.,  Goldblatt,  P.,  Herd,  E.  and  Morrison,  J.  (2021), ‘Build  Back  Fairer:  The 
+COVID-19 Marmot Review – The pandemic, socioeconomic and health inequalities in England’, 
+Institute of Health Equity, London. 
+
+European Group on Ethics in Science and New Technologies 33 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+Mendoza, R. U. (2011), ‘Crises and inequality: Lessons from the global food, fuel, financial and 
+economic crises of 2008–10’, Global Policy, Vol. 2, No 3, pp. 259–271. 
+
+Minnerop,  P.,  Roht-Arriaza,  N.  and  Aminzadeh,  S. C.  (2018),  ‘Solidarity  rights  (development, 
+peace,  environment,  humanitarian  assistance)’,  in:  Max  Planck  Encyclopedia  of  Public 
+International Law, Oxford University Press, pp. 825–836. 
+
+Molm,  L.,  Collett,  J.  L.  and  Schaefer,  D.  R.  (2007),  ‘Building  Solidarity  through  Generalized 
+Exchange: A Theory of Reciprocity’, American Journal of Sociology, 113(1), p. 205-242. 
+
+Moonen,  G.  (2021),  ‘Solidarity  in  the  face  of  a  clear  and  present  danger’,  in:  Disasters  and 
+Crisis Management – Journal No 3, European Court of Auditors, pp. 5–6. 
+
+Napoli, E. di and Russo, D. (2015), ‘Solidarity in the European Union in times of crisis: Towards 
+“European solidarity”?’, in: Federico, V. and Lahusen, C. (eds), Solidarity as a Public Virtue? – 
+Law and public policies in the European Union, Nomos, pp. 195–248. 
+
+Patrão  Neves,  M.  (2020),  ‘Ethical  health  resources  allocation:  Why  the  distinction  between 
+“rationing”  and  “rationalization”  matters’,  Revista  de  Bioética  y  Derecho,  pp.  63-79, 
+https://doi.org/10.1344/rbd2020.50.32044. 
+
+Peek, N., Sujan, M. and Scott, P. (2020), ‘Digital health and care in pandemic times: Impact of 
+COVID-19’, BMJ Health & Care Informatics, Vol. 27, No 1. 
+
+Pittsburgh  Post-Gazette  (2020),  ‘CMU  expert:  In  times  of  crisis,  people  want  facts,  not  spin’, 
+https://www.post-gazette.com/news/health/2020/03/08/CMU-expert-In-times-of-crisis-
+people-don-t-want-spin-they-want-facts/stories/202003080075 (accessed 7 July 2022). 
+
+Prainsack, B. and Buyx, A. (2011), ‘Solidarity: reflections on an emerging concept in bioethics’, 
+Nuffield Council on Bioethics, London, p. 63. 
+
+Prainsack,  B.  and  Buyx,  A.  (2017),  ‘Solidarity  in  biomedicine  and  beyond’,  Cambridge 
+University Press, Vol. 33. 
+
+Prainsack,  B.  (2022),  ‘Beyond  vaccination  mandates:  Solidarity  and  freedom  during  COVID-
+19’, American Journal of Public Health, Vol. 112, No 2, pp. 232–233. 
+
+RDA  COVID-19  Working  Group  (2020),  ‘Recommendations  and  guidelines  on  data  sharing’, 
+Research Data Alliance, https://doi.org/10.15497/rda00052.  
+
+Rittel,  H. W. J.  and  Webber,  M. M.  (1973),  ‘Dilemmas  in  a  general  theory  of  planning’,  Policy 
+Sciences, Vol. 4, No 2, pp. 155–169. 
+
+Rousseau,  J.-J.  (1949),  ‘The  social  contract’,  in:  Arnhart,  L.,  Political  Questions –  Political 
+philosophy from Plato to Pinker, Northern Illinois University, Chicago. 
+
+Sahlin, N.-E. and Schwaag Serger, S. (2022), ‘Decision-making in a time of spin and unspoken 
+values’,  in:  Benner,  M.,  Marklund,  G.  and  Schwaag  Serger,  S.  (eds),  Smart  Policies  for 
+Societies  in  Transition:  The  innovation  challenge  of  inclusion,  resilience  and  sustainability, 
+Edward Elgar, Cheltham, pp. 228–244. 
+
+Sanders D. (1991), ‘Collective rights’, Human Rights Quarterly, Vol. 13, No 3, pp. 368–386. 
+
+Schmidt,  H.,  Roberts,  D. E.  and  Eneanya,  N. D.  (2022),  ‘Rationing,  racism  and  justice: 
+Advancing the debate around “colourblind” COVID-19 ventilator allocation’, Journal of Medical 
+Ethics, Vol. 48, No 2, pp. 126–130, https://doi.org/10.1136/medethics-2020-106856. 
+
+European Group on Ethics in Science and New Technologies 34 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+Scholz,  S. J.  (2014),  ‘Solidarity  as  a  human  right’,  Archiv  des  Völkerrechts,  Vol. 52,  No 1, 
+pp. 49-67. 
+
+Schröder, M. (2014), ‘Precautionary Approach/Principle’, in: Max Planck Encyclopedia of Public 
+International Law, Oxford University Press. 
+
+Schwarz,  S.  (2018),  ‘Resilience  in  psychology:  A  critical  analysis  of  the  concept’,  Theory  & 
+Psychology, Vol. 28, No 4, pp. 528–541. 
+
+Science Advice for Policy by European Academies (SAPEA) (2019), ‘Making sense of science for 
+policy  under  conditions  of  complexity  and  uncertainty’,  Evidence  Review  Report  No 6, 
+https://doi.org/10.26356/MASOS. 
+
+SAPEA  (2022),  ‘Strategic  crisis  management  in  the  European  Union’,  Evidence Review Report 
+No 11. 
+
+Scientific  American  (anon.)  (2022),  ‘Get  ready  for  the  next  one –  Contagions  worse  than 
+COVID  will  prevail  if  neglect  of  global  public  health  continues’,  Scientific  American,  special 
+issue, p. 8. 
+
+Silverstein,  S.  (2021),  ‘What  do  we  learn  from  past  pandemics?’,  invited  lecture  at  the 
+Pandemic 
+https://www.meduniwien.ac.at/web/en/ueber-
+uns/events/2021/pandemic-forum-2021/ (accessed 15 June 2022). 
+
+Forum 
+
+2021, 
+
+Slaughter,  A. M.  (2005),  ‘Security,  solidarity  and  sovereignty:  The  grand  themes  of  UN 
+reform’, American Journal of International Law, Vol. 99, No 3, pp. 619–631. 
+
+Spahl, W., Pot, M. and Paul, K. T. (2022), ‘Understanding compliance as multi-faceted: Values 
+and  practices  during  the  COVID-19  pandemic  in  Austria’,  Critical  Public  Health  (online), 
+https://doi.org/10.1080/09581596.2022.2039379. 
+
+Spitale,  G.,  Merten,  S.,  Jafflin,  K.,  Schwind,  B.,  Kaiser-Grolimund,  A.  and  Biller-Andorno,  N. 
+(2021),  ‘A  novel  risk  and  crisis  communication  platform  to  bridge  the  gap  between  policy 
+makers  and  the  public  in  the  context  of  the  COVID-19  crisis  (PubliCo):  Protocol  for  a  mixed 
+methods study’, JMIR Research Protocols, Vol. 10, No 11, https://doi.org/10.2196/33653. 
+
+Spitale,  G.,  Germani,  F.  and  Biller-Andorno,  N.  (2022),  ‘An  ethical  framework  for  planning, 
+governing,  and  evaluating  risk  and  crisis  communication  in  the  context  of  public  health 
+emergencies’, manuscript under review. 
+
+Sternø, S. (2005), ‘Solidarity in Europe. The History of an Idea’, Cambridge University Press. 
+
+Terhechte,  J.P.  (2017),  in:  Pechstein,  M.,  Nowak,  C.  and  Häde,  U.  (eds),  Frankfurter 
+Kommentar EUV/GRC/AEUV, Art. 2 EUV, Recital 28, 29, Mohr Siebeck, Tübingen. 
+
+Tranow,  U.  (2012),  ‘Das  Konzept  der  Solidarität:  Handlungstheoretische  Fundierung  eines 
+soziologischen Schlüsselbegriffs’, Springer VS. 
+
+UNESCO, 
+Universal 
+http://portal.unesco.org/en/ev.php-
+URL_ID=31058&URL_DO=DO_TOPIC&URL_SECTION=201.html. 
+
+Declaration 
+
+Bioethics 
+
+and 
+
+on 
+
+Human 
+
+Rights, 
+
+2005, 
+
+UN  Human  Rights  Council,  ‘Human  rights  and  international  solidarity’,  note  by  the  United 
+Nations 
+July 
+for 
+2009, A/HRC/12/27, https://www.refworld.org/docid/4a9d1bec0.html. 
+
+Commissioner 
+
+Human 
+
+Rights, 
+
+High 
+
+22 
+
+European Group on Ethics in Science and New Technologies 35 
+
+ 
+ 
+Values in times of crisis: Strategic crisis management in the EU 
+
+United  Nations  General  Assembly,  Resolution  55/2  (2000),  ‘United  Nations  Millennium 
+Declaration’, A/RES/55/2, paragraph 6, http://undocs.org/en/A/RES/55/2. 
+
+United  Nations  General  Assembly,  Resolution  56/151  (2001),  ‘Promotion of  a  democratic  and 
+equitable 
+paragraph 3(f), 
+http://undocs.org/en/A/RES/56/151. 
+
+A/RES/56/151, 
+
+international 
+
+order’, 
+
+Vinay, R., Baumann, H. and Biller-Andorno, N. (2021), ‘Ethics of ICU triage during COVID-19’, 
+British Medical Bulletin, Vol. 138, No 1, pp. 5–15, https://doi.org/10.1093/bmb/ldab009. 
+
+Stiglitz,  J. E.  (2012),  ‘The  Price  of  Inequality –  How  today’s  divided  society  endangers  our 
+future’, W. W. Norton & Company, New York. 
+
+Have, H. ten (2016), ‘Vulnerability – Challenging bioethics’, Routledge, London. 
+
+Wagenaar,  H.  and  Prainsack,  B.  (2021),  ‘The  Pandemic  Within –  Policy  making  for  a  better 
+world’, Policy Press, Bristol. 
+
+Wallin, A. (2021), ‘Okunskap och riskkommunikation. Att knuffa eller ge en karta’ (Ignorance 
+and risk communication – To nudge or to provide a map), Statsvetenskaplig tidskrift. 
+
+Wellens,  K.  (2005),  ‘Solidarity  as  a  constitutional  principle:  Its  expanding  role  and  inherent 
+limitations’, 
+(eds),  Towards  World 
+Consitutionalism –  Issues  in  the  legal  ordering  of  the  world  community,  Martinus  Nijhoff, 
+Leiden, Boston. 
+
+in:  Macdonald,  R. St. J.  and 
+
+Johnston,  D. M. 
+
+Wernli,  D.,  Clausin,  M.,  Antulov-Fantulin,  N.,  Berezowski,  J.,  Biller-Andorno,  N.,  Blanchet,  K., 
+Böttcher, L., Burton-Jeangros, C., Escher, G., Flahault, A., Fukuda, K., Helbing, D., Jaffé, P. D., 
+Jørgensen,  P. S.,  Kaspiarovich,  Y.,  Krishnakumar,  J.,  Lawrence,  R. J.,  Lee,  K.,  Léger,  A., 
+Levrat,  N.,  Martischang,  R.,  Morel,  C. M.,  Pittet,  D.,  Stauffer,  M.,  Tediosi,  F.,  Vanackere,  F., 
+Vassalli,  J. D.,  Wolff,  G.  and  Young,  O.  (2021),  ‘Building  a  multisystemic  understanding  of 
+societal  resilience 
+the  COVID-19  pandemic’,  BMJ  Global  Health,  Vol. 6,  No 7, 
+http://dx.doi.org/10.1136/bmjgh-2021-006794. 
+
+to 
+
+Wester,  G.  (2018),  ‘When  are  health  inequalities  unfair?’,  Public  Health  Ethics,  Vol. 11,  No 3, 
+pp. 346–355. 
+
+West-Oram,  P.  (2021),  ‘Solidarity  is  for  other  people:  Identifying  derelictions  of  solidarity  in 
+responses to COVID-19’, Journal of Medical Ethics, Vol. 47, No 2, pp. 65–68. 
+
+Wilkinson, R. and Pickett, K. (2011), ‘The Spirit Level – Why greater equality makes societies 
+stronger’, Bloomsbury Publishing, New York. 
+
+Wolfrum, R. (2010), ‘Concluding remarks’, in: Wolfrum, R. and Kojima, C. (eds), Solidarity: A 
+structural principle of international law, Springer, pp. 225–228. 
+
+World Health Organization (2020), ‘Coronavirus disease (COVID-19) – Events as they happen’, 
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen 
+(accessed 8 July 2022). 
+
+World  Health  Organization  (n.d.),  ‘Health  topics –  Infodemic’,  https://www.who.int/health-
+topics/infodemic#tab=tab_1 (accessed 8 July 2022). 
+
+European Group on Ethics in Science and New Technologies 36 
+
+ 
+ 
+GETTING IN TOUCH WITH THE EU
+
+In person
+All over the European Union there are hundreds of Europe Direct centres. You can find the address of the 
+centre nearest you online (european-union.europa.eu/contact-eu/meet-us_en).
+
+On the phone or in writing
+Europe Direct is a service that answers your questions about the European Union.  
+You can contact this service: 
+
+– by freephone: 00 800 6 7 8 9 10 11 (certain operators may charge for these calls), 
+– at the following standard number: +32 22999696, 
+– via the following form: european-union.europa.eu/contact-eu/write-us_en.
+
+FINDING INFORMATION ABOUT THE EU
+
+Online
+Information about the European Union in all the official languages of the EU is available on the Europa  
+website (european-union.europa.eu).
+
+EU Publications
+You can view or order EU publications at op.europa.eu/en/publications. Multiple copies of free publications 
+can be obtained by contacting Europe Direct or your local documentation centre (european-union.europa.eu/
+contact-eu/meet-us_en).
+
+EU law and related documents
+For access to legal information from the EU, including all EU law since 1951 in all the official language 
+versions, go to EUR-Lex (eur-lex.europa.eu).
+
+EU open data
+The portal data.europa.eu provides access to open datasets from the EU institutions, bodies and agencies. 
+These can be downloaded and reused for free, for both commercial and non-commercial purposes. The portal 
+also provides access to a wealth of datasets from European countries.
+
+Values play an important role in how we understand, make sense of, 
+and tackle crises. They influence how we frame the problems that crisis 
+management is supposed to address, and how we choose the instruments 
+for that. 
+
+The EGE points to the importance of human dignity and solidarity being at 
+the core of crisis management, with processes of deliberation that make 
+values explicit. It shows how public, common and individual interests are 
+intertwined; it outlines how values should direct the prioritisation of scarce 
+resources; and it highlights the importance of data, good communication, 
+and public trust. From these considerations the EGE draws a set of 
+recommendations for policy makers and other stakeholders.
+
+Research and Innovation policy
+
+

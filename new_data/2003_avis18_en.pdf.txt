@@ -1,0 +1,792 @@
+OPINION OF THE EUROPEAN GROUP ON ETHICS
+
+IN SCIENCE AND NEW TECHNOLOGIES
+
+TO THE EUROPEAN COMMISSION
+
+No 18
+
+Original in English
+
+Final – 28th July 2003
+
+****************************************************************************************************************************
+
+ETHICAL ASPECTS OF GENETIC TESTING IN THE WORKPLACE
+
+Reference: 
+
+Initiative of the Group
+
+Rapporteurs: 
+
+Peter Whittaker and Nicos C. Alivizatos
+
+*****************************************************************************************************************************
+
+The European Group on Ethics in Science and New Technologies (EGE),
+
+Having  regard  to  the  Treaty  on  European  Union  as  amended  by  the  Treaty  of  Nice,  and  in
+particular Article 6 of the common provisions, concerning the respect for fundamental rights;
+
+Having  regard  to  the  EC  Treaty  and  in  particular  Article  137  concerning  the  working  conditions
+and health and safety at work;
+
+Having  regard  to  the  Charter  on  Fundamental  Rights  of  the  European  Union,  approved  by  the
+European  Council  in  Biarritz  on  October  14th  2000  and  proclaimed  solemny  in  Nice  by  the
+European Parliament, the Council and the Commission on December 7th 2000, in particular Article
+8 on the "Protection of personal data", Article 15 on the "Freedom to choose an occupation and
+right  to  engage  in  work",  Article  21  prohibiting  discrimination  based,  among  others,  on  genetic
+features, and Article 31 on "Fair and just working conditions";
+
+Having  regard  to  the  Directive  95/46/EC  of  the  European  Parliament  and  of  the  Council  of  24
+October 1995 on the protection of individuals with regard to the processing of personal data and
+the free movement of such data;
+
+Having  regard  to  the  Directive  2000/78/EC  of  the  European  Council  of  27  November  2000
+establishing a general framework for equal treatment in employment and occupation;
+
+1
+
+    
+Having regard to the Directive 2002/14/EC of the European Parliament and of the Council of 11
+March  2002  establishing  a  general  framework  for  informing  and  consulting  employees  in  the
+European Community;
+
+Having regard to the Council of Europe’s Recommendation R(89)2 of 1989 on the protection of
+personal data used for employment purposes;
+
+Having regard to the Council of Europe’s Recommendation R(92)3 of 1992 on genetic testing and
+screening for health care purposes and, in particular, Principles 6 and 8, allowing genetic testing
+and screening only exceptionally and the collection and processing of personal data thereof only
+for the purposes of healthcare, diagnosis and disease prevention;
+
+Having  regard  to  the  Council  of  Europe’s  Recommendation  (97)5  of  1997  on  the  protection  of
+medical  data  and,  in  particular,  Principle  4.9  providing  that  the  collection  and  processing  of
+genetic data should in principle only be permitted for health reasons;
+
+Having regard to the Council of Europe’s Convention on Human Rights and Biomedicine, signed
+on 4th April 1997 in Oviedo, in particular Article 11 on "Non-Discrimination" and Article 12 on the
+"Predictive genetic tests";
+
+Having  regard  to  the  International  Labor  Office  (ILO)  Code  of  Practice  on  the  Protection  of
+Workers’ Personal Data (1997) and, in particular, Article 3.20 providing that “genetic screening in
+relation to work is a disproportionate infringement of individual rights” and that “current scientific
+knowledge is not sufficient to warrant its use for an occupational health purpose”.
+
+Having  regard  to  the  Round Table  organised  by  the  Group  on  6th  March  2000  in  Brussels  with
+members  of  the  European  Parliament,  jurists,  philosophers,  scientists,  representatives  of
+employees and employers, representatives of religions, representatives of patients’ associations
+and other groups of interest, and of international and European organisations (UNESCO, Council
+of Europe,WHO, OECD);
+
+Having regard to the hearings of experts in Brussels on 18th March, 15th April and 17th June 2003,
+and in Athens on 27th May 2003;
+
+Having heard the rapporteurs Peter Whittaker and Nicos C. Alivizatos;
+
+2
+
+1.  WHEREAS :
+
+DEFINITIONS
+
+For the purposes of this Opinion:
+
+(a)  “undertaking” means a public or private enterprise, carrying out an economic activity, whether
+
+or not operating for gain, which is located within the territory of a member State;
+
+(b)  “workplace” means a unit of business defined in accordance with national law and practice,
+whether in the public or in the private sector, located within the territory of a Member State,
+where  an  economic  activity  is  carried  out  on  an  ongoing  basis  with  human  and  material
+resources;
+
+(c)  “employer”  means  the  natural  person  or  legal  entity,  whether  public  or  private,  party  to
+employment  contracts  or  employment  relationships  with  employees,  in  accordance  with
+national  law  and  practice;  moreover,  the  term  employer  comprises  employment  agencies,
+temporary employment agencies, personnel selection consultants and  agencies that dispose
+of employees to other natural or legal entities (“personnel lending”).
+
+(d)  “employee” means any person who, in the Member State concerned, is protected as a worker
+or as an employee under national law and practice; moreover, the term employee comprises
+candidates for a post whatsoever, as well as former employees;
+
+(e)  “genetic  testing”  in  this  context  means  the  use  of  a  scientific  test  to  obtain  information  on
+some  aspects  of  the  genetic  status  of  a  person,  indicative  of  a  present  or  future  medical
+problem.  In the context of employment, "genetic testing" incorporates "genetic screening" and
+"genetic monitoring";
+
+(f)  “genetic screening” in this context means the use of a scientific test to determine whether a
+
+person possesses particular variant forms of one or more genes in his/her genome;
+
+(g)  “genetic  monitoring”  in  this  context  means  the  examination,  at  regular  intervals,  for
+chromosomal  abnormalities  in  samples  of  cells  from  a  person  who  may  be  at  risk,  in  their
+employment, of exposure to agents which cause genetic damage.
+
+3
+
+(h)  “personal  data”  in  this  context  refers  to  data,  however  obtained,  containing  information  that
+might  give  an  indication  of  either  the  present  health  or  predicted  future  health  status  of  a
+person.
+
+SCIENTIFIC BACKGROUND
+
+1.1  Genetic Testing
+
+1.1.1  Introduction
+
+A person’s DNA comprises the genetic information that, within the constraints imposed by all
+the  environmental  influences  to  which  that  person  is  exposed,  governs  the  growth,
+development and resulting characteristics of that person.  It is becoming increasingly easy to
+obtain information regarding particular aspects of someone’s genetic status by testing for the
+presence  of  particular  variant  forms  of  genes  or  by  microscopic  examination  of  their
+chromosomes.  The information obtained from such genetic tests may sometimes be used to
+anticipate the onset of certain genetically determined diseases and to initiate appropriate early
+therapy or other anticipatory action.  Genetic testing is also being used at the present time, in
+the investigation of crime and in paternity identification. The predictive value of some genetic
+information  means,  however,  that  some  insurance  companies  would  like  to  access  this,  in
+order to obtain what they believe to be a more accurate assessment of risk for life and health
+insurance  purposes.    This  Opinion  focuses  in  particular  on  employers’  interest  in  genetic
+testing  as  a  way  to  predict  an  employee’s  future  health  or  their  susceptibility  to  particular
+hazards in the working environment (genetic screening).  They might also wish to monitor the
+genetic status of an employee who is at risk of exposure to agents known to cause genetic
+damage (genetic monitoring).
+
+1.1.2. Non-DNA based Genetic Screening
+
+The definition of genetic screening need not be restricted to tests  carried  out directly  on  an
+individual’s DNA.  Many genes are coded instructions for making particular proteins.  Others
+may regulate the timing or quantity of protein synthesised.  Consequently it may be possible
+in some cases to access indications of genetic status by measuring the activity of a protein or
+some of its products. For the purposes of this Opinion, any test that evaluates specific genes
+or  gene  products  that  may  be  indicators  of  a  person’s  genetic  status  are  considered  to  be
+genetic tests.
+
+1.1.3.   Family Medical Histories
+
+Family  medical  histories  can  give  an  indication  of  possible  genetic  status  with  regard  to
+susceptibility  to  some  diseases  and  are  routinely  used  by  some  insurance  companies  for
+persons  applying  for  health  insurance.    In  so  far  as  family  medical  histories  can  provide
+information on a person’s genetic status, which may have a predictive value for future health
+
+4
+
+as significant as a laboratory performed genetic test, these are included within our definition of
+genetic tests.
+
+1.2 Applications of genetic testing in the context of employment
+
+1.2.1.   Genetic Screening as an Indicator of future health
+
+It  is  clear  that  a  person’s  genetic  constitution  plays  a  role  in  their  susceptibility  to  a  variety  of
+diseases.  That is not to say that genes are the sole determinant of disease susceptibility as this
+may  be  modulated  by  environmental,  lifestyle,  dietary  and  perhaps  other  serendipitous  factors.
+Nevertheless,  it  is  possible  that  investigation  of  an  individual’s  genetic  constitution  for  the
+presence or absence of particular gene variants might provide some indication of the likelihood of
+the individual contracting, in the future, a particular disease.
+
+Employers,  either  current  or  prospective,  could  have  an  interest  in  the  results  of  such  genetic
+screening in so far as these might be a predictor of the future health of an employee, particularly if
+they were to imply possible levels of future absenteeism or low work rate which might impact on
+profitability.  An employee who develops heart disease, for example, would certainly be likely to
+require periods of absence from work and, in certain occupations, might not be able to sustain a
+normal  work  rate.    There  is  also  the  possibility  that  sudden  onset  of  a  disease  condition  might
+result in a hazard for the employee, other employees or the public.  An employer could use the
+results of such tests to exclude job applicants on the basis of predicted future health.
+This type of genetic testing, where there is no reason to suspect that the employee might possess
+any particular genetic constitution, is generally referred to as genetic screening.
+
+1.2.2.     Genetic Screening as an indicator of susceptibility to occupational hazards
+
+Employers could also have an interest in whether the genetic profile of an employee might endow
+them with greater or lesser susceptibility to occupational hazards, such as the presence of toxic,
+mutagenic or carcinogenic materials in the workplace environment at levels below those that are
+recognized as acceptable.  Variants of genes that affect the metabolism of such genotoxic agents
+can  result  in  variations  in  individual’s  ability  to  activate  or  inactivate  these.    Other  genes  may
+control  the  repair  of  genetic  damage.   Occupational  factors  have  been  shown  to  be  associated
+with  10%  of  cases  of  adult  asthma.    Asthma  is  a  polygenic  disease  in  which  many  gene-
+environment  interactions  are  involved.    Other  diseases  having  an  occupational  component  and
+with a known genetic basis include beryllium allergy and chronic  obstructive pulmonary  disease
+resulting from (cid:1)-1-antitrypsin (AAT) deficiency.
+
+An employer might wish to use such information to deploy workers in areas appropriate to their
+particular genetic make up or to exclude them from employment.  
+
+Information  from  this  type  of  genetic  screening  might  also  be  of  value  to  the  employee.    Being
+aware of the likely level of their own susceptibility to a particular workplace hazard would permit
+them to make informed decisions with regard to the type of work they would seek for their own
+long-term health and safety.
+
+5
+
+1.2.3.     Genetic Monitoring
+
+Even  in  the  best  regulated  employment  environment,  it  may  not  be  possible  to  ensure  total
+elimination of the presence of all traces of chemicals or irradiation that could damage a person’s
+genetic  material.    In  such  circumstances  it  is  possible  to  monitor  cells  of  a  potentially  exposed
+person for genetic damage. Such tests may impact not only on the well-being of the individual, but
+also  on  the  next  generation.    The  results  of  genetic  monitoring  could  reveal  a  hitherto
+unappreciated risk to health and hence is of public health relevance.   In this Opinion this type of
+genetic testing is referred to as genetic monitoring.
+
+1.3         Genes and Disease
+
+1.3.1      Monogenic and Polygenic Diseases
+
+Although there are many diseases with a recognized genetic component resulting from a defect in a single
+gene (monogenic diseases), as a general rule the incidence of such diseases is low.  Monogenic diseases
+include cystic fibrosis, sickle cell anaemia, Huntington’s Disease and haemophilia.
+
+Cystic fibrosis and sickle cell anaemia are examples of autosomal recessive diseases, where the relevant
+genes are carried on one of the 22 pairs of human chromosomes that are not sex-specific.  This means
+that a copy of the defective gene must be inherited from both parents if the disease is to be manifest.  A
+person carrying a normal copy of the gene from one parent and a defective copy from the other are carriers
+of the disease gene but do not usually manifest symptoms of the disease.
+
+Huntington’s Disease is an example of an autosomal dominant disease.  In this case only a single
+copy of the defective gene coming from either parent is required for development of the disease.
+Haemophilia is an example of a  disease  resulting  from  a defect  in  an X-linked gene.    The  sex-
+specific chromosome pair comprises two X chromosomes (female) or an X and a Y chromosome
+(male).    As  males  have  only  a  single  X  chromosome,  they  are  more  likely  to  develop  such  a
+disease  than  females  with two  X  chromosomes,  as the  recessive gene  variant on one  of the  X
+chromosomes  will  not  be  expressed  in  the  presence  of  the  normal  gene  on  the  other  X
+chromosome.
+In  contrast  to  the  above  examples  of  diseases  resulting  from  defects  in  a  single  gene,  other
+human diseases with a genetic component are thought to result from interactions between several
+genes (polygenic diseases).  The incidence of some polygenic diseases is very high.  In most of
+these  cases  the  genetic  basis  is  incompletely  understood  and  is  complicated  by  influences  of
+environment, diet and lifestyle.  Examples of such polygenic diseases are heart disease, several
+cancers and some allergies.
+
+1.3.2      Factors affecting development of hereditary disease
+
+The  possession  of  one  or  more  genetic  defects  does  not  necessarily  dictate  that  the  person
+possessing the defect  will develop the disease.  For example, a woman with the BRCA1 breast
+cancer  susceptibility  gene  has  an  80%  risk  of  developing  breast  cancer  by  age  65.    The
+“expressivity” of a genetic defect describes the different severities of disease from which various
+possessors of the defect may suffer.  Both penetrance and expressivity, as well as the timing of
+disease onset, may be affected by environmental factors, life style or the presence of a range of
+other genes.
+
+6
+
+1.4       Methodology for Genetic Testing
+
+1.4.1      Methodology for Genetic Screening
+
+Defective versions of a gene may be altered only very slightly in DNA sequence from the normal
+version  of  the  gene.    Genetic  screening  aims  to  identify  such  small  changes  in  the  gene  in
+question.  Only a very small amount of DNA is required for genetic screening.  As an example, the
+DNA region required is usually amplified thousands of times using the polymerase chain reaction
+(PCR).  A fluorescent label is then attached to the amplified DNA.  The fluorescence-labelled DNA
+is then passed through a filter to which is attached a small length of DNA (the “probe”) containing
+a sequence characteristic of the version which is being screened for.  If the version in question is
+present  in  the  fluorescent  amplified  DNA  then  this  will  bind  to  the  probe,  showing  up  as
+fluorescence on the filter.  By attaching several different probes at different points on the filter it is
+possible  to  screen  for  the  presence  of  several  different  versions  of  the  gene  at  the  same  time.
+Developments  in  DNA  microarray  technology  are  likely  to  make  it  possible  to  screen  for  large
+numbers of genes with variant forms simultaneously.
+
+Where a genetic screen involves identification of a protein altered in concentration as a result of a
+particular  defective  gene,  the  strategy  used  varies  with  the  protein  in  question.    It  may  be
+recognised  using  electrophoretic  identification,  an  antibody  probe  or  by  an  enzyme  assay  for
+example.
+
+1.4.2      Methodology for Genetic Monitoring
+
+In contrast to genetic screening, genetic monitoring usually involves microscopic examination of
+the karyotypes (chromosome patterns) of white blood cells.  Indication of unacceptable levels of
+exposure  to  genotoxic  agents  comes  from  observations  of  changes  in  chromosome  structures
+including  chromosome  breakage, 
+inversion  or  deletion  of  sections  of  chromosomes  or
+translocation  of  a  part  of  a  chromosome  to  a  different  chromosome.    Recently  developed
+technology permits the observation of quite small alterations in chromosome structures.  
+
+1.5       Validity, Reliability and Predictability of Genetic Tests
+
+1.5.1      Validity of Genetic Tests
+
+At  the  present  time,  very  few  genetic  tests  are  available  that  give  information  to  either  an
+employer  or  an  employee  which  could  validly  be  used  in  the  context  of  decisions  concerning
+employment.  It is likely that this situation may change in the future although it is difficult to predict
+the pace of such change.  Where employment is linked to health or life insurance, employers may
+come  under  pressure  from  insurance  companies  to  implement  genetic  screening  to  assess  the
+level  of  risk  to  which  the  employee  might  be  exposed.    Validity  of  a  genetic  test  would  require
+demonstration of 
+
+1)  its relevance to health protection of workers,  
+
+2)  the reliability and reproducibility of the test and
+
+7
+
+3)  the level of predictive value for the test.
+
+In some countries, there are statutory bodies that may be asked to rule on the validity of genetic
+tests in particular circumstances.
+
+1.5.2  Relevance of Genetic Tests
+
+At  the  present  time,  it  is  difficult  to  make  a  case  for  any  genetic  tests  to  be  carried  out  as
+indicators  of  future  health  in  terms  of  their  relevance  to  employment.    Genetic  screening  for
+susceptibility to workplace environmental hazards clearly has some precautionary relevance but in
+many cases the link between a particular genetic status and susceptibility to a particular hazard
+has only a theoretical basis at present.
+In the general debate there have been exaggerated beliefs about the predictive value of genetic
+tests,  perhaps  based  on  the  concept  of  genetic  determinism,  which  have  been  proved  to  lack
+foundation. On the other hand, where there is a possible risk of genetic damage to an employee
+resulting from exposure to workplace contaminants, genetic monitoring for chromosomal changes
+resulting from this exposure may have a very clear relevance for the health of an employee.
+
+1.5.3      Reliability of Genetic Tests
+
+In such a sensitive area, it is obviously extremely important that procedures for genetic testing are
+as  reliable  as  possible,  as  provision  of  incorrect  information  to  an  employer  or  employee  could
+have  far  reaching  consequences.    All  stages  of  a  scientifically  satisfactory  testing  procedure
+should have built in negative and positive controls to ensure the reliability of the test result.  Good
+laboratory  practice  would  be  observed  at  all  times,  including  detailed  documentation  of
+procedures and results.  Even when testing procedures are optimised, false negatives and false
+positives will emerge and validation procedures for the tests may be required.
+
+1.5.4      Predictive value of Genetic Tests
+
+Even for monogenic diseases, predictive value of genetic testing may be limited.  There is always
+a  possibility  that  the  disease  in  question  might  not  manifest  itself  during  the  working  life  of  the
+individual and it is not always possible to predict the severity of the future disease.
+
+The situation is even more complex where diseases with a polygenic basis are concerned.  At the
+present time it is virtually impossible accurately to predict, using genetic tests, either whether the
+disease will develop at all or, if it does, its timing and severity.  Even if the genetic basis of such
+diseases becomes fully understood, environmental and lifestyle factors, which may themselves be
+unpredictable, will limit the predictability of disease development.
+
+8
+
+Testing  protocols  that  are  less  than  100%  accurate  (most  of  the  cases)  will  reduce  predictive
+value still further.  False negatives would result in possible exposure of a susceptible individual to
+unacceptable  levels  of  occupational  hazard  whilst  false  positives  could  result  in  unjustified
+exclusion of non-susceptible individuals from employment.
+
+1.6. The Practice: Employer Utilisation Of Genetic Testing
+
+It  is  far  from  clear  what  is  the  actual  present  and  anticipated  usage  of  genetic  testing  by
+employers.  There has been more interest in genetic testing in the United States than in Europe.
+This  appears  to  be  related  to  the  more  widespread  practice  in  the  USA  than  in  Europe  for
+employers  to  contribute  to  health  insurance.  Perhaps  for  this  reason  there  have  been  more
+studies of  genetic  testing  in  the  workplace  in  the  USA.    The  results  of  such  surveys  should  be
+viewed with caution as some studies have shown that some of the employers  surveyed did not
+have a full understanding of what a genetic test was.
+
+1.6.1      Genetic Testing in Employment in Europe
+
+Increasing  globalisation  in  industry  and  trade  suggest  that  U.S.  models  for  health  insurance  in
+employment  might  start  to  apply  in  Europe.    In  this  situation  it  is  probable  that  there  might  be
+pressure  to  widen  preemployment  medical  examinations  to  include  genetic  tests.    A  study  of
+genetic  testing  in  the  workplace  carried  out  by  the  School  of  Health  and  Related  Research  at
+Sheffield University suggests that the surveys that have been carried out in Europe have tended
+to ask employers whether they are carrying out genetic tests.  In a situation where the technology
+is  not  widely  available,  it  is  hardly  surprising  that  very  few  examples  of  genetic  testing  in  the
+workplace  could be  found.   It  might  have  been  preferable  to  have  asked employers  about  their
+attitudes to genetic testing in the future.
+
+As far as can be determined at present, there is still only the single case of genetic screening in
+the  workplace  previously  referred  to  in  reports  from  the  Nuffield  Council  on  Bioethics  and  the
+Human Genetics Advisory Committee in the United Kingdom.  This is the screening of aircrew by
+the UK Ministry of Defence for sickle cell trait.  The worry has been that carriers of the sickle cell
+gene might be adversely affected by low oxygen pressures in an aircraft.  This strategy has been
+criticised on the basis that it is not founded on sound evidence and also that it could be viewed as
+discriminatory in view of the fact that there are much greater numbers of sickle cell allele carriers
+in the Afro-Caribbean population than in the general population.  The UK Ministry of Defence is
+reported to have discontinued this practice. 
+A survey carried out by the Institute of Directors in the UK in August 2000 recorded that 2 out of
+353  directors  reported  that  their  companies  routinely  used  genetic  tests.    A  further  4  directors
+stated  that  genetic  tests  were  used  by  their  companies,  but  only  if  they  were  concerned  about
+specific employees.  The particular types of genetic tests used were not recorded.  The report also
+sought information on directors’ attitudes to genetic screening for particular reasons.  34% of 353
+directors approved of genetic screening for the likelihood of developing heart disease as long as
+the  employee  consented.    A  further  8%  would  be  in  favour  of  compulsory  testing  if  it  was
+considered to be in the employee’s best interests.  50% approved of genetic tests, with employee
+consent, to see whether employees were at risk of developing an occupation-related disease due
+to exposure in the workplace.  A further 16% thought that this should be compulsory.
+
+9
+
+1.6.2.     Genetic Testing In Employment In USA
+
+In the 1970s, the US Air Force Academy did not permit sickle cell gene carriers to participate in
+pilot  training.    Subsequently,  courts  have  found  that  tests  for  sickle  cell  trait  disproportionally
+impact  on  African-Americans  and  many  states  now  prohibit  employers  from  testing  for  the
+disease.  A 1991 survey of Genetic Monitoring and Screening in the Workplace carried out by the
+US Congress Office of Technology Assessment examined both practices and attitudes.  Only 1%
+of company health officers at that time reported that their company had a formal policy either on
+preemployment genetic screening or on genetic monitoring.  Despite this, a majority of personnel
+and health officers suggested that their companies considered the use of genetic screening tests
+for  job  applicants  as  generally  acceptable  to  inform  the  latter  of  their  level  of  susceptibility  to
+workplace hazards.  Well over one third of both health officers and personnel officers felt that it
+would  be  acceptable  to  exclude  employees  with  increased  susceptibility  to  risk  situations.
+Surprisingly, a majority of both felt that it would be unacceptable to monitor chromosomal changes
+associated with workplace exposure.  The survey showed that 1% of companies claimed to have
+used  genetic  screening  to  identify  persons  with  increased  health  risks.    12%  of  companies
+reported genetic monitoring or screening of employees.  Most of these involved genetic monitoring
+in companies where workers might be exposed to chemicals or ionising radiation.
+
+With  the enormously  expanded  knowledge  of the  human  genome  and  improvements  in  genetic
+technology  it  is  likely  that  usage  and  potential  usage  of  genetic  testing  in  the  USA  will  have
+expanded  significantly  since  that  survey.   According  to  a 1996  poll  of  members  of  families  with
+perceived genetic risk carried out by Georgetown University, 13% had been dismissed from their
+jobs  because  of  this  perceived  risk.    A  1998  survey  by  the  American  Management  Association
+suggested that 10% of employers routinely test employees for genetic predispositions to diseases
+and that this figure is growing.
+
+In 2001 the US Equal Employment Opportunity Commission (EEOC) settled its first court action
+involving  workplace  genetic  screening  against  the  Burlington  Northern  Santa  Fe  Railway.    This
+company had carried out genetic screening without the knowledge or consent of its employees.
+The genetic testing had been carried out in response to claims from some employees for work-
+related injuries based on carpal-tunnel syndrome.  At least one worker had been threatened with
+dismissal for non-provision of a blood sample.  EEOC required that the company completely and
+immediately  stop  its  programme  of  genetic  testing  and  asserted  that  it  would  “respond
+aggressively  to  any  evidence  that  employers  are  asking  for  or  using  genetic  tests  in  a  manner
+which violates the Americans with Disabilities Act of 1990”.
+
+10
+
+LEGAL BACKGROUND
+
+1.7. 
+
+Introduction
+
+As  a  general  rule,  standing  instruments  at  national,  community  and  international  level    do  not
+specifically  address  the  issue  of    genetic  testing  at    the  workplace.  While  there  exist  rules
+purporting to forbid such testing for reasons other than  health care  and  to prohibit discrimination
+thereof, there are no binding provisions  barring  genetic screening in the employment sector and
+addressing the threats that  such screening  may constitute  for both the privacy and the dignity of
+the  weakest  party  involved,  that  is  workers  and  employees.    On  the  other  hand,  save  some
+scattered  regulations,  there  exist  no  special  rules  on  the  collection  and  processing  of  genetic
+personal data.    The lack of adequate protection in this field may hurt trust, mutual respect and
+professionalism  in  the  relationship  between  employers  and  employees,  which  could  adversely
+affect not only the latter, but also employers and the business as a whole.
+
+1.8.       At national level
+
+Some Member States have enacted rules on human genetics:
+- 
+
+In France, a 2002 amendment to the code civil and to the code pénal prohibits discrimination
+based on one’s  genetic  characteristics  or  on  predictive  genetic  tests  “having  as  an  object  a
+disease which has not yet manifested or a genetic predisposition to a disease”.
+In a similar way, in Sweden,  standing legislation  requires that genetic testing may only take
+place if it has a medical aim or serves a research purpose.
+In Finland, a 2001 law  provides that employers shall not require employees to participate in
+genetic  testing  either  at  the  time  of    recruitment  or  during  employment  ,  nor  do  employers
+have the right  to obtain information as to whether  an employee has undergone such testing.
+In  Denmark  legislation  from  1996  regulates  the  Use  of  Health  Information  on  the  Labour
+Market.  The aim is to ensure that health checks focus on the actual/present health conditions
+and that those conditions are relevant to the employee's work.
+Thus  the  Act  widely  limits  the  employer's  possibilities  to  ask  potential  employees  for  health
+information including information based on genetic testing.
+The employer is for example not  allowed  to  collect  information  concerning  the  probability of
+the  employee  suffering  from  diseases  in  the  future,  but  is  for  example  allowed  to  obtain
+information  about  the  employee's  health  if  conditions  in  the  working  environment  make  it
+reasonable and desirable in relation to the employee himself or other employees.
+In  Austria,  both  genetic  screening  and    the  collection,  demand,  acceptance  or  any  other
+utilisation of  genetic data on the employees by the employers are explicitly prohibited.
+
+- 
+
+- 
+
+- 
+
+- 
+
+-  Restrictions  to  the  collection  and  processing  of  genetic  data  at  the  workplace  are  also
+
+- 
+
+provided in the Netherlands, in Luxembourg and in Greece.
+In  Italy,  according  to  the  data  protection  law  of  1996,  genetic  data  may  only  be  processed
+under the circumstances referred to in an ad-hoc authorisation to be granted by the national
+supervisory authority.
+The genetic data expressly referred to in that authorisation may be processed with regard to
+such information and operations as are indispensable to protect the bodily integrity or health
+of either the subject, a third party or the community as a whole - on the basis of the subject's
+written consent.
+Failing the subject's consent, the processing may be started and/or continued if it is aimed at
+protecting the bodily integrity or health of either a third party or the community as a whole -
+exclusively  on  the  basis  of  a  prior  ad-hoc  authorisation  to  be  granted  by  the  national  data
+protection supervisory authority.
+
+11
+
+1.9.       At Community level
+
+In  June  2000,  the  Commission  published  the  Social  Policy  Agenda,  which  provided  for  a
+consultation  with  social  partners  on  the  protection  of  personal  data  in  the  employment  context.
+The  Commission  believed  that  employees  (during  and  post  employment)  and  prospective
+employees  may  not  have  sufficient  protection  of  their  fundamental  rights  and  personal  data,
+processed  by  employers  and/or  transferred  to  third  parties.  More  concretely,  consent,  which  is
+admitted  by  the  Data  Protection  Directive  as  a  means  for  legitimising  data  collection  and
+processing,  may  not  be  really  free  in  the  employment  context,  in  which  employees  and
+prospective employees are either subordinate or dependent. In other words, employees often find
+themselves  in  a position    where  it  is  virtually  impossible  for  them  to  refuse,  withdraw  or  modify
+consent,  due  to  the  employer’s  position  and  power,  and  to  their  own  fear  of  loss  of    job  offer,
+promotion  and  so  on.    Since  the  Data  Protection  Directive  does  not,  in  principle,  expressly
+address data protection issues in the workplace, the Commission considered that it should be duly
+particularised  and  complemented.  Although  it  does  not  directly  address  the  relevant  issues,
+Council Directive 2000/78/EC of 27 November 2000, establishing a general framework for equal
+treatment  in  employment  and  occupation,  contains  useful  rules,  such  as  the  obligation  to  treat
+equally  persons  with  disabilities.    Presently,  the  Commission  considers  a  specific  community
+action which can take the form of a specific Directive providing  for a European framework on the
+protection  of  employees’  personal  data.    Based  on  the  fundamental  principles  of  the  Data
+Protection  Directive,  this  framework  aspires  to  cover  all  kinds  of  employees’  personal  data,
+including medical data and data deriving from genetic tests.
+
+1.10.     At International level
+
+A  number  of  international  instruments  in  the  field  of  data  protection  exist  which  have  some
+relevance  to  the  issue  of  genetic  testing  in  the  workplace.  The  Council  of  Europe    1981
+Convention  No  108  for  the  protection  of  individuals  with  regard  to  automatic  processing  of
+personal  data  and  the  1997  Recommendation  (97)5  on  the  protection  of  medical  data  are
+relevant,  but  neither  of  these  instruments  relate  expressly  to  employment.  The  International
+Labour Office (ILO) Code of Practice on the protection of workers’ personal data (1997) is a useful
+source of inspiration for Community action. Both this instrument and the 1989 Recommendation
+No  R(89)2  of  the  Council  of  Europe  on  the  protection  of  personal  data  used  for  employment
+purposes recognize that different traditions exist among countries in regard to  the regulation of
+employers and workers. Such traditions, though, should not be used to obstruct  enforcement of
+widely recognized  fundamental principles in this field.
+
+12
+
+ETHICAL BACKGROUND
+
+Ethical issues can be related either to the performance of the genetic testing itself, or to the use of
+
+the data which have been obtained by genetic testing.
+
+1.11.     Ethical Aspects Relating to Performance of Genetic Tests
+
+1.11.1    Autonomy of Employees or Applicants for Work
+
+The  performance  of genetic  tests  makes  available  personal  data  of  great  sensitivity.    Particular
+attention must be given to the interests of the person to be tested and to the question of whether
+the  benefits  that  might  accrue  from  the  testing  will  warrant  any  personal  intrusion  that  the  test
+imposes.
+
+In  particular,  the  autonomy  of  the  person  to  be  tested,  whether  prior  to  or  during  employment,
+must be carefully balanced against the duties of employers to provide protection for members of
+the work force, including the person to be tested, and third parties.
+
+In  the  context  of  genetic  testing,  autonomy  implies  for  the  person  to  be  tested,  fully  informed
+consent  to  the  test(s).    Full  information,  as  well  as  incorporating  understanding  of  the  testing
+procedures, would also involve information about the possible test outcomes and the significance
+of these, and appropriate counselling when the test results are delivered.  It is often the case that
+the position of an applicant for employment is rather weak compared with that of an employer and
+that this might result in a self imposed pressure to consent to tests that could be unnecessary.
+
+1.11.2    Duties of Employers to Employees and Other Parties
+
+Employers have a duty to protect members of their workforce and other parties that might possibly
+be harmed as a result of either sudden or progressive sickness of an employee.  It is possible that
+in some cases, genetic testing of an employee might be the only way of ensuring that this duty is
+carried out.  Employers also have a primary duty to ensure that employees are provided with a
+safe working environment and are not exposed to harmful occupational hazards.  
+
+1.11.3.   Employee’s Ability to Carry Out Work
+
+Employers  have  the  right  to  expect  their  employees  to  be  capable  of  carrying  out  the  work
+required.    This  would  normally  be  judged  by  an  employer  using  the  traditional  approaches  of
+curriculum vitae, interview, aptitude tests and references.    An  applicant’s ability  to  carry  out  the
+work  is  sometimes  also  assessed  during  a  medical  examination.    Working  contracts  are  often
+subject  to  a  probationary  period  –  an  additional  safeguard  for  the  employer.    A  genetic  test  of
+limited predictive value would add nothing to knowledge of an applicant’s ability to carry out the
+work at the outset and would give very little information on how this might change in the future.
+
+1.11.4    Validity of Genetic Tests
+
+Another ethical issue is the validity of a test, its relevance, reliability and predictive value.  At the
+present  time  very  few  tests  would  achieve  a  high  score  in  all  of  these  categories.    It  would  be
+manifestly unfair to base important decisions regarding employment or promotion on the results of
+tests either of dubious relevance or with low reliability or predictive value.  Any benefits emerging
+
+13
+
+from  such  tests  in  terms  of  protection  of  employees  or  third  parties  could  be  greatly  offset  by
+suffering resulting from false negatives and false positives.
+
+1.12. 
+
+Ethical Aspects Relating to Use of Genetic Information
+
+1.12.1.   Confidentiality and the Right Not to Know
+
+The sensitive  nature  of data  obtained from  genetic testing  raises the question  of  confidentiality.
+The data  will  initially  become available  to  the  health professional  responsible  for  requesting  the
+test.  The question arises of whether the raw genetic data should ever be made available to an
+employer  or  if  the  medical  professional  should  merely  communicate  their  relevant  professional
+opinion  to  the  employer.    In  this  respect,  the  independence  of  the  medical  professional  is  an
+important consideration. Genetic data are clearly the property of the person who has been tested
+but the latter may wish to exercise their right not to know their genetic status.
+
+Another  issue  with  respect  to  confidentiality  is  that  genetic  information  on  one  individual  might
+also give an indication of the genetic status of one or more of the individual’s family members.
+
+1.12.2.   Discriminatory Use of Genetic Test Results
+
+Data from genetic screening could be used to the disadvantage of an applicant for employment or
+an employee.  It could be used to discriminate unfairly between applicants for employment or for
+promotion within a company.  It could have serious implications for a person’s career prospects.
+
+2. OPINION
+
+The Group focuses in this Opinion on the ethical issues related to genetic testing, with particular
+reference to genetic screening.  Nevertheless, the ethical dilemmas and conflicts of interest to be
+considered in regard to genetic testing including genetic monitoring can be viewed in the general
+context of medical data at the workplace.
+
+The Group submits the following opinion:
+
+2.1.
+
+2.2.
+
+2.3.
+
+Employers have the duty to protect the health of their employees and to prevent risk to third
+parties.  On the other hand, employees and candidates for employment have a right to privacy
+and to the protection of their personal data.
+
+Employers have the duty to adapt the workplace in order to limit the risk of health damage for
+the employees.
+
+During recruitment, employers must guarantee fair treatment for all applicants and avoid any
+discrimination. 
+
+14
+
+Employees have the duty to prevent risk to third parties.  
+
+Employees or potential employees must realise that a medical examination  may be  part of
+the assessment of aptitude for the position.
+
+The medical examination should not be a criterion of selection .  It should take place after the
+phase of selection.
+
+Where  there  is  a  possible  risk  of  genetic  damage  to  an  employee  resulting  from  some
+component  of  the  working  environment,  the  employer  must  take  every  possible  step  to
+eliminate that risk.  If such a risk cannot be totally excluded, genetic monitoring, which aims
+at  evaluating  chromosomal  abnormalities  induced  by  exposure  to  agents  in  the  context  of
+employment, may be valuable but requires properly informed consent.
+
+Genetic screening is a type of medical testing.  It concerns the potential future health status of
+the individual screened.
+As a general rule,  the Group considers that only the present health status of the employees
+should be considered in the employment context.
+
+2.4.
+
+2.5.
+
+2.6.
+
+2.7.
+
+2.8.
+
+2.9.
+
+Furthermore, there is, up until now, no proven evidence that the existing genetic tests have
+relevance  and  reliability  in  the  context  of  employment.    They  still  have  uncertain  predictive
+value.  
+
+2.10.
+
+The  Group  considers  that,  in  general,  the  use  of  genetic  screening  in  the  context  of  the
+medical examination, as well as the disclosure of the results of previous genetic tests, is not
+ethically acceptable.  The legitimate duties and right of employers concerning the protection of
+health and the assessment of ability can be fulfilled through medical examination but without
+performing  genetic  screening.    Thus,  employers  should  not  in  general  perform  genetic
+screening nor ask employees to undergo tests.
+
+2.11.
+
+In  exceptional  cases,  the  use  of  genetic  screening  could  be  considered  when  it  may  be
+necessary to guarantee health protection of workers or protection of third parties.  
+
+2.12.
+
+In these exceptional cases, genetic testing could be considered provided that, among others,
+the following conditions are fulfilled:
+(cid:1)  the  performance  of  the  test  is  necessary  for  guaranteeing  the  protection  of  the
+
+employee’s health and safety or those of third parties,
+
+(cid:1)  there is scientifically proved evidence that the genetic test is valid and is the only method
+
+to obtain this information,
+
+(cid:1)  the  performance  of  the  test  does  not  prejudice  the  aim  of  improving  conditions  in  the
+
+workplace,
+
+15
+
+(cid:1)  the principle of proportionality is respected regarding the motivations involved to perform
+
+the test,
+
+(cid:1)  the principle of non-discrimination is not violated.
+
+2.13.
+
+The  definition  of  exceptional  cases  for  proposing  and  performing  genetic  screening  at  the
+workplace should be explicitly regulated by law.  
+
+2.14.
+
+For  a  specific  application,  the  prior  assent  of  the  appropriate  labour  organisation  and  a
+specific ad hoc authorization by an independent committee should be required.
+
+2.15.
+
+The  applicant  or  the  employee  should  receive  full  information  from  an  independent  health
+professional  on  the  testing  procedure,  the  reasons  for  performing  such  tests,  the  potential
+outcomes and their implications and consequences, as well as the conditions of storing and
+access to data.   They should also, if requested, be provided with access to independent legal
+counselling.
+
+2.16.
+
+The applicant or the employee should consent to the genetic test.
+
+2.17.
+
+When  the  test  reveals  a  genetic  condition  which  is  incompatible  with  the  protection  of  the
+health  of  the  employee  or  the  applicant  or  with  the  safety  of  third  parties,  the  information
+given  to  the  employers  should  only  concern  the  inappropriateness  of  the  applicant  for  the
+specific job, without specification of the cause.
+
+2.18.
+
+The genetic data as other medical data remain confidential; such personal attributable data
+should only be accessible to the applicant and to the health professional, and transfer without
+consent of these data to third parties, including the employer, should be strictly prohibited.
+
+2.19.
+
+Genetic screening or monitoring conducted at the workplace should not be considered as a
+genetic test to be disclosed for the purpose of insurance.
+
+16
+
+2.20.
+
+Legal measures should be taken at EU level to preserve the confidentiality of these genetic
+data  also  in  case  of  transborder  movement  of  the  employees/employers,  namely  in  the
+context of free circulation of workers within the EU.
+
+17
+
+

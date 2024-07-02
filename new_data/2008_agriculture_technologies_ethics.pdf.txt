@@ -1,0 +1,6463 @@
+Ethics of modern
+developments in
+agriculture technologies
+Proceedings of the round-table debate
+
+BRUSSELS, 18 JUNE 2008
+
+sprout
+
+sprout
+
+Ethics of modern
+developments in
+agriculture technologies
+Proceedings of the round-table debate
+
+BRUSSELS, 18 JUNE 2008
+
+Secretariat of the EGE
+June 2008
+
+Chief Editor 
+Maurizio SALVI 
+
+Europe Direct is a service to help you find answers
+to your questions about the European Union
+
+Freephone number (*):
+00 800 6 7 8 9 10 11
+
+(*) Certain mobile telephone operators do not allow access to 00 800 numbers
+or these calls may be billed.
+
+More information on the European Union is available on the Internet (http://europa.eu).
+
+Cataloguing data can be found at the end of this publication.
+
+Luxembourg: Office for Official Publications of the European Communities, 2008
+
+ISBN 978-92-79-09414-9
+
+DOI 10.2796/11315
+
+© European Communities, 2008
+Reproduction is authorised provided the source is acknowledged.
+
+Printed in Luxembourg
+
+PRINTED ON WHITE CHLORINE-FREE PAPER
+
+Table of contents
+
+INTRODUCTION
+The European Group on Ethics
+
+ROUND-TABLE REPORT
+Programme 18 June
+
+PRESENTATIONS
+Opening by professor Göran Hermerén
+Opening by Maria da Graça Carvalho
+
+Rajeswari Raina
+Modern agricultural technologies —
+Ethics, policy choices and the IAASTD findings
+
+Karsten Klint Jensen
+Sustainability and uncertainty:
+bottom-up and top-down approaches
+
+Günther Eberz
+Innovative agriculture to meet basic needs of life
+
+Wilhelm Gruissem
+New technologies and agriculture for the future
+
+Eric Drésin
+Strengthening consumer health through sustainability
+
+Erik Millstone
+Modern developments in agriculture technologies
+and environmental protection
+
+Christoph Then
+The industrial gene paradigm and its (ethical) implications
+
+Nathalie Moll
+Ecologically, economically and socially
+sustainable agriculture: the role of GMOs
+
+ANNEX I
+Participants
+
+ANNEX II
+Secretariat of the European Group on Ethics
+
+5
+
+7
+13
+
+17
+21
+
+25
+
+39
+
+51
+
+61
+
+69
+
+81
+
+93
+
+105
+
+115
+
+121
+
+Ethics of modern developments in
+agriculture technologies
+
+Introduction
+
+The Group is currently working on an Opinion on the
+Ethics of modern developments in agriculture tech-
+nologies, to be presented to the Commission by De-
+cember 2008.
+
+In preparing its opinions, the EGE engages in broad con-
+sultations, involving individual experts, representatives
+of European institutions and other international institu-
+tions as well as representatives of civil society. The pur-
+pose of the Round Table organised by the Group is to
+promote a transparent dialogue between parties repre-
+senting different interests.
+
+The European Group on Ethics (EGE) is an independent,
+pluralist and multidisciplinary body that advises the Eu-
+ropean Commission on the ethical aspects of science and
+new technologies in connection with the preparation and
+implementation of Community legislation or policies.
+
+The Group is composed of fifteen independent experts
+appointed by the Commission for their expertise and
+personal qualities.
+
+It was set up by the Commission in December 1997 to
+succeed the Group of Advisers on the Ethical Implica-
+tions of Biotechnologies (GAEIB 1991-1997). During its
+first term (1998-2000) the EGE provided Opinions on
+subjects as diverse as human tissue banking, human em-
+bryo research, personal health data in the information
+society, doping in sport and human stem cell research.
+
+In April 2001 the Commission appointed twelve mem-
+bers for the period 2001-2004. During its second term,
+the Group published Opinions on the ethical aspects of
+patenting inventions involving human stem cells (No 16–
+7 May 2002), clinical research in developing countries
+(No 17–4 F ebruary 2003), genetic testing in the work-
+place (No 18 – 28 July 2003), and umbilical cord blood
+banking (No 19 – 16 March 2004).
+
+On 11 May 2005, the Commission decided to renew
+the Group’s mandate for a further four-year period. For
+this third term, the EGE was increased in size from 12 to
+15 members. The same year, the Group published its Opi-
+nion on the ethical aspects of ICT implants in the human
+body (No 20–16 March 2005). So far in 2007 the EGE has
+issued Opinions on ethics and nanomedicine1 (No 21–
+17 January 2007), on anEt hics review of FP7 human em-
+bryonic stem cells projects2 (No 22–13
+July 2007), and
+on the Ethical Aspects of Animal Cloning for Food Supply
+(No 23–16 January 2008).
+
+(1) http://ec.europa.eu/european_group_ethics/activities/docs/opinion_21_nano_en.pdf
+(2) http://ec.europa.eu/european_group_ethics/activities/docs/opinion_22_final_follow_up_en.pdf
+
+5
+
+Ethics of modern developments in
+agriculture technologies
+
+Round-Table Report
+
+1. Main goal of the Round-Table
+
+The European Group on Ethics in Science and New Tech-
+nologies (EGE) is preparing an Opinion on Ethics of mo-
+dern developments in agriculture technologies (Opi-
+nion 24). As part of its preparatory work the EGE held an
+open round-table debate on the issues related to animal
+cloning for food supply. The round table was organised
+by the Bureau of European Policy Advisers (BEPA).
+
+The main goal of this event was to allow stakeholders to
+provide the EGE with relevant data, considerations and
+viewpoints for the finalisation of Opinion 24, which is to
+be published at the end of 2008.
+
+To maximise the participation of experts, an open invita-
+tion was sent to relevant stakeholders (EU and beyond),
+members of the National Ethics Councils (EU-27 Member
+States), consumer organisations, farmers’ organisations,
+environment protection organisations, academics, reli-
+gious groups, industries, NGOs, etc. An open invitation
+was published on the Internet to allow the full and free
+participation of all interested parties and a press an-
+nouncement was also published by the Commission
+ahead of the event.
+
+Participants were also asked to send contributions to the
+EGE, and the round table was broadcast on the Internet.
+
+2. The Round-Table
+
+The round table was structured as a set of contributions
+from different speakers representing different interest
+groups and as a debate between the attendees, the
+speakers and the EGE members.
+
+Around 100 participants attended the round table, in-
+cluding representatives of European Institutions, inter-
+national organisations, religions, consumers, food and
+farm industries, animal protection and environment
+organisations, experts (biotechnology, ethics, science,
+law, theology, etc.), representatives of EU National Ethics
+Committees, etc.
+
+Invited speakers included scientific experts, ethicists,
+and representatives of consumer organisations, animal
+welfare bodies and industry. The speakers were:
+
+• Ms R. Raina (Centre for Policy Research, New Delhi,
+
+India)
+
+• Mr K.K. Jensen (University of Copenhagen, DK)
+• Mr G. Eberz (Bayer AG, DE)
+• Mr W. Gruissem (ETH Zurich and EPSO, CH)
+• Mr E. Drésin (FWW Europe)
+• Mr E. Millstone (University of Sussex, UK)
+• Mr C. Then (consultant for Greenpeace)
+• Ms N. Moll (EuropaBio)
+
+The round-table was chaired by Professor Göran HER-
+MERÉN, President of the European Group on Ethics in
+Science and New Technologies, and was opened by
+Maurizio SALVI, Member of the Bureau of European
+Policy Advisers (BEPA) and head of the EGE Secretariat,
+and Graça CARVALHO, Principal Adviser of the Society
+Group of the Bureau of European Policy Advisers (BEPA).
+
+Dr CARVALHO argued that inputs to help design a re-
+sponsible, ethically sound and sustainable policy for
+agriculture in the European Union (EU) were of primary
+importance for the EU’s economic welfare, the role the
+EU plays in global trade and the social dimension of the
+EU. She also stated that equality, health, social cohe-
+sion, solidarity, intergenerational justice, environmen-
+tal protection, the right to food etc. were all relevant
+values that could not be ignored in modern agriculture,
+where innovation had to be balanced against sustain-
+ability, where globalisation and trade should be linked
+to ethics and human rights, including the right to food
+and the Millennium goals. Dr Carvalho also reported
+on recent initiatives by the Commission to reduce the
+prices of agricultural products in the EU, the ‘health
+check’ of the EU Common Agricultural Policy (CAP), the
+Commission Communications on food prices, energy,
+and oil prices, and stressed the fact that the EGE Opin-
+ion would help ensure a proper reflection on how to
+promote modern agriculture while respecting EU fun-
+damental values.
+
+7
+
+Professor Göran HERMERÉN underlined the key role
+played by dialogue, tolerance and pluralism in assess-
+ing the ethical
+implications of new technologies in
+modern agriculture and argued that agriculture could
+contribute to more and safer food while retaining sus-
+tainability and food security as its main objectives. He
+explained that the EGE would address new technolo-
+gies and methods insofar as they are conducive to the
+above goals. He also stressed the need to address social
+implications and societal expectations in seeking real-
+istic options to propose to the relevant stakeholders in-
+volved in the revision of the EU’s common agricultural
+policy (CAP) and the global discussion on trade and
+sustainability.
+
+Following the opening speeches, the invited partici-
+pants were then encouraged by the Chair to openly ex-
+press suggestions, concerns and ideas to the EGE.
+
+3. The Round-Table: contributions by speakers
+
+Scientific aspects were addressed by Dr Günther Eberz
+(Innovative Agriculture Helps to Meet Basic Needs of Life)
+and Professor Wilhelm Gruissem (New Technologies and
+Agriculture for the Future).
+
+Dr Eberz (Bayer AG, DE) reported on the industrial per-
+spective. He pointed out that there would be 9 billion
+people by 2020, with a 30% decrease in the land avail-
+able for food production, and stressed the relevance of
+sustainability in agro-food production. He underlined
+that the current increase in food product costs was
+related to increased fertiliser costs and oil prices, but
+then pointed tobi otechnology as a potential positive
+response in order to (1) safeguard and increase yields
+from a limited land area (crop protection, stress shield,
+plant breeding and plant biotechnology), (2) adapt
+resource management (targeted use of crop protec-
+tion, irrigation technology and fertilisers), (3) support
+agricultural production under adverse environmental
+conditions and climate variability (by developing new
+crop varieties with enhanced tolerance to drought and
+extreme temperatures, improved plant health and nu-
+trient uptake).
+
+Professor Wilhelm Gruissem reported on new tech-
+nologies in agriculture. He argued that increased food
+production was necessary for both developed and
+developing countries although food security options
+would need to be addressed mainly in the developing
+countries because of the lack of arable land for food pro-
+duction. He stated that while hunger did not particularly
+affect EU citizens, abstaining from promoting innovative
+agriculture in the EU would impact on the use of green
+biotechnology across the world and hence contribute to
+the current food crisis (800 million people suffering hun-
+ger in 2008, of which 170 million under 5 years of age).
+Professor Gruissem also advocated an ethics imperative
+under which the EU should promote new technologies
+in agriculture and seek improvements in productivity
+and quality of food products. He also underlined that
+the EU was neglecting research on green biotechnology
+and losing expertise in this sector.
+
+Sustainability aspects in developing countries were
+addressed by Dr Rajeswari Raina (Modern agricultural
+technologies — Ethics, policy choices and the IAASTD find-
+ings, International Assessment of Agricultural Knowledge,
+Science and Technology for Development). Dr Raina (Cen-
+tre for Policy Research, New Delhi, India) pointed to the
+unethical nature of hunger, poverty, malnutrition and
+degradation of the environment. She reported on the
+recent United Nations’ International Assessment of Ag-
+ricultural Science and Technology for Development re-
+garding the impacts of agricultural knowledge, science
+and technology (AKST). According to this UN report,
+modern agriculture had mainly focused on technology
+and generally neglected traditional food systems or so-
+cio-cultural considerations, thus contributing to the glo-
+bal food divide. Dr Raina mentioned as an example the
+current scarcity of water resources and underlined that
+new technologies (bio-physics, SRI, molecular genetics,
+nanotechnology) could help alleviate this water crisis,
+while some uses of biotechnology could improve food
+security (targeted promotion of MAS and DNA diag-
+nostics). She also stated that technological media could
+not be seen apart from socio-cultural dimensions in the
+countries where they are applied. Dr Raina then called
+for urgent legal and political responses to the current
+food crisis.
+
+8
+
+Professor Karsten Klint Jensen (Food production and
+sustainability) addressed the notion ofet hics and sus-
+tainability and its different uses in agriculture, forestry,
+fishery and environmental sciences. Professor Jensen
+(University of Copenhagen, DK) argued that the notion
+of sustainability had normative uses, but was associated
+with a degree of empirical uncertainty and could not be
+seen apart from social considerations (addressing farm-
+ers’ needs). He underlined that while the notion of sus-
+tainability initially referred to economic considerations
+regarding the value of resources (stock-taking), it now
+incorporated the principle of intergenerational justice
+and took account of interrelated phenomena such as
+globalisation, climate change, the technical and socio-
+economic divide etc. He also argued that the notion of
+sustainability based on empirical considerations needed
+to anticipate the link between population variation and
+productivity — the availability of usable natural resourc-
+es. He then pointed to the need to link sustainability to
+societal expectations.
+
+4. The morning debate
+
+Following the presentations and the opening speeches,
+an open debate was launched. The topics debated in-
+cluded the following:
+
+•
+
+•
+
+The relevance of green biotechnology (GM crops in
+particular) for solving the food crisis in developing
+countries was highlighted by several experts. Some
+argued that the controversy surrounding the use of
+Genetically Modified (GM) crops in developing coun-
+tries did not concern the technology as such but its
+current technical limits. Others underlined that some
+GM products seeking better nutritional and produc-
+tive capacities had led to price rises and detrimental
+consequences in terms of economic accessibility in
+the developing countries where they were cultivated.
+
+Some indicated that hunger had been portrayed
+as a technological problem requiring technologi-
+cal solutions while the real issue of food security
+was poverty and differing levels of access to food.
+They stated that new technological media in the
+
+•
+
+•
+
+•
+
+•
+
+9
+
+agro-food sector might increase food availability
+without doing anything about the food divide, and
+then called for a proper assessment of socio-cultural
+features and needs in countries where new green
+technologies were used. They also underlined that
+local production systems for small or medium-sized
+farmers could play a key role in food security in de-
+veloping countries (in India 86% of Indian farms are
+minor producers, but account for 70% of the food
+consumed in the country).
+
+The role of the EU in the global trade in agricultural
+products was stressed, as well as the need not to
+limit the discussion of sustainable agriculture to just
+the food crisis.
+
+Several participants underlined that genetically
+modified plants engineered for developing coun-
+tries might benefit local food production but were
+not planted by the local population due to the risk
+on the global market. Similar considerations were
+advanced concerning the EU regulation on food
+products (labelling and traceability) and its conse-
+quent costs for food producers, as well as IPR issues.
+It was also mentioned that EU regulations on chemi-
+cals had led to a 25% reduction in cereal production
+in the UK.
+
+The need to enhance the role of NGOs and the rep-
+resentatives of developing countries in the discus-
+sion of external activities under the EU’s CAP was
+stressed. Also advocated was extending the impact
+assessment of the CAP to include its consequences
+for global trade.
+
+Other aspects were also stressed, such as the con-
+siderable impact of modern agriculture in eroding
+natural resources (including water) and the ethics of
+importing food products such as cereals from coun-
+tries suffering from hunger and malnutrition in or-
+der to feed farm animals.
+
+5. Contributions by the afternoon speakers
+
+Consumer aspects were addressed by Dr Eric Drésin
+(Strengthening consumer health through sustainability).
+
+Dr Drésin (FWW Europe) reported on the threats posed
+by the current agriculture system to public health and the
+environment. He pointed to the negative consequences of
+current methods in agro-food production for the health of
+citizens (antibiotic resistance and obesity) and the use of
+natural resources (87% of world water consumption being
+used for food production and nitrate pollution affecting
+several EU countries). He also reported on the risks of mo-
+nopoly in the food market, and noted that 40 supermarket
+companies currently controlled one third of global sales,
+10 seed companies accounted for 70% of world sales, 2 ce-
+real production companies had 75% of the world market
+and 3 food retail companies handled 80% of the world’s
+food transport. He called for the CAP to focus on food
+safety and consumer protection and promote the quality
+and healthiness of food products, noting the growing role
+organic food production was acquiring in the EU.
+
+Risk assessment and policy making were addressed
+by Professor Erik Millstone (Agriculture and environmen-
+tal protection).
+
+Professor Millstone (University of Sussex, UK) addressed
+the mechanisms for policy-making on the environment
+and agriculture, where science plays an important role
+in addressing the long-term consequences of proposed
+policy options. He underlined the impossibility of having
+predictive measures based on scientific assertions for en-
+vironmental or agricultural policies and called for socio-
+cultural considerations to play a role in assessing new
+technologies. Professor Millstone referred to the role
+played by risk assessment in the decision-making pro-
+cess and called for a democratic and ethically sound ap-
+proach to environmental and agricultural policy reform.
+
+The ethical implications of industrialised biotechnol-
+ogy were presented byCh ristoph Then (The industrial
+gene paradigm and its [ethical] implications).
+
+According toMr Then (consultant for Greenpeace), mod-
+ern genetics was introducing new genetic models that
+largely ignore the link between the complexity of living
+beings and the environment (genomics, proteomics). He
+argued that the use of biotechnology in the agro-food
+sector might have detrimental ethical implications, such
+as (1) disrespect for life, (2) exposure to new risks (some-
+times of an irreversible nature and which may be over-
+looked during the risk assessment procedure), (3) the risk
+of monopolies due to current patent systems. He stressed
+the need to abandon the gene paradigm based on mech-
+anistic views, and called for a holistic, more transparent
+and democratic process in designing policies in the agro-
+food sector.
+
+The industrial perspective was presented by DrNa th-
+alie Moll (Ecologically, environmentally and socially sus-
+tainable agriculture: the role of GMOs).
+
+Dr Moll (EuropaBio) addressed the complex architecture
+of the EU’s food and environmental policies. She under-
+lined the need to increase the productivity of arable land
+for food production and argued that a sustainable policy
+in the agro-food field should equally incorporate eco-
+nomical, social and ecological considerations. Dr Moll ex-
+plained that the use of agro-biotech crops in the EU had
+reduced spray pollution by 40% and herbicide-resistant
+crops had allowed active herbicide ingredients to be cut
+by 25-33% and CO
+emissions to be reduced by 1.2 billion
+2
+kg. She presented data on increased incomes for farmers
+using GM crops and increased production yields.
+
+6. The general debate
+
+Following the afternoon presentation, a debate on sus-
+tainability and modern agriculture was launched. Issues
+addressed included the following:
+
+•
+
+The need for marketing affordable quality food with
+proper labelling was stressed by several partici-
+pants. Individual choice in the consumption of food
+products was claimed to be a key value that had to
+be respected.
+
+10
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Some pointed to the adverse effects of the ban of
+chemical products (DDT) on the production of food
+products. Some also said that at global level, the ban
+on DDT had increased malaria epidemics.
+
+The need to include users and consumers in the
+decision-making process was stressed by several
+participants. The increase in food prices, particularly
+the costs of raw materials, affected the daily lives of
+consumers’ and farmers alike and contributed to an
+increase in economic inequalities rather than facili-
+tating food security and fair distribution. The need
+to reduce food waste was also stressed.
+
+Issues related to IPR (plan variety and GM crops) and
+the risks of monopolies, including the impact on inno-
+vation and growth of local economies in developing
+countries, were raised by several participants. Other
+participants argued that the moratorium on GM crops
+led to monopoly on the part of multinationals.
+
+The role of the precautionary principle in industrial-
+ised agriculture for the EU’s position on green bio-
+tech and food production was underlined.
+
+Promising technologies mentioned during the
+round table included: mutation reading and mar-
+ket system breeds, hybrid seed production, ICT, en-
+zymes, robotics, and nanotechnology.
+
+Food security policies were recognised as playing
+an important role in security and migration policies
+(migration to the EU to escape food crises in other
+regions of the world).
+
+It was argued that sustainability in agriculture should
+also include innovation and take into account other
+industrial sectors (e.g. chemicals industry).
+
+The need to find a balance between the sustainable
+use of biomass for food production and the produc-
+tion of biofuels and bioethanol was stressed. Some
+stated that the second generation of biofuels could
+play a positive role in the EU’s energy and environ-
+mental policies.
+
+Additional topics raised included:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+The need to promote education and research in the
+agro-sciences.
+
+The need to respect animal welfare considerations
+in animal breeding.
+
+The need for changes in life style and dietary habits.
+Some argued that a decrease in meat consumption
+would have a positive impact on global hunger, en-
+vironmental protection and animal breeding.
+
+Nanotechnology, cloning, patenting, contamination
+and coexistence as issues of major relevance for EU
+farmers and the revision of the CAP. Other issues of
+major significance in this revision included afford-
+ability, availability, and consumer choice (including
+providing cheap food for those demanding it).
+
+Biodiversity, the impact of technology, and owner-
+ship of seeds as major issues that merit proper atten-
+tion and an ethical approach.
+
+Maurizio SALVI, Ph. D.
+Head of the EGE Secretariat
+
+The video of the round table (English) is available on the EGE Website
+(http://ec.europa.eu/european_group_ethics/index_en.htm).
+The presentations by the invited experts
+are enclosed in the conference proceedings.
+
+11
+
+Ethics of modern developments in
+agriculture technologies
+
+Programme
+
+18 June
+
+9H30
+
+9H50
+
+10H10
+
+10H30
+
+Welcome address and Introduction to the EGE
+Round Table by Professor Göran HERMERÉN,
+President of the EGE, and Graça CARVALHO,
+Principal Adviser of the Societal Group of the
+Bureau of European Policy Advisers (BEPA)
+
+Presentation (10 min.) by Ms Rajeswari RAINA,
+senior research fellow, Centre for Policy Research,
+New Delhi, India
+‘Modern agricultural technologies — Ethics, policy
+choices and the IAASTD findings (International
+Assessment of Agricultural Knowledge, Science and
+Technology for Development)’
+Followed by discussion (10 minutes)
+
+Presentation (10 min.) by Mr Karsten Klint JENSEN,
+Life Sciences Dept., University of Copenhagen,
+Denmark
+‘Food production and sustainability’
+Followed by discussion (10 minutes)
+
+Presentation (10 min.) by Mr Günther EBERZ,
+Environmental & Scientific Affairs, Bayer CropScience
+‘Innovative agriculture to meet basic needs
+of life’
+Followed by discussion (10 minutes)
+
+10H50
+
+Presentation (10 min.) by Mr Wilhelm GRUISSEM,
+Professor ETH Zürich, EPSO
+‘New Technologies and Agriculture for the Future’
+Followed by discussion (10 minutes)
+
+11H10
+
+Coffee break
+
+13H00 – 14H30
+
+Lunch break
+
+14H30 Welcome address to the EGE Round Table by
+
+Professor Göran HERMERÉN, President of the EGE
+
+14H40
+
+15H00
+
+Presentation (10 min.) by Mr Eric DRÉSIN,
+Food and Water Watch Europe
+‘Strengthening consumer health
+through sustainability’
+Followed by discussion (10 minutes)
+
+Presentation (10 min.) by Mr Erik MILLSTONE,
+Professor of Science and Technology Policy,
+University of Sussex, UK
+‘Agriculture and environmental protection’
+Followed by discussion (10 minutes)
+
+15H20
+
+Coffee break
+
+15H40
+
+16H00
+
+Presentation (10 min.) by Mr Christoph THEN,
+consultant for Greenpeace
+‘The industrial gene paradigm and its [ethical]
+implications’
+Followed by discussion (10 minutes)
+
+Presentation (10 min.) by Ms Nathalie MOLL,
+Executive Director of Green Biotechnology Europe,
+EuropaBio
+‘Ecologically, environmentally and socially
+sustainable agriculture: the role of GMOs’
+Followed by discussion (10 minutes)
+
+16H20
+
+Discussion chaired by EGE — contributions from
+participants
+
+11H30
+
+Discussion chaired by EGE — contributions from
+participants
+
+17H30
+
+EGE Members —
+Reactions to stakeholders’ comments
+Closing comments from EGE members
+
+12H40
+
+EGE Members —
+Reactions to stakeholders’ comments
+Closing comments from EGE members
+
+18H00
+
+End of Round Table
+
+13
+
+Presentations
+
+Ethics of modern developments in
+agriculture technologies
+
+15
+
+Ethics of modern developments in
+agriculture technologies
+
+Göran HERMERÉN
+
+President of the
+European Group on Ethics
+
+Professor Göran Hermerén is professor of medical
+ethics at the faculty of medicine, Lund University. He is
+President of the European Group on Ethics since 2002.
+
+He is a member of the Swedish National Council on Med-
+ical Ethics and has served on many governmental com-
+missions and as referee for international journals.
+
+Professor Göran Hermerén is chairman of the ethics com-
+mittee of the Swedish Research Council, Stockholm and
+of the Advisory Board of the German reference Centre for
+Ethics in the Life Sciences DRZE in Bonn. He was a former
+member of the Steering Committee for Bioethics (CDBI)
+
+of the Council of Europe and of the Bioethics Committee
+of the Nordic Council of Ministers and has contributed
+to several governmental Commission reports in Sweden
+on problems of biomedical ethics.
+
+Professor Göran Hermerén is author of papers and books
+on ethical problems in various areas mainly medical re-
+search and health care. His current research interests in-
+clude priorities and allocation of resources in health care
+as well as ethical aspects of genetic testing, care at the
+end of life, nanotechnologies, priority setting and stem
+cell research.
+
+17
+
+Opening by
+Professor
+Göran Hermerén
+
+First of all, on behalf of the EGE I want to extend a warm
+welcome to all of you. The task of the EGE is to provide
+advice to the European Commission on ethical aspects
+of science and new technologies in connection with the
+preparation and implementation of Community legisla-
+tion or policies.
+
+As many of you know, the EGE is now preparing an opin-
+ion on ethical aspects of new (and some older) technolo-
+gies in agriculture which are relevant to — in the sense
+of promoting or hindering — food security and sustain-
+ability in particular.
+
+Ege working methods and the role
+of round tables
+
+We prepare our opinions by having internal working
+meetings, by inviting experts to hearings, sometimes by
+commissioning special studies on certain aspects of the
+background, by public consultations via the web and by
+round tables such as this one.
+
+Round tables are an important part of this process, as
+they allow NGOs and stakeholders to express their views,
+which will provide an important input to our work. The
+round tables also help to establish a dialogue between
+different stakeholders and to promote transparency. The
+focus of this round table is on dialogue.
+
+We are still in the process of preparing the Opinion, other-
+wise it would be pointless to have this round table. As
+you know, our opinions are divided into different parts,
+including background, concerns and recommendations.
+
+The background
+
+as to the background, it is essential for us to have correct
+information about the state of the art, including about
+what is produced on arable land, where and how, how
+what is produced is stored and distributed from where,
+to whom and how, as well as when and where what is
+distributed is sold (at what prices, with which subsidies,
+import and export taxes, etc.).
+
+In our reports, we also express a number of concerns and
+put forward suggestions as to how they should be dealt
+with. Of course, the concerns are relative to underlying
+values. If the EU, a Member State or an agency wants to
+avoid or achieve certain things, some current develop-
+ments may give rise to concerns. If, however, they want
+to achieve other things, the situation may well be differ-
+ent. That is why these underlying values and goals have
+to be made explicit.
+
+As you know, the topic is very timely, and the media have
+reported about international congresses on this theme.
+We welcome contributions on all aspects of this com-
+plex problem. But what we hope is that the discussions
+today will highlight at least the following dimensions of
+the problem: the goals, the means to achieve the goals,
+and the regulatory landscape.
+
+The goals
+
+which are the goals of agriculture? Whose goals are they?
+Here, we may distinguish between three types of goals.
+First, there are general overarching goals such as increas-
+ing life expectancy and the quality of life. Agriculture can
+contribute to these overarching goals by providing more
+food, better food, and safer food. These aims illustrate
+the more specific goals of agriculture. In addition, there
+are other particular goals, not only for agriculture, such
+as promoting sustainability and providing food security.
+
+These goals, and conflicts over them, are related to how
+arable land is used and to how what is produced on ara-
+ble land is stored and distributed. What kind of products
+is arable land used to produce? We discuss these goals in
+a European context and setting, but the global dimen-
+sion is ever-present.
+
+In this discussion we need to pay some attention to the
+relationships between these different kinds of goals. First
+of all, the goals have to be clarified. The key terms have
+to be defined. The choice of definitions, e.g. of ‘sustain-
+ability’, is not ethically neutral. Second, conflicts and ten-
+sions between the various goals have to be identified.
+
+18
+
+Arable land is finite. Some of the conflicts have to do with
+competing uses of arable land. It is used for the production
+of food, feed, fuel, and fibre (such as cotton). As you all know,
+competition and a number of other factors have caused ris-
+ing food prices and difficulties for developing countries.
+
+Sustainability and food security are also related to the
+methods used to achieve the various goals.
+
+The methods
+
+The next dimension has to do with the methods used
+to achieve the goals mentioned above. Which methods
+are used or could be used? Different classifications are
+possible, but the important point in the present context
+is whether the methods used help or make it difficult
+to achieve food security and sustainability — which, of
+course, will need to be defined and clarified.
+
+The methods used to achieve the goals may be of sev-
+eral kinds, for example,
+
+• mechanical (use of tractors)
+
+•
+
+•
+
+•
+
+•
+
+•
+
+chemical (use of fertilisers)
+
+genetic (genetic modification of seeds)
+
+or may involve the use of information technologies
+
+others (for example irrigation)
+
+as well as combinations of these.
+
+But we should not forget the importance of the storage
+and distribution aspects. These problems can be han-
+dled in different ways, which may have an impact on
+food security and sustainability.
+
+ing in the developed and developing world. In other
+words, we should in our discussions consider not only
+their technical or biological consequences, but also their
+social and structural impact on farming in different parts
+of the world, given present trends and policies (taxes,
+subsidies, speculation, etc.).
+
+Whatever the methods, their uses — and the conse-
+quences of their uses — have thus to be evaluated with
+an eye in particular to the extent to which they will af-
+fect food security and sustainability. We may ask — and
+here we will listen carefully to your thoughts — whether
+adequate methods do or do not exist, whether the exist-
+ing methods are counter-productive, whether they are or
+are not enough, or whether there are important negative
+side-effects of certain methods for food security and sus-
+tainability, which need to be countered, and if so, how.
+
+Regulations
+
+A third dimension is the regulatory landscape. It is an im-
+portant part of the background, with implications also for
+our concerns and recommendations. Goal-setting and
+R&D for agriculture take place in an environment regulated
+by national laws, international treaties, trade agreements
+etc., ranging from EU Directives, GMO bans and patent
+conventions to Doha rounds and WTO agreements.
+
+The regulations impose restrictions on both the goals
+and the methods. So the regulations need to be identi-
+fied and discussed. What are they? Are there problems
+with conflicting regulations, unclear regulations, or part-
+ly overlapping regulations that have a negative impact
+on legal certainty, on the possibility to predict what will
+happen in future court cases?
+
+Finally
+
+Thus, we do not want to focus exclusively on GM food.
+
+From an ethical point of view, it will also be important
+to raise the question of who has access to these meth-
+ods, and how their use will affect the structure of farm-
+
+Finally, identifications of actual or potential problems
+will be welcome, as well as suggestions as to what to do
+about them. Thank you again for coming and we look
+forward to listening to your presentations and to the dis-
+cussions today.
+
+19
+
+Ethics of modern developments in
+agriculture technologies
+
+Maria DA GRAÇA
+CARVALHO
+
+Principal Adviser to the
+Bureau of European Policy Advisers
+
+Professor Maria da Graça Carvalho is a Principal Ad-
+viser to the Bureau of European Policy Advisers where
+she coordinates the areas of Science, Higher Education,
+Innovation, Information Society, Energy, Transport, Envi-
+ronment, Space and Security Research Policy and Sus-
+tainable Development.
+
+Professor Maria da Graça Carvalho is a Full Professor at the
+Mechanical Engineering Department of IST-Instituto Su-
+perior Técnico (Technical University of Lisbon) since June
+1992. She has participated in and coordinated a large
+
+number of international R & D Projects and is author of nu-
+merous articles in scientific international journals as well
+as for books, international conferences and seminars.
+
+Professor Maria da Graça Carvalho was Minister of Sci-
+ence and Higher Education of the XV Constitutional Gov-
+ernment of Portugal and Minister of Science, Innovation
+and Higher Education of the XVI Constitutional Govern-
+ment, Director-General of GRICES-Office for Internation-
+al Relations in Science and Higher Education and Deputy
+President of the Portuguese Association of Engineers.
+
+21
+
+Opening by
+Maria Da Graça
+Carvalho
+
+Distinguished Members of the European Group on the
+Ethics of Science and New Technologies, distinguished
+colleagues, ladies and gentlemen, thank you for attend-
+ing this round table organised by Bureau of European
+Policy Advisers.
+
+It is as always a pleasure to see that a dialogue platform
+bringing together so many relevant and different stake-
+holders can be established to discuss a so complex and
+heterogeneous issue as the ethics of modern develop-
+ments in agriculture technologies.
+
+As you all know, sustainable agriculture, food security
+and globalisation have become core issues in the current
+political debate in the European Union and beyond.
+
+We are experiencing an unprecedented rise in the prices
+of food and oil, also facilitated by financial speculation,
+climate change and world population growth, which
+has affected the global economy and provoked hunger,
+social instability and inflation in different regions of the
+world. A phenomenon which seems destined to grow.
+
+Today, modern agriculture feeds six billion people. Over
+the next 50 years, the amount of food will have to double
+in order to feed the world’s population, which is expected
+to grow to nine billion. A growth that will put pressure on
+a range of resources, including land, water, oil, and food
+supply. Urgent measures to ensure food security and sus-
+tainability are therefore needed at EU and global level.
+
+A few weeks ago, on 5 June 2008, the delegates to the
+Rome Food Security Summit, 181 nations and more than
+40 Heads of State and Government, announced their
+increased commitment to the fight against hunger and
+to agricultural development. The financing announced
+during the Summit included around US$8 billion. The EU
+is part of this effort. The EU Ministers of Agriculture have
+decided to double EU development aid by 2015, thus
+reaching a total amount of €120 billion of aid per year.
+
+But development aid, while being an expression of soli-
+darity, does not in itself solve the problem of how to ar-
+rive at a sustainable, ethically sound and innovative de-
+sign for modern agriculture at EU and global level.
+
+The question is then ‘how to build a modern EU agricul-
+ture that respects European values while ensuring ef-
+fective and sustainable growth, within the EU and with
+third parties?’ The EGE has been asked by President Bar-
+roso to contribute to a response to such a complex and
+heterogeneous issue.
+
+Ladies and gentlemen, the Common Agricultural Policy
+(CAP) has been a key policy pillar of the European Union
+since its origins. It was originally conceived to expand
+production and provide secure food supplies to Euro-
+peans following the food crisis after the Second World
+War. Now, after more than 50 years, we have a ‘new’ food
+crisis at world level.
+
+Higher prices for food and oil have increased EU infla-
+tion, affecting the daily lives of EU consumers and EU
+trade. A solution cannot then be postponed.
+
+We should remember that agriculture alone occupies
+around 5% of the EU population and accounts for 20%
+of average EU household consumer expenditure and
+a large proportion of the internal trade and exports of
+the EU. It is therefore not only a key economic sector of
+the EU, but is also an economic sector with an extremely
+high social and political importance.
+
+Inputs to help design a responsible, ethically sound and
+sustainable policy for EU agriculture are therefore of pri-
+mary importance for the EU’s economic welfare, the role
+the EU plays in global trade and the social dimension of
+the EU. Equality, health, social cohesion, solidarity, inter-
+generational justice, environmental protection, the right
+to food, etc. are all relevant values that cannot be ignored
+in modern agriculture in the EU, where innovation should
+be balanced against sustainability, where globalisation
+and trade should be linked to ethics and human rights,
+including the right to food and the Millennium goals.
+
+But the complexity of the issue discussed today points
+to an intrinsic difficulty in finding unequivocal and com-
+prehensive solutions for bringing about a sustainable,
+safe and equitable industrial agriculture. Dialogue and
+pluralism are therefore the key to identifying the best
+options to put forward on the EU policy agenda.
+
+22
+
+Ladies and gentlemen, in 2007 the EU adopted specific
+short-term measures to reduce the prices of agricultural
+products in the EU, such as increasing the volume of ar-
+able land by abolishing mandatory set-aside, increasing
+milk production quotas for 2008, reducing buffer stocks
+and export refunds, and suspending import duties on
+almost all cereals.
+
+In the current ‘health check’ of the EU common agricul-
+tural policy, the options being considered include: abol-
+ishing the set-aside requirement, gradually abolishing
+milk quotas by 2015, adjusting market price aid in the
+cereal sector, and making the transition from support
+for energy plants to more effective solutions to bolster
+the bio-energy sector — without, however, adversely
+impacting on the production of foodstuffs and feeding-
+stuffs — including the production of second-generation
+biofuels.
+
+In addition, the Commission has recently adopted Com-
+munications on food prices, energy, and oil prices. It is
+therefore trying to pro-actively address the complexity
+of the issues discussed here. Now we need inputs on em-
+bedding ethics within modern agriculture technologies
+and arguments to consider for the forthcoming reform
+of the CAP.
+
+The EGE is not being asked to look at the political con-
+siderations behind the reform of the CAP, which is not
+its role or remit. But the Opinion and today’s platform
+debate will certainly help ensure a proper reflection on
+how to promote modern agriculture while respecting
+fundamental EU values.
+
+Thank you for your patience.
+
+23
+
+Ethics of modern developments in
+agriculture technologies
+
+Rajeswari RAINA
+
+Rajeswari S. Raina is a researcher in the social study of
+science, specialising in agricultural and rural innovation.
+She has a background in the agricultural sciences (B.Sc.
+Ag.), marketing management (M.Sc. Ag.), and econom-
+ics (Ph.D.). Until early 2005, she was a scientist with the
+National Institute of Science, Technology and Develop-
+ment Studies (NISTADS, CSIR, Government of India).
+
+Her current research focuses on institutional reform and
+policy research as well as policy capacities for (a) poverty-
+relevant innovation in India, (b) bio-innovation systems
+in Asia, and (c) the agriculture-environment interface. As
+a widely published author in the social study of agricul-
+tural S&T and rural innovation, and as a policy analyst, she
+conducts assessments for international organisations in
+agricultural and rural development, NGOs, and private-
+
+and public-sector firms. Recent assignments have been
+for the International Assessment of Agricultural Science
+and Technology for Development, the National Knowl-
+edge Commission and the Planning Commission (Govt.
+of India), the Science Council of the CGIAR (Rome), the
+Rice-Wheat Consortium (CIMMYT-IRRI), United Nations
+University — INTECH (Maastricht), Natural Resources In-
+ternational (UK), INRA (Paris), etc.
+
+As a member of academic associations and research and
+development groups she maintains active links between
+complex rural realities, R&D and policy arenas. She has
+organised several interdisciplinary workshops, bringing
+social sciences research and natural/physical sciences
+research together, capacity-building workshops and na-
+tional and international assessments.
+
+25
+
+Modern agricultural
+technologies – Ethics,
+policy choices and the
+IAASTD ﬁndings
+
+Rajeswari S. RAINA
+
+Introducing the IAASTD
+
+A normative ethical position has driven the international
+assessment of agricultural science and technology for
+development (IAASTD). Hunger, poverty and environ-
+mental degradation are unethical — they ought to end.
+
+What the IAASTD gives in answer to this ethical posi-
+tion is a set of findings. Agricultural knowledge, sci-
+ence and technology (AKST) can reduce hunger and
+poverty, as well as help in the conservation of natural
+resources and wider environmental systems, if current
+systems of knowledge generation, access to and af-
+fordability of knowledge and technology, and utilisa-
+tion patterns change.
+
+The translation of a normative ethical position into
+a process of assessment makes the IAASTD a unique
+process. During 2003, eleven consultations were held
+under the aegis of an international multi-stakeholder
+steering committee, involving over 800 participants
+from all relevant stakeholder groups, e.g. govern-
+ments, the private sector and civil society. Based on
+these consultations, the steering committee recom-
+mended to an intergovernmental plenary meeting in
+Nairobi — September 2004 — that an international as-
+sessment of the role of AKST in reducing hunger and
+poverty, improving rural livelihoods and facilitating
+environmentally, socially and economically sustainable
+development was needed. The concept of an IAASTD
+was endorsed as a multi-thematic, multi-spatial, multi-
+temporal
+inter-governmental process with a multi-
+stakeholder bureau, and was co-sponsored by the FAO
+(UN), the GEF, UNEP, UNDP, UNESCO, the World Bank,
+the EU, and the WHO, as well as some developed coun-
+tries. Over 400 authors were selected — each one ap-
+proved by the Bureau — and worked over 2005-2008,
+giving their time to the assessment.
+
+I make this presentation to the European Group on Eth-
+ics as one among 400 authors who have willingly given
+their time and energy to this process, millions who have
+faith in science and human ingenuity, and billions of citi-
+zens whose governments endorsed, approved and ac-
+cepted the IAASTD reports.
+
+(IAASTD Global Report, five sub-global reports and IAASTD
+Synthesis Report — please see www.agassessment.org
+for further details)
+
+Ethics and IAASTD findings
+
+The goals of the IAASTD were (see slide 2) different from
+those of other (domestic and international) assessments
+of agricultural S&T that we as decision-makers and aca-
+demics have been involved with. For instance, the as-
+sessment was not about the impact of natural resource
+management on groundwater or soil erosion, or of ge-
+netic engineering on pest incidence in corn or soya, nor
+about the impact of trade on agricultural GDP or farm in-
+comes. It had to consider empirical evidence relevant to
+its goals: inter-temporal, inter- and multi-sectoral, multi-
+spatial, and multi-cultural evidence.
+
+The IAASTD merely presents findings against goals
+guided by normative ethics. For us today, it is impor-
+tant to underscore the implications of these findings
+for policy making — for ethically informed choices in
+the practice of and policies for modern science and
+technologies in agriculture.
+
+We must note that it would have been an ethical choice
+many centuries ago for a Roman senator not to own
+slaves, several decades ago for an American cotton farm-
+er not to own black people as part of his farm (labour)
+inputs, and, till recently, for an Indian family farm not to
+use bonded labour or employ children in their farms. The
+might of the Roman empire across continents, the pro-
+ductivity of American cotton or the success of the green
+revolution were not sufficient justification to legitimise
+the suffering of slaves or children — those affected by the
+duties of the senators or farmers to their states and fami-
+lies. Civil wars, social movements and informed choices
+have led to appropriate institutions (laws, rules, norms,
+habits and behavioural changes) making these unethi-
+cal practices formally illegal. (Historically, the growth of
+knowledge — in both the natural and social sciences
+— has gained tremendously from these institutional
+changes and ethical choices.) Agriculture now awaits
+similar ethical choices that will lead to appropriate insti-
+
+26
+
+tutions and knowledge systems. Currently, it is an ethical
+choice for millions of consumers, producers and policy-
+makers not to use modern science and technology that
+does not reduce hunger and poverty and adds to envi-
+ronmental degradation.
+
+The IAASTD findings are summarised in a brief presenta-
+tion made at the global press launch (also in www.agas-
+sessment.org) — given asha ndouts today.
+
+The findings highlight that social and economic inequity
+as well as environmental quality is worsened by the in-
+appropriate and undemocratic choice of technology and
+institutional arrangements (like property rights, trade
+rules, banking practices, etc.) that may not be appropriate
+for local contexts and are likely to worsen (given the risks)
+the economic and (given the uncertainties) environmen-
+tal conditions of those affected by these technologies.
+
+Policy decisions and technology choices
+
+Let us take a look at two controversial modern S&T issues
+that the IAASTD confronted — water and biotechnology.
+
+Water — based on the empirical evidence of increasing
+water withdrawal (from surface and groundwater sourc-
+es) for irrigated agriculture, the continuing pollution
+(and eutrophication) of water sources and the demand
+for water to produce to feed increasing populations, the
+IAASTD presents a balanced assessment of the current
+water crisis in agriculture and multifunctional perspec-
+tives on water, agriculture, the environment, trade and
+overall economic activities.
+
+The reports, despite a wide difference in regional contexts,
+
+•
+
+Emphasise the need for new paradigms in AKST to
+understand and utilise natural resources (especially
+water) for socially and environmentally sustainable
+development. Holistic systems approaches, agro-
+ecological sciences, and capabilities within S&T for
+working across multiple scales and different social
+and physical systems are necessary, but are cur-
+rently inadequately supported. AKST investment
+
+•
+
+•
+
+•
+
+in dryland agriculture and crop-livestock systems
+is highly inadequate and follows the limited green
+revolution paradigm.
+
+Present empirical evidence, in all the five sub-global
+reports, pointing to unsustainable production tech-
+nologies and associated water use practices — a
+second green revolution especially in Africa will be
+unsustainable. What is needed is a real green revo-
+lution based on the holistic integration of natural
+resource management with other systems of pro-
+duction technologies, markets and local govern-
+ance. The ESAP, NAE and CWANA reports highlight
+the need for the appropriate pricing of water, and
+institutional support for the use of modern resource
+conservation technologies.
+
+Present evidence of rural infrastructure and other
+complementary investments that enable access to
+and utilisation of water within localised ecosystems.
+There is a need for modern science (for instance,
+molecular biology and genetics) to understand
+stress and stress response, as well as indigenous and
+traditional conservation practices.
+
+Highlight the impact of current crop-water and crop-
+livestock use patterns on increasingly economically
+unviable and unsustainable farming, local adaptive
+responses and management systems in small-scale
+farming, increasing inequality, and the responses
+necessary to help mitigate and adapt to water stress
+(floods and droughts, increasing temperature win-
+dows for crops, etc.) climate change.
+
+Biotechnology — drawing upon the definition in the
+Cartagena Protocol on Biosafety — involves a wide ran-
+ge of technologies. There are several discussions about
+conventional vs modern biotechnology.
+
+The IAASTD notes that modern biotechnologies used in
+containment (enzymes, DNA diagnostics, etc.) are wide-
+ly accepted. The application of modern biotechnology
+outside containment — for instance GM crops — is con-
+tentious. Evidence is often controversial, and selectively
+used — by industry, public sector R&D organisations,
+
+27
+
+and NGOs — each with their own stakes in mind. The
+IAASTD presents a balanced view given its goals. It
+
+•
+
+•
+
+•
+
+•
+
+Emphasises the need for more and better targeted
+investment in biotechnology. For example, marker-
+aided selection (MAS) in plant breeding, platform
+technologies, DNA diagnostics or chips for the
+screening of planting material, nanotechnology for
+targeted input delivery or pathogen elimination,
+etc. etc.
+
+Highlights the rapid pace of change in biotechnol-
+ogy — assessments lag behind development and
+application. There is a need for more transparent
+and non-anecdotal (whether from poor farmers,
+public sector scientists or industry) communication
+on the benefits and the costs, risks and uncertain-
+ties that cut across systems within agriculture and
+across different sectors (health, rural infrastructure,
+environment, etc.). Transgenics do not contribute to
+addressing the IAASTD goals.
+
+Discusses the ways in which the institutions (IPRs,
+seed laws, trade restrictions or globalisation) that
+living material and processes that trans-
+control
+form living material into commercially appropriable
+products and processes lead to negative (and highly
+skewed) impacts on basic science, personnel or hu-
+man resources in agricultural science, the exchange
+of and access to seed/genetic material, and the capac-
+ities of people (especially small farms) to choose ap-
+propriate technologies, crops and cropping systems,
+and ultimately of governments to comprehend and
+intervene in the scientific, economic, environmental
+and social aspects of agricultural production.
+
+Highlights how modern biotechnology can be ef-
+fectively integrated with and make contributions
+to participatory plant breeding, agro-ecology, re-
+source-poor drylands and coastal ecosystems, etc.
+Most importantly, the agricultural and allied-sector
+applications of modern biotechnology — in food
+processing,
+leather and other animal products-
+based industries, and other manufacturing activities
+is crucial for rural employment and incomes in many
+
+developing countries. Fundamental knowledge
+of biological components and systems where the
+tools/processes of biotechnology are useful will be-
+come increasingly important in order to understand
+climate change impacts and responses.
+
+Ethical positions
+
+For decision-makers, the IAASTD offers a set of norma-
+tive principles providing a basis for taking decisions on
+modern science and technology. The utilitarian approach
+(embodied in neo-classical economics and its evaluation
+methods) is not sufficient to make decisions about mod-
+ern S&T in agriculture, when there is empirical evidence
+that millions of rural poor and soil, water and forest sys-
+tems are adversely affected by certain modern technolo-
+gies. Power relationships are crucial. They have to be
+understood as ethical or moral issues in modern S&T —
+the ways in which the scientifically and technologically
+well-endowed exert power over the millions who have
+no power to choose, control, monitor or assess the tech-
+nologies and information systems that determine what
+they cultivate, eat, sell or exchange (on unequal playing
+fields). At the very least, it is imperative to ensure that
+modern technologies do not destroy (or have the poten-
+tial to destroy) other knowledge systems that modern
+S&T has not bothered to study or engage with.
+
+Finally,
+it is important that decision-makers see the
+IAASTD as a beginning. It builds on and adds value to
+a number of recent assessments and reports that have
+provided valuable information relevant to the agricul-
+tural sector, but have not specifically focused on the
+future role of AKST, the institutional dimensions and
+the multifunctionality of agriculture. These include: the
+FAO’s State of Food Insecurity in the World (yearly); the
+InterAcademy Council Report: Realising the Promise and
+Potential of African Agriculture (2004); the UN Millen-
+nium Project Task Force on Hunger (2005); the Millen-
+nium Ecosystem Assessment (2005); the CGIAR Science
+Council Strategy and Priority Setting Exercise (2006); the
+Comprehensive Assessment of Water Management in
+Agriculture: Guiding Policy Investments in Water, Food,
+Livelihoods and Environment (2007); the Intergovern-
+
+28
+
+mental Panel on Climate Change Reports (2001 and
+2007); the UNEP Fourth Global Environmental Outlook
+(2007); the World Bank’s World Development Report:
+Agriculture for Development (2007); the IFPRI Global
+Hunger Indices (yearly); and the World Bank’s Internal
+Report of Investments in SSA (2007).
+
+There are public sector research organisations, public
+sector and private sector industry, civil society, the si-
+lent poor and their (equally disenfranchised) ecosys-
+tems, each with their own stakes — all equally deeply
+entrenched and difficult to change. The IAASTD puts
+forward findings that demand changes in all these ac-
+tors — the silent ecosystems and the poor who (scien-
+tific evidence points out) will be the worst affected by
+current systems of agricultural production, trade and de-
+velopment. Modern science and technology forms part
+of other informed choices that decision-makers have to
+confront, IF HUNGER, POVERTY AND ENVIRONMENTAL
+DEGRADATION ARE UNETHICAL.
+
+29
+
+Modern agricultural
+technologies – Ethics,
+policy choices and the
+IAASTD ﬁndings
+
+Powerpoint Presentation
+
+Modern agricultural technologies –
+Ethics, policy choices and the IAASTD
+findings
+
+Presentation made to the European Group on Ethics in
+Science and New Technologies
+Roundtable on the Ethical Aspects of
+Modern Developments in Agriculture Technologies,
+June 18th 2008
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+What is the IAASTD?
+
+• The International Assessment of Agricultural
+Science and Technology for Development
+• Assessment of the impacts of AKST on the
+
+following development goals: past, present and
+future
+
+• Reducing Hunger and Poverty
+Improving Rural Livelihoods
+•
+•
+Improving Nutrition and Human Health
+• Facilitating Environmentally, Socially, Equitable and
+
+Economically Sustainable Development
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+30
+
+IAASTD
+
+• Normative ethical position
+
+• HUNGER, POVERTY, MALNUTRITION &
+ENVIRONMENTAL DEGRADATION ARE
+UNETHICAL
+
+- especially when agricultural knowledge,
+science and technology (AKST) can help
+resolve these problems
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+Ethical choices
+
+• Historically – Slaves, Child labour
+Civil wars, social movements, etc.
+
+transnational treaties, national legislations,
+implementation capacities, monitoring and
+compliance mechanisms, etc. etc.
+
+The suffering of those affected by the duties of
+Roman senators, American cotton farmers,
+Indian family farms, demanded ethical choices +
+delegitimized certain accepted laws, rules and
+norms
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+31
+
+Ethical choices (contd.)
+
+• Now – Hunger, poverty, environmental degradation
+Variety of scientific, social, economic, and environmental
+movements/ alliances addressing these problems.
+
+AKST awaits similar treaties, legal and institutional
+
+changes, capacities, etc.
+pro-active legislation to support knowledge
+generation and application that reduces =
+legal regulatory mechanisms to delegitimize
+knowledge generation and application that adds
+to=
+
+==the suffering of those affected by the duties
+
+of some.
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+International assessment
+
+• Why?
+Transnational effects – as scientifically and
+
+democratically legitimate correctives of national
+legal systems and governance mechanisms
+
+• How?
+Cross-cutting transnational problems –
+
+-systems relationships
+-exclusion
+-knowledge
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+32
+
+From normative to applied ethics
+
+The normative ethical position, applied to the IAASTD -
+
+(i) Shapes the process
+Democratic values of representation, voice and
+
+authenticity
+The Bureau, the authors selected by the Bureau –
+representation by elected/selected representatives within
+‘nation states’ was not enough
+The voice of all relevant stakeholders and their genuine
+participation – to deliberate, question, provide evidence,
+and capacity to inform and make conclusions
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+(contd.)
+
+(ii) Informs the empirical evidence
+- collected and presented by multiple
+
+stakeholders
+
+- balanced presentation of evidence
+- references – only published traceable
+
+references
+
+(iii) Can shape applied ethics and policy
+
+choices
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+33
+
+The inescapable interconnectedness of
+agriculture’s different roles and functions (from the IAASTD ppt
+
+– www.agassessment.org)
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+Pathway to the current conception of
+modern agriculture (from IAASTD ppt)
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+34
+
+Modern agricultural technologies –
+IAASTD findings
+
+• Part of wider systems of AKST – embodied and
+
+embedded in social contexts
+
+• Multiple functions and roles of agriculture –
+
+yield/productivity included as one
+
+• Neglect several other locally adapted, traditional
+
+knowledge systems
+
+• Future - of agriculture, food, nutrition,
+
+environment, employment, society, economy,
+polity …
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+A critical challenge - Water
+Proportion of water withdrawal for agriculture 2001
+
+(from IAASTD ppt)
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+35
+
+Projected impacts of climate change (from IAASTD ppt)
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+Water
+
+• Crisis – quantitative and qualitative – allocation
+• Irrigation intensive production technologies +
+externalities +other systems, crops, contexts
+neglected
+
+• Evidence of alternatives - agro-ecological
+
+sciences, multi-scale bio–physical and social
+systems, traditional conservation practices +
+appropriate institutions - lessons for a real green
+revolution
+
+• Need modern technologies- - bio-physics, SRI,
+
+molecular genetics, nanotechnology +respond to
+new drivers of change
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+36
+
+Modern biotechnology in context (from IAASTD ppt)
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+Biotechnology
+
+• Definition- as in Cartagena Protocol on Biosafety
+• Selective use of biotechnology-appropriable
+
+Market led vs. Problem driven
+
+• Controversial, anecdotal evidence–assessments
+
+lag behind development, application
+
+• Skewed impacts on basic science, human
+resources, access, capacities, institutions
+
+• Inter- and intra- sectoral processes - options to
+be studied + Better, more targeted investments,
+processes needed (MAS, DNA diagnostics, etc.)
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+37
+
+Ethically informed policy choices
+
+• Whose deprivation and suffering can science
+
+and modern technology alleviate?
+
+• What are the modern (natural science and social
+
+science based) technologies and other
+knowledge systems that can help? What are the
+social/political systems in which they are
+located? Who has access? At what cost?
+
+• Whose actions improve or worsen the condition
+
+of ‘those affected’?
+
+• How can AKST address current concerns and
+
+future challenges?
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+IAASTD findings for ethics in
+modern agricultural technologies
+
+• Hunger, poverty and environmental degradation
+
+are unethical
+
+• Modern technologies - only one part of systems
+
+of knowledge and contexts
+
+• Power matters – those who decide and act vs.
+
+those who are affected
+
+• Ethically informed legal instruments, policy
+choices and investments can help AKST
+(modern technologies included) to solve these
+problems.
+
+Rajeswari S. Raina, CPR,
+New Delhi
+
+38
+
+Ethics of modern developments in
+agriculture technologies
+
+Karsten Klint JENSEN
+
+Karsten Klint Jensen was born in 1955. He was educat-
+ed at the University of Copenhagen (MA in philosophy
+1990, Ph.D. in philosophy 1997). He also studied at the
+Technical University and at the University of Copenha-
+gen’s Department of Economics.
+
+From 1993 to the present day, he has held a series of re-
+search posts, first at the Department of Philosophy at the
+University of Copenhagen, later at the Institute of Food
+and Resource Economics (formerly at the Royal and Vet-
+erinary University in Copenhagen and now University of
+Copenhagen) and presently at Forest and Landscape.
+Since its establishment in 2000, he has been connected
+to the interdisciplinary Danish Centre for Bioethics and
+Risk Assessment.
+
+His research lies primarily in ethical theory and applied
+ethics. A dominant theme has been the interface be-
+tween ethics and other disciplines, e.g. economics, deci-
+sion theory, animal welfare studies, environmental sci-
+ence, risk assessment and risk perception studies.
+
+He has participated in several major interdisciplinary re-
+search projects, covering fields such as ‘bioethics’, ‘ethical
+accounting for animal husbandry’, ‘landscape manage-
+ment’, ‘genetic modification of crops’, ‘risk perception of
+zoonoses’,
+‘participatory procedures and democratic
+legitimacy’ and ‘transparency’. A common denominator
+for his contributions to these projects is the uncovering
+of the values underlying disagreements.
+
+In recent years, he has primarily worked together with
+Martin Peterson (Luleå and Cambridge) in several research
+projects within the field of decision-making under risk and
+uncertainty, where he has published on both theoretical
+and applied aspects. Further publications are in progress.
+
+He serves as referee for Economics and Philosophy, Ethical
+Theory and Moral Practice, Pacific Philosophical Quarterly,
+Theoria, Journal of Risk Assessment & Management, Jour-
+nal of Social Philosophy, Journal of Food Safety and Jour-
+nal of Medical Ethics and is a member of the EAAP Ethics
+Working Group.
+
+39
+
+Sustainability and
+uncertainty: bottom-up
+and top-down approaches
+
+Karsten Klint JENSEN
+
+The widely used concept ofsu stainability is seldom pre-
+cisely defined, and its clarification involves making up
+one’s mind about a range of difficult questions. One line
+of research (bottom-up) takes sustaining a system over
+time as its starting point and then infers prescriptions
+from this requirement. Another line (top-down) takes
+as its starting point an economic interpretation of the
+Brundtland Commission’s suggestion that the present
+generation’s need-satisfaction should not compromise
+the need-satisfaction of
+It then
+measures sustainability at the level of society and infers
+prescriptions from this requirement.
+
+future generations.
+
+These two approaches may conflict, and in this conflict
+the top-down approach has the upper hand, ethically
+speaking. However, the implicit goal in the top-down
+approach of justice between generations needs to be
+refined in several dimensions. But even given a clari-
+fied ethical goal, disagreements can arise. At present
+we do not know what substitutions will be possible in
+the future. This uncertainty clearly affects the prescrip-
+tions that follow from the measure of sustainability.
+Consequently, decisions about how to make future ag-
+riculture sustainable are decisions under uncertainty.
+There might be different judgments on likelihoods; but
+even given some set of probabilities, there might be
+disagreement on the right level of precaution in face
+of the uncertainty.
+
+Keywords: Empirical Uncertainty, Goals and Means, Value
+Judgments
+
+Introduction
+
+‘Sustainability’ has become a notorious buzz-word, re-
+ferring to something undeniably good. No-one defends
+unsustainable development or unsustainable activities,
+just like no-one would call their position ‘undemocrat-
+ic’. However, the almost universal acceptance of the
+claim that development should be sustainable comes
+at a cost, namely that the concept has become almost
+empty. Different policy-makers appear to interpret the
+concept each in their own way, always keen to reaffirm
+the sustainability of their policy, regardless of its con-
+
+tent. But this means that it is very unclear what exactly
+the practical implications of sustainability are.
+
+Hence, there is a need to clarify the concept. However, any
+clarification will also make the concept more controversial.
+And of course, more than one clarification is possible. The
+differences between conflicting interpretations of ‘sustain-
+ability’ will uncover disagreements about value judgments
+as well as about empirical issues. This paper attempts to
+map the logic of some of the important disagreements.
+
+The concept of sustainability
+
+The first step is to recognise that sustainability is a norma-
+tive concept. Sustainability is a valuable state — a goal
+we should strive to realise. This means, firstly, that the
+only way to make the concept more precise is through
+reflection on what is valuable about sustainability and
+how this value relates to other important values. And
+secondly, analysis of the practical implications of sustain-
+ability presupposes that the concept has been clarified.
+It only makes sense to determine the necessary means
+to achieve a goal when the goal has been specified.
+
+Considerations as to the sustainability of activities date
+back to the late 19th century, where the question rose
+within forestry how to determine the maximum cut that
+could be sustained in the long term; later, similar consid-
+erations were developed within fisheries, and eventually
+they spread to many other areas. The underlying princi-
+ple was the constraint that the resource stock in ques-
+tion should be kept constant over time, and the simple
+prescription was to keep the harvest rate per year within
+some area smaller than or equal to the natural regenera-
+tion rate per year for the resource within the area.
+
+This is all right as far as it goes, but unfortunately it does
+not go very far. One line of research views a farm as a sys-
+tem engaged in exchange with its surroundings. If the
+farm is to sustain its production over time, keeping the
+resource stock constant over time is not likely to be suf-
+ficient. Roughly, the farm also needs to be sustainable in
+a social sense. Hence, this research takes the form of un-
+covering the expectations of all stakeholders with an in-
+
+40
+
+fluence on the farm’s survival over time (e.g., Kristensen
+& Halberg, 1997; Gibbon, 1997). This way of enhancing
+the concept of sustainability corresponds roughly to
+what Paul Thompson has dubbed ‘sustainability as func-
+tional integrity’ (Thompson, 1997).
+
+Another line of research originates in economics. From
+an economic point of view, the prescription to keep the
+resource stock constant over time leaves many questions
+unanswered. For one thing, many resources are non-re-
+newable. If they are to be used at all, it is by definition
+impossible to keep the stock constant over time. Econo-
+mists suggest answers along two lines (e.g. Solow, 1974;
+Hartwick, 1977). Firstly, a reduced stock of exhaustible re-
+sources can be compensated for by an increase in renew-
+able resources. This strategy assumes that substitution
+between different types of capital is possible. Secondly,
+through technological development it may become
+possible to achieve increasing efficiency in the use of re-
+sources and hence possible to sustain a constant level of
+welfare with a reduced stock of exhaustible resources.
+
+The economic analyses move from the simple prescrip-
+tion of keeping a single renewable natural resource stock
+constant to the more general prescription of keeping the
+welfare level at least non-decreasing. This is inspired by
+Brundtland (World Commission, 1987), who defined a sus-
+tainable development as a development that ‘meets the
+needs of the present without compromising the ability of
+future generations to meet their own needs’. Economists
+prefer to analyse this in terms of welfare rather than need
+satisfaction. The important point is, however, that if we
+are going to take substitution and technological devel-
+opment into account in order to make more general pre-
+scriptions, it is necessary to look at the value of resources,
+i.e. their potential to generate welfare or satisfy needs,
+rather than simply the stock.
+
+It is implicit in this move that ‘sustainability’ no longer
+can be applied to a single activity in isolation, such as
+a single farm or even farming; rather, we have to judge
+whether society at large and its development is sustain-
+able. Hence, I find it reasonable to dub this approach a
+top-down approach, because it starts by determining
+sustainability at the level of society, and then infers pre-
+
+scriptions for a single activity, given some technologi-
+cal stage. On the other hand, the systems approach is
+a bottom-up approach, because it starts out by inferring
+prescriptions for a single activity, and then reaches pre-
+scriptions for society at large by putting together the
+prescriptions for all relevant activities.
+
+Discussion and conclusions
+
+If the bottom-up approach is based on the implicit
+premise, as it often is, that the system in question should
+be sustained perpetually, or at least as long as the time
+horizon reaches, it may be in conflict with the top-down
+approach. The latter has, among other things, the impli-
+cation that an activity that at some time can be part of a
+sustainable society does not necessarily need to be part
+of it at a later time; for instance, because technological
+development may have made it superfluous or just too
+costly to maintain. From an ethical point of view, it is
+clearly the top-down approach that has the upper hand:
+whereas the claim that the level of welfare should not de-
+crease over time has great ethical weight, the claim that
+some isolated system, e.g. a farming practice, should be
+sustained over time has no ethical weight (although the
+farmer’s welfare of course should count).
+
+If we take a closer look at the ethical value implicit in the
+top-down approach, it seems clear that the objective is
+justice within and between generations. However, this
+objective needs refinement. One problem is whether the
+requirement of non-decreasing welfare over time repre-
+sents a too rigid form of equality between generations.
+Another, more important, problem concerns the issue of
+increasing population. The economic analyses referred
+to above assume a constant population over time. But if
+the population grows over time, as it is likely to do, and
+we understand sustainability as the requirement that the
+welfare level per capita should not decrease over time,
+this of course results in more stringent requirements for
+sustainability. As it happens, population ethics is riddled
+with problems, and no-one has so far been able to arrive
+at a reasonable concept of justice between generations
+with variable population sizes (Parfit, 1984). I shall have
+to leave this problem aside in the present context.
+
+41
+
+Given some clarified notion of justice, prescriptions for
+sustainability will depend on the rate of population
+growth, the rate of increased efficiency in the use of re-
+sources and the possible substitutions between types of
+resources. These are empirical questions, but at present
+we do not know for certain what the answers to them
+are. The economic discussion has uncovered disagree-
+ments about the likelihoods. We can roughly summarise
+this debate in the following table, where the strategies
+derived from the main rival assumptions about possible
+substitutions are listed as acts together with a rough de-
+scription of the consequences if each of these assump-
+tions are true:
+
+Table 1: Strategies in the face of uncertainty about substitution
+
+Acts
+
+States
+
+Unrestricted
+substitution
+
+Restricted substitution
+
+Keep total stock of resources
+constant
+
+Constant level
+of welfare
+
+Considerable reduction
+of welfare
+
+Natural resources
+cannot be substituted
+
+Ecological catastrophe
+
+Keep total constant &
+preserve critical resources
+
+Reduction of welfare
+
+Constant level of welfare
+
+Ecological catastrophe
+
+Keep stock of natural
+resources constant
+
+Extreme reduction
+of welfare
+
+Considerable
+reduction of welfare
+
+Constant level
+of welfare
+
+42
+
+Hence, there is an empirical disagreement about how
+to judge the likelihood of the different possibilities for
+substitution. But even given agreement about the like-
+lihoods, there might be disagreement about the right
+strategy in dealing with this kind of uncertainty about
+the future. A strongly precautionary approach would
+choose the act with the best worst outcome (i.e. the
+most stringent). A weaker type of precaution would
+consider the degree of likelihood and the seriousness
+consequences and then seek to balance the degree of
+precaution against its costs.
+
+Given the indeterminateness of the top-down approach
+and the uncertainty of its implications, we might want
+to turn to the bottom-up approach. It should not just be
+concerned with the expectation of present stakeholders,
+but should try to determine the implications of the gen-
+eral requirements of justice and sustainability. Hence,
+it too cannot avoid dealing with uncertainty, but still it
+might be easier to derive practical implications from it.
+
+REFERENCES — Gibbon, A., 1997. Addressing livestock farming systems’
+ecological sustainability at the regional level: an example from the Central
+Pyrenees. In J.T. Sørensen (ed.) Livestock farming systems: More than food
+production. EAAP Publication No 89, pp. 30-41. Hartwick J.M., 1977. Inter-
+generational equity and the investing of rents from exhaustible resources,
+American Economic Review 66: 972 – 974. Kristensen, E.S. & Hallberg, N.,
+1997. A systems approach for assessing sustainability in livestock farms. In
+J.T. Sørensen (ed.) Livestock farming systems: More than food production.
+EAAP Publication No 89, pp. 30-41. Parfit, D., 1984. Reasons and Persons.
+Oxford: Clarendon Press. Solow, R.M., 1974. Intergenerational equity and
+exhaustible resources. Review of Economic Studies, Symposium, pp. 29–
+45. Thompson, P., 1997. The varieties of sustainability in livestock farming.
+In J.T. Sørensen (ed.) Livestock farming systems: More than food produc-
+tion. EAAP Publication No 89, pp. 5-15. World Commission on Environment
+and Development, 1987. Our Common Future. Oxford University Press.
+
+43
+
+Sustainability and
+uncertainty: bottom-up
+and top-down approaches
+
+Powerpoint Presentation
+
+FOOD PRODUCTION
+AND SUSTAINABILITY
+
+Karsten Klint Jensen
+Danish Centre for Bioethics and Risk Assessment
+
+Brussels 18 June 2008 EGE Roundtable
+Slide 1
+
+Is Modern Agriculture Seeking Sustainable
+Development?
+
+There is no simple and uncontroversial answer:
+
+Value Uncertainty:
+’Sustainability’ itself is a contested normative concept
+A precise definition is bound to be controversial
+
+Empirical Uncertainty:
+The long term consequences of modern agricultural
+
+technologies are uncertain
+
+Ethical assessment will have to deal with these uncertainties:
+
+Clarify the goal of sustainability: 2 main approaches
+Determine the right attitude to empirical uncertainty
+
+Brussels 18 June 2008 EGE Roundtable
+Slide 2
+
+44
+
+The Concept of Sustainability
+
+Origin in forestry and fishery:
+
+• Harvest rate   natural regeneration rate
+
+Underlying principle:
+
+• Keep the resource stock constant over time
+
+This seems reasonable, but it does not take us very far
+
+The research has taken two directions
+
+Brussels 18 June 2008 EGE Roundtable
+Slide 3
+
+The ”Bottom-Up” Approach
+
+The farm as a system in exchange with its surroundings
+
+Under which conditions can the farm’s production be sustained
+
+over time?
+
+The farm should be sustainable in social sense:
+
+• It should meet the expectations of key stakeholders
+
+”Functional Integrity”
+
+Brussels 18 June 2008 EGE Roundtable
+Slide 4
+
+45
+
+Brundtland/Economics
+
+Problems with the simple prescription of keeping the resource
+
+stock constant:
+
+• Non-renewable resources?
+
+• Substitutions?
+• Increasing efficiency?
+
+Answer: The value of resources
+
+• Needs-satisfaction (Brundtland)
+• Welfare (Economics)
+
+Underlying value in sustainability:
+
+• Equality in welfare between generations
+
+Brussels 18 June 2008 EGE Roundtable
+Slide 5
+
+The ”Top-Down” Approach
+
+More general idea:
+
+• Justice between generations
+• What about increasing population?
+
+From an ethical point of view:
+
+• Justice between generations has great weight
+• Sustaining a farm under unjust conditions has not
+
+Value uncertainty: The goal is indeterminate
+
+Brussels 18 June 2008 EGE Roundtable
+Slide 6
+
+46
+
+Empirical Uncertainty
+
+Given a precise statement of justice between generations,
+
+prescriptions depend on:
+
+Rate of population increase
+
+• Puts more strain on resources
+
+Rate of increased productivity
+
+• Puts less strain on resources
+
+Possible substitutions between resources
+
+• Can non-renewable resources be substituted?
+• Can natural resources be substituted with man-made?
+
+The answers are uncertain and to some extent controversial
+
+Brussels 18 June 2008 EGE Roundtable
+Slide 7
+
+The Issue of Substitution
+
+Hypotheses
+
+Unrestricted
+substitution
+
+Restricted
+substitution
+
+Natural
+resources
+cannot be
+substituted
+
+Ecological
+catastrophe
+
+Constant level
+of welfare
+
+Considerable
+reduction of
+welfare
+
+Reduction
+of welfare
+
+Constant level
+of welfare
+
+Ecological
+catastrophe
+
+Extreme
+reduction of
+welfare
+
+Considerable
+reduction of
+welfare
+
+Constant level
+of welfare
+
+Strategies
+
+Keep total stock
+of resources
+constant
+
+Keep total stock
+constant and
+preserve critical
+nat. resources
+
+Keep stock of
+natural
+resources
+constant
+
+Brussels 18 June 2008 EGE Roundtable
+Slide 8
+
+47
+
+Attitudes to Uncertainty
+
+Strong precaution
+
+• Choose the act with best worst outcome
+
+Weak precaution
+
+• Consider likelihoods
+• Consider consequences
+• Consider need for precaution
+• Consider price of precaution
+
+Brussels 18 June 2008 EGE Roundtable
+Slide 9
+
+The “Top-Down” Approach: Summing Up
+
+The goal of justice between generations should be clarified
+
+But even given a clarified goal, there is empirical uncertainty:
+
+we do not know for sure whether some policy is sustainable
+or not
+
+Some of this uncertainty can be reduced by future research
+
+But some uncertainty is likely to remain
+
+We need to decide on the right attitude to this uncertainty
+
+Brussels 18 June 2008 EGE Roundtable
+Slide 10
+
+48
+
+The ”Bottom-UP” Approach: Consequences
+
+Given the great indeterminateness of the “Top-Down”
+
+Approach, we might want to revive the more simplistic
+“Bottom-Up” Approach
+
+However, it needs to be corrected:
+
+• Justice should be the guiding principle, not just stakeholder
+
+expectations
+
+• It should be sensitive to the issue of substitutions
+
+Hence, the uncertainty cannot be avoided
+
+Still, the approach might give rise to useful prescriptions
+
+Brussels 18 June 2008 EGE Roundtable
+Slide 11
+
+49
+
+Ethics of modern developments in
+agriculture technologies
+
+Günther EBERZ
+
+Günther Eberz was born in 1959 in Bernkastel-Kues, Ger-
+many. He studied biology at the Georg-August-Univer-
+sität, Göttingen, where he graduated with a degree in this
+subject. In 1989 he gained a Ph.D. from the Freie Univer-
+sität, Berlin, with his thesis on the ‘Regulation of Hydro-
+genase Gene Expression and Catalytically Active Hydro-
+genase inAlc aligenes eutrophus’. After joining Bayer AG in
+1990, Günther Eberz worked initially for different business
+units on directing environmental protection, bioanalyti-
+cal and anti-infective research projects as well as innova-
+tive projects in the field of natural product biosynthesis.
+After subsequently spending four years in Bayer’s corpo-
+rate centre with responsibilities for stakeholder aspects of
+
+life science technologies, he moved to Bayer CropScience
+and is now concerned with environmental and scientific
+aspects at the public and governmental affairs depart-
+ment. Previous positions include researcher and teacher
+at the Freie Universität, Berlin, and scientific laboratory as-
+sistant at the Biological Federal Institute for Plant Protec-
+tion in Wine-Growing, Bernkastel-Kues. He is a member
+of the Society of German Natural Scientists and Physicians
+as well as the Union of General and Applied Microbiol-
+ogy. Professional achievements include the Ernst-Reuther
+Ph.D. award of the Freie Universität, Berlin (1990), Ph.D.
+award by the Union of General and Applied Microbiology
+(1990) and the German Youth Research Award (1979).
+
+51
+
+Innovative
+agriculture to meet
+basic needs of life
+
+Günther EBERZ
+
+The continuous growth of the world’s population and
+changing consumption patterns, particularly the in-
+creasing consumption of food and changes in dietary
+requirements with far greater demand for meat and
+higher-quality food, are leading to a growing need for
+agricultural productivity. At the same time, available
+farm land is limited and climate change is likely to affect
+crop production systems. Efforts to protect the climate
+and concerns about security of supply with fossil re-
+sources are also stimulating endeavours to exploit new
+energy sources such as biomass as a renewable resource
+for the generation of energy.
+
+There can be no doubt that the need to safeguard an ad-
+equate supply of food for a global population that contin-
+ues to grow strongly is one of the most important ethical
+questions of our time. We need only to look at population
+growth and the amount of agricultural land per capita to
+realise the extent of the problem. Forecasts published by
+the United Nations show that agricultural land is likely to
+remain at approximately 1.5 billion hectares worldwide,
+which means that the amount of land available per capita
+will diminish to just 0.16 hectares by 2050. In other words,
+the land available to feed one person in 1950 will have to
+serve more than three persons in 2050.
+
+Producing food or non-food crops for an ever-growing
+and more demanding world population is a lasting global
+challenge. Since plants are continuously exposed to ‘bi-
+otic’ and ‘abiotic’ factors that negatively influence growth
+and agricultural yields, it is of vital importance to protect
+plants from these environmental stress factors. Biotic fac-
+tors include attack by insects, fungi, weeds, bacteria or
+viruses, which can be controlled by crop protection prod-
+ucts. Without crop protection almost half of the current
+harvests would be lost. Yields could be further increased
+by more than 40% by preventing the actual losses of ag-
+ricultural productivity due to biotic factors. Abiotic stress
+includes factors such as drought, heat, cold and soil sa-
+linity, which in many parts of the earth cause dramatic
+yield losses. These abiotic stresses can reduce the optimal
+achievable yield of crop plants by up to 80%. The develop-
+ment of new crops with better resistance to the stresses
+caused by drought and extremes of temperature will play
+an enormously important role in this context.
+
+Media reporting in recent months about acute short-
+ages of agricultural raw materials, the growing demand
+for plant sources of energy, and rising commodity pric-
+es have clearly demonstrated the intensive attention
+now focusing on what is happening in agriculture. The
+reasons behind the recent increase in food prices are
+diverse: beside the long-term demand trends of a con-
+tinuously growing world population, growing wealth
+and changes in consumer habits, the constant increase
+in mineral oil prices has made farmers’ production con-
+siderably more expensive. Oil prices have an impact, for
+example, on the operation of agricultural machinery,
+the transport of production materials and harvests, and
+air-conditioned storage facilities. In addition, the use of
+artificial fertilisers, the manufacture of which is energy-
+intensive, makes a significant contribution to the rising
+cost of production. Machinery and energy factors make
+up approximately 60% of the overall production costs of
+wheat growing in Europe. By way of comparison: only
+six percent is spent on seeds and eight percent on crop
+protection agents. Furthermore, in the past two years in
+particular other factors have also had an impact on pric-
+ing, including weather-related harvest losses, for exam-
+ple due to the worst drought for a century in Australia, as
+well as the additional demand for biofuels.
+
+Given the current trends in agricultural markets, we must
+also expect the level of food prices to remain compara-
+tively high over the coming years. This will have a partic-
+ular impact on emerging markets and developing coun-
+tries, and the international community must react. Export
+restrictions, on the other hand, are counter-productive,
+as they only further curb supply. Political approaches for
+the future should rather be aimed at strengthening sup-
+ply in a sustained fashion. We must therefore promote
+international trade by dispensing with unnecessary sub-
+sidies and export and market restrictions, and encourage
+the cultivation of crops in those countries that offer the
+most efficient production conditions for these crops.
+
+Against the background of globally limited resources for
+agricultural production, it is vital that we encourage the
+long-term supply of agricultural raw materials. For this,
+we need a new green revolution: we need to invest more
+heavily in research, technology and the agricultural infra-
+
+52
+
+structure to achieve the advances in productivity that we
+need to continue to be able to feed the growing world
+population. We need a holistic approach that employs
+optimised crop rotation and watering techniques as well
+as the development of new crop protection solutions and
+seeds with greater yield potential. In this context, modern
+crop protection, plant breeding and plant biotechnology
+have a key role to play. Integrated crop management as
+a knowledge-intensive combination of appropriate agri-
+cultural options provides a valuable holistic and coher-
+ent approach for efficient agricultural production so as
+to create a basis for successful resource management to
+improve the utilisation of precious natural resources and
+help protect environmental health and biodiversity.
+
+53
+
+Innovative
+agriculture to meet
+basic needs of life
+
+Powerpoint Presentation
+
+Innovative Agriculture Helps
+to Meet Basic Needs of Life
+
+European Group on Ethics
+Roundtable on the ethical aspects of
+Modern Developments in Agriculture Technologies
+
+Dr. Günther Eberz
+Environmental and Scientific Affairs
+Bayer CropScience AG, Monheim, Germany
+
+Bayer CropScience: one of three strategic
+subgroups of the Bayer Group
+
+Management Holding Company
+
+Bayer AG
+Board of Management
+
+Bayer
+HealthCare
+
+Bayer
+CropScience
+
+Crop Protection
+
+Environmental Science
+
+BioScience
+
+Bayer
+MaterialScience
+
+Bayer Business
+Bayer Business
+Services
+Services
+
+Bayer
+Bayer
+Technology
+Technology
+Ser ces
+Servi
+Servi
+Services
+
+Currenta
+Currenta
+
+Business Area Companies
+
+Service Companies
+
+Günther Eberz, Bayer CropScience
+Innovative Agriculture Helps to Meet Basic Needs of Life
+
+54
+
+Global change and challenge for agriculture
+
+Growing world population
+
+Need for renewable feedstocks
+
+  increasing food & energy demands
+
+  decreasing farmland per capita
+
+  increasing demand for renewable
+resources for the generation of
+energy (heat, electricity, biofuels)
+
+Growing wealth
+
+Climate change
+
+  increasing meat consumption and
+
+  yield losses through adverse
+
+need for feed
+
+weather conditions
+
+  decreasing stock availability
+
+  need to reduce greenhouse gas
+
+emissions, such as CO2
+
+Increasing constraints on limited resources such as land, water, energy
+Efficient and sustainable use of resources is important for future agriculture
+
+Günther Eberz, Bayer CropScience
+Innovative Agriculture Helps to Meet Basic Needs of Life
+
+Food supply: a sustained ethical responsibility
+
+Year
+
+1950
+
+1975
+
+2000
+
+2025
+
+2050
+
+World
+population
+(billion)
+
+2.5
+
+4.1
+
+6.1
+
+8.0
+
+9.2
+
+Arable land &
+permanent crops
+(billion hectares)
+
+Farmland
+per person
+(hectares)
+
+1.3
+
+1.4
+
+1.5
+
+1.5
+
+1.5
+
+0.52
+
+0.34
+
+0.25
+
+0.19
+
+0.16
+
+With limited arable land and a continuously growing world population,
+the available farmland per capita is expected to dramatically decrease further
+
+Source: United Nations
+Günther Eberz, Bayer CropScience
+Innovative Agriculture Helps to Meet Basic Needs of Life
+
+55
+
+Reasons for the increase
+of food prices in 2007/2008
+
+! Long-term demand trends
+
+! Increasing world population
+
+Input costs for the
+production of key crops:
+
+! Growing wealth and change in consumer
+
+100%
+
+habits
+
+! Climate / weather-induced harvest losses
+
+! Increase in crop production costs
+
+! Energy costs at a record high
+
+! Significant rise in fertilizer costs
+
+! Rising demand for alternative energy sources,
+
+especially biofuels
+
+! Due to recent price developments, agricultural
+markets are a focus for the financial markets
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+  Machinery
+& Energy
+
+  Labor
+  Irrigation
+  Fertilizer
+  Crop
+
+Protection
+
+  Seed
+
+Wheat Corn Rape
+
+Source: LMC ‘EU Arable Crop Profitability 2007’
+
+The currently observed increase in key commodities is caused by multiple
+factors
+
+Günther Eberz, Bayer CropScience
+Innovative Agriculture Helps to Meet Basic Needs of Life
+
+Commodity price development of key crops
+vs. crude oil price development
+
+  Soybean
+  Rice
+  Wheat
+  Corn
+
+  World oil price
+
+Crop price
+development
+in US-$ / ton
+
+700
+700
+
+600
+600
+
+500
+500
+
+400
+400
+
+300
+300
+
+200
+200
+
+100
+100
+
+0
+0
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+Recent oil price developments have influenced food prices
+
+Source: FAO, U.S. Energy Information Administration, April 2008
+Günther Eberz, Bayer CropScience
+Innovative Agriculture Helps to Meet Basic Needs of Life
+
+56
+
+Crude oil price
+development
+in US-$ / barrel
+
+120
+
+120
+
+100
+
+100
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+20
+
+0
+0
+
+Prediction of
+commodity price development of key crops
+
+US-$/ton
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+( in %*)
+
+Soybean
+(+107%)
+
+Rice
+(+61%)
+
+Wheat
+(+144%)
+
+Corn
+(+145%)
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+2005
+
+2006
+
+2007
+
+2008 E
+
+2009 E
+
+* between Q1 2005 and Q4 2009 E
+
+Commodity prices expected to stabilize at an elevated level
+
+Source: The Economist Intelligence Unit, August 2007 and May 2008
+Günther Eberz, Bayer CropScience
+Innovative Agriculture Helps to Meet Basic Needs of Life
+
+Innovative agriculture
+is vital to safeguard harvests
+
+Major crops analyzed: rice, wheat, barley, corn, potatoes, soybeans, cotton and coffee
+
+Actual
+losses
+
+100 %
+
+due to
+pests,
+weeds and
+diseases
+
+42 %
+
+Today
+58 %
+
+due to
+e.g.
+drought,
+heat,
+cold,
+salinity
+
+Further
+losses
+
+Prevented
+losses
+
+due to
+pests,
+weeds and
+diseases
+
+28 %
+
+30 %
+
+Yield without
+crop protection
+
+Actual yield with
+crop protection
+
+Attainable yield
+without pests
+
+Additional potential
+without abiotic stress
+
+Without crop protection almost half of the current harvests would be lost
+With stress shielding technologies further yield increase is possible
+
+Source: Oerke et al., Crop Production and Crop Protection, Elsevier, Amsterdam, 1994, adapted.
+
+Günther Eberz, Bayer CropScience
+Innovative Agriculture Helps to Meet Basic Needs of Life
+
+57
+
+Shielding plants from abiotic stress factors
+offers significant yield potential
+
+Yield kg/ha
+
+Plants are continuously exposed to environmental stress factors that negatively
+influence growth and development and therefore cause yield losses
+
+Buchanan, Gruissem, Jones: Biochemistry and Molecular Biology of Plants;
+
+Source:
+American Society of Plant Physiologists, 2000; Bayer CropScience calculations
+Günther Eberz, Bayer CropScience
+Innovative Agriculture Helps to Meet Basic Needs of Life
+
+Addressing the pressures put on land: enhancing
+productivity while ensuring environmental health
+
+High productivity on land already under cultivation rather than low productivity
+This conserves wildlife habitats & biodiversity
+
+Günther Eberz, Bayer CropScience
+Innovative Agriculture Helps to Meet Basic Needs of Life
+
+58
+
+Innovation: providing support for
+efficient and sustainable agriculture
+
+Limited arable
+land coupled
+with rising
+demand
+
+Safeguard and increase yields from limited land area
+
+  increase yields through innovative crop science
+
+(crop protection, stress shield, plant breeding and plant
+biotechnology)
+
+  adapted resource management (targeted use of crop
+protection, irrigation technology and fertilizers)  
+
+Climate change
+
+Support agricultural production under adverse
+environmental conditions and climate variability
+
+  develop new crop varieties and tools using
+
+cutting-edge technologies
+
+  new crop varieties with enhanced tolerance to drought
+
+and extreme temperatures
+
+  improved plant health and nutrient uptake
+
+Research and innovation are the key to mastering the challenges of agriculture
+
+Günther Eberz, Bayer CropScience
+Innovative Agriculture Helps to Meet Basic Needs of Life
+
+Agriculture on the path to a holistic approach
+
+World population
+
+2000: 6.1 bn
+
+1950: 2.5 bn
+
+INTEGRATED
+AGRICULTURE
+
+2025: 8.0 bn
+
+1900: 1.6 bn
+
+TRADITIONAL
+FARMING
+
+“SECTORAL“
+TECHNOLOGY
+AGRICULTURE
+
+Improved seeds
+
+Input technologies
+
+Machinery
+
+Irrigation
+
+More resource-efficient
+production required
+
+Healthier nutrition & quality
+
+Improved plant health
+& plant nutrition
+
+Adapted plant technologies
+e.g. stress tolerance: cold, heat,
+drought, salinity
+
+1950 1950
+
+-
+
+1980
+
+1990
+
+-
+
+2025
+
+Overall: sense of urgency to sustain demands
+
+Günther Eberz, Bayer CropScience
+Innovative Agriculture Helps to Meet Basic Needs of Life
+
+59
+
+  
+Thank you for your attention
+
+60
+
+Ethics of modern developments in
+agriculture technologies
+
+Wilhelm GRUISSEM
+
+Wilhelm Gruissem has been full Professor of Plant Bio-
+technology in the Institute of Plant Sciences at the ETH
+Zürich (Swiss Federal Institute of Technology) since 2000.
+He was elected President of the European Plant Science
+Organization (EPSO) in 2006.
+
+Professor Wilhelm Gruissem studied biology and chem-
+istry at the University of Bonn and obtained his Ph.D. in
+1979. After two years as a research associate at the Uni-
+versity of Marburg, he made his postdoctoral training in
+the Department of Molecular, Cellular and Developmen-
+tal Biology at the University of Colorado in Boulder, USA.
+In 1983 he was appointed to the faculty of the University
+of California at Berkeley as professor of plant biology.
+
+Professor Wilhelm Gruissem was Chair of the Depart-
+ment of Plant and Microbial Biology at UC Berkeley from
+1993 to 1998, and from 1998 to 2000 he was Director of
+a collaborative research program between the Depart-
+ment and the Novartis Agricultural Discovery Institute
+in San Diego. From 2004 to 2006 he was Chair of the
+Zurich-Basel Plant Science Centre.
+
+Since 2001 Professor Wilhelm Gruissem is Co-Director of
+the Functional Genomics Centre Zurich.
+
+61
+
+New technologies
+and agriculture for
+the future
+
+Wilhelm GRUISSEM
+
+The world is going through unprecedented changes.
+While life expectancy has vastly increased in Europe and
+the United States, many developing countries continue
+to experience large population growth with stagnating
+or even decreasing agricultural production. The benefits
+of the agricultural ‘Green Revolution’ that supported
+population growth have given way to crop shortages,
+rising costs for staple foods, and shifting economic in-
+terests in the utilisation of agricultural crops. The current
+debate on meeting the challenges of an impending hun-
+ger crisis is merely symptomatic of the need to develop
+and deploy innovative technologies for sustainable agri-
+culture and food production that can support a growing
+human population.
+
+Europe is at the centre of a controversy about the ac-
+ceptance of new agricultural technologies that have
+dramatic impacts on developing countries. The backlash
+in Europe against the introduction of genetically modi-
+fied crops is fuelled by heavily subsidised agricultural
+production, a tariff system that favours food exports but
+discourages imports, and a romanticised view of agricul-
+ture and food production that largely ignores global re-
+alities and problems. At the same time, organic farming
+is promoted as a form of sustainable agriculture despite
+the fact that this will inevitably have a greater impact on
+the environment while reducing feed and food produc-
+tion. Because of the raging controversy in Europe and
+the failure of the European Commission to deal deci-
+sively with the adoption of novel agricultural crop and
+production systems, many developing countries are
+forgoing the development and deployment of promis-
+ing new agricultural technologies. These countries, and
+especially African countries, are concerned that the Eu-
+ropean feed and food market may not be accessible to
+them if they produce novel and improved crops, includ-
+ing genetically modified crops, which are rejected by the
+European consumer.
+
+Can Europe afford to be a bystander as a global food
+crisis is unfolding? Is it ethical for Europeans to ignore
+scientific facts in favour of promoting agricultural pro-
+duction systems that cannot contribute to reducing glo-
+bal hunger? Is it ethical for Europe to heavily subsidise its
+own agricultural production systems with the Common
+
+Agricultural Policy (CAP) while discouraging developing
+countries from adopting novel crops, including geneti-
+cally modified crops, that could significantly improve
+their own agricultural production? Instead of marginal-
+ising plant research and development, should Europe
+not be at the forefront of global crop improvement and
+agricultural innovation to meet future challenges in feed
+and food production?
+
+These questions and their ethical implications must be
+considered if Europe wants to lead the world in build-
+ing a knowledge-based bio-economy. Predictions show
+that conventional agriculture as we practice it today will
+be insufficient to meet tomorrow’s demands for food
+and feed. At least a two-fold increase in agricultural
+yields will be needed in the coming decades, especially
+in developing countries, if we want to have a signifi-
+cant impact in reducing the number of people that go
+hungry every day. This increase in agricultural yields
+must be achieved in ecologically sustainable ways. As
+much as we need to embrace the general principles of
+sustainable agriculture that are the pillars of organic
+farming, we must also deploy agricultural biotechnol-
+ogy as an important pillar of Europe’s economy. Only
+by merging organic farming principles with innovative
+crop biotechnology will Europe be able to develop the
+new agricultural production systems indispensable to
+sustainable economic growth, employment, energy
+supply and maintenance of the standard of living. Bio-
+technology is expected to help meet the most urgent
+global challenges and reduce the threat of future con-
+flicts resulting from limited arable land for food versus
+non-food crop production.
+
+It is an ethical imperative for European political leaders
+to inform the public in an open and transparent way,
+based on well-established scientific facts, of the oppor-
+tunities — and the risks — of using biotechnology in
+agricultural crop production. Political leaders, together
+with scientists, farmers, NGO experts and opinion lead-
+ers, are essential to building public trust. Only if Euro-
+peans embrace biotechnology and innovative and ge-
+netically modified crops in combination with organic
+farming principles to support their future agriculture will
+this send positive signals to developing countries. Euro-
+
+62
+
+pean leadership and ethical commitment to a sustain-
+able agriculture that will meet the challenges of global
+feed and food supply, as well as the supply of biomass
+as raw material for non-food products, will have long-
+lasting impacts on developing countries, for example
+by improving their agricultural production systems for
+economic growth.
+
+Europe is being economically challenged, and the ethi-
+cal considerations associated with new technologies in
+agriculture today and for the future are clearly defined.
+Only by developing ethically responsible policies and
+by achieving public acceptance can Europe deploy new
+technologies to sustain agriculture for the future in or-
+der to avert an impending hunger crisis and contribute
+to European and global economic growth.
+
+63
+
+New technologies
+and agriculture for
+the future
+
+Powerpoint Presentation
+
+New Technologies and
+Agriculture for the Future
+
+Thoughts about main ethical issues on
+
+“Ethical aspects of modern agricultural technologies”
+
+Wilhelm Gruissem
+President
+European Plant Science Organization
+
+In the next 50 years we have to produce more food
+than ever before in the history of humankind
+
+Source: World Resources Institute
+Source: World Resources Institute
+
+2025: 90% of world agricultural
+2025: 90% of world agricultural
+production will be required in
+production will be required in
+developing countries
+developing countries
+
+0.45
+
+World population
+
+0.32
+
+0.27
+
+0.21
+
+1960
+
+1980
+
+1995
+
+2025
+
+Available agricultural land per capita (ha)
+
+Source: United Nations
+
+64
+
+IFPRI®
+
+The Human Tragedy
+
+• Each day 800 million people go hungry
+• Among them are 170 million children
+
+under 5 years of age
+
+2O
+
+2O
+
+VISION
+
+IFPRI®
+
+2O
+
+2O
+
+VISION
+
+Is it ethical for Europe to ignore
+global problems of hunger?
+
+I n t e r n a t i o n a l F o o d P o l i c y R e s e a r c h I n s t i t u t e
+
+Reaching Sustainable Food
+Security for All
+by 2020
+
+Getting the Priorities and
+Responsibilities Right
+
+Is Europe doing enough
+to reach food security for all?
+
+65
+
+IFPRI®
+IFPRI®
+
+The World Food Summit Goal
+
+Halve the number of hungry people by 2015
+• 22 million must achieve food security every year
+• Since 1990, only 6 million a year have
+
+left “the prison of hunger”
+
+2O
+
+2O
+
+VISION
+
+2O
+
+2O
+
+VISION
+
+Is it ethical for Europe to block
+agricultural innovation?
+
+Is it ethical for Europeans to protest and destroy
+new agricultural technologies while people go hungry?
+
+66
+
+Is it ethical for Europe
+not to be leader in agricultural innovation?
+
+Is it ethical for Europe to denounce new agricultural
+technologies that bring benefits to poor farmers?
+
+Photos courtesy Dr. Peggy Lemaux
+University of California at Berkeley
+
+GMO
+
+Conventional
+
+67
+
+Is it ethical for Europe to withhold support
+for novel crops to improve human health?
+
+Wildtype
+
+SGR 1
+
+SGR2
+
+For ethical reasons, Europe must contribute to global
+
+• food security
+• enhanced food safety, quality and nutrition
+• health improvements
+• economic growth
+• sustainable natural resource management
+• agricultural research and knowledge
+
+by accepting leadership and supporting
+all forms of agricultural technologies
+
+68
+
+Ethics of modern developments in
+agriculture technologies
+
+Eric DRÉSIN
+
+Eric Drésin is the Political Secretary for the food, bever-
+ages and tobacco sector since 2004 at the European Fed-
+eration of the Agriculture, Food and Tourism Trade Un-
+ions (EFFAT). In EFFAT Mr Drésin has dealt with a number
+of issues related to agriculture, such as, inter alia: food
+labelling; relationship with retailers; BSE/TSE; corporate
+social responsibility; workplace health & safety; sugar,
+wine and fruit reforms; trade negotiations.
+
+Mr Drésin holds a Law Degree in Public Law (1994) and
+a Master in Political Science (1995) from the University of
+Lyon, and a Master in European Politics (1997) from the
+University of Bruxelles (ULB).
+
+69
+
+Strengthening
+consumer health
+through sustainability
+
+Eric Drésin
+
+The rapid intensification and globalisation of our food
+production and distribution systems has had severe
+negative impacts on farmers, public health and the envi-
+ronment. These problems demand that sustainability be
+placed at the centre of future agriculture policy in the EU
+and worldwide. They also demand that traditional defi-
+nitions of ‘food safety’ and ‘consumer protection’ be ex-
+panded to include social, environmental, economic and
+planetary health. Food can no longer be called ‘safe’ and
+‘healthy’ unless it is safe and healthy for all people — not
+just those who grow and eat it. It must be safe for the
+entire planet and people everywhere.
+
+Many questionable technologies pose threats to food
+safety and public health. Mass production of livestock
+has led to: Mad Cow Disease and other animal illnesses;
+massive recalls of unsafe meat — such as the record 143
+million pound beef recall in California in February; hu-
+man health problems; water, air and soil pollution; and
+widespread mistreatment of farm animals. The overuse
+of pesticides, first brought to public attention by Rachel
+Carson’s book Silent Spring in 1962, has had many nega-
+tive human and environmental effects. Artificial food
+additives have been linked to emotional problems in
+children, leading the EP’s Environment Committee to
+vote last month to ban food sweeteners and colourings
+aimed at children. Genetically modified organisms pose
+health and environmental risks, as well as threats to food
+sovereignty, particularly in developing nations.
+
+Industrialised livestock production is a principal cause
+of growing antibiotic resistance in food-borne bacteria.
+Much of the rise in obesity and obesity-related illnesses
+throughout the world can be attributed to industrialised
+diets. Childhood disorders linked to industrialised food
+include obesity, high blood pressure, early signs of heart
+disease and attention deficit/hyperactivity disorder.
+
+The globalisation of the Western-style, fast-food diet has
+been especially harmful to indigenous populations, such
+as the Oodham Indians in the southwest US. Industrialised
+diets cause people to eat higher on the marketing chain,
+weakening consumer sovereignty and increasing the food
+industry’s manipulation of tastes and desires. Diverse di-
+ets can buffer against the ill-effects of poor nutrition.
+
+Intensively produced and globalised food poses many
+threats to the environment. Farming, which depends
+heavily on fossil fuels for energy, fertiliser and other
+inputs, generates 9% of the EU’s greenhouse gas emis-
+sions. National governments should tax rather than sub-
+sidise fossil fuel development, and a ‘CO2’ label should
+be developed to inform consumers of a food item’s car-
+bon footprint. Runoff from intensive crop and livestock
+operations has created nitrate pollution problems in
+many EU Member States. Intensive food production also
+contributes to water scarcity. Irrigation accounts for 87%
+of global water consumption and 69% of global with-
+drawals. Poor farming practices have turned the steppes
+and plateaus of northwestern China into a dust bowl,
+sweeping dust all the way to North America.
+
+Intensive, globalised food is a threat to farmers and
+farming economies. Today, farming is the world’s poor-
+est, hungriest occupation. The farmers’ share of the con-
+sumer food dollar has shrunken dramatically. In the US, it
+fell from 40 to 7 cents from 1910 to 1997. Wheat farmers
+there get 6 cents per loaf of bread — the same as what
+the wrapper costs. The number of farms in the EU fell
+from 7 million to 6.2 million from 1997 to 2005 — with
+farms of less than 50 hectares accounting for all losses.
+The US now has more full-time prisoners than full-time
+farmers. The future does not look promising, as only 8%
+of EU farmers are under 35, while more than half are near
+retirement. Despite this problem, the CAP lacks a dedi-
+cated funding source for young and first-time farmers.
+The loss of farmers is transferring food quality control
+to distant corporations that extract maximum output at
+minimum cost.
+
+Intensification and globalisation have been fuelled by
+agri-food consolidation. The international food trade
+has quadrupled since 1961. The top 30 supermarket
+companies now control one-third of global sales; the top
+10 seed companies control one-third of the global mar-
+ket; and two companies — Archer Daniels Midland and
+Cargill — control 75% of the world cereal market.
+
+Non-local food is a threat to sustainability. American eco-
+logical economist Herman Daly said: ‘Americans import
+Danish sugar cookies and Danes import American sugar
+
+70
+
+cookies. Exchanging recipes would surely be more effi-
+cient.’ Imported ingredients for the traditional UK Sunday
+dinner release 650 times more carbon than local ingre-
+dients. Pigs raised by US-based multinational Smithfield
+Foods are nearly identical genetically and are raised un-
+der nearly identical conditions. Tropicana sources its ap-
+ple juice concentrate from at least 10 countries.
+
+As an alternative to intensive, globalised food produc-
+tion and distribution, sustainability and local production
+can serve as promoters and protectors of safe food, pub-
+lic health, farming communities, the environment, food
+sovereignty and animal welfare.
+
+Local food initiatives are forming throughout the world.
+In Hawaii, where cows are routinely shipped 3 500 kilo-
+metres to California and the packaged meat is shipped
+back, ranching families are uniting to raise their cattle on
+former pineapple plantations. Belo Horizonte, Brazil, be-
+came the world’s first city to make food security a right,
+providing four meals a day to all students and providing
+local produce at low, fixed prices. The county of Devon
+in England informs farmers of new crops and process-
+ing techniques, sets up farmers’ markets and provides
+grants to local food businesses.
+
+The Gothenburg Strategy states that the CAP should
+reward quality rather than quantity by encouraging or-
+ganic and other environmentally friendly farming meth-
+ods. The FAO states that organic agriculture can alleviate
+world hunger, support the environment, improve public
+health, ease global warming and strengthen local econ-
+omies. Organic farming also has a strategic role in devel-
+oping rural communities. Today, 6.1 million hectares, or
+4.1%, of European farmland is under organic production
+— with Austria leading with 11%. The EU’s organic food
+market is growing by 30% a year.
+
+Sustainable regional brands such as Label Rouge Poultry
+in France promote environmentally friendly production
+as well as local farming communities and geographic
+identity. Label Rouge establishes regional producer
+alliances that market branded products under a com-
+mon label. All chickens are free-range, slow-growing
+birds from rustic stock that are fed no animal products
+
+or growth stimulants. Label Rouge has captured 30% of
+the French market.
+
+Serving wholesome school meals is a rapidly emerging
+strategy to improve public health and support local pro-
+duction. Italy requires organic, local food to be served in
+public schools. In Ross School in New York, all meals are
+made from scratch with local, in-season ingredients. The
+meals contain less fat, sugar and salt, and more fibre and
+antioxidants. A Harvard University study has revealed
+fewer pesticides in the bodies of children compared
+to the general population. In Santa Monica, California,
+salad bars have lowered fat and cholesterol intake while
+improving pupil behaviour.
+
+To help the plight of farmers, the International Federa-
+tion of Agricultural Producers released ‘The World Farm-
+ers’ Charter’ in 2006. Among the Charter’s key planks:
+
+•
+
+•
+
+•
+
+•
+
+Family farmers are the basic elements of sustainable
+agriculture, have a key role in strengthening demo-
+cratic processes, and are equally entitled to all legal
+rights and forms of social protection.
+
+Governments have a key role in ensuring reasonable
+living standards for farmers.
+
+Rural communities should be sustained for the ben-
+efit of all people, and
+
+International trade rules should balance exporters
+with importers, and developed with developing
+countries.
+
+We need new definitions and new thinking in order to
+build a new future. The Gothenburg and Lisbon Strat-
+egies state that strong economic performance must
+go hand in hand with sustainability, and that the CAP
+should emphasise healthy products, environmentally
+sustainable production, renewable raw materials and
+biodiversity protection. Because technologies such as
+intensive livestock production and genetic engineer-
+ing threaten the health of the planet, they threaten the
+health of people everywhere. Accordingly, the definition
+of ‘food safety’ and ‘consumer health’ must be expanded
+
+71
+
+far beyond the context of the individual. Food must be
+safe for the entire planet and people everywhere — not
+just for those who grow and eat it. We must also change
+the definition of ‘consumer.’ A ‘consumer’ is said to be
+someone who makes food purchasing decisions based
+on taste, cost and convenience — which, not coinci-
+dentally, are the same factors that drive intensification
+and globalisation. But this is not how growing numbers
+of people make their decisions. People want to know
+if their food is good for the environment, farmers and
+animals. We need to turn consumers back into people
+who make their food decisions not as customers of agri-
+businesses, but as members of a global community. As
+the Gothenburg and Lisbon Strategies very rightly state,
+the time has come to place sustainability at the centre of
+our food production systems. Doing so will improve the
+health of people, the environment, farming communi-
+ties and animals everywhere.
+
+72
+
+Strengthening
+consumer health
+through sustainability
+
+Powerpoint Presentation
+
+Strengthening Consumer Health
+Through Sustainability
+
+Eric Drésin
+Food & Water Watch Europe
+
+Roundtable on the Ethical Aspects of
+
+Modern Developments in Agriculture Technologies
+
+European Group on Ethics in Science
+
+and New Technologies
+18 June 2008, Brussels
+
+20th Century Methods Have
+Become 21st Century Problems
+
+• Intensification and globalisation impacts
+  farmers, public health, environment
+
+• Redefine ‘food safety’, ‘consumer protection’
+  social, environmental, economic, planetary
+health
+
+• ‘Safe’ food   safe for the planet and all people
+
+73
+
+Questionable Technologies:
+A Threat to Food Safety
+and Public Health
+
+• Mass-produced meat
+
+– Mad Cow Disease
+– Human health, environmental, animal welfare effects
+
+• Pestidices
+
+– SilentSpring
+– Human health and environmental effects
+
+• Artificial food additives
+– Hyperactivity in children
+– Recent EP vote calling for ban
+
+• GMOs
+
+– Human health, environmental, food security effects
+
+Questionable Technologies:
+A Threat to Food Safety
+and Public Health
+
+• Growing antibiotic resistance
+
+– Caused by industrialised livestock operations
+
+• Obesity
+
+– UK: 33% of men, 28% of women, 20% of children by 2010
+– China: doubled from 1991-2004
+
+• Childhood disorders
+
+– Obesity, high blood pressure, heart disease, ADHD
+
+74
+
+Intensive / Globalised Food:
+A Threat to Public Health
+
+• Non-local diets
+
+– Globalisation of Western-style fast/processed foods
+• Loss of food skills/consumer sovereignty
+– People eat high on the production/marketing chain
+
+• Diversity of diet
+
+– Buffers against disease
+
+Intensive / Globalised Food:
+A Threat to the Environment
+
+• Fossil fuel agriculture
+
+– Farming -> 9% greenhouse gases in EU
+– Tax rather than subsidise fossil fuels
+– CO2 label
+
+• Nitrate pollution in Europe
+
+– High in BE, DE, DK, ES, FR, IE, IT, NL, UK
+
+• Water scarcity
+
+– Irrigation -> 87% global consumption, 69% global withdrawals
+– Pumping exceeds replenishment -> 160 billion m3/yr
+
+• Poor land use
+
+– Dustbowls in China
+
+75
+
+Intensive / Globalised Food:
+A Threat to Farmers and
+Farming Economies
+
+• Farming -> world’s poorest, hungriest occupation
+• Farmers’ shrinking share of consumer food
+
+expenses
+
+• Farmers’ shrinking numbers
+
+– Farms -> 7 to 6.2 million (1997-2005) – all losses farms <50 ha
+– US: more full-time prisoners than full-time farmers
+
+• Young farmers
+
+– 8% under 35, more than half near retirement
+– CAP -> lacks dedicated funding
+
+• Lower food quality
+
+– Control transferred to distant corporations
+
+Agri-Food Consolidation:
+A Threat To Food Safety
+
+• International food trade
+– quadrupled since 1961
+
+• Corporate consolidation and globalisation
+
+– Top 30 supermarket companies -> one-third of global sales
+– Top 10 seed companies -> one-third of global market
+– Archer Daniels Midland and Cargill -> 75% of world cereal
+
+market
+
+76
+
+21st Century Solutions
+to Intensive, Globalised Food
+
+• Sustainability and local production
+  promoters and protectors of:
+
+- Safe food
+- Public health
+- Farming communities
+- Environment
+- Food sovereignty
+- Animal welfare
+
+Local Food Initiatives
+
+• Hawaii
+
+– Cows shipped 3,500 km to California, packaged meat shipped
+
+back
+
+– Families unite to raise cattle on former pineapple plantations
+
+• Belo Horizonte, Brazil
+
+– First city to make food security a right
+– Four meals a day for all students; local produce at low prices
+
+• Devon County, England
+
+– Links farmers with new crops and processing techniques
+– Farmers’ markets, CSAs, grants to food businesses
+
+77
+
+Organic Agriculture
+
+• Gothenburg Strategy
+
+– CAP should reward quality rather than quantity
+
+• Hunger, environment, public health, climate
+
+change, local economies (FAO)
+• Strategic role in rural development
+• 6.1 million ha
+– 4% EU’s UAA
+– Austria: 11%
+
+• EU market growth
+
+– 25%/yr 1993-98, 30%/yr since
+
+Sustainable, Regional Brands
+
+• Label Rouge Poultry, France
+
+– Regional producer alliances -> branded products, common label
+– Free-range, slow-growing birds from rustic stock
+– No animal products, growth stimulants in feed
+– 30% of French market
+
+78
+
+‘The World Farmers’ Charter’
+
+‘Farmerspledgetomanagetheirfarmsinasustainable
+mannerinordertoconservethevaluableagricultural
+resourcebase,usingthebestfarmingtechnologiesand
+scientificprogress.’(IFAP, May 2006)
+
+• Family farmers   basic elements for sustainable agriculture
+
+• Farmers   key role in strengthening democratic processes,
+equally entitled to all legal rights and social protections
+
+• Governments   key role in ensuring reasonable living
+
+standards
+
+• Rural communities   sustain for the benefit of all people
+
+• International trade   balance exporters and importers,
+
+developed and developing countries
+
+New Definitions, New Thinking,
+New Future
+
+• Gothenburg and Lisbon Strategies
+
+– Healthy products, organic production, renewables, biodiversity
+
+• Questionable technologies
+
+– Threaten the planet   threaten public health
+
+• Redefine ‘food safety’ and ‘consumer protection’
+
+– Must be safe for entire planet and all people
+
+• Redefine ‘consumer’
+
+– Factors beyond taste, cost, convenience
+– Turn consumers back into people
+• Sustainability at the centre
+
+– Improving the health of people, environment, farmers, animals
+
+everywhere
+
+79
+
+Ethics of modern developments in
+agriculture technologies
+
+Erik MILLSTONE
+
+Erik Millstone is a Professor of Science Policy at the Uni-
+versity of Sussex, leader of the Environment and Energy
+group at the Science Policy Research Unit (SPRU) and
+Director of Studies for the post-graduate programme in
+Public Policies for Science, Technology and Innovation.
+
+His first degree was in physics; he then gained three
+postgraduate degrees in philosophy. Since 1974 he has
+been researching into the causes, consequences and
+regulation of technological change in the food industry.
+From 1998 to 2004 he researched the links between sci-
+ence and policy-making in relation to Bovine Spongi-
+form Encephalopathy in European Commission-funded
+
+projects. He was the principal contributor to a European
+Commission-funded 9-country comparative study of
+obesity policy from 2003-2007. He also led a compara-
+tive study from 2004 to 2007 of the relationships be-
+tween science and food safety policy-making, looking at
+the global Codex-based regime, as well as the UK, USA,
+Germany, Japan and Argentina.
+
+He recently embarked on a five-year UK Research Coun-
+cil-funded project concerned with ways of reconciling
+improved agricultural production, health, water man-
+agement and environmental sustainability in develop-
+ing countries.
+
+81
+
+Modern developments
+in agriculture technologies
+and environmental
+protection
+
+Erik Millstone
+
+A great deal of agriculture, in both industrialised and
+developing countries,
+is unsustainable in numerous
+dimensions:
+
+•
+•
+•
+
+•
+
+soils — impoverished and/or lost
+energy costs — high and rising
+pesticides, fertiliser, pharmaceuticals — escalating
+treadmills
+employment — innovation is labour-displacing not
+recruiting.
+
+As Röling and Jiggins have argued: ‘Agriculture…is a ma-
+jor source of the gaseous emissions implicated in global
+warming, the largest user of potable fresh water, a lead-
+ing contributor to pollution, a source of actual and po-
+tential pandemics, and land clearance for agriculture is
+a major cause of loss of habitat and biodiversity.’1 Those
+challenges are aggravated by an agenda of market liber-
+alisation — without interventions to provide floors and
+ceilings to prices, agricultural markets are chronically
+volatile. Chronic hunger amongst the world’s poor is
+the biggest single ethical issue confronting agricultural
+technology.
+
+Regulating agricultural technologies —
+how can it be understood?
+
+The orthodoxy used to be, e.g. in the UK prior to 20 March
+1996, classically technocratic. Technocratic narratives
+portray regulatory policies as if they were based on, and
+only on, ‘sound science’. Policy-making institutions were
+structured in accordance with that model. Commission
+Directorates-General and government departments is-
+sued policy decisions, and represented them as based
+upon and legitimated by sound science as provided by
+expert committees.
+
+The technocratic model has, however, been torpedoed
+by the obvious fact that scientific evidence and under-
+standing is often incomplete, equivocal, uncertain and
+
+contested. From 1986 to February 1996, we did not
+know whether or not BSE could cause CJD. We still can-
+not forecast precisely how our climates will change as a
+consequence of agricultural or industrial activities. If we
+could reliably predict the environmental consequences
+of cultivating GM crops, the European Directive would
+not include a requirement for post-release monitoring.
+
+Once the uncertainties can no longer be concealed or
+denied, the technocratic narrative and model lose all
+their plausibility. Even if, per impossibile, all scientific
+uncertainties were eliminated, scientific considerations
+alone still could not decide environmental policy mat-
+ters. Policy judgments are concerned for example with
+the acceptability of possible risks (and uncertainties) in
+exchange for anticipated benefits; and those are socially
+variable value judgments — they are normative policy
+judgments, not scientific issues. During the late 1990s
+and the early years of this decade, many leading Euro-
+pean-wide institutions, and those in EU Member States
+too, abandoned technocratic narratives and institution-
+al structures.
+
+They have been replaced by a new orthodoxy, which
+maintains policy-making is a two-stage linear process
+in which science influences policy, but policy does not
+influence the science. That model is called the Red Book
+model after the 1983 US NRS report entitled Risk Assess-
+ment in the Federal Government: Managing the Process,
+which was bound in a red cover. In this model, it is as-
+sumed that the environmental impact of, for example,
+agricultural technologies and practices can and should
+be assessed scientifically in a value-free, policy-neutral
+space. That is often referred to as a ‘scientific risk assess-
+ment’. The conclusions of those assessments are then
+passed on to those responsible for policy decisions, who
+in this context are referred to as ‘risk managers’. At that
+second stage, and only then, other considerations of a
+normative, ethical, social and political character may le-
+gitimately be taken into account by policy-makers. For
+example, when deciding what practices and products
+
+(1)
+
+‘Making Trans-disciplinary Science Work for Resource-poor Farmers’, Workshop Farmer First Revisited, Brighton, 12-14 December 2007,
+available at http://www.future-agricultures.org/farmerfirst/files/T2b_Roling.pdf.
+
+82
+
+to permit, restrict or forbid, risk management policy-
+makers may need to make normative judgments about
+trade-offs between risks and benefits, e.g. the ‘adverse
+environmental impacts of pesticides’ in exchange for
+‘crop protection’.
+
+This model is fundamental to the institutional structur-
+al relationship between e.g. DG SANCO (as risk manag-
+er) and the EFSA as risk assessor. Similar arrangements
+have been introduced in e.g. Germany and France. As
+influential and popular the Red Book model may be,
+it has been rejected by almost all policy analysts, and
+formally repudiated by the European Commission and
+all EU Member States. Scholars and policy analysts
+have concluded that scientific assessments of e.g. the
+environmental effects of agricultural technologies and
+processes are not prepared in value-free, policy-neutral
+spaces; on the contrary, they are inevitably, and exqui-
+sitely, sensitive to their policy, economic, social and cul-
+tural contexts.
+
+As my colleagues and I found, in our study of policy dis-
+putes in relation to e.g. GM foods and crops, pesticides
+and food safety, expert risk assessment bodies disagree,
+not because they providing competing answers to shared
+questions, but because they are asking and answering
+different questions.2 The choice of those questions is a
+normative policy-sensitive issue, not a neutral scientific
+issue. For example, in the 1990s US assessors deemed
+changes to flora and fauna from cultivating GM crops
+to be adverse effects only if they harmed the economic
+prospects of US farmers, otherwise they were deemed
+to be ‘adaptations’. In the EU, any changes to flora and
+fauna in either the agricultural or non-agricultural envi-
+ronments were deemed to be ‘harm’ and therefore as
+‘risks’ that needed to be assessed, and if necessary man-
+aged. The US approach was not considered acceptable
+by any European Member State.
+
+Policy scholars since the 1980s have talked about the up-
+stream ‘framing assumptions’ that condition scientific
+deliberations about risks, and the representations and
+assessment of them. A major analytical and institutional
+innovation emerged in 2003 at the Codex Alimentarius
+Commission, when the Codex Member States introduced
+a new concept — namely ‘risk assessment policy’, to re-
+fer to those up-stream framing assumptions. This risk as-
+sessment policy is portrayed in the following terms:
+
+‘Determination of risk assessment policy should be in-
+cluded asa s pecific component of risk management.
+Risk assessment policy should be established by risk man-
+agers in advance of risk assessment, in consultation
+with risk assessors and all other interested parties…’3
+
+That implies that Codex acknowledged that risk assess-
+ments are framed by prior policy assumptions, which are
+risk management issues, and should be decided in ad-
+vance and up-stream by policy-makers in consultation
+not only with risk assessors but also with all other in-
+terested parties such as consumers, environmental in-
+terests and industrial interests. That acknowledgement
+represents a repudiation of both the technocratic and
+Red Book models.
+
+In July 2007, at the plenary session of Codex, all Codex
+Member States, which include all EU Member States and
+the European Commission, adopted an identical provi-
+sion to be applied domestically. The technocratic and
+Red Book models have therefore also been repudiated
+by the European Commission and all EU Member States.
+The new model implies that evaluative, normative and
+politically contestable issues arise not only down-stream
+but up-stream too.
+
+In a recently completed and published study of risk as-
+sessment policy for Codex in the UK, Germany, the USA,
+
+(2)
+
+(3)
+
+Science in trade disputes related to potential risk: comparative case studies, (with P van Zwanenberg, C Marris, L Levidow and H Torgersen), Euro-
+pean Science and Technology Observatory Technical Report Series, 2004, available at http://esto.jrc.es/detailshort.cfm?ID_report=1203.
+
+Codex Alimentarius Commission, Procedural Manual, 14th Edition, 2004, Appendix IV, Working Principles for Risk Analysis for Application in
+the Framework of the Codex Alimentarius, paras 13-14, p. 103.
+
+83
+
+Japan and Argentina, my colleagues and I concluded
+that there are at least three main elements to risk assess-
+ment policies (RAP), namely:
+
+substantive
+procedural and
+interpretative — and they are interdependent.
+
+This is not an exhaustive list of ethical and policy ques-
+tions that arise when the environmental effects of agri-
+cultural technologies and processes are appraised4, but
+does comprise an important set of ethical and policy is-
+sues to which far too little attention has so far been paid.
+This set of issues is also one that policy-makers have, in
+general terms, undertaken to address, but which they
+have yet to address adequately.
+
+Since they should be addressed by the European Com-
+mission, and the governments of all EU Member States,
+they should also be on the agendas of national legisla-
+tures and the European Parliament if they are to meet
+their responsibilities for oversight of the executive in-
+stitutions. Those legislatures should ensure that policy-
+makers articulate at least those three key dimensions of
+risk assessment policy guidance for their risk assessors,
+and that the resulting policies are decided by transpar-
+ent and accountable processes.
+
+If these conditions are met, and if the co-evolutionary
+model is effectively operationalised and the risk assess-
+ment policy provisions properly implemented, then we
+may well have institutional structures and procedures
+through which policy-making could become both dem-
+ocratically and scientifically legitimate.
+
+(4)
+
+For example, a separate issue is: how could we test for the environmental impact of GM crops without taking precisely the risks that the
+testing is supposed to help us avoid?
+
+84
+
+Modern developments
+in agriculture technologies
+and environmental
+protection
+
+Powerpoint Presentation
+
+Agriculture and
+environmental protection
+
+Prof Erik Millstone
+
+SPRU – University of Sussex
+
+e.p.millstone@sussex.ac.uk
+
+A great deal of agriculture, both in
+industrialised and developing country
+agriculture is unsustainable in numerous
+dimensions:
+• soils - impoverished and/or lost
+• energy costs - high and rising
+• pesticides, fertiliser, pharmaceuticals -
+
+escalating treadmills
+
+• employment - innovation is labour-displacing
+
+not recruiting.
+
+85
+
+How can we understand the regulation
+of agricultural technologies and
+practices?
+
+To answer that question I provide
+several schematic models that have
+been used both descriptively and
+prescriptively.
+
+Public policy-makers, such as
+government ministers, often used
+to claim that policies to regulate
+food safety risks are always and
+only based on ‘sound science’.
+
+But how realistic was that?
+
+86
+
+Model 1: the technocratic model
+
+Science
+(= facts)
+
+Policy
+Making
+
+• The technocratic model has been
+
+torpedoed by the obvious fact that science
+evidence is often incomplete, equivocal
+and uncertain.
+
+• From 1986 to February 1996, we did not
+
+know whether or not BSE could cause CJD.
+
+• The local impacts of climate change, or of
+cultivating GM crops, are uncertain and
+contested.
+
+87
+
+Even if per impossibile all scientific
+uncertainties were eliminated, science
+still could not decide environmental
+policy.
+Policy judgements are concerned with
+the acceptability of possible risks in
+exchange for anticipated benefits, and
+those are socially variable value
+judgements – they are policy matters,
+not scientific issues.
+
+Model 2 - Red Book decisionist model
+
+(= recent conventional official orthodoxy)
+
+Risk
+assessment
+
+Risk
+management
+
+Risk
+communication
+
+Science
+
+Values and
+practicalities
+
+Social science
+
+88
+
+That model is flawed because
+the source of many of the
+uncertainties are the non-
+scientific assumptions that
+frame risk assessments,
+which Codex’s calls
+
+‘risk assessment policy’.
+
+Codex refers to Risk Assessment Policy in the
+following terms:
+“Determination of risk assessment policy should
+be included as a specific component of risk
+management.
+Risk assessment policy should be established
+by risk managers in advance of risk
+assessment, in consultation with risk assessors
+and all other interested parties…
+The mandate given by risk managers to risk
+assessors should be as clear as possible.”
+
+89
+
+Model 3 - the co-evolutionary model:
+reciprocal links between science and policy
+
+Socio-
+economic
+and political
+factors
+
+Framing
+assumptions:
+risk assessment
+policy
+
+Scientific
+factors
+
+Technical, economic,
+social
+and political factors
+
+Expert
+Assessment
+
+-
+
+Policy-making
+aka
+Risk management
+
+reciprocal communication
+
+Risk assessment policy has
+
+three main elements:
+
+substantive
+
+procedural and
+
+interpretative
+
+and they are interdependent.
+
+90
+
+Substantive RAPs are, for example, about
+normative choices concerning:
+
+• What counts as an adverse effect and what is
+
+an adaptation, or ‘herd management’ issue?
+
+• What is the unit of assessment?
+
+- a production-phase or ‘life-cycle’ analysis?
+Technologies or products - one at a time, or
+comparatively?
+A product, or a product in commercial use?
+
+• What kinds of evidence are necessary and/or
+
+sufficient eg tests in (which kinds of) model
+systems, or post-release monitoring?
+
+Procedural RAPs are, for example,
+about normative choices concerning:
+
+•
+
+•
+
+•
+•
+
+•
+•
+•
+
+how open are the deliberations and decision-
+making?
+how accountable are the deliberations and decision-
+making?
+using only published data or also unpublished data?
+peer reviewed studies only or also case-reports and
+anecdotal reports?
+acknowledging and dealing with conflicts of interest?
+acknowledging and dealing with uncertainties?
+acknowledging differences of opinion, and
+interpretative assumptions?
+
+91
+
+Interpretative RAPs are, for example, about normative
+choices concerning:
+•
+•
+
+what is the ‘chosen level of protection’?
+how to allocate the benefit of the doubts with respect to
+uncertainties?
+alignment of interests and the interpretation of uncertainty
+and ambiguity?
+symmetrical or asymmetrical sensitive to false positives
+&/or false negatives?
+how to extrapolate from short-term to long-term
+exposures?
+how to extrapolate from high-dose to low-dose
+exposures?
+how to extrapolate from models to relevant realities?
+how to trade-off ‘risks’ and ‘benefits’- eg in aggregate or
+disaggregated?
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+The co-evolutionary model
+
+indicates institutional structures
+
+and procedures through which
+
+policy-making can become
+
+democratically, scientifically
+
+and ethically legitimate.
+
+92
+
+Ethics of modern developments in
+agriculture technologies
+
+Christoph THEN
+
+Christoph Then has been working on biotechnology is-
+sues for more than fifteen years. He initiated and coordi-
+nated the German No Patents on Life! initiative from 1992
+to 1998, and worked for the Green party as an expert on
+agriculture and biotechnology from 1995 to 1998. From
+1999 to 2007 he worked for Greenpeace in Germany, as
+an expert on genetic engineering and patenting. There
+
+he headed the department for agriculture, toxics, genet-
+ic engineering and consumer issues for several years, and
+also coordinated work on EU issues in the risk assessment
+of genetically engineered organisms. He left Greenpeace
+in 2007 to initiate the scouting-biotechnology network
+(www.scouting-biotechnology.net).
+
+93
+
+The industrial gene
+paradigm and its
+(Ethical) implications
+
+Christoph Then
+
+‘The industrial gene is one that can be defined, owned,
+tracked, proven acceptably safe, proven to have uniform
+effect, sold and recalled.’ This quote (by molecular biolo-
+gist Jack Heinemann) is taken from an article in the New
+York Times published in July 20071 and reflects the wide-
+ly accepted perception that as a result of international
+research projects such as the Human Genome Project
+(published in 2000/20012) and the ENCODE project (pub-
+lished in 20073), the 20th century concept of genes and
+their function is to a large extent no longer valid. Instead
+of viewing a gene as a deterministic building block (In-
+dustrial Gene Paradigm), gene functions and their regula-
+tions now have to be understood as a part of a systemic
+unit influenced by many factors. In fact, the full role of a
+gene can only be explained by looking at its context as
+a whole. The structure of DNA alone, which according to
+the 20th century concept determines the role of a gene,
+does not really define or restrict the function of the gene
+nor does it sufficiently explain the complex nature of life.
+As Craig Venter wrote as regards the Human Genome
+Project, which for the first time revealed the complete
+DNA structure of humans: ‘(...) we must look elsewhere
+for the mechanisms that generate the complexities (...).’4
+
+This new dimension in complexity calls into question the
+use of genetic engineering in plants, which is based on the
+general idea that a gene can be isolated, transferred to
+another organism (in many cases even from another spe-
+cies), inserted at random and, at the same time, be used
+to transfer a defined biological function. Because a DNA
+
+sequence alone does not define or restrict the function of
+a gene, predicting the effect of moving one gene to an-
+other organism is not at all as straightforward as has been
+assumed5. According to a study by the German Depart-
+ment of the Environment:6 ‘A genetically transferred gene
+sequence must be understood as genetic information
+whose context has been altered in an uncontrolled way’.
+
+Many cases demonstrate that the application of the In-
+dustrial Gene Paradigm underestimates the issue of com-
+plexity at the level of gene regulation. For example, it has
+been shown that changing the function of a single gene
+can influence the functioning of several hundred other
+genes7. Side-effects associated with genetic engineering
+can even cause severe health problems. A slight modifica-
+tion in the expression of a new protein in peas as a result
+of genetic engineering led to an unforeseen potential
+hazard to human health8. Sometimes after unintended
+side-effects become evident, they are hailed as a success-
+ful result of genetic engineering, for example in the case
+of Golden Rice. Originally, Golden Rice kernels were sup-
+posed to produce a compound of a red, not yellow col-
+our.9 Even if a certain function is transferred ‘successfully’,
+the function of a gene may be affected by the environ-
+ment (such as in conditions of drought, disease, or salin-
+ity) in ways too complex to be predicted based on our
+current knowledge. This has been shown in commercially
+traded genetically engineered plants such as cotton, soy
+and maize. For example the Bt content in MON810 maize
+seems to depend on environmental factors.10
+
+(1)
+(2)
+(3)
+
+(4)
+(5)
+(6)
+
+(7)
+(8)
+
+(9)
+
+Caruso, Denise. ‘A Challenge to Gene Theory, a Tougher Look at Biotech’, New York Times, 1 July 2007, www.nytimes.com.
+Venter, J. Craig, et al. 2001. ‘The Sequence of the Human Genome’, Science, Vol. 291, 1304–1351.
+The Encode Project Consortium, 2007. ‘Identification and analysis of functional elements in 1% of the human genome by the ENCODE pilot project’,
+Nature, Vol 447, 14 June 2007, 799–816.
+Venter, J. Craig, et al. 2001. ‘The Sequence of the Human Genome’, Science, Vol. 291, 1304–1351.
+See also Greenpeace, 2005 ‘risk underestimated, interviews with nine scientists on the subject of genetically modified plants’, www.greenpeace.de.
+Pickardt, T. 2002. ‘Stabilität transgen-vermittelter Merkmale in genetisch veränderten Pflanzen’, study commissioned by the Department of the
+Environment (UBA), Texte 53/02, Forschungsbericht 20167 430/2.
+Anholt, R.R. et al. 2003. ‘The Genetic Architecture of Odor-Guided Behavior in Drosophila’, Nature Genetics, 35, 180-184.
+Prescott VE, et al. 2005. ‘Transgenic expression of bean a-amylase inhibitor in peas results in altered structure and immunogenicity’, J Agricultural
+and Food Chemistry, 53, 9023-30.
+Beyer, P., Al-Babili, S., Ye, X, Lucca, P., Schaub, P., Welsch, R. & Potrykus, I. 2002. ‘Golden Rice: introducing the ß-carotene biosynthesis pathway into
+rice endosperm by genetic engineering to defeat vitamin A deficiency ’, Journal of Nutrition, 132: 506–510.
+
+(10) Griffiths, B.S., S. Caul, J. Thompson, A.N. Birch, C. Scrimgeour, J. Cortet, A. Foggo, C.A. Hacket, and P.H. Krogh. 2006. ‘Soil microbial and faunal com-
+
+munity responses to Bt maize and insecticide in two soils’, Journal of Environmental Quality, 35, 734-74
+
+94
+
+In short, the concept of current genetic engineering in
+plants is flawed because it perceives an organism, its
+cells and gene functions (and its interaction with the en-
+vironment) as being determined by its single parts and
+not as being organised by emergence and non-linear
+processes. Therefore, the current concept of genetic en-
+gineering in plants tends to ignore the results of recent
+mainstream research leading the way to the post-ge-
+nomic era of the 21st century. The correct understand-
+ing of the mechanisms of life by industry is impeded by
+potential conflicts with commercial interests11. As Barry
+Commoner writes: ‘The fact that one gene can give rise
+to multiple proteins also destroys the theoretical foun-
+dation of a multibillion-dollar industry, the genetic engi-
+neering of food crops.’12
+
+This is relevant not only in the context of the manufac-
+ture of products, such as genetically engineered plants,
+but also to the patentability of plants, animals and re-
+lated genetic resources. Currently, patent offices in the
+US and Europe grant patents largely based on the In-
+dustrial Gene Paradigm; genetic information is treated in
+the same way as chemical compounds are, which can be
+isolated and defined at the molecular level of DNA. As
+a logical result of this concept, very broad patents are
+granted for DNA sequences covering each and every
+biological function as soon as a commercial application
+is described. Even if a DNA sequence is only described in
+its natural context, it might become an invention where
+the breeding of plants and animals is concerned. This
+is the focus of the discussion at www.no-patents-on-
+seeds.org.
+
+The Industrial Gene concept has implications for civil
+society on several levels. Driven by economic expec-
+tations, it can have far-reaching ethical and socio-eco-
+nomic implications.
+
+These implications are addressed in the following four
+paragraphs:
+
+1) (dis-)respect for life
+2) exposure to risks
+3) creating monopolies
+4) opting for sustainable solutions
+
+1) (Dis-)respect for life seems to be somewhat of an old
+fashioned concept when discussing the implications of
+modern biotechnology. But in the light of the underly-
+ing Industrial Gene Paradigm this very basic approach
+could acquire a new meaning. The construction and
+engineering (manipulation) of life forms under flawed
+technical preconditions could be perceived as not con-
+forming to the very basic concept of respect for living
+beings. One might interpret this as abuse of the tech-
+nical and economic power to turn life into a product,
+which suffers from a fundamental technical misconcep-
+tion. This issue has not yet taken centre stage in public
+debate — but it might well be on its way, sparked by the
+application of biotechnology to animals (including the
+advent of cloning).
+
+2) The exposure to risks posed by genetically modified
+organisms is reflected in European legislation requir-
+ing a general risk assessment for genetically modified
+organisms before authorisation. But so far there is still
+no protocol for risk assessment which takes the general
+complexity of genes and their functions into account.13
+It is a matter of great concern that products originating
+from biotechnology are released into the environment
+and used in food production without a proper under-
+standing of genes and their functions. Thus consumers
+and the environment are systematically and permanent-
+ly exposed to a fairly unpredictable form of risk. Consid-
+er the risk of outcrossing: this risk might be prolonged
+
+(11)
+
+See also: Then, Christoph. 2008. ‘Dolly ist tot’, Rotpunktverlag, Schweiz.
+
+(12) Commoner B. 2002. ‘Unraveling the DNA Myth’, Harper´s Magazine, February 2002, 39–47.
+
+(13)
+
+For example, see Greenpeace, 2006, ‘Efsa’s risk assessment on GMOs, case studies and lessons learnt’, www.greenpeace.de.
+
+95
+
+and irreversible with implications for future generations.
+The risks emerging from the Industrial Gene Paradigm
+are exceptional in nature. As the New York Times points
+out: ‘Innovation begets risk, almost by definition. When
+something is truly new, only so much can be predicted
+about how it will play out. Proponents of a discovery of-
+ten see and believe only in the benefits it will deliver. But
+when it comes to innovations in food and medicine, be-
+lief can be dangerous. Often, new information is discov-
+ered that invalidates the principles — thus the claims of
+benefit and, sometimes, safety — on which proponents
+have built their products.’14
+
+3) Creating monopolies in seed and food production
+has been an integral part of modern biotechnology
+for approximately 20 years. Today, agrochemical com-
+panies such as Monsanto are the main global players
+in seed production. One central mechanism for the in-
+ternational takeover of the seeds market is patent law.
+Wherever DNA sequences of economic relevance can be
+identified, they and associated products can be claimed
+as intellectual property. This includes the entire chain
+of food production as well as all following generations
+derived from crossing and propagation. As mentioned
+above, this misappropriation of genetic resources is not
+restricted to genetically engineered plants. Especially in
+the light of the current food crisis, which is driven by the
+rising cost of everyday food products, this can have se-
+vere implications for civil society particularly in develop-
+ing countries. As the IAAST (International Assessment of
+Agricultural Science and Technology for Development)
+report in 2008 concludes: ‘In developing countries espe-
+
+cially, instruments such as patents may drive up costs,
+restrict experimentation by the individual farmer or
+public researcher while also potentially undermining lo-
+cal practices that enhance food security and economic
+sustainability.‘15
+Broad monopolies in food and food production tech-
+nology can create additional bottlenecks in world food
+supply and therefore are in clear contradiction to the
+need for sustainable food security. For ethical reasons
+these monopolies should be ruled out by the interna-
+tional community.
+
+4) Opting for sustainable solutions could also pose an
+ethical challenge if it could be shown that technologies
+are available that generate identical or better results as
+regards yield and sustainable food supply without pos-
+ing specific risks as is the case with genetic engineering.
+
+The latest outcome in what is known as marker-assisted
+breeding (MAB) has been positive, showing good results
+for pest and drought resistance as well as higher yields.16
+This technology does not introduce a completely new
+breeding technology, but simply supports conventional
+breeding with relatively low technical input, using some
+kind of gene diagnosis. Indeed, even according to industry,
+conventional breeding assisted by gene diagnosis seems
+to be more effective than GE technology.17 Since costly
+procedures for authorisation, labelling and segregation
+are not necessary with MAB, this technology also means
+a lower economic burden for participants in the food and
+seed market. Seen from this perspective, we must weigh
+the pros and cons and take ethical aspects into account.
+
+(14) Caruso, Denise. ‘A Challenge to Gene Theory, a Tougher Look at Biotech’, New York Times, 1 July 2007, www.nytimes.com.
+
+(15) http://www.greenfacts.org/en/agriculture-iaastd/l-2/3-biotechnology-for-development.htm#0.
+
+(16)
+
+For example, see McCouch, p. 2004. ‘Diversifying Selection in Plant Breeding’, PloS Biology, October 2004, Vol 2, Issue 10, www.plosbiology.org.
+
+(17) www.epo/aboutus/events/biotechnology.html.
+
+96
+
+The industrial gene
+paradigm and its
+(Ethical) implications
+
+Powerpoint Presentation
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+EGE Roundtable on
+„Ethical Aspects
+of Modern
+Developments in
+Agriculture
+Technologies“*
+
+*reflecting positions of Greenpeace
+
+www.scouting-biotechnology.net
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+  "The industrial gene is
+
+one that can be
+defined, owned,
+tracked, proven
+acceptably safe, proven
+to have uniform effect,
+sold and recalled."
+
+(Jack Heinemann)
+
+www.scouting-biotechnology.net
+
+97
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+the old model of gene function
+www.scouting-biotechnology.net
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+the new model of gene function
+www.scouting-biotechnology.net
+
+98
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+case studies:
+
+ interference with cell metabolism: Golden
+Rice was supposed to be red, not yellow
+
+ process of genetic engineering: protein altered
+becoming a health risk in GE peas
+
+ environment: Bt content depends on soil, sun,
+fertiliser etc in MON810
+
+www.scouting-biotechnology.net
+
+99
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+normal
+plants and
+animals
+
+g
+
+e
+
+n
+
+all
+follo
+eratio
+
+win
+
+g
+
+n
+
+s
+
+isolation or
+
+identification
+
+of DNA sequence
+
+of economicl
+
+interest
+
++
+
+describing a
+
+technical
+
+application
+
+=
+
+all biological
+functions
+
+genetically
+engineered
+plants and
+animals
+
+production
+alllevels
+
+of
+
+seeds
+plants
+cultivation
+harvest
+processing
+food
+feed
+biomass
+
+www.scouting-biotechnology.net
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+  (dis-)respect of life
+
+  exposure to risks
+
+  creating monopolies
+
+  Opting for
+
+sustainable solutions
+
+www.scouting-biotechnology.net
+
+100
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+! dis-respect of life
+
+  construction/
+
+manipulation life
+forms ignoring the
+current scientific
+concept could be
+considered abuse of
+technical and
+economic power to
+turn life into a
+product that suffers
+from a fundamental
+technical
+misconception
+
+www.scouting-biotechnology.net
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+! Exposure to risks
+
+  biosphere is
+exposed to a
+permanent,
+multilevel - in some
+cases even
+irreversible - risk of
+fairly unpredictable
+nature
+
+  comprehensive
+
+protocol for
+adequate risk
+assessment is not
+available
+
+www.scouting-biotechnology.net
+
+101
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+! Creating monopolies   broad monopolies in
+
+food and food
+production
+technology can
+create additional
+bottlenecks in world
+food supply by
+raising prices and
+hindering access
+
+www.scouting-biotechnology.net
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+! Opting for
+
+sustainable solutions
+
+  in terms of
+
+sustainability and
+effectiveness, the
+application of GE in
+plants is wrong
+involving high
+collateral costs for
+society
+
+  more effective, less
+costly and less risky
+technologies for
+breeding are
+available
+
+www.scouting-biotechnology.net
+
+102
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+  define adequate
+
+criteria for
+sustainability in plant
+breeding taking into
+account the post
+genomic paradigm
+
+  make plant and
+
+animal breeding an
+open source issue
+
+www.scouting-biotechnology.net
+
+The Industrial Gene Paradigm and its
+[Ethical] Implications
+
+  empower civil
+
+society and give
+precaution a true
+chance:
+
+! the right to say no
+! transparency to
+enable choice
+! independent risk
+
+research
+
+www.scouting-biotechnology.net
+
+103
+
+thank you very much for your attention
+
+Dr Christoph Then
+Tel +49 151 54638040
+christoph.then@scouting-biotech.de
+
+www.scouting-biotechnology.net
+
+104
+
+Ethics of modern developments in
+agriculture technologies
+
+Nathalie MOLL
+
+Nathalie Moll is a biochemist and biotechnologist by
+training, graduating from St Andrews University in Scot-
+land in 1995. Since then, Nathalie has for the past 13 years
+been involved in industries and industry associations ac-
+tive in different fields of biotechnology at EU and nation-
+al level in strategic advice and public and government
+affairs positions.
+
+Most recently, Nathalie has been heading the Green Bio-
+technology Unit of EuropaBio, focusing on the agricul-
+tural applications of modern biotechnology.
+
+105
+
+Ecologically,
+economically and socially
+sustainable agriculture:
+the role of GMOs
+
+Nathalie Moll
+
+The EGE Round-Table comes at a time when sustainable
+agriculture, climate change and food security are high on
+the political agenda. In light of these discussions, more
+and more governments and authorities, including the
+Commission and the European Parliament, are recognis-
+ing a positive role for agricultural biotechnology in sus-
+tainable production. At the same time, the EU regulatory
+framework for GMOs, the most stringent in the world, is
+currently being discussed at several levels by European
+policy-makers. The WTO Panel ruling in 2006 that the EU
+was ‘not compliant’ in terms of implementing its legisla-
+tion on GMOs also gives an international dimension to
+this discussion.
+
+The inability at EU level to approve agricultural biotech
+products assessed as safe by the EU Food Safety Author-
+ity is denying European farmers access to innovative
+biotech crops that would allow them to compete with
+equal tools on the global market. In Europe, only one
+biotech product has been available for cultivation since
+1998, while a number of cultivation approvals have been
+blocked in the approval system since then. This is seri-
+ously challenging the ethical concept of ‘equal access’ or
+‘justice within generations’ for European farmers versus
+farmers in the rest of the world.
+
+Furthermore, given that the EU is often an important
+agricultural trading partner of developing countries, the
+EU’s restrictive policy towards GMOs has a strong impact
+on developing countries that would like to adopt agri-
+cultural biotechnology but fear losing their trading part-
+ner as a result. An assessment, including the ethical im-
+plications, of policies and any new EU legislation in this
+sector should look beyond Europe’s borders to examine
+the effects on other world regions as well.
+
+The lack of progress in approving new biotech products
+in the EU is also denying choice to the 42% of consumers
+
+who are not opposed to GMOs1. Indeed, the inconclusive
+voting patterns of Member States in the approval proc-
+ess show that even though a product is considered safe
+by the EU’s own Food Safety Authority, Member States
+cannot arrive at a decision on whether or not to let that
+safe product onto the market, often on the basis that ‘the
+public may not want it’. In reality, consumer perceptions
+of GMOs are changing as shown by the trends in the latest
+Eurobarometer survey1, where the number of Europeans
+worried about biotech crops has declined to 20%, down
+from 24% in 2004. Similar studies recently conducted in
+the UK2 and Sweden3 have shown that fewer than 3%
+of respondents mention GM as a concern in relation to
+food. It seems ethically important to allow consumers to
+decide which safe products they will or will not purchase
+and not take that decision away from them.
+
+Currently, agriculture is facing a number of major global
+challenges. The rapid growth in world population (+13%),
+global income (+36%) and meat consumption (beef +14%,
+pork +11%, chicken +45%) in the last decade are major
+drivers of an increased demand for raw materials. There
+appear to be only two options to meet this challenge:
+
+1)
+
+Increase the amount of cultivated area, thus further
+increasing the pressure on remaining land, includ-
+ing marginal grounds and forests
+
+2)
+
+Increase the productivity of currently cultivated land,
+which is doubtless the more sustainable option.
+
+The challenges today are to enable all inhabited world re-
+gions to produce enough healthy food for their inhabit-
+ants while preserving precious resources such as soil and
+water and mitigating climate change. Although biotech-
+nology on its own cannot meet all the major agricultural
+challenges of the new millennium, it is a powerful tool-
+box providing innovative and sustainable solutions to a
+
+(1)
+
+(2)
+
+(3)
+
+Eurobarometer study 2008 Attitudes of European citizens towards the environment
+
+Peter Hutton, August 2006 - GM Foods: What Europeans Really Think: An analysis of the progression of European consumer attitudes toward GM foods
+
+Sweden, September 2007 (available in Swedish only) New consumer survey shows increased acceptance
+
+106
+
+wide range of human and environmental issues. Indeed,
+agricultural biotechnology has a role in ensuring the fol-
+lowing components of sustainability in agriculture:
+
+•
+
+•
+
+•
+
+Ecological sustainability: According to a recently
+published peer-reviewed study4 which examined
+the technology over a ten-year period from 1996 to
+2006, agricultural biotech has reduced greenhouse
+gas emissions from agriculture by 14.8 billion kg of
+CO
+, which is equivalent to removing 6.6 million cars
+2
+from the roads in 1 year (= 25% of the cars registered
+in the UK), and has reduced crop protection spray-
+ing by 286 million kg.
+
+Economical sustainability: The global net eco-
+nomic benefits of 11 years of biotech crop cultiva-
+tion at farm level amounted to €4.5 billion in 2006
+and €21.6 billion over the ten-year period4. Farmers
+get a direct benefit from growing biotech crops via
+higher yields and lower input and management
+costs, which translates into a benefit to consumers
+through lower prices.
+
+Social sustainability: In 2006, 54% of the increase
+in farm income went to farmers in developing coun-
+tries. It is mainly the farmer who substantially gains
+from agricultural biotechnology. In Europe, as in
+the rest of the world, two thirds of the benefits of
+growing biotech crops are shared among European
+farmers and consumers, while one third goes to the
+developers and seed suppliers5.
+
+Given the challenges of food security and sustainable
+production, is it ethical for Europe to renounce agricul-
+tural biotech as part of the solution?
+
+(4)
+
+Global Impact of Biotech Crops: Socio-Economic and Environmental Effects in the First Ten Years of Commercial Use by Graham Brookes and Peter
+Barfoot PG Economics Ltd., Dorchester, UK published in AgBioForum AgBioForum Volume 9 // Number 3 // 2007. http://www.agbioforum.org/v9n3/
+v9n3a02-brookes.htm
+
+(5) Demont, M., Dillen, K., and Tollens, E. (2007) GM crops in Europe: How much value and for whom? EuroChoices 6, 46-53.
+
+107
+
+Ecologically,
+economically and socially
+sustainable agriculture:
+the role of GMOs
+
+Powerpoint Presentation
+
+Ecologically, economically and
+socially sustainable agriculture:
+the role of GMOs
+
+The European Group on Ethics (EGE) Roundtable
+on the ethical aspects of
+Modern Developments in Agriculture Technologies
+
+Brussels, June 18th 2008
+
+Nathalie Moll
+EuropaBio – Executive Director, GBE
+
+Context
+agbiotech legislation in EU
+
+Context:
+-
+- May: Communications from Commission & Parliament recognising “a” role for agbiotech
+
+Since 2003 EU has most stringent regulatory framework in the world
+
+in sustainable production
+
+- May: Commissioners Orientation debate on GMO legislation and its applications
+-
+- WTO Panel ruling that EU is “not compliant” in terms of implementing its legislation
+
+June: President Barroso calling for Heads of State “Sherpa” group to discuss on same
+
+Issues faced in Europe around biotech approvals and products:
+
+Member States “devolving” decision power to the Commission + backlog in approvals:
+
+  Impacts of the misapplication of the legislation on:
+
+•
+
+“Equal access” or “justice within generations” between EU consumers/farmers and
+rest of the world (RoW) as well as impact on access to EU market & uptake of
+technologies in the rest of the world
+
+• Vicious circle diminishing trust in regulatory framework & bodies e.g. EFSA/COM
+
+Consideration of impacts inc. ethical imimpacts
+What would be helpful: Consideration of impacts inc. ethical impacts
+What would be helpful:pf
+
+of existing & new EU regulations on the other world regions
+of existing & new EU regulations on the other world regionsonsons
+
+108
+
+Consumer polls
+show increased confidence
+
+consider
+si
+
+Eurobarome
+
+EU
+EU Eurobarometer survey published on 13/03/2008 shows
+
+mete
+20% of Eururope
+20% of Europeans are worried about GMOs (24% in 2004)
+26% consider lack of information relating to use of GM in farming (40% in 2004)
+26%
+GMOs classified as Issue of great lack of information + medium level of concern
+GMOs classias fie
+58% of Eururop
+58% of Europeans declare they are opposed to GM (down from 70% in 2004)
+support u
+por
+21%
+21% support use of GM
+9% say theyey
+9% say they have never heard of it
+
+sup
+
+han
+
+Ranking 5 out of 15 main environmental issues consumers are most worried about:
+Ranking 5 out ofof 15
+1. Climate change (increased from 47% to 57%).
+1. Climate change
+2. Water pollution (down from 47% to 42%),
+2. Water pollutiotion
+3. Air pollution (down to 40% from 45%)
+3. Air pollution (dow
+………
+¨ ……
+¨ ……………………………..
+7. GMOs
+7. GMOs
+
+………
+
+National
+survey
+eys
+National surveys confirm the trend
+! Italy, Fly, Fly
+! Italy, Feb 08: Survey shows 67% maize growers in Lombardy ready to grow GM
+0808:
+, F
+, Feb
+eb
+! UK, Feb 088: UK
+! UK, Feb 08: UK ESRC study finds farmers consider GM crops as an innovation that
+wo
+would contribute to the profitability of their farms.
+08:08: UK
+am
+among consumers is down 5% to 20%
+
+! UK, FUK, FUK eb
+! UK, Feb 08: UK Food Standards Agency annual survey shows concerns of GMOs
+, F
+, Feb
+
+Population & income
+drive the demand
+
++13%+13%
+
++36%+36%
+
+The growth in world
+population over the last
+population
+10 years
+
+The growth in global
+income over the last 10
+income
+years
+
++21%+21%
+
+The growth in meatmeat
+consumption (Beef +14%, Pork
++11%, Chicken +45%) over the
+last decade
+
++34%+34%
+
++52%+52%
+
++6%+6%
+
+The growth in world
+corncorn consumption over
+the last decade
+
+The growth in world
+soybean consumption over
+soybean
+the last decade
+
+The growth in world cropcrop
+areaarea harvested over the
+last decade
+
+Source: USDA/Pioneer Market Economics
+
+109
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Increase raw materials
+
+There are only 2 ways to increase the
+availability of agricultural raw materials:
+
+1) Increase the amount of land cultivated
+But:
+
+• Best land is already in use
+• Increased competition for remaining
+
+land (marginal lands/forests)
+
+2) Increase productivity of existing land
+
+more sustainable
+
+Productivity increase is the result of:
+
+• Sound farming policy +
+Improved technology
+•
+dissemination to the farm
+
+Produce predictably
+more and cheaper in a
+sustainable way
+
+  With SAME AMOUNT of land
+
+  With LESS water
+
+  With LESS CO2
+  With LESS erosion
+
+  With LESS nitrogen fertiliser
+
+  With LESS spraying
+
+  Increased management
+
+flexibility/convenience
+
+  With BETTER quality
+
+  With HIGHER nutritional value
+
+Important role for
+Agricultural Biotechnology
+
+Ecological Sustainability
+
+Economical Sustainability
+
+Social Sustainability
+
+110
+
+Reduced spraying
+
+Use of agbiotech crops has allowed:
+
+• Reduced spraying by 286 million kg
+(-7.8% globally or - 40% of a.i. sprays
+in EU)
+
+• Lower use of herbicide active
+ingredients (minus 25-33%) in
+herbicide-resistant crops (canola,
+cotton, maize, soybean) compared to
+conventional crops
+
+• Decrease in insecticide sprays in
+
+insect-resistant Bt crops
+
+Source: Global impact of biotech crops: socio-
+economic and environmental effects 1996-2006
+www.pgeconomics.co.uk
+
+Reduced Greenhouse Gas
+Emissions
+
+Use of agbiotech crops has allowed:
+
+Reduced use of fossil-based fuels:
+-1.2 billion kg of CO2
++
+Conservation tillage for biotech crops:
+additional soil carbon sequestration
+equivalent to
+- 13.6 billion kg of CO2
+
+=
+
+Total reduction through the use of
+biotech crops amounted to
+-14.8 billion kg of CO2 or
+removing 6.6 million cars from the
+road for 1 year
+(= 25% of the cars registered in the UK)
+
+(Figures for 2006)
+
+Source: Global impact of biotech crops:
+socio-economic and environmental effects 1996-2006
+www.pgeconomics.co.uk
+
+111
+
+Yield conservation
+
+  Diseases and pests still reduce global production of food by > 35%
+  Resistant biotech crops are helping to:
+
+– reduce yield losses
+– ensure stable food production by making harvests more predictable
+– lower mycotoxin levels (health benefit)
+
+Conventional
+Corn from
+infested area
+
+Insect-resistant
+Bt corn
+from same area
+
+Yield gains greatest in developing countries where losses would have been highest
+
+Without access to agricultural biotechnology
+an extra 6.85 million additional hectares in conventional agriculture would have been
+required globally to deliver the same quantity of plant products
+
+Source: Global impact of biotech crops:socio-economic and
+environmental effects 1996-2006
+
+Source pictures: Pioneer Hi-Bred
+
+Farm income gains
+1996-2006, million  
+
+Canada
++  0.77 billion
+
+United States
++  10.12 billion
+
+Mexico
++  45.5 million
+
+China
++  3.7 billion
+
+India
++  0.83 billion
+
+Brazil
++  1.22 billion
+Paraguay
++  224 million
+
+Argentina
++  4.23 billion
+
+South Africa
++  100 million
+
+Australia
++  118 million
+
+Since 1996, biotech crops have increased farm income  21.6 billion
+
+2006 farm income +  4.5 billion
+
+Source: Global impact of biotech crops :socio-economic and environmental
+effects 1996-2006 www.pgeconomics.co.uk
+
+112
+
+Breakdown of farm income
+gains in 2006 by country type
+
+in 2006, 54% of farm income gain was to farmers in developing countries
+
+* Some crops such as canola are not
+cultivated in developing countries
+
+Source: Global impact of biotech crops :socio-
+economic and environmental effects 1996-2006
+www.pgeconomics.co.uk
+
+*
+
+Rapid Global Biotech Adoption
+
+Industrial and Developing Countries
+
+2007 Milestones
+  114.3 million hectares of
+biotech crops globally
+
+  + 12.3 million hectares
+
+(12%) in 2007
+
+  23 countries
+
+(12 dev + 11 industrialised)
+
+  12 million farmers
+
+  11 million (90%) are small
+farmers from developing
+countries
+
+  > 10.3 million farmers
+
+planted biotech crops for the
+first time
+
+More Farmers in Developing World Are Benefiting from Biotechnology
+
+Source: ISAAA report 2007
+
+113
+
+Conclusions
+
+Sustainability consists of 3 equally important pillars:
+
+1. Ecological sustainability
+
+2. Economical sustainability
+
+3. Social sustainability
+
+Agricultural Biotechnology contributes
+to all 3 factors
+
+Given the challenges of food security and
+sustainable production, is it ethical for
+Europe to renounce agricultural biotech
+as part of the solution?
+
+TThhaannkk yyoouu!!
+
+More info on http://www.europabio.org
+
+Nathalie Moll
+Executive Director, Green Biotechnology Europe
+EuropaBio
+
+114
+
+Annex I
+
+Participants
+
+Ethics of modern developments in
+agriculture technologies
+
+115
+
+Members of the European Group
+on Ethics (EGE)
+
+Göran HERMERÉN,
+President
+Philosopher, Professor of
+Medical Ethics
+Faculty of Medicine, Lund University
+Lund, Sweden
+
+Paula MARTINHO DA SILVA
+Vice-President
+Lawyer, President of the National
+Council of Ethics for the Science of Life
+Lisbon, Portugal
+
+Emmanuel AGIUS
+Professor of Moral Philosophy and Moral
+Theology, Faculty of Theology
+University of Malta
+Malta
+
+Diana BÁNÁTI
+Professor of Food Safety,
+Director-General of the Central Food
+Research Institute
+Budapest, Hungary
+
+Inez de BEAUFORT
+Professor of Health Care Ethics
+Erasmus Medical Centre
+Dept of Medical Ethics
+Rotterdam, the Netherlands
+
+Anne CAMBON-THOMSEN
+Research Director, CNRS, Head of a
+research team on genetics and public
+health, Inserm U558
+Faculté de Médecine
+Institut Fédératif de Recherche 126:
+«Santé, Société»
+Toulouse, France
+
+Rafael CAPURRO
+Professor of Information Management
+and Information Ethics at Fachhoch-
+schule
+Stuttgart, Hochschule der Medien
+University of Media
+Stuttgart, Germany
+
+Jozef GLASA
+Professor of Clinical Pharmacology
+and Therapeutics, Hepatology and
+Medical Ethics/Bioethics at the Slovak
+Medical University in Bratislava
+Institute of Medical Ethics
+and Bioethics
+Institute of Clinical Pharmacology
+Central Ethics Committee Ministry
+of Health
+Bratislava, Slovakia
+
+Hille HAKER
+Professor of Moral Theology and
+Social Ethics, Goethe University
+Johann Wolfgang Goethe Universität
+FB Kath Theologie
+Frankfurt, Germany
+
+Julian KINDERLERER
+Professor, Sheffield Institute
+of Biotechnological Law
+and Ethics
+Law Dept, University of Sheffield
+Sheffield, United Kingdom
+
+Wilhelm GRUISSEM
+ETH Zürich, EPSO
+Switzerland
+
+Karsten Klint JENSEN
+Life Sciences Dept.,
+University of Copenhagen
+Denmark
+
+Erik MILLSTONE
+Professor of Science and Technology
+Policy, University of Sussex
+United Kingdom
+
+Krzysztof MARCZEWSKI
+Professor, Head of Dept of Medical
+Ethics, Zamość Hospital
+Medical University of Lublin
+Lublin, Poland
+
+Nathalie MOLL
+Executive Director
+Green Biotechnology Europe,
+EuropaBio
+Belgium
+
+Linda NIELSEN
+Professor, University of Copenhagen
+Copenhagen, Denmark
+
+Pere PUIGDOMÈNECH ROSELL
+Research Professor of CSIC
+Director of Plant Molecular Genetics
+Laboratory
+CSIC-IRIA
+Barcelona, Spain
+
+Rajeswari RAINA
+Senior research fellow
+Centre for Policy Research, New Delhi
+India
+
+Christoph THEN
+Consultant for Greenpeace
+Belgium
+
+Günter VIRT
+Professor of Moral Theology
+University of Vienna
+Vienna, Austria
+
+European Commission
+
+DG BEPA — Bureau of European
+Policy Advisers
+
+Graça CARVALHO
+Principal Adviser
+DG BEPA
+
+Paola COLOMBO
+Head of coordination unit
+DG BEPA
+
+Pierre-Etienne MALLET
+DG BEPA
+
+Elena SARACENO
+DG BEPA
+
+DG JRC — Joint Research Centre
+
+Elena STROE
+Research Programme Officer
+Unit A.1 — Work programme EC
+
+Sigrid WEILAND
+Research Programme Officer
+Unit A.1 — Work programme EC
+
+Secretariat of the EGE
+
+Maurizio SALVI
+DG BEPA
+Head of the EGE Secretariat
+
+Alessandra FERRARI
+BEPA, EGE Secretariat
+
+Franziska FEITEN
+DG BEPA, EGE Secretariat
+
+Mariana GONÇALVES
+DG BEPA, EGE Secretariat
+
+Speakers
+
+Eric DRÉSIN
+Food and Water Watch Europe
+Belgium
+
+Günther EBERZ
+Bayer CropScience
+Germany
+
+116
+
+DG MARKT — Internal Market and
+services
+
+Jean-Philippe MULLER
+Policy Officer
+Unit D.2 — Industrial property
+
+DG RTD — Research
+
+Peteris ZILGALVIS
+Head of Unit
+Unit L.3 — Governance and ethics
+
+Lino PAULA
+Policy Officer
+Unit L.3 — Governance and ethics
+
+DG SANCO — Health and Consumers
+
+Rui CAVALEIRO AZEVEDO
+Deputy Head of Unit
+Unit E.4 — Food law,
+nutrition and labelling
+
+Päivi MANNERKORPI
+Policy Officer
+Unit E.1 — Biotechnology and
+plant health
+
+DG TAXUD — Taxation and
+Customs Union
+
+Maria GOUVEIA
+Unit D.2 — Excise duties and trans-
+port, environment and energy taxes
+
+EESC — European Economic and
+Social Committee
+
+Gaia ANGELINI
+Belgium
+
+NECS
+
+Cinzia CAPORALE
+Professor
+Comitato Nazionale per la Bioetica
+Italy
+
+Ariadne Loukia HAGER-THEODORIDES
+Hellenic National Bioethics Commission
+Greece
+
+Harald SCHMIDT
+Assistant Director
+Nuffield Council on Bioethics
+United Kingdom
+
+Doris WOLFSLEHNER
+Head of the Secretariat of the Austrian
+Bioethics Commission; Deputy Head
+of the EU Coordination Unit for Agri-
+culture, Environment Policy, Transport
+and Health
+Federal Chancellery
+Austria
+
+EPSO — European Plant Science
+Organisation
+Belgium
+
+Anne-Marie NEETSON VAN
+NIEUWENHOVEN
+EFFAB — European Forum of Farm
+Animal Breeders
+The Netherlands
+
+Sabine OHM
+European Policy Officer
+PROHVIEH — VgtM e.V.
+Belgium
+
+Ana PEREZ MENDEZ
+Policy Officer
+COFACE — Confederation of Family
+Organisations in the EU
+Belgium
+
+Aleksandra SCHINDLER
+World Young Alliance
+Belgium
+
+Hans Peter SCHONS
+ADT — German Animal Breeders
+Federation
+Germany
+
+Birgit SCHULZE
+Deutscher Bauernverband e.V. — Büro
+Brüssel
+Belgium
+
+Laura STREET
+Food Policy Officer
+EURO COOP
+Belgium
+
+Nico VAN BELZEN
+Executive Director
+ILSI Europe AISBL
+Belgium
+
+Guido VAN STEENDAM
+Professor
+International Forum for Biophilosophy
+Belgium
+
+Garlich VON ESSEN
+General Secretary
+ESA — European Seed Association
+Belgium
+
+Marlene WARTENBERG
+Director of European Policy
+VIER PFOTEN — Stiftung für Tierschutz
+Belgium
+
+International Organisations,
+NGOs, Agencies and Associations
+
+Gerard CHOPLIN
+Coordinator
+CPE — European Farmers Coordination
+Belgium
+
+Marco CONTIERO
+GMO Policy Adviser
+Greenpeace European Unit
+Belgium
+
+Alexander DORING
+Secretary General
+FEFAC — European Feed Manufacturers
+Federation
+Belgium
+
+Joyce D’SILVA
+Ambassador
+Compassion in World Farming
+United Kingdom
+
+James EDE
+Assistant Director
+UK National Farmers Union
+Belgium
+
+Roxane FELLER
+Senior Policy Adviser
+COPA-COGECA
+Belgium
+
+Hazel GOEDHART
+FairFood
+The Netherlands
+
+Thorsten GUTHKE
+Regulatory Manager
+FEFANA — EU Feed Additives and
+Premixtures Association
+Belgium
+
+Euros JONES
+Director, Regulatory Affairs
+ECAP — European Crop Protection
+Association
+Belgium
+
+Karin METZLAFF
+Executive Director
+
+117
+
+National and regional Instances
+
+Dirk BERGEN
+Senior Policy Adviser
+Flemish Government — Department of Agriculture and
+Fisheries
+Belgium
+
+Lucette FLANDROY
+Federal Public Service Health, Food Chain Safety and Envi-
+ronment
+Belgium
+
+Wim HAENTJENS
+Policy Officer
+Flemish Government — Department of Agriculture and
+Fisheries
+Belgium
+
+Johanna HOELZL
+Head of Office
+Liaison Office Of Upper Austria
+Belgium
+
+Ingrid RIYDBERG
+Federation of Swedish Farmers
+Sweden
+
+Madeleine MARTIN
+Representation of the Land of Hessen at the EU
+Belgium
+
+Karel MATOUSER
+Representative
+Agrarian Chamber CZ
+Belgium
+
+Jussi TAMMISOLA
+Assoc. Professor; Senior Research Officer
+Ministry of Agriculture and Forestry; University of Helsinki
+Finland
+
+John Barrie WILLIAMS
+Senior Agriculture Specialist
+USDA / FAS (U.S. Mission to the EU) — U.S. Department of
+Agriculture / Foreign Agricultural Service
+Belgium
+
+George Macy MERRIMAN
+Manager, Government and Public Affairs
+Pioneer Overseas Corporation
+Belgium
+
+Pete RILEY
+Director
+GM FREEZE
+United Kingdom
+
+Representatives of Religion
+
+Ignace BERTEN
+Director
+Espaces — Spiritualités, Cultures et Société en Europe
+Belgium
+
+Katrin HATZINGER
+Head of Office
+Büro Brüssel des Bevollmächtigten des Rates der EKD
+Belgium
+
+Ross MATTHEW
+Executive Secretary
+Conference of European Churches
+Belgium
+
+Katharina SCHAUER
+COMECE — Commission Bishops’ Conference of the
+European Community
+Belgium
+
+Karin ULMER
+Policy Officer (Trade and Gender)
+APRODEV — Association of World Council of Churches
+related Development Organisations in Europe
+Belgium
+
+Academia
+
+Stefan AERTS
+Boerenbond Chair ‘Agriculture and Society’, Katholieke
+Universiteit Leuven
+Belgium
+
+Representatives of Industry
+
+Ana Maria BRAVO-ANGEL
+Genencor
+Belgium
+
+Filip CNUDDE
+EuropaBio
+Belgium
+
+Paul LEONARD
+BASF SE
+Belgium
+
+Klaus AMMANN
+Prof. Dr.
+Delft University of Technology
+The Netherlands
+
+Eleonora SIRSI
+Professor
+Universita di Pisa
+Italy
+
+Media / Press / Consultancies
+
+Outi ALAPEKKALA, EurActiv.com
+Belgium
+
+118
+
+(updated 18/06/2008*)
+
+* In accordance with Regulation (EC) No 45/2001 of the European
+Parliament and of the Council of 18 December 2000 on the protec-
+tion of individuals with regard to the processing of personal data
+by the Community institutions and bodies and on the free move-
+ment of such data, this data will be used only for the purpose of
+mailing EGE publications and will be strictly managed by the EGE
+Secretariat. The storing of the data expires at each EGE mandate,
+or is renewed within the updating of the database. You have the
+right of access to, and the right to rectify, your data by contacting
+the EGE Secretariat via email (bepa_ethics_group@ec.europa.eu).
+
+119
+
+Annex II
+
+Secretariat
+of the European Group
+On Ethics (EGE)
+
+Ethics of modern developments in
+agriculture technologies
+
+121
+
+Secretariat of the European
+Group On Ethics
+
+Dr Maurizio Salvi
+Head of the EGE Secretariat
+
+Tel. 32 (0) 2 299 11 79
+Fax 32 (0) 2 299 45 65
+E-mail: maurizio.salvi@ec.europa.eu
+
+Dr Alessandra Ferrari
+
+Tel. 32 (0) 2 295 43 29
+Fax 32 (0) 2 299 45 65
+E-mail: alessandra.ferrari@ec.europa.eu
+
+Mrs Franziska Feiten
+
+Tel. 32 (0) 2 296 19 48
+Fax 32 (0) 2 299 45 65
+
+Mrs Mariana Gonçalves
+
+Tel. 32 (0) 2 297 26 28
+Fax 32 (0) 2 299 45 65
+
+122
+
+Mail address
+
+European Commission
+
+Secretariat of the European Group
+on Ethics in Science
+and New Technologies
+
+Berlaymont Building, Rue de la Loi 200
+BERL 8/143
+B-1049 Brussels
+Belgium
+
+Office
+
+European Commission
+Berlaymont Building, Rue de la Loi 200
+B-1049 Brussels
+Belgium
+
+Website
+
+http://ec.europa.eu/european_group_ethics/index_en.htm
+
+123
+
+European Commission
+
+Ethics of modern developments in agriculture technologies –
+Proceedings of the round-table debate
+
+Luxembourg: Office for Official Publications of the European Communities
+
+2008 — 123 pp. — 21 x 29.7 cm
+
+ISBN 978-92-79-09414-9
+
+DOI 10.2796/11315
+
+How to obtain EU publications
+
+Our priced publications are available from EU Bookshop (http://bookshop.europa.eu),
+where you can place an order with the sales agent of your choice.
+
+The Publications Ofﬁce has a worldwide network of sales agents. You can obtain their
+contact details by sending a fax to (352) 29 29-42758.
+
+K
+A
+
+-
+8
+1
+-
+0
+8
+-
+3
+2
+6
+-
+E
+N
+
+-
+C
+
+

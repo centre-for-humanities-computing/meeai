@@ -1,0 +1,4008 @@
+A great deal of additional information on the European Union is available on the Internet.
+It can be accessed through the Europa server (http://europa.eu.int).
+
+Cataloguing data can be found at the end of this publication.
+
+Luxembourg: Office for Official Publications of the European Communities, 2002
+
+ISBN 92-894-2063-4
+
+© European Communities, 2002
+Reproduction is authorised provided the source is acknowledged.
+
+Printed in Luxembourg
+
+PRINTED ON WHITE CHLORINE-FREE PAPER
+
+Kevles, Patenting Life: 12 January 2002
+
+(cid:22)(cid:28)(cid:29)(cid:30)(cid:26)(cid:29)(cid:30)(cid:20)
+
+I. Patents and Products of Nature 
+
+II. The Plant Patent Act 
+
+III. The (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8) Case 
+
+   1
+
+  4
+
+14
+
+IV. Plant and Animal Patents                                   39
+
+V.  Ethics and Economics 
+
+VI. Ethics and Europe 
+
+VII. Echoes in Canada 
+
+47
+
+57
+
+      61
+
+VIII. Gene Patenting                                               77
+
+.
+
+(cid:31) (cid:2)(cid:11)(cid:12)(cid:6)(cid:13)(cid:14)(cid:6)(cid:5)(cid:2)(cid:12)(cid:14)(cid:19)(cid:2)(cid:11)(cid:8)(cid:7)(cid:19)(cid:27)!(cid:6)(cid:5)(cid:2)(cid:7)(cid:10)(cid:2)(cid:29)(cid:12)(cid:6)(cid:27)(cid:8)(cid:13)
+
+During a congressional hearing on patenting animals in 1987, the late Congressman
+
+Mike Synar, a wry Democrat from Oklahoma, remarked that few lawyers knew anything about
+
+patent law. “Everyone knows it is not part of the bar exam, so to hell with it.”1 But while patent
+
+law is arcane, like many other branches of law in the United States – for example, business,
+
+regulation, and civil rights – it is also a branch of the more familiar political economy. And in
+
+recent years, the part of it that concerns the patenting of life, especially animals and genes, has
+
+also become, for the first time, a branch of ethics.
+
+What is patentable in the United States according to statute dates back to the patent law
+
+of 1793, which declared, in language written by Thomas Jefferson, that patents could be
+
+obtained for "any new and useful art, machine, manufacture, or composition of matter, or any
+
+new or useful improvement thereof." Jefferson's phrasing remained -- and remains -- at the core
+
+of the U.S. patent code, except for the eighteenth-century word "art," which was replaced in a
+
+1952 Congressional overhaul of patent law by the word "process."2
+
+The code said nothing about patenting life, but a key precedent discouraging it was
+
+established in 1889, when, in a landmark ruling, the U.S. Commissioner of Patents rejected an
+
+application for a patent to cover a fiber identified in the needles of a pine tree. He noted that
+
+ascertaining the composition of the trees in the forest was "not a patentable invention,
+
+1 U.S. Congress, House, Hearings before the Subcommittee on Courts, Civil Liberties, and the Administration of
+Justice, Committee on the Judiciary. Patents and the Constitution: Transgenic Animals. 100th Cong., 1st Sess.,
+June 11, July 22, Aug. 21, and Nov. 5, 1987, p. 27 (hereafter, HJSH, 1987).
+
+2 Fritz Machlup, "Patents," International Encyclopedia of the Social Sciences, ed., David L. Sills (New York:
+Macmillan, 1968), XI, 461-64; Bruce W. Bugbee, Genesis of American Patent and Copyright Law (Washington,
+D.C.: Public Affairs Press, 1967), p. 152.
+
+                                                
+2
+
+Kevles, Patenting Life: 12 January 2002
+
+recognized by statute, any more than to find a new gem or jewel in the earth would entitle the
+
+discoverer to patent all gems which should be subsequently found."  The commissioner added
+
+that it would be "unreasonable and impossible" to allow patents upon the trees of the forest and
+
+the plants of the earth.3  The commissioner’s ruling formed the basis for what came to be known
+
+as the "product-of -nature" doctrine -- that while processes devised to extract what is found in
+
+nature can be patented, objects discovered there can not. They are not inventions, nor can they
+
+as a class be made anyone’s exclusive property.
+
+In 1891, in a report to the American Association of Nurserymen, the respected plant
+
+scientist Liberty Hyde Bailey, of Cornell University, added technical weight to the legal
+
+discouragement. Two years earlier Bailey had told the nurserymen that an obstacle to any type
+
+of intellectual property protection for plants was that new types of plants were difficult to define
+
+or specify. Now he pointed out that most new varieties were accidents that the nurseryman
+
+found rather than the product of systematic breeding, adding, however, that "when the time
+
+comes that men breed plants upon definite laws and produce new and valuable kinds, then plant
+
+patents may possibly become practicable."4
+
+The rediscovery of Mendel’s laws at the turn of the century encouraged breeders to
+
+think that the era of controlled plant innovation had arrived. Nurserymen first asked Congress
+
+for protection in the form of plant patents in 1906. Indeed, the power of Mendel’s laws was
+
+3 (cid:9)(cid:10)(cid:11)(cid:12)(cid:3)(cid:5)(cid:7)(cid:13)(cid:11)(cid:14)(cid:3)(cid:7)(cid:15)(cid:16)(cid:13)(cid:5), March 12, 1889, C.D., 46 O.G. 1638, U.S. Patent Office, Decisions of the Commissioner of
+Patents and of the United States Courts in Patent Cases. . . 1889 (Washington, D.C.: Government Printing
+Office, 1890), pp. 123-27. See also H. Thorne, "Relation of Patent Law to Natural Products," Journal of Patent
+Office Society, 6 (1923), pp. 23-28.
+
+4.Richard P. White, A Century of Service: A History of the Nursery Industry Associations of the United States
+(Madison, Wis.: American Association of Nurserymen, 1975), p. 129.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+3
+
+invoked by one Hyland C. Kirk, a horticultural spokesman, when he testified before the
+
+House Committee on Patents when it considered the 1906 bill to establish intellectual
+
+property protection for plants. The measure, originally aimed at strengthening plant
+
+trademarks against infringement, had been revised to allow patents for horticultural plants,
+
+trees, and vines. Kirk advanced a claim that would be repeated frequently in the debates over
+
+plant patenting and that had a certain degree of ethical content: the originator of a "new
+
+variety of plant, tree, or vine . . . is as truly an inventor and, as such, as justly entitled to
+
+protection as the originator of a new motor, a new chemical compound, or any other valuable
+
+combination of materials requiring experiment, deliberation, and design."5 
+
+Nevertheless, the bill died in committee. Evidently, few Congressmen considered
+
+breeding distinct enough from the practice of farming to warrant special protection. Farmers
+
+and horticulturalists often found plant sports or mutations in the field and routinely exploited
+
+them.  Both breeders and farmers continued to benefit from the importation of new plant
+
+varieties from abroad and from the expanding activities of public breeders in the agriculture
+
+department and state universities, colleges, and experiment stations. Then, too, by practice
+
+and tradition, farmers assumed that they should enjoy free and unencumbered access to new
+
+seed varieties. And urban Americans probably tended, like Europeans, to think of food as a
+
+5. The bill had originally been designed to authorize the Commissioner of Patents to register, and allow the
+exclusive use of, new plants for twenty years under the Trade Mark Law. It was amended into a plant patent bill.
+Hyland C. Kirk, "Brief on House Bill 18851 . . . , " and discussion, U.S. Congress, House, Committee on
+Patents, Arguments on H.R. 18851, May 17, 1906, pp. 5-7, 12-13; Jack Doyle, Altered Harvest: Agriculture,
+Genetics, and the Fate of the World’s Food Supply (New York: Penguin Books, 1986), p.50.
+
+                                                
+4
+
+Kevles, Patenting Life: 12 January 2002
+
+scarce resource and to be reluctant to grant anyone a monopoly right over food products, even
+
+for a limited period.6
+
+(cid:31)(cid:31) (cid:2)(cid:30)(cid:17)(cid:13)(cid:2)(cid:11)"(cid:12)(cid:14)(cid:6)(cid:2)(cid:11)(cid:12)(cid:6)(cid:13)(cid:14)(cid:6)(cid:2)(cid:1)!(cid:6)
+
+Although an immediate failure, the 1906 venture did lead to the formation of a lobbying
+
+group, the National Committee on Plant Patents, which was organized and kept alive by
+
+Archibald Augustine of Augustine Nurseries in Bloomington, Illinois. By the late 1920s,
+
+nurserymen were especially interested in patents, not least because the potential American
+
+market for their stocks was estimated -- according to a report delivered to the 1928 convention
+
+of the American Association of Nurserymen -- at one billion dollars, mostly for ornamental
+
+plants.7  When Augustine was elected president of the American Association of Nurserymen in
+
+1929, he was succeeded in the chairmanship of the National Committee by Paul Stark.
+
+Stark was a principal in the Stark Brothers Nursery, which was now a century-old and,
+
+capitalized at one million dollars, was the largest breeder in the country. Stark brothers
+
+continued to derive some of its stock by running competitions for prize fruit specimens;
+
+bonanzas came in the mail, notably the yellow apple that arrived at the nursery in a box one day
+
+in the spring of 1914 and that they soon marketed as the Stark Golden Delicious. But the firm
+
+6. Dickson Terry, The Stark Story: Stark Nurseries’ 150th Anniversary (Columbus, Mo: Missouri Historical
+Society, 1966), pp. 48-51; Marie-Angèle Hermitte, "Histoires juridiques extravagantes: La reproduction
+végétale," in La Gestion des Ressources Naturelles d'Origine Agricole, eds. J.-C. Fritz and Ph. Kahn (Paris:
+Librairies Techniques, 1983), pp. 272-3.
+
+7. Some 10,000,000 homes were said to need the services of nurserymen: Only 22% of front yards were planted;
+of rear yards, only 7%. "American Association of Nurseryman's Convention, Billion Dollar Market Indicated by
+Survey," The National Nurseryman, 36(July 1928), 201.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+5
+
+also relied on more consistent sources, notably the famed plant breeder Luther Burbank.8 Paul
+
+Stark had met Burbank in 1893, when Burbank was worried about making enough money to
+
+continue his research. A friendship and business arrangement blossomed.  Stark Brothers came
+
+to own exclusive licenses to many of Burbank’s cultivars. When Burbank died, in 1926, his will
+
+stipulated that his farm, in Santa Rosa, California, be converted into the Stark-Burbank
+
+Research Laboratories and Experimental Grounds. Stark thus inherited hundreds of varieties of
+
+plums, peaches, apples, cherries, pears, roses and gladiolas that had never been marketed -- and
+
+that might be patented if only patent protection were available. It was Stark, who became the
+
+prime mover behind the 1930 Plant Patent Act.9
+
+Stark himself drafted the measure. It was introduced in the Senate by John G.
+
+Townsend, Jr., of Delaware, who probably knew Stark and certainly had reason to sympathize
+
+with his purpose, since he owned 130,000 acres of apple orchards, which made him the
+
+second largest orchardist in the country.10  Endorsements of the bill rained down upon the
+
+Congress from horticulturalists, nurserymen, farmers, agricultural experiment stations, and
+
+their organized representatives, including the American Farm Bureau Federation, the National
+
+8. Terry, The Stark Story , pp. 48-51, 66.
+
+9. Ibid., pp. 84-86;  Doyle, Altered Harvest, pp. 51-53.
+
+10. Richard B.Carter, Clearing New Ground: The Life of John G. Townsend, Jr. (privately printed, n.d.), pp. 349-52,
+401-403; Doyle, Altered Harvest, pp. 51-53; Peter Dreyer, A Gardener Touched with Genius: The Life of Luther Burbank,
+rev.ed. (Berkeley: Univ. of California Press, 1985), p. 218. The largest orchardist in the country was reputedly Harry
+Flood Byrd, a Senator from Virginia and Townsend’s good friend. Carter, Clearing New Ground, p. 352. Townsed
+celebrated the brains among the one third of the American poplation who worked on the land, noting: "Today we
+are, and for a century we have been, wasting this dormant talent that needs ony to be awakened by the hope of
+ultimate reward to bring into being marvels of plant life comparable in value to anything that the industrial genius
+has given to our civilization." "The Importance of Plant Patents to Agriculture: A Statement by Hon. John G.
+Townsend, Jr. . . . ," The National Nurseryman, 38(April 1, 1930), p. 5.
+
+                                                
+6
+
+Kevles, Patenting Life: 12 January 2002
+
+Grange, the International Appleship Association, and the Peony and Iris Association.  Thomas
+
+Edison wired that Congress could do nothing better for American agriculture than "to give the
+
+plant breeder the same status as the mechanical and chemical inventors now have through the
+
+patent law."  Luther Burbank’s widow sent a telegram of her own declaring that her late husband
+
+would have been "unable to do what he did with plants had it not been for royalties from his
+
+writings and from other by-product lines of activity" and declared that most other plant
+
+developers were unlikely to derive such ancillary revenues from their work.11
+
+In brief hearings, perfunctory floor debate, and the reports on the bill, its Congressional
+
+promoters noted the considerable dependency of plant breeding and research on governmental
+
+money, emphasizing that the establishment of a breeder’s legal right in his innovations might
+
+stimulate private investment in these activities and make it possible for the breeder to reduce his
+
+prices. They pointed to the incentives that patent protection would give plant breeders to
+
+develop varieties resistant to blight and disease and rich in food or medicinal qualities; varieties
+
+that would strengthen public health, prosperity, and national defense -- and all without the
+
+expenditure of federal money. With sentimental nods to Luther Burbank, who was said to have
+
+made no money from his plants, the bill’s enthusiasts invoked the ethical premise in a right to
+
+intellectual property, saying that it would rescue plant breeders from vulnerability to piracy and
+
+the fate of an impoverished death.12
+
+11.U.S. Congress, Senate,  Congressional Record, 71st Cong. 2d Sess., April 9, 1930; April 17, 1930; May 12,
+1930, 6765, 7200-7201, 8750.
+
+12. U.S. Congress, House Committee on Patents, Plant Patents, 10 April 1930, House Report 1129, pp. 11-12;
+and idem, Hearing on H.R. 11372: A Bill to Provide for Plant Patents, 71st Cong., 2d Sess., 9 April, 1930, p. 3.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+7
+
+In these first few months of the 1930s Depression, the measure appealed as a farmer’s
+
+and plant breeder’s relief bill, Hoover-Republican style. With Republicans still in control of the
+
+Congress, the prevailing wisdom around Washington about how to respond to the worsening
+
+economic slide was: encourage private enterprise, reduce government costs and activities. There
+
+was only scattered opposition to the bill, including some biting harassment from Congressman
+
+Fiorello Laguardia, who was hazy in his understanding of heredity in plants but who understood
+
+well that the measure did nothing for direct farm relief. The Plant Patent Act passed easily on a
+
+voice vote some three months after it had first been introduced. Edison cheered in The New
+
+York Times, "Luther Burbank would have been a rich man if he had been protected by such a
+
+patent bill."13
+
+In a report on the bill, the House Committee on Patents, mindful of the product-of-
+
+nature doctrine, had addressed the constitutionality of the measure, asking: Would a new variety
+
+of plant be a discovery, and could its originator be considered an inventor or a discoverer? The
+
+report’s answer: Yes, on both counts. In the reasoning of the document, while a new variety of
+
+plant found in the field was a product of nature and, hence, not patentable under the meaning of
+
+the word "discoveries" in Article I, Section 8, a new variety arising from cultivation was such a
+
+discovery -- and its cultivator a discoverer -- since it was created by human agency.  The report
+
+saw no difference between "the part played by the plant originator in the development of new
+
+plants and the part played by the chemist in the development of new compositions of matter."
+
+13. Congressional Record, 71st Cong., 2d Sess., 5, 12, and 13, May 1930, pp. 8391, 8751, 8866; and Doyle,
+Altered Harvest (cit. n. 15), p. 55. Identical bills for plant patents were introduced in the House and the Senate
+on 11 February 1930. Robert Starr Allyn, The First Plant Patents: A Discussion of the New Law and Patent Office
+Practice (Brooklyn, N.Y.: Educational Foundations, 1934), p. 60.
+
+                                                
+8
+
+Kevles, Patenting Life: 12 January 2002
+
+Both took the materials of nature, exploited its laws, and, by applying a variety of techniques,
+
+devised a new and useful product.14
+
+However, in the 1930s chemical products and plants differed from each other in ways
+
+that affected the type of patent protection that plants could obtain. Patent law insisted that an
+
+invention be disclosed specifically enough to be identically reproducible. Chemical products, as
+
+dead matter, were highly specifiable as to composition and methods of production and
+
+reproduction.  Plants, as living matter, were difficult to specify in either regard. These
+
+differences were reflected in the Plant Patent Act, which accommodated the basic tenets of
+
+patent law to the fundamental problem of biological specificity. The act limited patent
+
+protection to those plants that could be reproduced asexually. Often termed cloning, asexual
+
+reproduction was accomplished by budding, grafting, rooting of clippings, or dividing bulbs; it
+
+yielded progeny genetically identical to the parent plant or tree.
+
+The act also explicitly excluded from patentability tuber-propagated plants -- a provision
+
+that would substantially affect only Irish potatoes, which was a major cash crop, and Jerusalem
+
+artichokes, a type of sunflower that was widely used as a vegetable and a livestock feed.
+
+Resistance to allowing monopoly control over major food stocks may have figured in the
+
+exclusion. However, to advocates of plant patenting, authorizing patents on tuber-propagated
+
+plants like the Irish potato threatened the enforceability of plant patents in general, mainly
+
+because the part of them that is involved in reproduction is also widely sold as food. Paul Stark
+
+later explained the reasoning behind the exclusion: Because potatoes were available everywhere
+
+14. Plant Patents, House Report 1129, pp. 16-17.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+9
+
+"for use as food or for growing the plants," infringement of a potato-plant patent would be
+
+"easy" and "widespread," making enforcement "a farce." He added, "This would reflect
+
+unfavorably on enforcement with the other types of asexually reproduced plants -- so for that
+
+reason potatoes were excluded from the original Plant Patent Act in 1930."15
+
+Stark and his allies had perceived an equally vexing enforcement problem for patents on
+
+sexually reproduced plants -- that is, plants reproducing by pollination and seeds. Such plants
+
+could not generally be relied upon to breed identically true to type from one generation to the
+
+next. (Sexual reproduction joins half the genes from one plant with half from another; over
+
+several generations, the progeny can easily drift genetically far from the original parental type.) 
+
+Patents on sexually reproduced plants could not be enforced because the progeny would be
+
+different from the patented parent. The likely unenforceability prompted a special committee of
+
+the American Society for Horticultural Science to oppose flatly the provision of patent
+
+protection for seed-propagated plants, and it convinced key members of the Patent Office and
+
+the Department of Agriculture that no plant patent bill with such a provision could pass.16  The
+
+Congressional stewards of the bill, although they may not have understood the genetics, were
+
+15. Paul Stark, "Report," attached to Stark to Tom Brennan, 8 March 1968, U. S. Congress, Patent Law Revision:
+Hearings ,  Subcommittee on Patents, Trademarks, and Copyrights of the Senate Committee on the Judiciary,
+90th Cong., 2d Sess., 30 and 31 Jan., and 1 Feb. 1968, Part 2, p. 865. [The report was filed after the hearings
+were held but before they were printed.] In 1930 there was no processed potato industry to object to the
+exemption on tuber-propagated plants as there was in 1959, when a potato chip company tried to overturn it. 
+Congress reaffirmed the exemption, however, after seed certifying agencies argued that if farmers could simply
+buy their buds in bags in grocery stores, potato breeders could circumvent regulations on seed trade.  U.S.
+Congress, Senate, Subcommittee on Patents, Trademarks and Copyrights of the Committee on the Judiciary,
+Hearings: Plant Patents, 86th Congress, 1st Sess., 9 July 1959.
+
+16. U. S. Congress, Patent Law Revision: Hearings ,  Subcommittee on Patents, Trademarks, and Copyrights of the
+Senate Committee on the Judiciary, 90th Cong., 2d Sess., 30 and 31 Jan., and 1 Feb. 1968, Part 2,., pp. 862-63.
+
+                                                
+10
+
+Kevles, Patenting Life: 12 January 2002
+
+evidently sufficiently aware that like did not necessarily breed like to omit from the final
+
+measure protection for plants that were reproduced sexually.
+
+Despite the restricted coverage provided by the act, it was a boon to nurserymen like
+
+Paul Stark. While narrow, the category of asexually reproducible plants was capacious enough
+
+to include much of such breeders’ stock in trade -- that is, virtually all fruit and nut trees; most
+
+small vinous fruits such as grapes, strawberries, and blueberries; and numerous ornamental
+
+shrubs, vines, and perennials, among them lilacs, wisterias, and peonies as well as roses.17
+
+ According to The First Plant Patents, a survey published in 1934 by a New York
+
+patent lawyer named Robert Starr Allyn, the government had granted eighty-four plant
+
+patents by the beginning of that year, including one to Secretary of the Interior Harold L.
+
+Ickes, for a red dahlia.  Nine of the patents went to Burbank’s estate for certain of his fruits
+
+and flowers. His widow assigned the patents to Stark Nurseries, which acquired rights to an
+
+additional five from other breeders.18
+
+Since the wares of seedmen comprised sexually reproducing plants, the act disappointed
+
+the American Seed Trade Association, which had allied itself with Stark in the plant-patent
+
+legislative drive. Stark defended the omission of sexually reproduced plants from the coverage
+
+of the act, telling the association that "it seemed to be the wise thing to get established the
+
+principle that Congress recognized the rights of the plant breeder and originator," predicting that
+
+17. "Patents on Plants," Science -- Supplement, 71(April 25, 1930), xiv.
+
+18. Allyn, The First Plant Patents, pp. 52, 55, 86, 90, 92, 97. Burbank’s estate obtained a total of 15 plant patents
+through 1944. As of 1966, Stark Nurseries had acquired exclusive rights to 89 plant patents. Allyn, Plant
+Patents, 1934-1944 (Brooklyn, NY: Corsi Press, 1944), p. 9; Terry, The Stark Story, p. 87.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+11
+
+once the principle was in place, it would be "much easier" to get protection for plants
+
+propagated by seed.19
+
+However, while the act installed the principle, the intellectual property protection it
+
+provided was no better than the degree of biological specificity -- which was to say the least
+
+limited -- with which plants could then be identified. The act was extremely permissive in
+
+inventive definition, allowing patents on plants, even naturally occurring ones, that might be no
+
+more than minimally distinguishable from others, so long as human intervention had been
+
+required to reproduce the plant asexually. Its disclosure requirements, adapted to the elusiveness
+
+of biological definition, were also, of necessity, loose. The act called for the submission of a
+
+color painting or photograph as well as a written description of the plant that was as "complete
+
+as is reasonably possible." It called for an historical preamble describing how the plant was bred
+
+or where the sports from which it was asexually reproduced had been found, and how it differed
+
+from the plants that comprised its pedigree. It asked for data concerning when the plant bloomed
+
+and which soils and climates best suited it.  It expected a technical description outlining the
+
+color and shape of the bush, leaves, and flower.20  The early applications included a few
+
+objective descriptions -- for example, lengths and the tones listed on Ridgway’s Color Chart, a
+
+commercially manufactured set of cards, much like paint-sample cards, that breeders held
+
+against a plant to identify and match a name to its colors. it. Fruit, which was mostly described
+
+19. Jack R. Kloppenburg, Jr., First the Seed: The Political Economy of Plant Biotechnology, 1492-2000 (New
+York: Cambridge Univ. Press, 1988), p. 133.
+
+20. Allyn, The First Plant Patents, pp. 18-38; Robert C. Cook, "Other Plant Patents," Journal of Heredity,
+24(February 1933), 49-54.
+
+                                                
+12
+
+Kevles, Patenting Life: 12 January 2002
+
+by external appearance, might be more objectively specified by such intrinsic characteristics as
+
+acidity and sugar levels.21 
+
+Given the relaxed nature of the disclosure requirements, critics questioned whether the
+
+Patent Office would be able to administer the act so as to distinguish genuine from counterfeit
+
+intellectual property. Their doubts were perhaps accentuated when the first examiner assigned to
+
+plant patents proved to be not a botanist but a mechanical engineer who was also charged with
+
+oversight for "Closure Operators, Fences, Gates, Tillage and Handling Implements."  After a
+
+year, Herbert Hoover ordered the Department of Agriculture to assist the Patent Office.  The
+
+first plant patent -- on a rose called the ’New Dawn’ -- confirmed the critics’ fears. An amateur
+
+gardener had found a bud mutation on the ’Van Fleet’ rose, which had been painstakingly
+
+developed by an established breeder, that supposedly extended the life of the flower.  Save for
+
+this "everblooming" quality, the New Dawn was identical to the Van Fleet.  Most patents were
+
+issued to amateur gardeners who, finding sports and mutations on well established cultivars,
+
+assigned them to large nurseries.22
+
+Robert C. Cook, the editor of the Journal of Heredity, feared that plant patents would
+
+become the conceits of amateur gardeners rather than real protection for professional breeders. 
+
+In the hope of making plant patents more like industrial patents, he proposed "type plants" as in
+
+situ deposits, much as the patent office in the 1800s had demanded patent models when written
+
+21 Allyn, First Plant Patents, pp. 18-38; 35 USCA [U.S. Code, Annotated] Appendix, rule 162-3; and 37 CFR
+[Code of Federal Regulations, Section] 1.163.  The reasonability exception to the general patent law was upheld
+in Kim Bros. v. Hagler, 120 USPQ 210 (21 November 1958); on the need to prove active and willful
+infringement, see Armstrong Nurseries, Inc. v. Smith, 120 USPQ 220. 
+
+22. "Patenting of Plants Promises Big Profits--and Big Problems, Business Week, Aug. 26, 1931, p.26.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+13
+
+descriptions were inadequate.23  However, the imprecise disclosure of the plant patent
+
+application limited the protection that the federal government could offer to patent holders. 
+
+In practice, the Plant Patent Act only prevented unauthorized advertising by the
+
+patented name.  It functioned more as a registration system than as the kind of rigorous
+
+examination and screening system characteristic for industrial inventions. Because the
+
+descriptions of patented plants were so poor, the cornerstone of most case law surrounding
+
+the act was not whether an alleged infringer’s plant looked like a patented one but whether it
+
+could be proved to have been cloned from it. The definition of the inventive act was that a
+
+plant, even one found in the wild, had been asexually reproduced, in a sense reduced to
+
+practice. Many applications jointly listed the discoverer and the reproducer. The written
+
+descriptions advertised the commercial identity of the plant because breeders had to supply a
+
+name for the new cultivar -- usually it was a fancy one, like Delmass Peach or Peace Rose.24 
+
+All that the breeders really got from the act was the ability to use a tradename and a legal
+
+basis for infringement suits. The weakness of the protection provided by the Plant Patent Act
+
+was perhaps revealingly expressed by the small number of patents issued under it -- 911 in the
+
+twenty years following its passage.25
+
+23. Botanical gardens increasingly allied themselves with variety associations to maintain type plants.  For
+instance, in 1946 the Huntington Gardens in Pasadena, California became the repository of all known varieties of
+camellias, a project sponsored by the Southern California Camellia Society.  Botanical Gardens/Henry E.
+Huntington Library Institutional Archives, Henry E. Hungtington Library, San Marino, CA, file 50.1.1.1.
+
+24. Allyn, The First Plant Patents, especially pp. 14, 18.
+
+25. U.S. Patent Gazette, 635(January 1950). On the principle of asexual reproduction as reduction to practice, see
+Dunn v. Ragin v. Carlile, (PO Bd Inter Exam) 50 USPQ 472; on the allowance of joint applications, see Ex Parte
+Kluis & Kluis, (PO BdApp) 70 USPQ 165.
+
+                                                
+14
+
+Kevles, Patenting Life: 12 January 2002
+
+(cid:31)(cid:31)(cid:31) (cid:2)(cid:30)(cid:17)(cid:13)(cid:2)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8)(cid:2)(cid:22)(cid:12)(cid:5)(cid:13)
+
+There was no other extension of patent law to vital entities for forty years, but in 1970
+
+Congress established a system -- through the Plant Variety Protection Act (PVPA) – for
+
+granting intellectual property rights in sexually reproducing plants.26 The protection was weaker
+
+than what patents provided; it was nevertheless a step forward for plant breeders. More
+
+important, during that period it became possible to identify living organisms with a high degree
+
+of specificity through such markers as blood types and, in the 1970s, their DNA. Then, in the
+
+early seventies, Ananda Chakrabarty, a biochemist at the General Electric Company, having
+
+genetically modified the bacterium (cid:12)(cid:17)(cid:13)(cid:18)(cid:19)(cid:20)(cid:16)(cid:20)(cid:21)(cid:3)(cid:17) to consume oil slicks, filed for a patent on the
+
+living, altered bacterium.
+
+Chakrabarty judges that companies long accustomed to the product-of-nature barrier to
+
+patents -- say, companies such as the major drug firms, which deal in biological products --
+
+would not have filed a patent application on his new bugs. They would have limited the
+
+application to the process of constructing them. However, General Electric, not being a
+
+biological company, operated in a different patent culture. The General Electric patent lawyer
+
+assigned to the case was Leo I. MaLossi, who had been with the firm since 1963, was used to
+
+filing patent applications on items like refrigerators, plastics, jet engines, and nuclear power
+
+plants, and thought that if you invented something new and useful, you deserved a patent
+
+covering whatever claims about it you could legally make.  Chakrabarty recalls telling
+
+26 Glenn Bugos and Daniel J. Kevles, "Plants as Intellectual Property: American Law, Policy, and Practice in
+World Context," (cid:22)(cid:17)(cid:15)(cid:5)(cid:15)(cid:17), 2nd Series, Vll (1992), 119-48.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+15
+
+MaLossi, during numerous consultations, that living creatures could not be patented. MaLossi
+
+would say, Why not? 27
+
+MaLossi remembers, "When I first proposed to introduce the claims to the organism per
+
+se, I had occasion to speak to various patent attorneys who had worked in that type of
+
+technology. . . .  What intrigued me was that all of them said that such claims were
+
+unpatentable, but they all gave me different reasons why. Now that got me to thinking that
+
+there’s something funny here. So I read all the case law I could lay my hand on that had any
+
+pertinence to the subject and then I became convinced that I was right. What had happened is
+
+that [the inadmissability of claims to live matter] had become a canon of patent law and nobody
+
+questioned it."28
+
+To MaLossi, aware that by now scientists understood living matter, including bacteria,
+
+to be chemicals, Chakrabarty’s bugs were manufactures, new compositions of matter -- and,
+
+hence, patentable. On June 7, 1972, Chakrabarty filed for a patent to cover not only the process
+
+by which he had constructed his oil-eating bacteria but also the product -- the living, genetically
+
+modified bacteria.29
+
+In September 1973, Alvin E. Tanenholtz, the patent examiner supervising the review of
+
+Chakrabarty’s application, rejected the product claims for the bacteria per se, though not for the
+
+27 Author’s telephone interview with Ananda Chakrabarty, August 8, 1988; author’s telephone interview with Leo
+I. Malossi, August 18, 1988.
+
+28 Author’s telephone interview with MaLossi, Aug. 23, 1988.
+
+29 "Application of Ananda M. Chakrabarty, Filed June 7, 1972, Serial Number 260,563, for Microorganisms
+Having Multiple, Compatible Degradative Energy-Generating Plasmids and Preparation Thereof," in U.S. Court
+of Customs and Patent Appeals, Transcript of Record, Patent Appeal Docket No. 77-535. In the Matter of the
+Application of Ananda M. Chakrabarty, Applicant (Hereafter, Transcript of Record . . . Chakrabarty), pp. 6-7.
+
+                                                
+16
+
+Kevles, Patenting Life: 12 January 2002
+
+process of producing them; in April 1974, after several legal counters from MaLossi, he rejected
+
+the product claims finally.30  Throughout the legal jockeying, Tanenholtz’s principal ground for
+
+rejection was that the bugs were products of nature; their four plasmids had made them different
+
+in degree from naturally occurring Pseudomonas but not in kind. He also implied that living
+
+creatures were not patentable, if only because neither legislative nor case law had made them so.
+
+Leo MaLossi, in a protest brief filed in June 1974 to the Patent Office’s internal Board of
+
+Appeals, insisted that the bugs were not products of nature because Chakrabarty’s manipulations
+
+of their plasmids had altered them fundamentally. He also argued that nothing in case law
+
+disallowed a patent purely on grounds that the product was alive and he contended that the bugs
+
+were patentable because Chakrabarty’s alterations had turned them into new compositions of
+
+matter.31
+
+The three-man Board, ruling almost two years later, on May 20, 1976, conceded that
+
+Chakrabarty’s bacteria did not occur naturally and, hence, were not products of nature, but it
+
+upheld Tanenholtz’s rejection of the claims on a new explicit ground -- that the bacteria were
+
+not patentable because they were living organisms. Partly behind the Board’s reasoning was a
+
+presumptive apothegm: In so many words, what the law did not prohibit, it did not necessarily
+
+allow. Although statutory patent code did not proscribe patents on plants, Congress had felt the
+
+30 Ray Penland was the patent examiner working on the case, but, according to Tanenholtz, Penland did not then
+have signatory authority and he, Tanenholtz, was responsible for the main arguments advanced against the grant
+of a patent for the bacteria up through the decision of the Board of Appeals. Author’s telephone interview with
+Alvin E. Tanenholtz, August 29, 1988.
+
+31 "Letter of Examiner," Sept. 19, 1973; Chakrabarty,"Amendment," Dec. 6, 1973; "Letter of Examiner," Jan.
+11, 1974; Chakrabarty, "Amendment," April 5, 1974; Malossi, "Brief," June 24, 1974; "Examiner’s Answer,"
+Sept. 23, 1974; Malossi, "Reply Brief," Oct. 10, 1974; "Opinion and Decision of Board of Appeals," May 20,
+1976, all in Transcript of Record . . . Chakrabarty, pp. 59-61, 65-66, 68-73, 78-80, 82-84, 86-97.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+17
+
+need to enact a special Plant Patent Act to reward plant breeders. Yet the Board was also
+
+gripped by a specter of implications that Tanenholtz had raised in a reply to Malossi’s brief: To
+
+adopt a broad interpretation of phrases such as "new composition of matter" would "open the
+
+flood gates to patentability for all newly produced microorganisms as well as for all newly
+
+developed multi-cellular animals such as . . . chickens and cattle." The Board’s ruling reiterated
+
+Tanenholtz’s warning and added that if patents could be granted to single-cell organisms with
+
+additional plasmids, so might they be given for "multicellular organisms (including human
+
+beings)" with transplanted livers or hearts. Chakrabarty’s bugs might not occur naturally, but the
+
+Board chose to emphasize "that a human being with a transplanted liver or heart is also not
+
+naturally occurring."32
+
+The Board’s ruling had changed the complexion of the case for MaLossi and his boss,
+
+Charles Watts, the General Electric Patent Counsel for Materials Science and Engineering. For
+
+MaLossi, prior to the Board’s ruling, Chakrabarty’s had just been another workaday patent
+
+application. Now that the Board had shifted the issue to the patentability of living matter,
+
+MaLossi recognized with Watts that the G.E. patent department had been presented with an
+
+opportunity to participate in the making of new case law -- an opportunity, Watts later reflected,
+
+that "you don’t often get in a career as a lawyer, especially in a large corporation."33  General
+
+32 "Examiner’s Answer," Sept. 23, 1974; "Opinion and Decision of Board of Appeals," May 20, 1976, in
+Transcript of Record . . . Chakrabarty, pp. 86-89, 92-97.
+
+33 Author’s telephone interviews with Leo I. MaLossi, August 18, 1988, and with Charles Watts, August 18,
+1988.
+
+                                                
+18
+
+Kevles, Patenting Life: 12 January 2002
+
+Electric decided to take Chakrabarty’s case to the United States Court of Custom and Patent
+
+Appeals, which was seated in Washington, D.C.
+
+By this point, late 1976, Chakrabarty’s claim had become entwined with a
+
+complementary case advanced by Malcolm E. Bergy and fellow scientists at the Upjohn
+
+Company. They had developed a process for obtaining a purified strain of the newly discovered
+
+fungus Streptomyces vellosus, whose metabolic chemistry generated the antibiotic lyncomycin.
+
+In June 1974, Upjohn had applied for a patent on the method, but an Upjohn patent lawyer
+
+named Roman Saliwanchik thought the claim incomplete. Saliwanchik had been trained as an
+
+undergraduate in microbiology and biochemistry. From the time he had begun to study cases in
+
+law school, he had been puzzled why a living organism should not be patentable simply because
+
+it was living. He saw an opportunity to test that doctrine with Bergy’s fungus: since it did not
+
+exist in nature as a biologically pure culture, it seemed to qualify for a patent as a manufacture.
+
+In January 1975, Salwanchik enlarged Bergy’s claim to include the product -- the purified strain
+
+of the organism itself.34
+
+The product application was initially rejected by a patent examiner on grounds that the
+
+fungus was a work of nature. In a brief addressed to the Board of Patent Appeals, on March 18,
+
+1975, Saliwanchik insisted that the fungus was "not a product of nature" but "the product of a
+
+microbiologist."  The Board sidestepped that issue to reject the claim, on June 22, 1976, for the
+
+deeper reason that the fungus was alive -- employing much the same arguments that it had used
+
+34 "Application of Malcolm E. Bergy . . .," June 10, 1974, in United States Court of Customs and Patent
+Appeals,  Transcript of Record, Patent Appeal Docket No. 76-712, In Re Application of Malcolm E. Bergy, et
+al, Filed August 16, 1976, p. 6; telephone conversation with Roman Saliwanchik, Oct. 14, 1988.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+19
+
+to deny Chakrabarty’s product claim the previous month and warning, similarly, that a liberal
+
+interpretation of the code would lead to the patenting of "new types of insects, such as
+
+honeybees, or new varieties of animals produced by selective breeding and crossbreeding." The
+
+Upjohn lawyers promptly brought their case to the Court of Customs and Patent Appeals --
+
+promptly enough, as it happened, to arrive ahead of Chakrabarty’s, which had been delayed in a
+
+further skirmish with the Patent Office Board. However, having been framed in almost the same
+
+terms, the Bergy case became a proxy for the issue that Chakrabarty’s had initially raised.35 
+
+Indeed, in arguments before the Court, on March 3, 1977, the battle line was drawn precisely
+
+across the question of whether living organisms qualified for patent protection under the
+
+Jeffersonian core of the patent code.36
+
+On October 6, 1977, the Court ruled three to two in favor of Bergy. The majority
+
+opinion was delivered by Judge Giles S. Rich, who, before his appointment to the federal bench,
+
+in 1956, had distinguished himself as a patent attorney during some thirty years of practice in
+
+New York City and who manifestly recognized that, to a considerable extent, life was
+
+chemistry. Rich viewed it as "illogical" to allow patents for processes that relied upon the
+
+functions of living organisms but to deny patents to a living manufacture or new composition of
+
+matter as such. He contended that in their nature and commercial uses biologically pure cultures
+
+35 "Letter of Examiner, Feb. 6, 1975"; Roman Saliwanchik, "Brief," March 18, 1975; "Opinion and Decision of
+Board of Appeals, June 22, 1976," in United States Court of Customs and Patent Appeals,  Transcript of Record,
+Patent Appeal Docket No. 76-712, In Re Application of Malcolm E. Bergy, et al, Filed August 16, 1976, pp. 34,
+54, 62-63; In the Matter of the Application of Malcolm E. Bergy et al, Patent Appeal No. 76-712, U.S. Court of
+Customs and Patent Appeals, 563 F. 2d, 1032-1035 (1977); Application of Ananda M. Chakrabarty, Patent
+Appeal No. 77-535, U.S. Court of Customs and Patent Appeals, 571 F. 2d, 42 (1978).
+
+36 In the Matter of the Application of Malcolm E. Bergy et al, 563 F. 2d, 1034-1035 (1977).
+
+                                                
+20
+
+Kevles, Patenting Life: 12 January 2002
+
+of microroganisms were "much more akin to inanimate chemical compositions such as
+
+reactants, reagents, and catalysts than they are to horses and honeybees or raspberries and
+
+roses." He found nothing in the language of the patent laws that excluded such tools from patent
+
+protection solely on grounds of their being alive; it was being alive that made them useful. He
+
+held, "In short, we think the fact that microorganisms, as distinguished from chemical
+
+compounds, are alive is a distinction without legal significance." Rich took note of the fear that
+
+allowing patents for microorganisms would make patentable "all new, useful, and unobvious
+
+species of plants, animals, and insects created by man." He  called the fear "far-fetched," while
+
+observing that, in any case, "that question is not before us."37
+
+MaLossi argued Chakrabarty’s case on December 5, 1977, and on March 2, 1978 the
+
+Court ruled three-to-two in Chakrabarty’s favor. Judge Rich, speaking for the majority, saw only
+
+one issue --- the patentability of living organisms. The Court had dealt with the identical issue in
+
+the Bergy case and found its reasoning there sufficient and controlling. In a concurring opinion,
+
+Judge Howard T. Markey declared, "The [patent] statute is not ambiguous. No Congressional
+
+intent to limit patents to dead inventions lurks in the lacuna of the statute, and there is no grave
+
+or compelling circumstance requiring us to find it there." And he added, "As with Fulton’s
+
+steamboat ‘folly’ and Bell’s telephone ‘toy,’ new technologies have historically encountered
+
+resistance. But, if our patent laws are to achieve their objective, extra-legal efforts to restrict
+
+wholly new technologies to the technological parameters of the past must be eschewed."38
+
+37Ibid., pp. 1037-1038.
+
+38 Application of Ananda M. Chakrabarty, 571 F 2d, 43-44 (1978).
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+21
+
+Ranking lawyers in the U.S. Patent Office now had to decide whether to appeal the
+
+decision to the Supreme Court, and it was at this point that considerations of the political
+
+economy of biotechnology began to figure in the case. The scientific key to the
+
+commercialization of molecular biology was the technique of recombinant DNA that had been
+
+co-invented, in 1973, by Herbert Boyer and Stanley Cohen, biologists at, respectively, the
+
+University of California San Francisco Medical School and Stanford University. The advent of
+
+the technology provoked controversy, as scientists warned that its use might lead to the release
+
+of dangerous new organisms into the environment or throw evolution off course. The
+
+apprehensions spread rapidly through the lay community, stimulating moves in state legislatures
+
+and the United States Congress to impose severe restrictions on research with recombinant
+
+DNA. By 1978, most molecular biologists were convinced that the dangers had been
+
+exaggerated. The National Institutes of Health had established regulations for the confinement
+
+to safe facilities of whatever recombinant research. And the trend to acceptance of recombinant
+
+techniques was being reinforced by the growing commercial interest in them.
+
+Herbert Boyer had helped lead the way. In 1976, Boyer and a venture capitalist named
+
+Robert A. Swanson formed the biotechnology firm Genentech -- short for "genetic
+
+engineering technology." In 1977, the company used recombinant techniques to engineer a
+
+bacterium so that it generated the mammalian hormone somatostatin, which is produced at the
+
+base of the brain and is involved in the regulation of growth. In 1978, it announced in a press
+
+conference that its scientists had succeeded in producing human insulin by similar means.
+
+The achievement with insulin was heralded in every major newspaper and magazine in the
+
+United States except The New York Times, which was on strike. Newsweek typically
+
+22
+
+Kevles, Patenting Life: 12 January 2002
+
+proclaimed that "recombinant DNA technology can undoubtedly be used to make scores of
+
+other vital proteins, such as growth and thyroid hormones, as well as antibodies against
+
+specific diseases."39
+
+By now, new biotechnology companies were being founded at a high pace, while major
+
+pharmaceutical firms as well as several oil and chemical giants were plunging into recombinant
+
+DNA, initiating research programs of their own, letting research contracts to the startups, and
+
+even obtaining an equity interest in some of them.40  Biotechnology firms and firms eager to get
+
+into biotechnology sought connections with campuses.41 In return, the campuses could expect
+
+dividends from the biotechnology industry in the form of gifts, research grants, and license fees
+
+for the use of patents covering the valuable research products of their laboratories.
+
+However, the dissent from recombinant DNA had not disappeared entirely, either
+
+among scientists or the lay community. The critics kept warning that genetically engineered
+
+microorganisms threatened the environment and could pose hazards to human health. Some also
+
+predicted that genetic engineering would eventually be applied to human beings, ushering in a
+
+new era of eugenics, and that essential features of the organic world would fall under the control
+
+of profit-making corporations. An increasingly prominent critic was the social activist Jeremy
+
+Rifkin, a graduate of the Wharton Business School who had turned left and who headed a
+
+39Steven S. Hall, Invisible Frontiers: The Race to Synthesize a Human Gene (New York, NY: The Atlantic
+Monthly Pres, 1987), pp. 87-88, 199-203, 213-22, 231-35, 241-48, 266, 269-83; Matt with Joseph Contreras,
+"Making Insulin," Newsweek, 92(September 18, 1978), p. 93.
+
+40Martin Kenney, Biotechnology: The University-Industrial Complex (New Haven: Yale University Press,
+1986), pp.44-45, 56, 61-67, 73, 78-80, 140, 191; Nicholas Wade, "Recombinant DNA: Warming Up for the Big
+Payoff," Science 206(Nov. 9, 1979), 663,665; The Wall Street Journal, May 10, 1979.
+
+41Susan Wright, "Recombinant DNA Technology and Its Social Transformation, 1972-1982," Osiris, 2nd Series,
+2(1986), 303-60.
+
+ 
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+23
+
+public-interest group called the People’s Business Commission. A newcomer to the issues of
+
+genetic engineering, he predicted eugenic and corporate capture of recombinant DNA and was
+
+resolutely opposed to the patenting of life.
+
+The Patent Office lawyers, well aware of the controversy over genetic engineering and
+
+of its commercial prospects, recognized that the stakes in patenting life now reached far
+
+beyond purely legal questions. Gerald Bjorge, the Associate Solicitor in the Patent Office,
+
+remembered a key point in the discussions about whether to appeal the Bergy and
+
+Chakrabarty cases to the U.S. Supreme Court: The belief that living products could be
+
+patented would call forth considerable investment in biotechnological enterprises. However,
+
+while the Court of Customs and Patent Appeals might today decide in favor of the
+
+patentability of living microorganisms, federal appeals courts elsewhere might in the future
+
+decide against it, placing the issue in legal limbo. An adverse ruling by the Supreme Court at
+
+that point would throw the biotechnology industry into turmoil. Better to have the high court
+
+clarify the issue now rather than leave the matter to the uncertain future. If it ruled against
+
+Bergy and Chakrabarty, the issue could be referred to the Congress, where the Patent Office,
+
+of course, thought it belonged anyway.42
+
+On April 20, 1978, on behalf of the Patent Office, the Solicitor General of the United
+
+States moved to appeal the Bergy decision to the United States Supreme Court, warning, in his
+
+petition, that "since the number of living things is vast, the decision opens an enormous range of
+
+subject matter to patentability," that policymaking concerning the extension of the patent laws to
+
+42 Telephone interview with Gerald Bjorge, March 12, 1989.
+
+                                                
+24
+
+Kevles, Patenting Life: 12 January 2002
+
+new fields was for Congress, not the courts, and that allowing the Bergy ruling to stand would
+
+further complicate the "policy problems" -- the brief noted the 1976 NIH guidelines -- "of
+
+genetic engineering, already highly controversial."43  On June 26, on the last day of its term, the
+
+Court ordered that the Bergy decision be vacated and it sent the case back to the patent appeals
+
+court for reconsideration in light of a decision that it had rendered four days earlier, in another
+
+patent case, Parker v. Flook."44  In August, over MaLossi’s objections, the appeals court vacated
+
+its judgment in Chakrabarty’s case, too, also compelling reconsideration of it in light of Flook.
+
+Though the two cases were not formally consolidated, the appeals court chose to deal with them
+
+together, receiving briefs from the parties in September and October and hearing arguments on
+
+both, on November 6, 1978.45
+
+The Supreme Court had given no specific indication of the relevance of Flook to Bergy’s
+
+claim, which left the matter somewhat shrouded in mystery, all the more so since the case
+
+concerned the patentability of a mathematical algorithm for the control of a production process.
+
+Under the circumstances, each of the principal parties in the proceeding found in Flook what
+
+suited its interest. The government’s lawyers locked onto a point in one of the precedents that the
+
+high court had cited in the case -- that an expansion of patent rights "would require a clear and
+
+certain signal from Congress" -- and contended yet again that, since Congress had not provided for
+
+43 Solicitor General, Petition for a Writ of Certiorari . . ., In the Supreme Court of the United States, October
+Term 1977, Lutrelle F. Parker v. Malcolm E. Bergy et al, Docket No. 77-1503,  filed April 20, 1978, pp. 6-7.
+
+44 Parker v. Flook, 437 U.S. 584, 98 Ct. 2522, at 2528; "Application of Malcolm E. Bergy . . ., Application of
+Ananda M. Chakrabarty," Appeal Nos. 76-712, 77-535, U.S. Court of Customs and Patent Appeals, March 29,
+1979, 596 Federal Reporter, 2d Series, 952, at 957.
+
+45 "Supplemental Brief for Appellant," U.S. Court of Customs and Patent Appeals, Patent Appeal Docket No.
+77-535, In Re Application of Ananda M. Chakrabarty, Appellant," [filed fall 1978], p. 4.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+25
+
+the patenting of living matter, neither Bergy’s nor Chakrabarty’s claim should be allowed. But
+
+while introducing the precedent, the Court had observed that "we must proceed cautiously when
+
+we are asked to extend patent rights into areas wholly unforeseen by Congress."46
+
+Leo MaLossi ingeniously turned that observation to Chakrabarty’s advantage by pointing
+
+out, in his brief, that Chakrabarty’s oil-eating bugs did not fall into an area of innovation that
+
+Congress had not foreseen. They had not been produced by recombinant DNA in the sense of
+
+contemporary genetic engineering but had been devised by a traditional method of recombining
+
+DNA -- by the interbreeding of different strains, hybridization.  Congress had been familiar with
+
+plant and animal breeding since the founding of the republic -- George Washington himself had
+
+been instrumental in the promotion and improvement of mule breeding, MaLossi noted -- and yet
+
+it had never prohibited the patenting of living organisms. On the contrary, Congressional
+
+committee reports drawn up in connection with the last major overhaul of U.S. patent law, in
+
+1952, had declared that an invention could be "anything under the sun." MaLossi concluded that
+
+Flook had no bearing on Chakrabarty’s claim, and Saliwanchik concluded similarly about his client
+
+Bergy’s claim, too, arguing that, since it concerned only the purification of a microrganism, it was
+
+irrelevant to disputes about either mathematical algorithms or genetic engineering.47
+
+46 Parker v. Flook, 437 U.S. 584, 98 Ct. 2522, at 2528; "Supplemental Brief for the Commissioner of Patents and
+Trademarks," filed Oct. 20, 1978, U.S. Court of Customs and Patent Appeals, Patent Appeal No. 77-535, In the
+matter of the Application of Ananda M. Chakrabarty, p. 4.
+
+47 "Supplemental Brief for Appellant," U.S. Court of Customs and Patent Appeals, Patent Appeal Docket No.
+77-535, In Re Application of Ananda M. Chakrabarty, Appellant," [filed fall 1978], p. 4, 6-8, 15, 22;
+Saliwanchik, "Brief in Opposition to Petition for Writ of Certiorari . . .," In the Supreme Court of the United
+States, October Term 1977, No. 77-1503, Lutrelle F. Parker v. Malcolm E. Bergy, filed May 11, 1978, p.5;
+"Supplemental Brief for Appellants," U.S. Court of Customs and Patent Appeals, Patent Appeal Docket No. 76-
+712, In Re Application of Malcolm E. Bergy, et al, Appellants, pp. 2-4; telephone interview with Gerald Bjorge,
+March 12, 1989.  
+
+                                                
+26
+
+Kevles, Patenting Life: 12 January 2002
+
+MaLossi and Saliwanchik hewed to narrow legal ground because each wanted to win for
+
+his respective client, yet Saliwanchik, alive to the longrange interests of Upjohn, permitted
+
+himself a word or two in praise of the genetic engineering of microorganisms and the allowance
+
+of patents for its living products. Indeed, both cases were taken to be weighted with sufficiently
+
+broad import for the future of biotechnology as to prompt Genentech and the University of
+
+California to file amicus briefs -- the former’s within two weeks of the insulin press conference -
+
+- on the side of Bergy and Chakrabarty. Under the terms of Genentech’s contracts for the
+
+somatostatin project, UC San Francisco and City of Hope could patent the results, giving
+
+Genentech an exclusive license to produce the hormone. Genentech itself would seek the patent
+
+on the recombinant insulin developed in its own laboratory. Now, the university and Genentech
+
+each declared that it had a vital stake in the outcome of the matter -- the university, because it
+
+expected to realize income on patents for genetically engineered products invented in its
+
+laboratories; the company, because the patent incentive would be "an important if not
+
+indispensable factor in attracting private capital support for life-giving research in the
+
+pharmaceutical field."  Neither proposed to argue the particular merits of the Bergy or
+
+Chakrabarty claims, preferring to address the key principle at stake -- that is, the patentability of
+
+living organisms. The university stressed that at issue was only the patentability of "single-cell
+
+organisms which are mindless, soulless and brainless," not that of higher life forms. Along with
+
+Genentech but more expansively, it also contended that the line between dead chemicals and
+
+living microrganisms was "well-nigh imperceptible," adding that, in this respect, even skilled
+
+Kevles, Patenting Life: 12 January 2002
+
+27
+
+scientists could only with difficulty draw "a bright line between life and its absence" and that
+
+recognition of that fact "destroys the argument that life itself . . . precludes patentability."48
+
+Both amicus briefs conceded that recombinant genetic engineering was a new
+
+technology. In the view of the university, however, it was unimaginable that the Congress of
+
+1793 had intended to disqualify from patent protection "the fruits of human creativity in then
+
+unknown technologies, whether airplanes, space craft, or, now, genetically engineered
+
+microorganisms. Genentech’s counsel -- he was Thomas D. Kiley, of the Los Angeles firm of
+
+Lyon & Lyon -- acknowledged that the courts might be doubly cautious in permitting patents in
+
+areas of innovation that, like genetic engineering, were both unanticipated by Congress and
+
+somewhat controversial. He also shrewdly countered that, still, it was "not the job of the Patent
+
+System to regulate new technologies, but rather to bring them into being, and into public view,"
+
+continuing, "Congress is quite capable of regulating the use of technology without judicial
+
+gerrymandering of the System that inspires its creation. A veritable alphabet soup of other
+
+Agencies attests to that." In Kiley’s view, the government’s concern with the controversialism of
+
+genetic engineering was "a red herring."49
+
+48 Kenney, Biotechnology, pp. 94-96; The Wall Street Journal, September 7, 1978, p. 17; Saliwanchik, "Brief in
+Opposition to Petition for Writ of Certiorari . . .," In the Supreme Court of the United States, October Term
+1977, No. 77-1503, Lutrelle F. Parker v. Malcolm E. Bergy, filed May 11, 1978, pp. 6-7; "Brief Amicus Curiae
+of the Regents of the University of California," U.S. Court of Customs and Patent Appeals, Patent Appeal
+Dockets Nos. 76-712 and 77-535, In the Matter of . . . Bergy and In the Matter of . . . Chakrabarty, pp. 1, 2, 14-
+20; "Motion for Leave to Appear as Amicus Curiae and Brief Amicus Curiae of Genentech, Inc.," In the Matter
+of . . . Chakrabarty, Patent Appeal No. 77-535, United States Court of Custom and Patent Appeals, filed Sept.
+20, 1978, pp. 1b-1d, 6, 8-9, 12-13.
+
+49 "Brief Amicus Curiae of the Regents of the University of California," U.S. Court of Customs and Patent
+Appeals, Patent Appeal Dockets Nos. 76-712 and 77-535, In the Matter of . . . Bergy and In the Matter of . . .
+Chakrabarty, pp. 1, 2, 14-20; "Motion for Leave to Appear as Amicus Curiae and Brief Amicus Curiae of
+Genentech, Inc.," In the Matter of . . . Chakrabarty, Patent Appeal No. 77-535, United States Court of Custom
+and Patent Appeals, filed Sept. 20, 1978, pp. 1b-1d, 6, 8-9, 12-13.
+
+                                                
+28
+
+Kevles, Patenting Life: 12 January 2002
+
+On March 29, 1979, the Court of Customs and Patent Appeals held by a three-to-two
+
+majority that it could find nothing in Flook that shed light on the Bergy and Chakrabarty cases.
+
+In a fifty-page opinion on behalf of the majority -- the length of the opinion was unusual and
+
+was perhaps prompted by the likelihood that the cases would return to the Supreme Court --
+
+Judge Giles Rich noted that in oral argument the government’s solicitor had admitted that the
+
+technologies at issue were not new, and Rich stressed that it was not necessary anyway for
+
+Congress to have foreseen a new field of technology to make inventions in it patentable. The
+
+majority scoffed at moral pitfalls, rejecting as "hyperbole" the solicitor’s warning that if patents
+
+were allowed for microorganisms, they might have to be permitted for an enormous range of
+
+living matter. On the substantive merits, the majority’ position was unchanged from what it had
+
+been in the first round. Indeed, if anything, the position had been reinforced by Genentech’s
+
+triumphs with somatostatin and insulin, which Rich’s opinion endorsed by quoting from an
+
+enthusiastic report of them in Kiley’s brief. Rich reiterated that "life is largely chemistry,"
+
+declaring that the court could see "no legally significant difference between active chemicals
+
+which are classified as ‘dead’ and organisms used for their chemical reactions which take place
+
+because they are ‘alive.’"  The court once again reversed the Patent Appeals Board,  upholding
+
+Bergy and Chakrabarty’s claims -- but this time by a majority of four to one, since another
+
+justice, although disagreeing with parts of Rich’s opinion, concurred on the key issue of the
+
+patentability of living products.50
+
+50 "Application of Malcolm E. Bergy . . ., Application of Ananda M. Chakrabarty," Appeal Nos. 76-712, 77-535,
+U.S. Court of Customs and Patent Appeals, March 29, 1979, 596 Federal Reporter, 2d Series, 952, at 952-53,
+955, 967, 973-75, 984-5, 986, 999.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+29
+
+Most high officials in the Patent Office agreed that the decision in the Bergy and
+
+Chakrabarty cases should once again be appealed to the Supreme Court, for much the same
+
+reasons as had moved them to do so the first time. According to the recollection of a staff
+
+member in the Patent Office, the principal exception in the Office was Donald Banner, the U.S.
+
+Commissioner of Patents, who had come to his post, in 1978, from the Borg-Warner
+
+Corporation, where he had been general patent counsel, and who liked the decision of the
+
+appeals court. Determined to keep it away from the uncertainties of judgment by the Supreme
+
+Court, he wanted to let it stand. However, a discreet telephone call from the Patent Office
+
+brought Banner’s obstructionist attitude to the attention of the Office of the U.S. Solicitor
+
+General, who, after determining Banner’s views directly, promptly reminded the Patent
+
+Commissioner that the Solicitor General controlled the legal proceedings of federal agencies
+
+and that this Solicitor General -- he was Wade McCree -- intended to appeal the Bergy and
+
+Chakrabarty cases. On July 27, 1979, McCree petitioned the Supreme Court for review of the
+
+two cases and, on October 29, review was granted.51
+
+In December, the Upjohn lawyers amended their patent application to omit the product
+
+claim on Bergy’s purified lyncomycin --a move that rendered the company’s case moot and
+
+saved it the not inconsiderable cost of an appeal to the Supreme Court. Roman Saliwanchik later
+
+explained that the company thought its claim for the purified natural fungus was weak and
+
+might drag Chakrabarty’s case, which was much stronger but which had become legally joined
+
+with Bergy’s, down to defeat. However, Chakrabarty, though now unencumbered, did not have
+
+51 Interview with a staff member in the Patent Office who does not wish to be identified.
+
+                                                
+30
+
+Kevles, Patenting Life: 12 January 2002
+
+to fight on alone. By the end of January 1980, ten amicus briefs, most of them in support of his
+
+case, had been filed by various individuals and organizations, including, once again, Genentech
+
+and the University of California, but now also the Pharmaceutical Manufacturers Association,
+
+the American Patent Law Association, the New York Patent Law Association, and the
+
+American Society for Microbiology. The Supreme Court chambers were packed when, on
+
+March 17, 1980, the Justices heard oral arguments in the case, which was by then known as
+
+(cid:23)(cid:15)(cid:3)(cid:16)(cid:20)(cid:21)(cid:19)(cid:11)(cid:24)(cid:25)(cid:11)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8)  -- Sidney Diamond was the new Commissioner of Patents -- and
+
+which had acquired a degree of economic and social interest far transcending the particulars of
+
+Ananda Chakrabarty’s oil-eating bugs.52
+
+The first amicus brief to be filed came from Rifkin’s People’s Business Commission and
+
+was the only one to take the government’s position. It attacked genetic engineering as such,
+
+warning for example, that it might "irreversibly pollute the planetary gene pool in radical new
+
+ways" -- yet several of its arguments were embraced and given credibility in the brief of the U.S.
+
+Solicitor General, which otherwise repeated the objections it had advanced against patenting life
+
+before the appeals court.53  As a result, the brief of the People’s Business Commission -- the
+
+PBC, as it referred to itself in the document -- drew pointed attention, not only from MaLossi
+
+but also from several of the amici who filed on Chakrabarty’s side.
+
+52 In the Supreme Court of the United States, October Term, 1979, Docket No. 79-136, Motion to Discuss and
+Vacate as to Respondents Malcolm E. Bergy, et al, Dec. 20, 1979, pp. 1a-2a; The Wall Street Journal, Jan. 15,
+1980, p.4; telephone interview with Roman Saliwanchik, Oct. 14, 1978; "Supreme Court Hears Argument on
+Patenting Life Forms," Science, 208(April 4, 1980), 31. The amicus briefs are with Diamond v. Chakrabarty,
+Docket No. 79-136, 447 U.S. 303.
+
+53 In the Supreme Court of the United States, October Term, 1979, Parker v. Bergy et al and Parker v.
+Chakrabarty, Brief on Behalf of the People’s Business Commission, Amicus Curiae, Dec. 1979, pp. 17-18;
+Diamond v. Bergy et al and Diamond v. Chakrabarty,  Brief for the Petitioner, pp. 10, 20-21.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+31
+
+What most exercised the other amici was the PBC’s claim that patenting life was not in
+
+the public interest -- a claim that the PBC sought to support by alleging that the Plant Patent
+
+Act, of 1930, and the Plant Variety Protection Act, of 1970, were directly responsible for a
+
+dangerous trend in the world’s agriculture. The trend was the steady reduction in the number of
+
+varieties cultivated in major food crops -- for example, the number of different strains of wheat -
+
+- and the resultant narrowing of each crop’s genetic diversity.  Many native strains of plants were
+
+being lost as farmers replaced them with a few superior varieties. And the less genetically
+
+diverse a crop, the more susceptible it was to one or another disease. Indeed, in 1970, a corn
+
+blight had wiped out nearly fifteen percent of that crop in the United States, which prompted a
+
+study by the National Academy of Sciences to note that "genetic uniformity is the basis of
+
+vulnerability to epidemics" and to add that "most crops are impressively uniform genetically and
+
+impressively vulnerable."54
+
+According to the PBC, the reduction in crop varieties was the consequence of plant
+
+patents (the brief casually lumped together under the term "patents" both the genuine patents
+
+established by the 1930 act and the weaker protection certificates provided by the 1970 act). In
+
+the brief’s analysis, seed and grain companies bred only those plants that could be patented -- a
+
+small number, it held  -- and then (somehow) persuaded farmers to buy and substitute them for
+
+native strains. Furthermore, a few large corporations -- frequently the same drug and chemical
+
+54 In the Supreme Court of the United States, Parker v. Bergy et al and Parker v. Chakrabarty, Brief on Behalf of
+the People’s Business Commission, Amicus Curiae, Dec. 1979, p.pp. 5-9; National Research Council, Committee
+on Genetic Vulnerability of Major Crops, Genetic Vulnerability of Major Crops (Washington, D.C.: National
+Academy of Sciences, 1972), p.1. See also U.S. Department of Agriculture, National Plant Genetics Resources
+Board, Plant Genetic Resources: Conservation and Use (Washington, D.C., 1979).
+
+ 
+                                                
+32
+
+Kevles, Patenting Life: 12 January 2002
+
+companies that were beginning to invest in biotechnology -- had been acquiring independent
+
+seed companies and their plant "patents" (protection certificates). For example, Upjohn, together
+
+with three other companies, now held 79% of such "patents" in beans. The overall result:
+
+"thanks to the patent laws, the bulk of the world’s food supply is now owned and developed by a
+
+handful of corporations which alone, without any public input, determine which strains are used
+
+and how."55
+
+The PBC also caught the attention of other amici by insisting that allowance of the
+
+patenting of microorganisms as new compositions of matter would leave no scientific or legal
+
+basis to preclude the patenting of higher life forms, including mammals and the human
+
+manufactures of some Brave New World. Its brief predicted that patenting animals would lead
+
+to consequences identical to those it alleged had occurred with plants -- a reduction in the
+
+world’s domestic animal varieties and genotypes. Yet what most distressed the PBC -- what it
+
+saw as "the essence of the matter" in the Chakrabarty case -- was that to permit patents on life
+
+was to imply that "life has no ‘vital’ or sacred property," that it was only "an arrangement of
+
+chemicals, or mere ‘compositions of matter.’"56
+
+Solicitor General Wade H. McCree, Jr.’s brief did not endorse the PBC’s on the merits
+
+but rather drew upon the Commission’s claims to bolster its own principal legal argument -- that
+
+legislation was necessary to extend patent protection to living organisms. Genetic engineering
+
+55 In the Supreme Court of the United States, Parker v. Bergy et al and Parker v. Chakrabarty, Brief on Behalf of
+the People’s Business Commission, Amicus Curiae, Dec. 1979, pp. 7-9, 12-13.
+
+56 In the Supreme Court of the United States, Parker v. Bergy et al and Parker v. Chakrabarty, Brief on Behalf of
+the People’s Business Commission, Amicus Curiae, Dec. 1979, pp. 11-12, 21-22, 27, 29-30.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+33
+
+had raised issues of ethics (the creation of new life forms, including human ones); also of safety
+
+(recombinant organisms polluting the environment), continuing controversy over which, in the
+
+Solicitor’s misinformed view, had led to a revision of the guidelines governing recombinant
+
+research. Both issues had stimulated high disputes of a type that should be resolved by the
+
+Congress, not the courts. MaLossi reiterated why no Congressional action was required for a
+
+patent to issue on Chakrabarty’s bugs, stressing, in addition to the intricacies of the law, that the
+
+bugs had nothing to do with the kind of recombinant DNA that was controversial. However, he
+
+did feel compelled to point out to the Court the "distortion of the record" concerning
+
+recombinant DNA presented in the Solicitor’s brief, particularly with respect to public health
+
+and safety. Contrary to the Solicitor’s impression, the revisions in the NIH guidelines indicated a
+
+progressive reduction, not enlargement, in the estimate of environmental risk in recombinant
+
+research. Beyond that, MaLossi deemed it best to let the pro-recombinant amici represent their
+
+own interests to the Court. 57
+
+The amici obliged, especially the two -- Genentech and the Pharmaceutical
+
+Manufacturers Association -- with the greatest immediate economic interest in the outcome of
+
+the case. To both, the positions of the government and the PBC seemed to flout fact and logic.
+
+Their briefs sought to set matters straight and to provide what amounted to basic instruction in
+
+the fundamentals of the patent system, at least as they saw it. Patents did not foster but actually
+
+penetrated industrial secrecy to an extent, because they compelled publication of the means and
+
+57 Diamond v. Bergy et al and Diamond v. Chakrabarty, Brief for the Petitioner, [Jan. 1980], pp. 9-10, 17-21;
+Parker v. Bergy et al and Parker v. Chakrabarty, Chakrabarty’s Brief in Opposition to Petition for Writ of
+Certiorari to the United States Court of Customs and Patent Appeals, Sept. 1979, p. 6, n.3; Diamond v.
+Chakrabarty, Brief for the Respondent, [Jan. 1980], pp. 27-28.
+
+                                                
+34
+
+Kevles, Patenting Life: 12 January 2002
+
+methods that led to a patentable product. Denying patents on life would throw corporate
+
+recombinant research deeper into the realm of trade secrets and away from public scrutiny of the
+
+degree to which the corporate world was actually abiding by the NIH guidelines. Patents
+
+encouraged technological innovation, and they should be allowed to encourage it in genetic
+
+engineering, since the field was recognized as a richly promising contributor to the nation’s
+
+high-technology competitiveness. By offering the incentive of certificate protection, the Plant
+
+Variety Protection Act had not reduced but had increased the number of plant varieties available
+
+to the American public. For example, as many new varieties of wheat had been developed in the
+
+seven years after the passage of the act, in 1970, as in the seventeen years before it. (Genentech
+
+found it difficult to credit the argument that patents for life forms would diminish genetic
+
+diversity, "when any shovel full of backyard sod can yield micro-organic life in endless variety,
+
+and when genetic engineering itself permits the creation of new varieties.")58
+
+Speaking from its own experience, Genentech called the patent system at its best "a pro-
+
+competitive system," one that could facilitate "the interposition of small but fruitful companies"
+
+in industries traditionally dominated by major firms. In fact, according to the Pharmaceutical
+
+Manufacturers, since 1970, as a result of the Plant Variety Protection Act, the number of seed
+
+companies had increased, especially in wheat, cereal grains, and soybeans (before that year, six
+
+companies had been engaged in the development of soybean varieties; now the number was
+
+twenty-five). Also since 1970, almost 1,000 applications had been submitted for plant variety
+
+58 Diamond v. Chakrabarty, Brief on Behalf of the Pharmaceutical Manufacturers Association, Amicus Curiae,
+Jan. 1980, pp. 13, 26-28, 48; Brief on Behalf of Genentech, Inc., Amicus Curiae, Jan. 1980, pp. 13, 17-18.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+35
+
+protection certificates on 57 distinct crops. About ten percent of these had come from
+
+agricultural experiment stations at colleges and universities; about twenty percent, from the six
+
+largest U.S. seed companies; and almost 70%, from private breeders of all sizes.59
+
+The American Patent Lawyers Association took the trouble to point out what should
+
+have been obvious to anyone -- that living entities (innumerable varieties of domesticated plants
+
+and animals) had been treated as property since the advent of acquisitive man. Several of the
+
+amici conceded that allowing a patent property right in Chakrabarty’s bugs might raise the
+
+question of the patentability of higher life forms. However, higher life forms were not at issue in
+
+the case, only microorganisms. The courts could only resolve the scope of the patentability of
+
+life if and when that question came concretely before them, not prospectively. (The
+
+Pharmaceutical Manufacturers opined that, should the matter arise, it would be easy to draw a
+
+line between higher life forms and "the mindless soulless microorganism involved in
+
+Chakrabarty"; Genentech scoffed at the idea that a grant of Chakrabarty’s claim would permit
+
+patents on human beings, declaring that such argument "extends literalism beyond reason.")60
+
+Genentech supplied a trenchant counter to what the Pharmaceutical Manufacturers
+
+termed the "sky-is-falling" issues that had been insinuated into the case. The company’s brief
+
+contended that it would defeat the patent system to permit controversialism to be a criterion of
+
+patentability, that the best science and invention were revolutionary, and often controversial,
+
+59 Diamond v. Chakrabarty, Brief on Behalf of the Pharmaceutical Manufacturers Association, Amicus Curiae,
+Jan. 1980, pp. 28-29;  Brief on Behalf of Genentech, Inc., Amicus Curiae, Jan. 1980, pp. 3.
+
+60 Diamond v. Chakrabarty, Brief on Behalf of the American Patent Law Association, Inc., Amicus Curiae, Jan.
+1980, p. 22; Brief on Behalf of the Pharmaceutical Manufacturers Association, Amicus Curiae, Jan. 1980, pp.
+20, 22-23;  Brief on Behalf of Genentech, Inc., Amicus Curiae, Jan. 1980, pp. 12.
+
+                                                
+36
+
+Kevles, Patenting Life: 12 January 2002
+
+and that it was not the province of the Court "to attempt, like King Canute, to command the tide
+
+of technological development," adding, "The Patent System is, out of necessity, neutral. It
+
+cannot be too finely tuned to the kind (as distinguished from the quality) of creation involved....
+
+Most particularly must it abjure prior restraints, because they chill expression in literature and
+
+science alike. The neutrality of the Patent and Trademark Office requires that it leave to other
+
+agencies the regulation of technology, after the fact of its creation."61
+
+The pro-Chakrabarty amici briefs may have told on the government. Presenting its case
+
+in oral argument, Deputy Solicitor General Lawrence G. Wallace allowed to the Court that the
+
+case did not involve broad issues of public policy. It concerned only the narrow field of statutory
+
+interpretation and Congressional intent, to which he proceeded to confine his remarks.
+
+Chakrabarty was represented by Edward F. McKie, Jr., of Washington, D.C., who maintained
+
+that existing statutes were broad enough to allow his client’s claim, that a living microorganism
+
+did not open a new area of patent protection. MaLossi remembered with pleasure that several of
+
+the justices wanted to know whether the bugs were the product of a new technology and that
+
+Wallace had to concede that they were not. Justice John Paul Stevens asked Wallace to explain
+
+why patents should be granted to new chemicals but not to newly fashioned bacteria. Wallace
+
+replied, lamely, that bacteria just did not "fit well within the statute," whereupon Justice
+
+William Rehnquist retorted, "Do you fear an invasion of the spores?"62
+
+61 Diamond v. Chakrabarty, Brief on Behalf of the Pharmaceutical Manufacturers Association, Amicus Curiae,
+Jan. 1980, pp. 15-16; Brief on Behalf of Genentech, Inc., Amicus Curiae, Jan. 1980, pp. 4-12.
+
+62 Arguments before the Court: Patents,"  The United States Law Week, 48(March 25, 1980), 3609-3610;
+telephone conversation with Leo MaLossi, Aug. 23, 1988.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+37
+
+On June 16, 1980, the United States Supreme Court held, by a vote of five to four, that
+
+Chakrabarty had a right, within existing statutes, to a patent on his microorganism. Chief
+
+Justice Warren Burger delivered the majority opinion, which echoed much of the reasoning in
+
+the appeals court opinion of Judge Giles Rich. Justice Burger enthused over the broad language
+
+that Jefferson had written into the patent law of 1793, calling it expressive of its author’s
+
+"philosophy that ‘ingenuity should receive a liberal encouragement’" and noted that all
+
+succeeding Congresses had left Jefferson’s language virtually intact. Rejecting the contentions of
+
+the Patent Office, he found that the patent code as written was ample enough to accommodate
+
+inventions in areas unforeseen by Congress, including genetic technology, and to cover living
+
+microorganisms. Congress, in passing the plant acts of 1930 and 1970, had "recognized that the
+
+relevant distinction was not between living and inanimate things, but between products of
+
+nature, whether living or not, and human-made inventions." Chakrabarty’s bugs were new
+
+compositions of matter, the product of his ingenuity, not of nature’s. As such, they were
+
+patentable under existing law. The minority’s opinion, delivered by Justice William Brennan,
+
+argued  precisely the opposite -- that, in view of the legislative history of the two plant acts, the
+
+extension of patent protection to living microorganisms required new law.63
+
+There was no particular ideological split between the majority (in addition to Burger,
+
+Justices Rehnquist, Stevens, Potter Stewart, and Harry Blackmun) and the minority (besides
+
+Brennan, Justices Byron White, Thurgood, Marshall, and Lewis Powell). Both the majority
+
+and the minority agreed that the question before the Court was the narrow one of statutory
+
+63 Diamond v. Chakrabarty, 447 U.S. 303,  100 S. Ct. 2204 (1980) at 2206-2212.
+
+                                                
+38
+
+Kevles, Patenting Life: 12 January 2002
+
+interpretation. However, Justice Lewis F. Powell, Jr. dissented in the case, as he wrote to
+
+Brennan, because of "the relative novelty of patenting a living organism, and by my
+
+conviction that the issue should be decided by Congress." At Powell’s urging, Brennan’s
+
+opinion included the observation -- Powell wrote the passage -- that the case concerned a
+
+composition that "uniquely implicates matters of public concern" and advanced that fact as a
+
+special reason for Congressional jurisdiction.64
+
+Chief Justice Burger also took the trouble to address the apprehensions of the Patent
+
+Office and the People’s Business Commission concerning the "grave risks" in genetic
+
+engineering, writing in his opinion that their briefs "present a gruesome parade of horribles" and
+
+reminded the Court "that, at times, human ingenuity seems unable to control fully the forces it
+
+creates." Burger observed, however, that genetic research with its attendant risks would likely
+
+proceed with or without patent protection for its products and that neither legislative nor judicial
+
+fiat as to patentability would "deter the scientific mind from probing into the unknown any more
+
+than Canute could command the tides."  More important, the Court was "without competence"
+
+either to brush aside the horribles "as fantasies generated by fear of the unknown, or to act on
+
+them."  Matters of high policy, embodying competing interests and values, were best handled by
+
+Congress and the Executive -- the political rather than the judicial branches of the government.
+
+The Court’s task was the "narrow one of determining what Congress meant by the words it used
+
+64(cid:26)(cid:6)(cid:15)(cid:19)(cid:25); Lewis F. Powell to Mr. Justice Brennan, May 29, 1980, William J. Brennan MSS, Library of Congress,
+Container 535.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+39
+
+in the statute" -- which the Court had done -- and once that was accomplished, its powers were
+
+"exhausted."65
+
+(cid:31)# (cid:2)(cid:11)"(cid:12)(cid:14)(cid:6)(cid:2)(cid:12)(cid:14)(cid:19)(cid:2)(cid:1)(cid:14)(cid:4)(cid:23)(cid:12)"(cid:2)(cid:11)(cid:12)(cid:6)(cid:13)(cid:14)(cid:6)(cid:5)
+
+After the (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8) ruling, several critics insisted that the decision appeared to leave
+
+no legal obstacle to the patenting of higher forms of life, including animals and, possibly,
+
+human beings.66  In fact, a number of biologists began genetically engineering animals primarily
+
+for research purposes -- for example, to study how cells differentiate as an animal develops from
+
+a newly fertilized egg or to explore the genetic dynamics of cancer. But their efforts produced
+
+animals that were new compositions of matter and that in some cases had commercial -- and,
+
+hence, patentable -- possibilities.
+
+The genetic engineering was accomplished by inserting foreign genetic material into an
+
+animal’s genome using a method that had been recently devised independently in several
+
+laboratories. The fundamental step in the process was to introduce foreign DNA obtained with
+
+recombinant techniques into a newly fertilized mammalian egg. The immigrant DNA could
+
+integrate into and then proliferate with the creature's native genome, eventually finding its way
+
+into every cell of the grown animal, including its sex cells. When the animal reproduced, the
+
+DNA would be transmitted to some fraction of its progeny, automatically supplying a large
+
+65 Diamond v. Chakrabarty, 447 U.S. 303,  100 S. Ct. 2204 (1980) at 2211-12.
+
+66. "Blue Chips for a Biochemist." Time, March 9, 1981, p. 57; Peter Gwynne, "Court Decision Spurs Genetics
+Research," Industrial Research and Development 22(August, 1980) 45-46; Debra Whitfield, "Patent Decision
+Could Spur Genetic Research Industry," Los Angeles Times, June 17, 1980, p.11; C. Larry O’Rourke, "The
+Chakrabarty Decision," Environment 22(July/Aug. 1980), 5.
+
+                                                
+40
+
+Kevles, Patenting Life: 12 January 2002
+
+number of such genetically transformed animals. The efficacy of the method was demonstrated
+
+in 1980 at Yale University by Jon W. Gordon and Frank H. Ruddle, who declared their results
+
+to mean that "genetic transformation can be extended to whole mammalian organisms at a very
+
+early stage in their development."67
+
+By then, engineering animals with foreign genes -- "transgenic" animals," to use the
+
+term that Gordon and Ruddle soon coined -- had begun to shape the collaborative research of
+
+Ralph Brinster, a veterinary biologist at the University of Pennsylvania, and Richard Palmiter, a
+
+molecular biologist at the University of Washington. They first introduced a test construct of
+
+foreign DNA that comprised a gene attached to a sequence of DNA taken from mice that would
+
+promote and regulate the gene’s expression. The promoter/regulator gene did its job, and they
+
+obtained expression of the gene in the recipient mouse.68
+
+Brinster and Palmiter then decided to try their method of gene injection to correct
+
+dwarfism in a strain of mice that resulted from a lack of growth hormone. The strategy was to
+
+introduce into the mice the gene for rat growth hormone (rGH) attached to the gene for the
+
+protein metallotheinin (MT), the same one that had worked in the test construct. MT regulates
+
+the level of heavy metals in the body; its gene is abundantly expressed in many organs,
+
+especially the liver. The ingestion of, say, too much zinc would stimulate the production of MT,
+
+which would then tie up the zinc. Palmiter proposed to exploit that process to control the
+
+67 Jon W. Gordon et al, "Genetic Transformation of Mouse Embryos by Microinjection of Purified DNA," Proc.
+National Academy of Sciences, 77(Dec. 1980), 7380-84; Ralph L. Brinster and Richard D. Palmiter,
+"Introduction of Genes into the Germ Line of Animals," The Harvey Lecture, Series 80 (1986), 1-4.
+
+68Brinster and. Palmiter, "Introduction of Genes into the Germ Line of Animals," pp. 4-6
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+41
+
+expression of the growth hormone gene in the transgenic mice. By regulating the amount of
+
+metals such as zinc in their diet, he expected to control the action of the MT gene and, thus, of
+
+the growth-hormone gene. 69
+
+However, before introducing the rGH-MT combination into dwarf mice, Brinster and
+
+Palmiter thought to inject it first into the newly fertilized eggs of normal mice to check that it
+
+was properly constructed, that it would integrate into the genomes of the mice, and that it would
+
+express itself in their livers after they were born. Palmiter recalled that a couple of months after
+
+the mice were made, Brinster telephoned to report, "They’re growing larger than normal!"  A
+
+number were 20 to 40 percent larger. Some were almost twice as big.70 In December 1982,
+
+Brinster and Palmiter reported their results in (cid:27)(cid:3)(cid:7)(cid:18)(cid:5)(cid:13)(cid:28)(cid:11)which gave their findings prominent
+
+coverage, including a cover picture of a mouse made huge by the growth hormone gene
+
+crouched next to one of normal size. They then achieved even better results using human
+
+growth hormone instead of the rat variety and, in November 1982 published their findings in
+
+(cid:29)(cid:30)(cid:15)(cid:13)(cid:21)(cid:30)(cid:13), which heralded their article with a dramatic cover illustration comparable to (cid:27)(cid:3)(cid:7)(cid:18)(cid:5)(cid:13)’s.71
+
+The graphic demonstration of what might be achieved with transgenic animals excited
+
+many biologists, but perhaps none more than Brinster and Palmiter themselves. Brinster, the
+
+product of a farming family, had long been concerned with the improvement of agricultural
+
+animals. Early in 1982, he had established a collaborative effort to produce transgenic
+
+69 (cid:26)(cid:6)(cid:15)(cid:19), pp. 6-9; author’s interview with Richard Palmiter, October 25, 1990 (hereafter, Palmiter interview).
+70Palmiter interview.
+
+71 Palmiter et al, "Dramatic growth of mice . . . ," Nature, 300(16 Dec. 1982), 611-615; Palmiter et al,
+"Metallothionein-Human GH Fusion Genes Stimulate Growth of Mice,” Science, 222(18 Nov. 1983);
+
+                                                
+42
+
+Kevles, Patenting Life: 12 January 2002
+
+animals with scientists at the United States Agricultural Research Service Center in Beltsville,
+
+Maryland. The group experimented with transgenic sheep for about a year but failed in most of
+
+them to obtain integration of the transgene into their genomes. Then Brinster began working
+
+with pigs. By that time, he and Palmiter had achieved their spectacular success with mice.
+
+Palmiter remembered that because the mouse grew after the insertion of a growth-hormone
+
+gene, "we now expected everything to grow." He and Brinster reasoned that pigs, made
+
+transgenic by injection of such a gene, might grow to twice current market size or grow to
+
+market size in half the time.72
+
+Working with a Beltsville scientist named Vernon Pursel, Brinster and Palmiter used a
+
+transgenic construct for the pigs that coupled the MT promoter gene to the gene for human
+
+growth hormone.  Some of the resulting transgenic pigs grew bigger than normal ones; they also
+
+were less fatty and converted feed into meat more efficiently. But they suffered from various
+
+afflictions, including gastric ulcers, kidney disease, arthritis, lameness, lethargy, and a tendency
+
+to injury when they moved. They also lacked libidinal energy, a condition that dampened
+
+expectations that, once created, they would happily reproduce themselves.73 
+
+The Beltsville experiments indicated that transgenic transformation that worked well in one
+
+species, the mouse, would not necessarily work well in another, pigs. Nevertheless, Brinster,
+
+Palmiter, and Pursel continued their experiments with pigs, trying to find a promoter that would
+
+72 Author’s interview with Ralph Brinster, Feb. 14, 1991; Brinster and. Palmiter, "Introduction of Genes into the
+Germ Line of Animals," pp. 26-28. Brinster and Palmiter also introduced growth-hormone gene into rabbits.
+
+73 V.G. Pursel et al, "Insertion of Growth Hormone into Pig Embryos," in R.B. Heap, C.g. Prosser, and G.E.
+Lamming, eds., Biotechnology in Growth Regulation. .(cid:11)(cid:25)(cid:11) (London: Butterworth, 1989), pp. 1818-86; Vernon G.
+Pursel et al, "Genetic Engineering of Livestock," Science 244(16 June 1989), 1281-1288.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+43
+
+work. Scientists in universities and biotechnology firms embarked on transgenic research
+
+programs with other farm animals.  They hoped to engineer chickens with higher resistance to
+
+disease, for example, or sheep that produced more wool, or cows that provided more meat.74
+
+Some also pursued what came to be called "molecular farming" -- genetically modifying
+
+animals so that they manufactured valuable proteins. Genentech had obtained its first
+
+commercially significant product, human insulin, by inserting the gene for human insulin into
+
+bacteria, which then manufactured its constituent elements. But animals were far more efficient
+
+producers of mammalian proteins. The gene for, say, Factor 9, a blood-clotting agent that
+
+hemophiliacs lack, could not be produced in bacteria; but it might be inserted into a cow’s
+
+genome and harvested from its blood.75 In all, molecular farming appeared to offer a means of
+
+turning common animals into factories for the production of valuable human proteins that were
+
+otherwise difficult and expensive to obtain, if they could be obtained at all.
+
+While Brinster and Palmiter were pursuing the line of research that led them to
+
+Beltsville, still other scientists were creating transgenic laboratory animals that would serve as
+
+models for the study of genetically-based diseases. At Harvard University, Philip Leder and his
+
+postdoctoral collaborator Tim Stewart developed a transgenic mouse that was supersusceptible
+
+to breast cancer because it contained an oncogene -- that is, a tumor-causing gene -- tied to a
+
+promoter that would activate the gene in the mammary glands. The work had not been done for
+
+74 Robert A. Jones, "Biotechnology, In Search of a More Perfect Pig," Los Angeles Times, July 12, 1987, p. 1;
+"Genetic Tests Open Scary World of Super Species," Toronto Star, March 29, 1988, p. A27; Richard Saltus,
+"Era of ’Designer Animals’ Looms," Boston Globe, Dec. 26, 1988, p. 63.
+
+75 Palmiter interview; . Jones, "Biotechnology, In Search of a More Perfect Pig"; Saltus, "Era of ’Designer
+Animals’ Looms."
+
+                                                
+44
+
+Kevles, Patenting Life: 12 January 2002
+
+the sake of devising a patentable product, but once it was accomplished, Leder recognized that it
+
+might have commercial possibilities. About the end of 1983, he brought his mice to the
+
+attention of the Office of Technology Licensing and Industry Sponsored Research, the recently
+
+established patents arm of the Harvard Medical School.76
+
+To explore the issue, the Office of Technology Licensing assembled a small group,
+
+including, along with Leder and several DuPont intellectual property lawyers, a patent attorney
+
+named Paul Clark, from the downtown Boston law firm of Fish and Richardson, Harvard’s
+
+principal outside patent counsel.  Clark later recalled that "the work’s most apparent and
+
+compelling manifestation was the animal itself," continuing, "it became clear immediately that it
+
+was important to claim the mice, to give Harvard and its licensee, DuPont, all the legal rights to
+
+which they were entitled. Claims on methods of using the mice, or on plasmids, although of
+
+some importance, would not have adequately protected the invention." Clark’s reasoning was
+
+standard among patent lawyers: better to protect the product as well as the processes used to
+
+produce it; otherwise, competitors, using different processes, could develop similar products.
+
+Clark also saw that Leder’s transgenic animals were, like the bacteria in Chakrabarty,
+
+new compositions of matter made by man, and he knew that the Supreme Court had
+
+admonished in the Chakrabarty case that a court cannot properly consider the state of being
+
+alive when deciding whether something falls within the protection of patent law. Thus, Clark
+
+explains, "it was hard for me to see any legal basis for excluding claims on animals."
+
+76 Author’s interviews with Philip Leder, June 21, 1988, June 6, 1991.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+45
+
+On June 22, 1984, on behalf of Harvard University, Clark filed an application for a
+
+patent on Leder and Stewart’s invention.  The main utilities that he claimed were
+
+straightforward, including the use of such animals as sources of malignant or proto-malignant
+
+tissue for cell culture and as living systems on which to test compounds for carcinogenicity or --
+
+in the case of substances like Vitamin E -- power to prevent cancers. However, Clark had not
+
+been at all conservative in what he claimed as the actual invention. It was not simply a
+
+transgenic mouse with an activated (cid:16)(cid:8)(cid:30) gene, which would have been extraordinary enough. It
+
+was any transgenic mammal, excluding human beings, containing in all its cells an activated
+
+oncogene that had been introduced into it -- or an ancestor -- at an embryonic stage.
+
+The same year that Harvard filed the patent application on Leder and Stewart’smouse,
+
+three marine biologists in Washington state -- Standish K. Allen, Jr. and Sandra L. Downing, of
+
+the University of Washington, and Jonathan A. Chaiton, of the Coast Oyster Company --
+
+applied for a patent on an improved version of Crassostrea gigas, a variety of the Pacific oyster.
+
+ The claim was partly for a process that made the oyster more edible. However, it also covered
+
+the improved oyster as such, which challenged precedent.77
+
+ The examiners in the U.S. Patent Office denied the claim, holding that neither (cid:23)(cid:15)(cid:3)(cid:16)(cid:20)(cid:21)(cid:19)
+
+(cid:24)(cid:25)(cid:11)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8) nor any other patent ruling authorized the grant of a patent on a higher animal,
+
+even if only an invertebrate. The examiners also found that the triploid oyster was not patentable
+
+on the technical ground that the innovation was obvious to anyone schooled in the art of oyster
+
+77. Copy of Original Patent Application, Sept. 6, 1984, in the U.S. Court of Appeals for the Federal Circuit,
+Appeal No. 87-1393, In re Standish K. Allen, Jonathan A. Chaiton, and Sandra L. Downing, Joint Appendix,
+filed Nov. 24, 1987, pp. 12-23. [Hereafter, Joint Appendix]
+
+ 
+                                                
+46
+
+Kevles, Patenting Life: 12 January 2002
+
+breeding. Allen and his colleagues appealed the examiners’ decision to the Board of Patent
+
+Appeals and Interferences, of the U.S. Patent and Trademark Office.
+
+The Board could have pointed to the limited scope of (cid:23)(cid:15)(cid:3)(cid:16)(cid:20)(cid:21)(cid:19)(cid:11)(cid:24)(cid:25)(cid:11)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8) and
+
+found that Congressional action was necessary to extend patent protection further to living
+
+organisms. However, it had already cast a vote against Congress and for biotechnology in
+
+1985, when it reviewed the patent application of Kenneth Hibberd, a scientist at a subsidiary
+
+of Molecular Genetics Research, Inc., in Minnetonka, Minnesota. Hibberd had applied for a
+
+patent under the industrial patent laws for a type of genetically engineered corn -- "a maize
+
+seed having an endogenous free tryptophan content of at least one-tenth milligram per gram
+
+dry seed weight and capable of germinating into a plant capable of producing seed" with the
+
+same level of free tryptophan.  Although the examiners acknowledged that the innovation fell
+
+within the scope of (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8)(cid:28) they had denied Hibberd’s application, claiming that
+
+Congress had intended plants to be protected exclusively under the Plant Patent Act and the
+
+PVPA.  However, the Patent and Trademark Appeals Board awarded Hibberd his patent,
+
+holding, in (cid:9)(cid:10)(cid:11)(cid:31)(cid:3)(cid:5)(cid:7)(cid:13)(cid:11) (cid:15)(cid:6)(cid:6)(cid:13)(cid:5)(cid:19), that the utility patent law (35 USC 101) "has not been narrowed
+
+or restricted" by the passage of the Plant Patent Act or PVPA, that it predated both acts, and
+
+that -- with genuflection to (cid:23)(cid:15)(cid:3)(cid:16)(cid:20)(cid:21)(cid:19)(cid:11)(cid:24)(cid:25)(cid:11)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8)(cid:11)-- these plant-specific acts did not
+
+"represent exclusive forms of protection for plant life."78 
+
+In 1987, in the oyster case, the Board cast another vote for legal logic and, in
+
+consequence, for biotechnology, issuing the decision known since as (cid:9)(cid:10)(cid:11)(cid:12)(cid:3)(cid:5)(cid:7)(cid:13)(cid:11)!""(cid:13)(cid:21). It upheld
+
+78 (cid:9)(cid:10)(cid:11)(cid:12)(cid:3)(cid:5)(cid:7)(cid:13)(cid:11) (cid:15)(cid:6)(cid:6)(cid:13)(cid:5)(cid:19)(cid:28)(cid:11)(cid:13)(cid:7)(cid:11)(cid:3)"(cid:25), (1985) 227 United States Patent Quarterly, 443.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+47
+
+the examiners on the point that obviousness of art disqualified the oyster for a patent, but it also
+
+declared that that patents could in principle be granted on living animals -- but not on human
+
+beings.79 The Board held that human beings fell outside the scope of patentability by reason of
+
+the 13th Amendment to the U.S. Constitution. Since the amendment outlawed slavery, it in
+
+effect prohibits one human being from holding a property right in another.
+
+Following (cid:9)(cid:10)(cid:11)(cid:31)(cid:3)(cid:5)(cid:7)(cid:13)(cid:11)!""(cid:13)(cid:21), the patent examiners had no problem granting Leder and
+
+Stewart’s claim. And in April 1988, a U.S. patent was awarded to Harvard University on any
+
+non-human mammal transgenically engineered to incorporate in its genome an oncogene tied to
+
+a specific promoter.
+
+# (cid:2)(cid:26)(cid:6)(cid:17)(cid:4)!(cid:5)(cid:2)(cid:12)(cid:14)(cid:19)(cid:2)(cid:26)!(cid:7)(cid:14)(cid:7)(cid:23)(cid:4)!(cid:5)
+
+The grant of patents on animals provoked a flood of ethical and economic objections to
+
+the patenting of life, expanding on those that Jeremy Rifkin and the People’s Business
+
+Commission (which had by now turned into the Foundation on Economic Trends) had raised
+
+during the (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8) case. In 1984, still determined to defend the integrity of living creatures,
+
+Rifkin filed suit in federal district court to halt the experiments with pigs under way at
+
+Beltsville. Declaring them "morally reprehensible," Rifkin said it was "shocking that the U.S.
+
+government would condone the introduction of human genes into an animal.80 The suit failed,
+
+but the (cid:9)(cid:10)(cid:11)(cid:12)(cid:3)(cid:5)(cid:7)(cid:13)(cid:11)!""(cid:13)(cid:21) ruling in 1987 induced further outcries from Rifkin. And opposition to
+
+79 (cid:9)(cid:10)(cid:11)(cid:12)(cid:3)(cid:5)(cid:7)(cid:13)(cid:11)!""(cid:13)(cid:21), USPQ, (1987), 1425.
+80 Christine Russell, "USDA Using Human Gene in Effort to Grow Super Livestock," Washington Post, Oct. 1,
+1984, p. 1; Boyce Rensberger, "Scientists Hail Gene Transfers as Promising," (cid:15)(cid:6)(cid:15)(cid:19)., Nov. 20, 1984, p. 1
+
+                                                
+48
+
+Kevles, Patenting Life: 12 January 2002
+
+transgenic research with higher animals gained leverage when about the same time reports were
+
+published in the American and Canadian press about the Beltsville experiments, including the
+
+health problems of the pigs.81
+
+In mid-May 1987, Senator Mark Hatfield of Oregon, who sympathized with the animal
+
+rights movement, urged the commissioner of patents and trademarks to impose a moratorium on
+
+the processing of animal patent claims until congress could develop a policy on the issue. He
+
+also got the Senate to pass a two-month moratorium as an amendment to an appropriations
+
+bill.82 In the House, Congressman Robert Kastenmeier, of Wisconsin, chairman of the House
+
+Judiciary Subcommittee that dealt with patents, attempted to come to grips with the issue by
+
+holding hearings on animal patents in mid-1987 and again in September 1989.83
+
+Kastenmeier, a left-of-center Democrat, was thoughtful and forthright, his judgments
+
+well considered, his approach to issues “cerebral,” as one of his staff put it. He had been
+
+wondering since the advent of recombinant DNA in the early 1970s whether genetic
+
+engineering comprised a wonderful advance or raised a terrible specter. He believed that
+
+Americans were divided about the issue; the closeness of the Supreme Court’s ruling in the
+
+Chakrabarty case was indicative of the division. He appreciated the social activists’ worries
+
+about animal patenting, taking the reports of "new varieties of pig, rust colored and large" as
+
+81 Jones, "Biotechnology, In Search of a More Perfect Pig"; "Genetic Tests Open Scary World of Super
+Species"; Saltus, "Era of ’Designer Animals’ Looms."
+
+82New York Times, May 15, 1987, p.9; HJSH, 1987, p.2.
+
+83HJSH, 1987; U.S. Congress, House, Hearings before the Subcommittee on Courts, Civil Liberties, and the
+Administration of Justice, Committee on the Judiciary, Transgenic Animal Patent Reform Act of 1989, 100th
+Cong.,  1st Sess., Sept. 13 and 14, 1989 (hereafter, HJSH, 1989).
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+49
+
+reason enough to concern "those who do not wish to see animals mistreated or monster forms
+
+created." He was also sensitive to the economic implications of animal patenting.84 His
+
+congressional district included farming communities, the University of Wisconsin, and the
+
+agricultural biotechnology firms that were growing up around it.
+
+Kastenmeier doubted the adequacy of (cid:9)(cid:10)(cid:11)(cid:12)(cid:3)(cid:5)(cid:7)(cid:13)(cid:11)!""(cid:13)(cid:21)’s prohibition against patents on
+
+human beings: Did it extend to human organs, genes, or other parts? He doubted, too, that the
+
+answers to such questions should be left entirely to the commissioner of patents. He thought that
+
+the extension of patent protection to higher organisms constituted a "quantum leap," one that the
+
+patent office had been high-handed in making. In his view, the Constitution gives power in
+
+determining the scope of patents to the Congress, and Congress ought to exercise it. Amid the
+
+controversy (cid:9)(cid:10)(cid:11)(cid:12)(cid:3)(cid:5)(cid:7)(cid:13)(cid:11)Allen had aroused, he considered it imperative to probe the merits of
+
+animal patents before the issuance of such patents turned into a policy that was both broad and
+
+irreversible.85
+
+The proposed moratorium on the issuance of animal patents drew support from animal
+
+rights activists, clerics, and environmental-minded critics of animal patents. At the hearings,
+
+John Hoyt, the president of the Humane Society of the United States, attacked animal patents on
+
+both pragmatic and principled grounds. Such patents provided incentives for the kind of genetic
+
+engineering that produced the suffering of the pigs at Beltsville. They reflected "a human
+
+84Author’s interviews with Robert Kastenmeier, July 22, 1987, October 10, 1991 (hereafter, Kastenmeier
+interviews); Kastenmeier's observation appeared in the transcript of HJSH, June 11, 1987, pp. 3-4, subcomittee
+files, though not in the published version of the proceeding.
+
+85 Kastenmeier interviews.
+
+                                                
+50
+
+Kevles, Patenting Life: 12 January 2002
+
+arrogance towards other living creatures" that denied "the inherent sanctity of every unique
+
+being and the . . . ecological and spiritual inter-connectedness of all life." They also suggested
+
+"that animals have no inherent value other than that which serves the end of human beings." 86
+
+In the view of a Lutheran bishop, genetic engineering as such was morally dubious and so was
+
+the reduction of life to mere material objects.  John Barnes, a veterinarian representing the
+
+Alliance for Animals and the Federated Humane Society of Wisconsin, wondered whether the
+
+genetic engineering of animals might produce "a Frankenstein effect," unleashing a dangerous
+
+creature that might "inadvertently escape from laboratory isolation . . . and threaten life on
+
+earth."  Barnes claimed that animal patenting would "compromise the integrity of animal
+
+species and ultimately lead to the control of life forms by a few multinational corporations."87 
+
+Congressman Charles Rose, of North Carolina, whose wife was an enthusiast of animal
+
+rights, appeared as a witness to warn that scientists were "playing God" by putting human genes
+
+into animals. "What would happen to the rodent community in America if [rats with human
+
+growth genes] got loose in our society?" Rose was unwilling "to let the market place determine
+
+the future of the animal kingdom." Neither was Congressman Benjamin Cardin, of Maryland, a
+
+member of the subcommittee. He wondered whether the patent office would have any trouble
+
+dealing with a two-headed animal -- part dog, part cat -- that was claimed "as a useful invention
+
+. . . for a sideshow and circus. There might be great demand for such a creature because of
+
+86HJSH, 1987, transcript, pp. 55-56; HJSH, 1989, pp. 108-9, 115.
+
+87 Bishop Schumacher, HJSH, 1987, pp. 345-46, 351-52.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+51
+
+"a lack of good freaks today," he noted. Cardin figured, with obvious disapproval, that in light
+
+of (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:3)(cid:9)(cid:10)(cid:10)(cid:8)(cid:11) the patent office would have no problem granting a patent on it.88
+
+Some farm spokespeople chimed in with ethical and environmental objections to animal
+
+patenting. Gervase Heffner, of the National Farmers Organization in Wisconsin, said he was
+
+"real concerned" about how in, say, fifteen years, would farmers "market that hog using human
+
+growth hormones? Where is that going to fit in the showcase in a store?" He declared that if one
+
+of those experimental pigs was "put out into the market, I would stop eating pork."89 But for all
+
+the grandiloquent and homely posturing that the ethical issues stimulated, far greater attention in
+
+the hearings went to the potential economic consequences of animal patents on farming.
+
+Spokespersons for small farmers warned that the consequences would be
+
+disadvantageous to family farmers. Among them was Stewart Huber, representing the
+
+Wisconsin Farmers’ Union, who leveled multiple complaints against animal patenting. Much of
+
+the research that undergirded the creation of potentially patentable animals had been paid for by
+
+the public; yet private corporations would, for the period of the patent, be gaining a monopoly
+
+property right in the genetically engineered animal, forcing consumers to pay twice for the same
+
+product. Allowing patents on genetically engineered animals would "shift the profit motive for
+
+livestock improvement from the family farmers, who have used the classical breeding practices
+
+over the years, to the giant corporations which have the resources to use  . . . DNA research for
+
+88 HJSH, 1987, pp. 110-111, 31-32.
+
+89 Ibid., p. 313.  See also the testimony of Debra Shwarze, of the Wisconsin Family Farm Defense Fund, Inc,
+who emphasized the broad range of environmental, ethical, food safety, and animal health issues raised by
+biotechnology, ibid.,  pp. 329-33.
+
+                                                
+52
+
+Kevles, Patenting Life: 12 January 2002
+
+their own benefit." The process would have "a chilling effect on traditional family lifestyle
+
+farms," speed vertical integration in farming, and make "individual farmers . . . wards of Wall
+
+Street in the biotechnology establishments." And dealing with the progeny of patented animals
+
+would pose legal and financial burdens that would be both impractical and unjust. "Farmer-to-
+
+farmer livestock sales . . . could be construed to infringe on corporate patent rights, making the
+
+farmer subject to civil prosecution every time an animal was sold."90
+
+What bothered small farmers did not, however, worry agribusiness. James Terrell, of the
+
+American Farm Bureau Federation (AFBF), told Kastenmeier’s subcommittee that the
+
+Federation did not consider the ethical concerns important and that they should not be allowed
+
+to interfere with the incentives that patents provided for the engineering of better farm animals.
+
+He added that the AFBF did recognize that the disposition of rights in the progeny of the
+
+animals might pose problems but that they were not insuperable. The Federation, he stressed,
+
+did not fear monopoly pricing of prize animals. If producers regarded the patented animal as
+
+sufficiently valuable, they would pay for it; if not, not.91
+
+Strong defenses of animal patenting came from other agribusiness witnesses as well as
+
+from academic scientists, and the biotechnology industry. They stressed that new farm
+
+technologies were essential to feed the world’s growing population and were indispensable to
+
+90 HJSH, 1987, pp. 307-9. See also the testimony of Tom Saunders, Wisconsin Farm Unity Alliance, who
+declared, "Thousands of Wisconsin registered breeders, who have invested decades in building the genetic base
+of their cattle, will find the value of their registered herd eroded by the development of new super-registered
+patented livestock. For many farmers, the extra income from the sale of breeding stock is the difference between
+keeping and losing our farm." Ibid.,  pp. 321-24.
+
+91 HJSH, 1987, pp. 124-27.
+
+ 
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+53
+
+American farmers in competing in the international market. Noting that the Japanese were
+
+taking steps to encourage their biotechnology industry, they warned that the United States had to
+
+guard against losing its biotechnological edge to Japan as it had done in microelectronics.
+
+Practicing scientists pointed out that patents were preferable to trade secrets because they
+
+compelled the patent holder to disclose the details of the protected innovation, thus giving
+
+others the opportunity to improve upon it. Philip Leder explained the significance of Harvard’s
+
+oncomouse for understanding breast cancer, suggesting that animal patents were necessary to
+
+attract industrial investment to advanced medical research that relied on animal models for
+
+developing diagnostics, therapies, and cures for human disease.92
+
+The key witnesses for academic and industrial biotechnology were Tom Wagner,
+
+Winston Brill, and Richard D. Godown. Wagner, a descendant of five generations of Ohio
+
+farmers, was the director of the Edison Animal Biotechnology Center, a state-supported
+
+consortium at Ohio University, his home institution in Athens. Brill, a biologist, was vice
+
+president for research and development of the Agracetus Corporation, a biotechnology firm
+
+concerned with agriculture. Godown was president of the Industrial Biotechnology Association.
+
+They all adamantly opposed a moratorium on animal patenting and, to that end, vigorously
+
+contested the chief ethical and economic objections that had been raised against the practice.
+
+Brill insisted that "monster animals . . . will not result from this technology." Any
+
+organism’s genes comprised a finely tuned ensemble. One could not "take genes from a chicken
+
+and add them to a cow’s chromosome and get a cow that lays eggs." 
+
+92 HJSH, 1987 pp. 114-35, 208-58, 320, 350; HJSH, 1989, pp. 1193-202.
+
+ 
+                                                
+54
+
+Kevles, Patenting Life: 12 January 2002
+
+Godown dismissed as "ridiculous" the Frankenstein scenarios that had been appearing in parts
+
+of the press -- for example, the myth that "genetic engineers are trying to develop some sort of
+
+humanoid slave containing the genes of humans and chimpanzees." Wagner contended that
+
+genetically engineered animals posed no threat to the environment. Farmers were likely to keep
+
+them penned up and to retrieve any that did escape. Besides, animals, he explained, don’t "infect
+
+other animals [genetically] or humans except in sexual reproduction within their own species. A
+
+lot of us eat pork chops, a very few of us oink.  [Pigs] cannot impart their genetic material to
+
+anything other than pigs."93
+
+All three argued that genetic engineering, rather than increase animal suffering, would in
+
+fact reduce it. The outcomes of conventional breeding were unpredictable because they joined in
+
+one animal half of each parent’s genes. The process, Brill pointed out, could yield progeny that
+
+were "healthy or unhealthy, large or small, commercially interesting or not." Genetic
+
+engineering, in contrast, involved adding just one or at the most several genes to an animal’s
+
+native complement. It was thus "more specific, more predictable and faster than breeding" Brill
+
+said, implying that it was on the whole more humane, too. Wagner noted that agricultural
+
+animals had been modified from the wild type by breeding over 10,000 years. "Anyone who
+
+believes [that] the chickens in Frank Perdue’s chicken houses are living in a natural ecosystem is
+
+simply unrealistic, " he said, adding that genetic engineering could make farm animals resistant
+
+to the diseases that afflicted them in their synthetic environments.94
+
+93HJSH, 1987, pp. 218, 38, 259.
+
+94Ibid.,  pp. 218-19, 38.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+55
+
+Wagner claimed that patented animals would help rather than hurt the small family
+
+farmer. The prime breeding stock of the chicken industry were hybrids whose characteristics
+
+were trade secrets held by just a handful of breeding firms that operated in closed arrangements
+
+with an equally small number of producers. Wagner warned that if genetically engineered
+
+animals were not patented, similar secrecy would prevail among their developers; they would
+
+make "exclusive arrangement with vertical integrators," and "we will see a concentration of
+
+agriculture in the way chickens have been concentrated." Godown added that genetically
+
+engineered animals would "enable farmers to produce leaner beef . . . at lower cost . . . an
+
+advantage in anybody’s language."95
+
+Kastenmeier was convinced by much of the defense of animal patents. He expected that
+
+genetic engineering of animals would proceed with or without the encouragement of the patent
+
+system. A moratorium would only set a bad precedent and irritate the patent community without
+
+achieving any good purpose. Besides, he was convinced that patents were superior to trade
+
+secrets, and he thought that even opponents of animal patents would prefer openness to secrecy
+
+in agricultural research and development.96
+
+He also felt that while many of the ethical issues raised by the witnesses were legitimate,
+
+they did not fall within the realm of patent policy. In the United States, patent policy was literally
+
+amoral; it dealt only with the establishment and scope of property rights in innovations. It excluded
+
+others from making, using, or selling the property, but it did not by fundamental statute
+
+95Ibid.(cid:28)(cid:11) 1987, pp. 39, 259. See also Glenn E. Bugos, "Intellectual Property Protection in the American Chicken-
+Breeding Industry," #(cid:18)(cid:17)(cid:15)(cid:21)(cid:13)(cid:17)(cid:17)(cid:11) (cid:15)(cid:17)(cid:7)(cid:20)(cid:5)(cid:8)(cid:11)$(cid:13)(cid:24)(cid:15)(cid:13)%, 66(Spring 1992), 127-168.
+96Kastenmeier interviews.
+
+                                                
+56
+
+Kevles, Patenting Life: 12 January 2002
+
+categorically exclude any invention from patentability.97 Kastenmeier believed that issues such as
+
+whether the genetic engineering of animals might unduly foster animal suffering were within the
+
+regulatory powers of congress but not within the jurisdiction of his subcommittee.98
+
+He was certain that the issue of patents on human beings did fall within it and he
+
+remained convinced that Congress needed to address it now rather than later. In keeping with
+
+his concern for both agriculture and the nascent biotechnology industry, he hoped to strike a
+
+balance between the creators and the users of animal patents. He repeatedly pressed witnesses
+
+for their views on a "farmer’s exemption" -- whereby farmers could do what they wished with
+
+the offspring of patented animals, including selling them without paying a fee to the patent
+
+owner. Michael Ostrach, a senior official with the Cetus Corporation, a biotechnology company
+
+that had formed Agracetus, strongly objected. A farmer’s exemption, he predicted, would only
+
+lead patent holders to charge farmers a higher price for the animal, thus making it very
+
+expensive.99 In 1988, Kastenmeier nevertheless produced a bill that would exempt farmers from
+
+any restraint, including the restraint of royalty payments, on what they did with the progeny of
+
+their patented animals. It declared explicitly that human beings could not be patented. The bill
+
+passed the House, but it was not taken up in the Senate before the end of Congress.100
+
+97 In contrast, Article 53 (a) of the European Patent Convention -- which was established in 1962 and governs the
+national patent systems of its adhering nations -- prohibits patents on any invention that is contrary to public
+order or morality.  When Harvard University applied for a patent on its oncomouse, it had to demonstrate that
+the creation of Leder and Stewart did not violate the article. See Daniel J. Kevles,  “Of Mice and Money:  The
+Story of the World’s First Animal Patent,” Daedalus(cid:28) forthcoming, 2002
+98 Kastenmeier interviews.
+
+99 HJSH, 1987, p. 296.
+
+100 The bill was H.R. 4970. U.S. Congress, House, Congressional Record, Sept. 13, 1988, pp. H7436-H7438.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+57
+
+Kastenmeier attempted to advance another bill on the subject in 1990 but failed; and
+
+defeated in the 1990 primary election, he was thereafter unable to push the issue. Since then,
+
+Congress has generally ignored the issue of animal patents. One reason is the force of the
+
+biotechnology complex in the political economy of intellectual property, but another is that the
+
+genetic engineering of animals has not fulfilled expectations, either in improving agricultural
+
+animals or in turning them into factories for molecular farming.101 Only about 25 animal patents
+
+have been granted in the United States, most of them on laboratory mice and rats. [need to
+
+check this] However, if and when the genetic engineering of animals becomes scientifically
+
+achievable enough to figure in the political economy of agriculture, animal patenting may once
+
+again find a place on the public agenda.
+
+#(cid:31) (cid:2)(cid:26)(cid:6)(cid:17)(cid:4)!(cid:5)(cid:2)(cid:12)(cid:14)(cid:19)(cid:2)(cid:26)(cid:27)(cid:8)(cid:7)(cid:24)(cid:13)
+
+In contrast, the European Patent Convention -- which was established in 1962 and
+
+governs the national patent systems of its adhering nations -- specifically excludes two types of
+
+inventions from eligibility for patents. Article 53(a) prohibits patents on any invention that is
+
+contrary to public order or morality. And Article 53(b) prohibits them on plant or animal
+
+varieties, or anything produced by a natural biological process, except for microbiological
+
+products. Article 53(a) seems to have its roots in Roman law. Article 53(b) was adopted to
+
+prevent interference with the international system for the protection of breeder’s rights -- it is
+
+known acronymically as UPOV and was created in 1961 -- in new varieties of plants. At the
+
+101"Biotechnology Venture Hits Unexpected Snags," New York Times, Nov. 23, 2001, p. C5.
+
+                                                
+58
+
+Kevles, Patenting Life: 12 January 2002
+
+time of the creation of UPOV, the extension of the exclusion to animal varieties was
+
+undoubtedly an afterthought.
+
+However, both articles were brought into play when the European Patent Office (EPO),
+
+which administers the convention and which is headquartered in Munich, came to take up
+
+Harvard University’s application, filed in 1984, for a European patent on its oncomouse. Ruling
+
+in June 1989, the EPO found that oncomouse did not violate the public-order-and-morality
+
+clause of the convention, but it rejected Harvard’s application on grounds that the mouse did
+
+violate Article 53(b).  In the view of the EPO examiners, oncomouse was a new variety of
+
+animal, the product of a natural biological process, and, hence, ineligible for a patent under the
+
+convention.102
+
+Harvard quickly appealed the rejection, insisting that its mouse was not a new variety
+
+but a new type of animal that transcended varietal classification, and that it was not a natural
+
+biological product but -- echoing Chakrabarty’s claim -- a biological entity made by man. The
+
+appeal provoked an unprecedented degree of third-party filings. (Under the European Patent
+
+Convention, interested third parties can file comments for or against pending applications and
+
+appeals, an option that is unavailable in the American patent process.)  Many of the filings were
+
+identical, the products of organized opposition to animal patenting in Europe from public-
+
+interest organizations concerned with animal rights, Third World agriculture, and environmental
+
+issues. The dissent mobilized by these public-interest groups appears to have been centered in
+
+England, where animal welfare groups are powerful, and in Germany, where opposition to
+
+102 European Patent Office, Press Release No. 10/89, “EPO Refuses Patent Application for Oncogenic Mouse.”
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+59
+
+genetic engineering and Greenish concern with environmental protection are vigorous. The
+
+arguments raised by these groups closely resembled those advanced in the United States against
+
+animal patenting. However, the European agricultural community appears to have been more
+
+profoundly split on patents for plants and animals than its American counterpart, with
+
+considerable opposition coming from countries where small-scale agriculture (as distinct from
+
+agribusiness) continues to flourish -- for example, Denmark.
+
+The third-party filings evidently contributed significantly to the decision of the appeals
+
+board, which in 1990 returned the Harvard application to the original examiners for
+
+reconsideration. The appeals board, agreeing with Harvard, declared that the rejection on
+
+grounds of Article 53(b) was without merit, but it held that the examiners had to review the
+
+application against Article 53(a), the morality clause. Part of what the examiners were
+
+compelled to reconsider were issues raised by the third-party filings, particularly whether a
+
+patent on oncomouse would lead to animal suffering (mice with cancer) and environmental
+
+danger (their spreading of oncogenes into the natural mouse population if they were to escape).
+
+However, the appeals board also instructed the examiners to weigh those matters against the
+
+likely benefit to human beings that might arise from research with oncomice.103
+
+Harvard’s lawyers in Europe contended that the mice would, of course, contribute to the
+
+battle against cancer, making them distinctly beneficial to human beings. They also argued that,
+
+since the mice were super-susceptible to the contraction of cancer, fewer of them would be
+
+required to test for carcinogens and, thus, fewer mice would suffer in such testing. Finally, they
+
+103 European Patent Office, “Decision of the Technical Board of Appeal 3.3.2 of 3 October 1990.”
+
+                                                
+60
+
+Kevles, Patenting Life: 12 January 2002
+
+pointed out that the mice posed only a minute environmental risk, because they were to be
+
+confined to the laboratory rather than released into the wild; and while unintended release might
+
+occur, the danger was surely not a matter for the patent system but for the agencies concerned
+
+with the control of hazardous materials.104
+
+The Harvard lawyers’ arguments persuaded the European Patent Office, which
+
+incorporated them in a ruling, issued in October 1991, indicating that a patent on the mouse
+
+could and would likely be granted.105  Under the terms of the convention, the ruling was liable
+
+to still further third-party objections; the comment period closed in February 1993, having
+
+drawn many more inches of dissent, most of it advancing the same arguments and coming from
+
+roughly the same sources as in the first round.
+
+The third-party dissidents did not prevail, just as the opponents to animal patenting have
+
+not prevailed in the United States. However, even though American patent law continues to be
+
+literally amoral, anyone seeking a patent on a living organism in Europe will have to satisfy the
+
+requirements of Article 53(a). In the globalizing political economy of biotechnology, American
+
+innovators were on notice that in Europe they had to attend to the ethical features of their
+
+innovations.
+
+104 “European Patent Application No. 86 304490.7, President and Fellows of Harvard College, Response to the
+Official Letter of 11th December 1990. . . .”
+
+105 European Patent Office, Press Release 3/92, “European Patent for Harvard’s Transgenic Mouse.”
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+61
+
+#(cid:31)(cid:31) (cid:2)(cid:26)!(cid:17)(cid:7)(cid:13)(cid:5)(cid:2)(cid:4)(cid:14)(cid:2)(cid:22)(cid:12)(cid:14)(cid:12)(cid:19)(cid:12)(cid:20)(cid:19)(cid:25)
+
+What they had to do in Canada was much less clear.  Living micro-organisms first
+
+became an issue in the Canadian patent system about the same time as in the United States. But
+
+while they were held to be patentable shortly after the (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8) decision, in sharp contrast to
+
+the course of events in the United States, neither the Canadian Patent Office nor Courts
+
+proceeded rapidly to extend patentability to higher organisms.
+
+(cid:12)(cid:3)(cid:7)(cid:13)(cid:21)(cid:7)(cid:17)(cid:11)&(cid:20)(cid:5)(cid:11)’(cid:15)(cid:30)(cid:5)(cid:20)((cid:20)(cid:5))(cid:3)(cid:21)(cid:15)(cid:17)(cid:16)(cid:17)
+
+In 1976, the Abitibi Company of Toronto applied for a patent on a new mixed fungal yeast
+
+culture system.  Scientists at the University of Ontario, in Western Ontario, had developed the
+
+culture for the company to absorb foaming spent-sulfite liquor generated by its papermaking
+
+business. They had isolated fungi and subjected them to increasing concentrations of foaming
+
+sulfites (among other nutrients) in water.  The organisms that survived the sulfite were then
+
+subjected to increasing concentrations of foaming sulfite liquor in their culture media. 
+
+Eventually they obtained five mutated fungi that could consume the foaming effluent, thus
+
+clearing the waste stream of the contaminant. Abitibi’s patent application covered both the
+
+process of creating the mixed fungal yeast culture system and the product of the system -- that
+
+is, the yeast culture itself. The patent examiner allowed Abitibi’s process claims but rejected the
+
+claims on the microbial culture system on the grounds that living matter was not patentable
+
+subject matter under section 2 of the Canadian Patent Act. The Abitibi Company appealed the
+
+106 I am grateful to Kari Theobald for research assistance on patenting life in Canada.
+
+                                                
+62
+
+Kevles, Patenting Life: 12 January 2002
+
+rejection of its product claims to the Commissioner of Patents, who had it considered by a
+
+Patent Appeal Board.107 
+
+Section 2 of Canadian patent law authorized the grant of a patent on a new manufacture
+
+and "composition of matter." Similar to American patent law in its explicit content, it further
+
+resembled the United States patent code in that it said nothing about patents on living
+
+organisms. The Abitibi case thus posed challenges to Canadian patent law like that raised by
+
+Chakrabarty, whose application was then making its way through the U.S. Patent Office. By the
+
+time the Abitibi case reached the Appeal Board, the Chakrabarty case had been decided and was
+
+being widely publicized.  The Board noted that the Canadian prohibition on patenting living
+
+matter had been based on various precedents in the United Kingdom but that “the Chakrabarty
+
+decision casts doubt upon the correctness of that practice.”108 
+
+In 1982, two years after (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8), the Board recommended to the Commissioner that
+
+the terms "manufacture" and "composition of matter" included, the subject matter of Abitibi's
+
+application, declaring:
+
+All new life forms which are produced (cid:13)(cid:21)(cid:11)(cid:16)(cid:3)(cid:17)(cid:17)(cid:13)(cid:11)as chemical compounds and are
+
+prepared and formed in such large numbers that any measurable quantity will
+
+possess uniform properties and characteristics are patentable.  Patentable subject
+
+matter includes micro-organisms, yeasts, molds, fungi, bacteria, actinomycetes,
+
+unicellular algae, cell lines, viruses or protozoa.109
+
+107 $(cid:13)(cid:11)!(cid:31)(cid:31)"(cid:15)(cid:30)(cid:3)(cid:7)(cid:15)(cid:20)(cid:21)(cid:11)(cid:20)&(cid:11)!(cid:6)(cid:15)(cid:7)(cid:15)(cid:6)(cid:15)(cid:11)(cid:1)(cid:20)(cid:25)(cid:11)(1982), Canadian Patent Reporter (CPR), Vol.62, 2nd, p.81.
+108Ibid., p.87.
+
+109Ibid., p.82.
+
+ 
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+63
+
+The Board also proposed criteria for the patentability of living organisms: 
+
+The conditions of patentability of such subject matter are that the organism to
+
+be claimed, must not of course have existed previously in nature, for in that
+
+event the “inventor” did not create it, and his invention is old.  It must be useful,
+
+in the sense that it carries out some useful known objective. . . .  It must be
+
+sufficiently different from known species that it can be said that its creation
+
+involved the necessary element of inventive ingenuity.110
+
+The Board's recommendation was evidently influenced not only by legal logic but by
+
+considerations of political economy, particularly international competition in biotechnology. It
+
+noted that cases in Australia, Germany and Japan seemed to point to the patentability of living
+
+matter, observing, “Throughout the world various judicial bodies, without changes in
+
+legislation, have gradually altered their interpretation of statutory subject-matter to adapt it to
+
+new developments on technologies, and current concepts of industrial activity.”111  The
+
+Commissioner of Patents accepted the Board’s recommendations. Thus, responding to the
+
+changing legal and competitive environment in the world, Canada granted patent no. 1,131,371:
+
+*(cid:20)(cid:3)(cid:16)(cid:11)!(cid:30)(cid:7)(cid:15)(cid:24)(cid:3)(cid:7)(cid:13)(cid:19)(cid:11)(cid:29)"(cid:18)(cid:19))(cid:13)(cid:11)(cid:12)(cid:5)(cid:20)(cid:30)(cid:13)(cid:17)(cid:17) to the Abitibi Company, the nation's first patent on living
+
+matter.
+
+110Ibid.
+
+111 Ibid.,  p.88.
+
+                                                
+64
+
+Kevles, Patenting Life: 12 January 2002
+
+(cid:12)(cid:3)(cid:7)(cid:13)(cid:21)(cid:7)(cid:17)(cid:11)(cid:20)(cid:21)(cid:11)(cid:12)"(cid:3)(cid:21)(cid:7)(cid:17)
+
+While the Abitibi decision dealt only with micro-organisms, the Board was well aware
+
+that its decision raised implications for the patentability of higher life forms. Acknowledging
+
+that the issue was debatable, the Board nevertheless suggested that such life forms were
+
+patentable by reason of legal logic:
+
+If an inventor creates a new and unobvious insect which did not exist before
+
+(and thus is not a product of nature) and can recreate it uniformly and at will, and
+
+it is useful (for example to destroy the spruce bud worm), then it is every bit as
+
+much a tool of man as a micro-organism.  With still higher life forms it is of
+
+course  less  likely  that  the  inventor  will  be  able  to  reproduce  it  at  will  and
+
+consistently, as more complex life forms tend to vary more from individual to
+
+individual.  But if it eventually becomes possible to achieve such a result, and
+
+the other requirements of patentability are met, we do not see why it should be
+
+treated differently.112
+
+So far as the CPO was concerned, multicellular organisms %(cid:13)(cid:5)(cid:13) be treated differently. It
+
+did not subscribe to the doctrine set forth by the U.S. Congress in 1952 that "anything under the
+
+sun" qualifies as patentable subject matter.  Apparently after the Abitibi decision, the CPO
+
+modified its ’(cid:3)(cid:21)(cid:18)(cid:3)"(cid:11)(cid:20)&(cid:11)(cid:12)(cid:3)(cid:7)(cid:13)(cid:21)(cid:7)(cid:11)(cid:22)&&(cid:15)(cid:30)(cid:13)(cid:11)(cid:12)(cid:5)(cid:3)(cid:30)(cid:7)(cid:15)(cid:30)(cid:13) (MOPOP) chapter on “Utility and Non-Statutory
+
+Subject Matter" to state: “Plants and animals are not patentable subject matter.  Seeds are also
+
+non-patentable, however, a coated seed may be patentable if the invention resides in the coating
+
+112Ibid. pp. 89-90.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+65
+
+given to the seed provided that the life process of the seed has not been altered and there is no
+
+new living matter.”113 
+
+A key test of the CPO's position on plants came in 1983, when Pioneer Hi-Bred, a
+
+Canadian subsidiary of Pioneer Hi-Bred International, in Des Moines, Iowa, applied for a patent
+
+on a new soybean variety, designated “Soybean Variety 0877.”114  A product of the research
+
+branch of the parent company, the new variety, had been devised using traditional cross-
+
+breeding techniques among three known varieties. The inventors claimed that it was the result
+
+of human intervention, did not occur in nature, and that it incorporated utilities such as high oil
+
+content, early maturity, stable high yields, resistance to seed shattering, and resistance to root rot
+
+caused by a fungus.(cid:11)At the time, Canada provided no intellectual property protection for new
+
+varieties of plants. Pioneer Hi-Bred believed its invention merited such protection in part
+
+because of the implications of the Abitibi case and (cid:23)(cid:15)(cid:3)(cid:16)(cid:20)(cid:21)(cid:19)(cid:11)(cid:24)(cid:25)(cid:11)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8) for patent coverage
+
+of higher organisms.115
+
+The examiner at the Canadian Patent Office (CPO) rejected Pioneer’s claims on grounds
+
+that its policy manual held unpatentable both the processes for creating new varieties of plants
+
+113 Canadian Intellectual Property Office, "Chapter 16: Utility and Non-Statutory Subject Matter, section 16.04
+Examples of Non-Statutory Subject Matter," Manual of Patent Office Practice[only available online at
+http://strategis.ic.gc.ca/sc_mrksv/cipo/patents/mopop/mopop_dnld-e.html, 1996].
+
+114 Pioneer Hi-Bred International, Inc., founded in 1926, is now the world’s leading agricultural genetics
+company operating in more than 120 countries worldwide.  See the company’s website at
+http://www.pioneer.com/canada/
+115 $(cid:13)(cid:11)!(cid:31)(cid:31)"(cid:15)(cid:30)(cid:3)(cid:7)(cid:15)(cid:20)(cid:21)(cid:11)&(cid:20)(cid:5)(cid:11)(cid:12)(cid:3)(cid:7)(cid:13)(cid:21)(cid:7)(cid:11)(cid:20)&(cid:11)(cid:12)(cid:15)(cid:20)(cid:21)(cid:13)(cid:13)(cid:5)(cid:11) (cid:15)(#(cid:5)(cid:13)(cid:19)(cid:11)(cid:14)(cid:7)(cid:19)(cid:25) (1986), 11.CPR (3d) 311 (Patent.App.Bd.), p.313.  For
+further features of the soybean, see p.314;  Ken MacQueen,  “Soybean patent case goes to top court,” The
+Vancouver Sun, May 9, 1988, p.C2; Danyl M. Stotland,  “Is Biotechnology Patentable in Canada," Canadian
+Intellectual Property Review ,9(1991), p.1-24.
+
+                                                
+66
+
+Kevles, Patenting Life: 12 January 2002
+
+and animals as well as the new varieties themselves.116 Pioneer Hi-Bred appealed the ruling
+
+through the CPO, contending that the policy should be changed "in the light of the wording of
+
+the (cid:12)(cid:3)(cid:7)(cid:13)(cid:21)(cid:7)(cid:11)!(cid:30)(cid:7)(cid:11)and developments in the law."117
+
+A Patent Appeal Board appointed by the Commissioner of Patents reviewed the matter
+
+and, on March 4, 1986, the Commissioner, accepting the Board’s recommendations, upheld the
+
+examiner's decision. He rested the ruling on the tenor of precedent in the Canadian courts rather
+
+than on the implications of the Abitibi case as the Appeal Board had earlier spelled them out. 
+
+According to the Commissioner: The Canadian courts, differing from their counterparts in the
+
+United States, had tended to circumscribe rather than broaden the wording of section 2 "by
+
+holdings that have excluded some subject-matter areas and human activities from patentability."
+
+Furthermore, the Canadian court decisions overpowered the Abitibi ruling, which strictly
+
+speaking covered only microorganisms, not higher life forms. The Commissioner also held that
+
+the processes used by Pioneer Hi-Bred in creating its soybean were traditional, commonly used
+
+breeding methods; and that as such, they were not patentable under Canadian law.118
+
+Pioneer appealed its case to the Federal Court of Appeal, thus bringing the issue of the
+
+patenting of higher life forms to the Canadian courts for the first time. Ruling on March 11,
+
+1987, the Court upheld the Commissioner of Patents decision to reject Pioneer Hi-Bred's claims.
+
+The Court was unconvinced that the terms "manufacture" and "composition of matter" applied
+
+to a plant variety produced by cross-breeding: "Such a plant cannot really be said, other than on
+
+116 Re Application for Patent of Pioneer Hi-Bred Ltd. (1986), p.313.
+
+117 Ibid.
+118Ibid(cid:25), p.313, 315, 318-20.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+67
+
+the most metaphorical level, to have been produced from raw materials or to be a combination
+
+of two or more substances united by chemical or mechanical means." 119
+
+The Court also found that Pioneer Hi-Bred’s application failed to satisfy the disclosure
+
+and reproducibility requirements of Canadian patent law. According to those requirements, the
+
+method of producing a patentable product had to be described in sufficient detail so that a
+
+person skilled in the art could reproduce it.120  In the view of the Court, the processes employed
+
+by Pioneer Hi-Bred in breeding its new soybean variety "involved a ’degree of luck’, ’an element
+
+of good fortune.’  It follows that even a complete and accurate disclosure by the appellant of
+
+everything that the alleged inventor did to develop the new plant would not enable others to
+
+obtain the same results unless they, by chance, would benefit from the same good fortune.121 
+
+Pioneer Hi-Bred then took its case to the Supreme Court of Canada, which on June 22,
+
+1989, unanimously upheld the decision of the Federal Court of Appeal. The justices agreed with
+
+the Appeal Court that the company had failed to meet the disclosure and reproducibility
+
+requirements of the law. Calling that inadequacy sufficient to reject Pioneer Hi-Bred’s claim,
+
+they declined to rule on whether a plant was patentable under Section 2.122
+
+The Federal Appeal Court had questioned the Patent Commissioner’s implicit claim of
+
+authority -- contrary to that of his counterparts in the United States and England -- "to establish
+
+limits to patentability other than those expressly or impliedly defined by Parliament." Here the
+
+119Ibid., p.495-96.
+
+120 Canadian Patent Act, s.36 (1)
+
+121 Pioneer Hi-Bred Ltd. v. Commissioner of Patents (1987), p.492-493.
+
+122Ibid., p.265.
+
+                                                
+68
+
+Kevles, Patenting Life: 12 January 2002
+
+Court evidently alluded to the fact that the CPO’s longstanding policy of holding living matter
+
+unpatentable because the Canadian Parliament had not explicitly made it patentable.123 The
+
+Appeal Court’s observation had clearly left open the possibility that higher life forms might be
+
+patentable. The Supreme Court’s sidestepping of the issue reinforced the fact that the issue
+
+remained outstanding. However, the decision of both courts to uphold the Patent Commissioner
+
+on his reasons for denying Pioneer Hi-Bred its patent left the patentability of higher life forms in
+
+a murky state, with ammunition for disputants on both sides of the issue.
+
++(cid:2)(cid:13)(cid:11) (cid:3)(cid:5)(cid:24)(cid:3)(cid:5)(cid:19)(cid:11)’(cid:20)(cid:18)(cid:17)(cid:13)
+
+On June 21, 1985, Harvard University filed for a Canadian patent on the oncomouse that
+
+Leder and Stewart had engineered. On March 24th, 1993, the patent examiner granted patent
+
+protection to the oncogenetic construct that had been introduced into the mouse and to the
+
+processes used to create the mouse, but he refused it for the mouse itself.  The examiner cited
+
+the CPO’s policy manual and the decision of the Federal Court of Appeals in the Pioneer Hi-
+
+Bred case.124  Harvard soon requested a review of the examiner’s decision by the Commissioner
+
+of Patents. The Commissioner consulted with the Patent Appeal Board, which heard oral
+
+arguments on the case. On August 4, 1995, the Commissioner reaffirmed the examiner’s
+
+decision and dismissed Harvard’s application for a patent on Leder and Stewart's mouse. The
+
+Commissioner argued that the transgenic mouse was not an “invention” because, once the
+
+123Ibid., p.495-96.
+
+124In the Canadian Patent Office—The Decision of the Commissioner of Patents, Harvard Oncomouse case,
+August 4, 1995, p.2.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+69
+
+oncogene was inserted into the newly fertilized mouse egg, nature rather than the inventors
+
+controlled the creation of the whole animal. The inventors only ensured the reproduction of the
+
+oncogene. Unlike the Commissioner at the time of the Abitibi case, this Commissioner asserted
+
+that Canada need not take its cue on patent policy from the United States.125 
+
+Harvard thereupon appealed the matter to the Federal Court of Canada, Trial Division. 
+
+Contesting the substantive argument of the Patent Commissioner, Harvard’s lawyers argued that
+
+ the inventors had complete control over the oncogene, the animal’s innovative characteristic.
+
+Moreover, they contended that the oncomouse could be seen as both a “manufacture” (because
+
+the mouse is produced from hand labor and results in a new form) and as a “composition of
+
+matter” (because the mouse is produced by combining a gene with a fertilized mammalian
+
+egg).126
+
+On April 21, 1998, the trial court ruled against Harvard. The presiding judge held that
+
+being able to demonstrate the presence of the oncogene in the mouse did not constitute
+
+control of the mouse and that the insertion of the oncogene into the mouse zygote did not
+
+constitute invention of it. The mouse possessed numerous other characteristics independently
+
+of Leder and Stewart's manipulations. The judge also found that the reproduction of the
+
+oncogene from one generation to the next was attributable to the laws of nature, not the
+
+inventors. The mouse was not reproducible within the requirements of the law because it
+
+married human intervention with the laws of nature. "If someone skilled in the art wanted to
+
+125(cid:26)(cid:6)(cid:15)(cid:19).,  p.6-7.
+126 “Designer Mouse is not a Patentable Invention," Canadian Patent Trademark Newsletter, June 1998
+http://www.patentable.com/newsletters/jun98news.html
+
+                                                
+70
+
+Kevles, Patenting Life: 12 January 2002
+
+produce an oncomouse with the gene in a particular organ, he or she would only be able to do
+
+so if lucky," he contended.127
+
+Yet the judge was concerned not only with law but with the process for making it in an
+
+arena of patents that was ethically charged. He declared that “a complex life form does not fit
+
+within the current parameters of the Patent Act without stretching the meaning of the words to
+
+the breaking point, which I am not prepared to do.” He added that he was "not persuaded by the
+
+majority decision in Chakrabarty" and was "in complete agreement with the minority.”  He
+
+further noted that the ethical considerations involved in determining the patentability of higher
+
+life forms should be left to the legislators to decide: “[I]f Parliament so wishes, it clearly can
+
+alter the legislation so that mammals can be patented."128 
+
+Harvard then brought its case to the Federal Court of Appeal (FCA). The Canadian
+
+Environmental Law Association (CELA) requested and was granted status in the FCA
+
+proceedings as an intervener against Harvard's claims. The CELA raised various arguments that
+
+the Commissioner of Patents had not. One arose from the passage in 1991 of the Plant Breeders'
+
+Rights Act, a system of intellectual property protection for plants akin to that established in the
+
+United States by the Plant Variety Protection Act in 1970. 129  The CELA argued that the
+
+passage of the Act demonstrated that the products of plant breeding were not meant to be
+
+covered under the Patent Act, and by implication, that all other life forms that are the products
+
+127 President and Fellows of Harvard College (appellant) v. Commissioner of Patents (respondent), 1998,
+pp.289-291.
+128(cid:26)bid., pp.291-2.
+129 Plant Breeders’ Rights Legislation For Canada”, Canadian Intellectual Property Review, 1992, p.38-43.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+71
+
+of genetic engineering are similarly unpatentable. It contended in addition that since the
+
+Canadian Patent Act did not explicitly authorize the patenting of living matter, such matter was
+
+therefore not patentable under the Act. Finally, the CELA also advanced a number of arguments
+
+like those raised in the Kastenmeier hearings, pointing to adverse public-interest effects that
+
+might arise from patenting the products of biotechnology -- for example, hazards to the
+
+environment, to human health, and to animal welfare-- and to the sacrilege of commodifying
+
+life.130
+
+On August 3, 2000, the Appeal Court, overturning the Commissioner of Patents and the
+
+trial division court, decided by a majority of two to one that the Harvard oncomouse was indeed
+
+a patentable invention. The dissenting justice held that the patentability of inventions falls
+
+within the expertise of the Commissioner of Patents, that in denying Harvard a patent on a
+
+living mouse he had exercised his authority reasonably and in accord with law and precedent.
+
+Morevoer, given “the serious moral and ethical implications of this subject-matter, it seems that
+
+the Parliament is the most appropriate forum for the resolution of the dispute here.131
+
+Justice Marshall Rothstein crisply iterated the majority's reasons. Since the Canadian
+
+Patent Act was modeled on the U.S. statute and used the same broad language, the
+
+Chakrabarty decision should be persuasive to Canadian courts. The Patent Act did not
+
+exclude living organisms from eligibility for patents. Neither therefore should the Court.  The
+
+framers of the Patent Act could not have been expected to anticipate every future invention.
+
+130 President and Fellows of Harvard College (appellant) v. Commissioner of Patents (respondent), 2000, pp. 34-
+35.
+
+131Ibid., pp.3,7.
+
+                                                
+72
+
+Kevles, Patenting Life: 12 January 2002
+
+As to the CELA’s legal objections, in the United States, the majority in (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8) "found
+
+that a rule that would deny patent protection because an invention was unknown when the Act
+
+was passed would conflict with the core concept of patent law, that anticipation undermines
+
+patentability, and that broad general language was employed because inventions are often
+
+unforeseeable." Furthermore, nothing in the Canadian Plant Breeders’ Rights Act(cid:11)implied that
+
+living things are excluded from the definition of “invention” in the Patent Act provided they
+
+are the result of human ingenuity and are not solely a product of the laws of nature.132
+
+Judge Rothstein went on: The Canadian Supreme Court's decision in the Pioneer Hi-
+
+Bred soybean case was based on the issue of disclosure; it did not rule out the patentability of
+
+higher life forms.  Unlike the breeders of the new soybean variety, the Leder and Stewart had
+
+intervened in the mouse to change its genetic composition. The onocmouse could indeed be
+
+considered a new “composition of matter” comprising the combination of the oncogene (a
+
+physical substance) and the fertilized egg (a biological matter).  Besides, if lower life forms
+
+were compositions of matter, so too were higher life forms. The Commissioner of Patents and
+
+the trial court had given too much weight to the question whether the oncomouse was a product
+
+of human intervention or of nature.  “The use of the laws of nature by inventors does not
+
+disqualify a product from being an invention, provided inventiveness or ingenuity is also
+
+involved.” And whether the inventors sufficiently controlled the production of their invention
+
+was not a "useful" criterion. "All that is important for the usefulness of the product (the use of
+
+132Ibid.,  pp. 25-26, 31,.34.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+73
+
+the oncomouse in carcinogenecity studies) is that, using the methods described by the inventors,
+
+a mouse is produced with all of its cells affected by the oncogene."133 
+
+Judge Rothstein declined to address the CELA’s public-interest concerns, maintaining
+
+that it was for Parliament, and not the Court, to deal with such issues. Like the majority in
+
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:3)(cid:5)(cid:7)(cid:8), he held that the Court’s sole task was to interpret the Patent Act. However, aware
+
+that the FCA’s ruling might raise apprehensions that human beings might be next, Judge
+
+Rothstein added, in an echo of (cid:13)(cid:10)(cid:11)(cid:12)(cid:3)(cid:5)(cid:7)(cid:13)(cid:11)!""(cid:13)(cid:21), that "the Patent Act cannot be extended to cover
+
+human beings," continuing, "Patenting is a form of ownership of property.  Ownership concepts
+
+cannot be extended to human beings.  There are undoubtedly other bases for so concluding, but
+
+one is surely section 7 of the (cid:1)(cid:2)(cid:3)(cid:5)(cid:7)(cid:13)(cid:5)(cid:11)(cid:20)&(cid:11)$(cid:15))(cid:2)(cid:7)(cid:17)(cid:11)(cid:3)(cid:21)(cid:19)(cid:11)*(cid:5)(cid:13)(cid:13)(cid:19)(cid:20)(cid:16)(cid:17) . . . which protects liberty.  There
+
+is, therefore, no concern by including non-human mammals under the definition of ’invention’ in
+
+the Patent Act, that there is any implication that a human being would be patentable in the way
+
+that the oncomouse is."134
+
+The FCA decision delighted Harvard’s Canadian lawyer, who reflected, "The trouble
+
+you get into is that in the spectrum of life on earth, there is no difference between a mouse and a
+
+bacterium -- it’s a continuum.  Where do you draw the line?  Do you patent the squid, but you
+
+don’t patent the shark?  Or do you patent the shark but you don’t patent the porpoise?"135 The
+
+Canadian biotech industry was equally pleased. A legal specialist in biotechnology declared,
+
+133Ibid., pp. 22-24, 29.
+
+134Ibid,  p.36. 
+
+135 David Gambrill, “Court allows patent on Harvard Mouse: Decision paves the way for patenting all life forms
+except humans"” Law Times, 2001, www.canadalawbook.ca/headline52_arc.html, p.2.
+
+                                                
+74
+
+Kevles, Patenting Life: 12 January 2002
+
+“The decision . . . is a triumph of logic and reason over the evisceral fear of the new
+
+technologies.”136 
+
+The decision failed to provoke a widespread national outcry, even though it received
+
+some attention in the Canadian national press, but it did irritate several agrarian, religious,
+
+environmental, and public-interest groups.137 The Rural Advancement Foundation International
+
+(RAFI), Canadian division, a non-governmental organization dedicated to the conservation and
+
+sustainable improvement of agricultural biodiversity, was concerned with the impact of
+
+intellectual property on agriculture and world food security.  One of its members deplored the
+
+FCA decision, saying, “For the first time in Canada, something that can look you in the eye is
+
+considered an invention. . . . The implications of this change in Canadian patent law are
+
+profound and the outcome will be viewed with dismay by many nations who have been
+
+following the Canadian case closely.”138
+
+The response of religious leaders resembled that of their counterparts in the United
+
+States. The Evangelical Fellowship of Canada (EFC) urged that the patenting of life forms
+
+ought to be completely prohibited. “The question of whether or not higher life forms should be
+
+patentable creates unease for Canadians because it raises social, philosophical, moral and
+
+religious questions about the nature of life and the ownership of life," said the Director of EFC’s
+
+Centre for Faith and Public Life.   He further noted that “We are stewards of God’s creation, not
+
+136 Ibid., p.3
+
+137 L.J. Deftos, “Patenting Life: The Harvard Mouse that Has Not Roared," The Scientist, November 27, 2000.
+
+138 “Court rules that mammals can be patented”, Natural Life, 2000, p.2.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+75
+
+owners, and our task is to care for that which has been entrusted to us.  Theology, philosophy
+
+and law remind us that human ownership is not limitless.”139 
+
+The CELA, its intervention in the case having proved fruitless, despaired that the social
+
+policy issues raised by animal patenting would ever be addressed.140  One CELA member
+
+reiterated the position it had advanced to the FCA, declaring that the decision whether to patent
+
+higher life forms "should be made by legislative review, after a full public debate of all the
+
+implications.  If Parliament did consider the issue, it could then decide whether there should be
+
+safeguards such as ethical and environmental reviews, other public protections for food security
+
+and the protection of animals, the appointment of a body of ethical advisors or involvement of
+
+the public in decisions made by the Patent Office.  Only Parliament, not the Courts, could
+
+ensure that such safeguards are in place for the public interest.141
+
+The CELA was joined in its call for legislative review of the issue by the Canadian
+
+Biotechnology Advisory Committee (CBAC), a group of experts in science, nutrition, business,
+
+law, environment, ethics, philosophy and public advocacy. Established to counsel government
+
+ministers, it was to suggest ways to make Canada internationally competitive in biotechnology,
+
+while incorporating social and ethical considerations into biotechnology policy.142 In a
+
+memorandum to the Canadian Government, the CBAC faulted the FCA ruling on several grounds.
+
+139 “EFC Makes Submission on Patenting Higher Life Forms”, EFC Press Releases,
+http://www.evangelicalfellowship.ca/ media/pr_viewer.asp?Press_Release_ID=78, May 24, 2001
+
+140 Gambrill, “Court allows patent on Harvard Mouse: Decision paves the way for patenting all life forms except
+humans"” Law Times, 2001, p.3.
+
+141“Court rules that mammals can be patented”, Natural Life, 2000, p.2.
+
+142 See official CBAC website at www.cbac-cccb.ca
+
+                                                
+76
+
+Kevles, Patenting Life: 12 January 2002
+
+It made no distinction between life forms; plants and primates were equally patentable. And it set
+
+no limits to what could be patented.143 The CBAC argued that, because biotechnology patenting
+
+had become a major part of globalization, it was imperative that the Canadian Parliament, with full
+
+public participation, develop a domestic policy on the patenting of life as quickly as possible, taking
+
+into account the “full range of moral, ethical and social issues that are at stake in this case." 144
+
+The CBAC proposed specifically that Parliament consider amending the Patent Act
+
+explicitly to forbid, if required, particular classes of higher life forms such as primates, the
+
+human body and certain plant species.  Parliament might also want to consider adding to
+
+Canadian patent law a policy provision such as the clause in the European Patent Convention
+
+prohibiting the grant of patents on inventions that were contrary to public order and morality.145
+
+As an alternative to Parliamentary action, the CBAC proposed that the government appeal the
+
+ruling of the FCA on the Harvard mouse to the Canadian Supreme Court, a course of action that
+
+several other groups also urged.146
+
+The government showed no interest in having Parliament review the Patent Act.
+
+However, on October 2, 2000, it did file an appeal of the FCA ruling and stated that a public
+
+dialogue was needed on the issue of animal patents. It also filed a notice of motion to stay the
+
+143 Canadian Biotechnology Advisory Committee Advisory Memorandum:  The Federal Court of Appeal’s
+Decision Against the Commissioner of Patents on the Harvard Onco-mouse Case, http://www.cbac-
+cccb.ca/documents/oncomouse1.pdf, September 8, 2000, p.3
+
+144 Ibid.
+
+145 Canadian Biotechnology Advisory Committee Advisory Memorandum:  The Federal Court of Appeal’s
+Decision Against the Commissioner of Patents on the Harvard Onco-mouse Case , p.5.
+
+146 Ibid. One of the groups was the Council of Canadians, an independent, non-partisan citizens' interest group
+that  provides a critical and progressive voice on key national and international issues, “Court Ruling Opens
+Door to Corporate ownership of Life Forms," The Council of Canadians (Media Releases),
+www.canadians.org/media/media-000929.html. 
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+77
+
+FCA’s order.147  A press release explained that “the government considers it necessary to refer
+
+the matter to the Supreme Court of Canada in order to obtain a definitive judgement on the
+
+scope of the current patent law.148
+
+The Supreme Court agreed to hear the case.149  The Canadian Patent Office resolved that
+
+it would continue to deny patents on higher life forms until the Court ruled definitively on their
+
+patentability.150 As of the end of 2001, the Court had not yet delivered its decision.
+
+#(cid:31)(cid:31)(cid:31) (cid:2)$(cid:13)(cid:14)(cid:13)(cid:2)(cid:11)(cid:12)(cid:6)(cid:13)(cid:14)(cid:6)(cid:4)(cid:14)(cid:15)
+
+In 1991, shortly before the Harvard mouse was granted its European patent, J. Craig
+
+Venter, a biologist at the National Institutes of Health (NIH), in Bethesda, Maryland, raised the
+
+both the economic and ethical stakes in the patenting of life or its parts by proposing the
+
+wholesale patenting of human gene fragments. Venter's lab, using automated machines, had
+
+sequenced not whole genes but random fragments of cDNA -- that is, DNA complementary to
+
+the coding regions in genomic DNA -- derived from part of the brain.151 Such a fragment was
+
+147 “The Government Seeks Leave to Appeal the Federal Court of Appeal's decision on the Harvard Oncomouse
+case to the Supreme Court," Ottawa, October 4, 2000,
+http://www.strategis.ic.gc.ca/sc_mrksv/cipo/corp/corp_appeal-e.html
+
+148 “The Government Seeks Leave to Appeal the Harvard Oncomouse Case to the Supreme Court," CNN News
+Release, October 4, 2000.
+
+149 Bita Amani, “The Mouse Trap: Patenting Complex Life Forms in Canada, Mr. Morrow & the Harvard
+Mouse," from the website of the Canadian Centre for Innovation Law and Policy,
+http://128.100.167.70/lawforum/pages/2publications.htm
+
+150 Email, Peter Davies, of the Canadian Intellectual Property Office, to Kari Theobald, July 27, 2001.
+
+151Mark D. Adams, Jenny M. Kelley, Jeannine D. Gocayne, Mark Dubnick, Mihael H. Polymeropoulos, Hong
+Xiao, Carl R. Merril, Andrew Wu, Bjorn Olde, Ruben F. Moreno, Anthony R. Kerlavage, W. Richard
+McCombie, and J. Craig Venter, "Complementary DNA sequencing: expressed sequence tags and Human
+Genome Project," Science, 252 (June 21, 1991), pp. 1651-1656; Christopher Anderson, "US patent application
+stirs up gene hunters," Nature, 353 (Oct. 10, 1991), pp. 485-486.
+
+                                                
+78
+
+Kevles, Patenting Life: 12 January 2002
+
+called an "expressed sequence tag," or EST.152 Although just 150 to 400 base pairs long, each
+
+was unique and served to identify the gene of which it was a part.153 In June 1991, Venter and
+
+NIH filed for patents on 315 ESTs and the human genes from which they came.154
+
+Venter’s initiative failed, largely because ESTs did not fully characterize genes, but once
+
+he put ESTs on the patent agenda, Rifkin and his allies contended that human genes, even those
+
+fully characterized as to composition and function, should not be patented at all.155 At Senate
+
+hearings on ethical issues in gene patenting in 1992, Andrew Kimbrell, the policy director and
+
+attorney for Jeremy Rifkin's Foundation on Economic Trends argued in favor of a moratorium
+
+on gene patenting, saying, "We are right in the middle of an ethical struggle on the ownership of
+
+the gene pool."156  He held that Congress should “intercede to decide where this ethical and
+
+legal free-fall ends."157
+
+152Mark D. Adams, Jenny M. Kelley, Jeannine D. Gocayne, Mark Dubnick, Mihael H. Polymeropoulos, Hong
+Xiao, Carl R. Merril, Andrew Wu, Bjorn Olde, Ruben F. Moreno, Anthony R. Kerlavage, W. Richard
+McCombie, and J. Craig Venter, "Complementary DNA sequencing: expressed sequence tags and Human
+Genome Project," Science, 252 (June 21, 1991), pp. 1651-1656; Christopher Anderson, "US patent application
+stirs up gene hunters," Nature, 353 (Oct. 10, 1991), pp. 485-486.
+
+153Mark D. Adams, Jenny M. Kelley, Jeannine D. Gocayne, Mark Dubnick, Mihael H. Polymeropoulos, Hong
+Xiao, Carl R. Merril, Andrew Wu, Bjorn Olde, Ruben F. Moreno, Anthony R. Kerlavage, W. Richard
+McCombie, and J. Craig Venter, "Complementary DNA sequencing: expressed sequence tags and Human
+Genome Project," Science, 252 (June 21, 1991), pp. 1651-1656; Christopher Anderson, "US patent application
+stirs up gene hunters," Nature, 353 (Oct. 10, 1991), pp. 485-486.
+
+154 Leslie Roberts, "Genome patent fight erupts," Science, 254 (Oct. 11, 1991), pp. 184-186.
+
+155 Ted Peters, "Patenting life: Yes," First things: a monthly journal of religion and public life, 63 (May 1996),
+pp. 18-20.
+
+156 Kimbrell testimony,  The genome project:the ethical issues of gene patenting, Hearing  before the
+Subcommittee on Patents, Copyrights and Trademarks of the Committee on the Judiciary, U.S. Senate, 2:S. Hrg.
+102-1134, Sept. 22, 1992 (U.S. Govt. Printing Office, 1993).
+
+157Ibid.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+79
+
+Congress, its eye on the economic and medical potential of biotechnology, was
+
+unwilling to do anything of the sort. Patent attorneys, biotech representatives, and several
+
+congressmen warned that restrictions or a moratorium on the patenting of life or its parts would
+
+put the U.S. at a competitive disadvantage internationally and impede research on cures and
+
+therapies for disease.158 Moreover, advocates of biotechnology insisted on distinguishing
+
+between issues of political economy and issues of ethics.159 The former had a place in disputes
+
+over patent policy; the latter, at least in the United States, did not, even though they might be
+
+legitimate in principle. The appropriate venues for considering them were the legislative and
+
+regulatory arenas of government, not the Patent Office.160
+
+Rifkin nevertheless maintained an ethical enfilade against gene patenting, finding allies
+
+among clerics, feminists, and whoever else might feel threatened or offended by private
+
+ownership of the gene pool. In 1995, prompted by his Foundation on Economic Trends, several
+
+prominent clerics announced at a press conference in Washington, D. C. that a coalition of one
+
+hundred eighty religious leaders representing eighty denominations had joined Rifkin’s group in
+
+signing a joint appeal opposing the patenting of human genes and genetically altered animals.161
+
+ Richard Land, President of the Christian Life Commission of the Southern Baptist Convention,
+
+158 Testimony, The genome project:the ethical issues of gene patenting, Hearing  before the Subcommittee on
+Patents, Copyrights and Trademarks of the Committee on the Judiciary, U.S. Senate, 2:S. Hrg. 102-1134, Sept.
+22, 1992 (U.S. Govt. Printing Office, 1993).
+
+159 Testimony of William D. Noonan, ibid.
+
+160 Ibid.
+
+161 Ted Peters, "Patenting life: Yes," First things: a monthly journal of religion and public life, 63 (May 1996),
+pp. 18-20.
+
+                                                
+80
+
+Kevles, Patenting Life: 12 January 2002
+
+declared that  "[T]he patenting of human genetic material attempts to wrest ownership from God
+
+and commodifies human biological materials and, potentially, human beings themselves.”162
+
+The next year, Rifkin mobilized women's rights leaders against attempts to patent genes
+
+implicated in breast cancer, claiming that such efforts represented an "assault on women" and
+
+"denies them control over the most intimate aspect of their being, their bodies' genetic
+
+blueprint."163  He said that a coalition would petition the Patent Office to challenge claims that
+
+had been filed on the breast cancer genes BRCA1 and BRCA2. Rifkin's statements were
+
+endorsed by members of women's health organizations in sixty-nine countries, including Betty
+
+Friedan, Gloria Steinem, and Bella Abzug, the former member of Congress and herself a breast-
+
+cancer survivor.164 Abzug averred, "Human genes are not for sale or profit.  Any attempt to
+
+patent human genetic materials by individuals, scientific corporations, or other entities is
+
+unacceptable." 165
+
+In the United States in December 1997, Rifkin and a biologist announced that, as a
+
+provocation, they would seek a patent on methods to create a human/animal hybrid, a creature
+
+part animal and part person.166 Bruce Lehman, the U.S. Commissioner of Patents, declared that
+
+the Patent and Trademark Office would in general reject patents that were “injurious to the well-
+
+162 Richard D. Land and C. Ben Mitchell, "Patenting life: No," First Things, 63 (May 1996), pp. 20-22.
+
+163 "US coalition counters breast gene patents," Nature, 381 (May 23, 1996), p. 265.
+
+164 Ibid.; Eliot Marshall, "Rifkin’s latest target: genetic testing," Science, 272 (May 24, 1996), p. 1094.
+
+165 Eliot Marshall, "Rifkin’s latest target: genetic testing," p. 1094.
+166  David Dickson, “Legal fight looms over patent bid on human/animal chimaeras,” Nature(cid:28)(cid:11),-. (2 Apr 1998),
+423.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+81
+
+being, good policy or good morals of society.”167 Patent lawyers roundly attacked Lehman,
+
+contending that he had no authority in U.S. patent law, because it is literally amoral, to back
+
+such a prohibition.168 Yet even if ethics has no rightful presence in American patent policy, an
+
+ethical principle – that the human genome must not be locked up -- has been creeping into it
+
+through the issue of gene patenting. And nothing has done more to introduce it than the robust
+
+ambitions of Craig Venter.
+
+In May 1998, Venter, who had left NIH several years before for a non-profit genome
+
+research institute, announced that he would move to a new, for-profit company, called Celera
+
+that would be located next door, in Rockville, Maryland.169 Celera would aim to sequence all
+
+the DNA in the human genome by 2001, using rapid new automated machines supplied by its
+
+principal owner, the Perkin-Elmer Corporation.170 Venter declared that Celera would make all
+
+its sequence data publicly available while at the same time earn money from selling access to
+
+the information.171 Venter’s rapid-fire approach to the sequencing prompted scientific critics to
+
+predict that his company’s data would contain numerous serious gaps in the DNA, perhaps
+
+100,000 of them.172 It was also unclear how the company could publish and profit from its
+
+167 Meredith Wadman, “…as US office claims right to rule on morality,” Nature(cid:28)(cid:11),-, (21 May 1998), 200.
+168Ibid.
+169 Eliot Marshall and Elizabeth Pennisi, “Hubris and the human genome,” Science(cid:28)(cid:11)./0 (15 May 1998), 994-
+995; J. Craig Venter et al., “Shotgun sequencing of the human genome,” Science(cid:28)(cid:11)./0 ( 5 Jun 1998), 1540-1542.
+170 Marshall and Pennisi, “Hubris and the human genome,” pp. 994-995;Venter et al., “Shotgun sequencing of
+the human genome.”pp. 1540-1542.
+
+171Venter et al., “Shotgun sequencing of the human genome,”pp. 1540-1542.
+
+172 Marshall and Pennisi, “Hubris and the human genome,” pp. 994-995.
+
+                                                
+82
+
+Kevles, Patenting Life: 12 January 2002
+
+sequence data. Early in 2000, strategies that Celera said it would follow to profit from its work
+
+appeared to threaten broad access to the sequence information.173
+
+But Venter has revived his original goal of wholesale gene patenting. Along with several
+
+other genomic companies, Celera has proposed to use ESTs to identify new genes and guess
+
+their function by finding genes of known function and similar structure through computerized
+
+searches of the genomic data base. The company would then seek utility patents covering these
+
+new genes, arguing that their functions were likely the same as those of the genes with similar
+
+structure.174 That strategy stimulated a forceful statement in late March by Aaron Klug and
+
+Bruce Alberts, the presidents, respectively, of the Royal Society of London and the National
+
+Academy of Sciences in the United States.175 They called guessing at gene function by
+
+computerized searches of genomic data bases “a trivial matter.”176 Its outcome might satisfy
+
+“current shareholders’ interests,” but it did “not serve society well.” Holding that its results did
+
+not warrant patent protection, they stressed that “the human genome itself must be freely
+
+available to all humankind.”177
+
+The U.S. Patent and Trademark Office, however, flatly disagrees, judged by its current
+
+policy on the patenting of genes and DNA sequences. At the end of 1999, it invited public
+
+comments on that policy and subsequently received them from 35 individuals and 17
+
+173 Eliot Marshall, “Talks of public-private deal end in acrimony,” (cid:29)(cid:30)(cid:15)(cid:13)(cid:21)(cid:30)(cid:13)(cid:28)(cid:11)./1 (10 Mar 00), 1723-1725.
+174 Author’s conversation with Rebecca Eisenberg, March 2001.
+
+175 Bruce Alberts and Sir Aaron Klug, “The Human Genome Itself Must be Freely Available to All Humankind,”
+Nature, Vol. 404 (3/23/00): 325.
+
+176 Ibid.
+
+177 Ibid.
+
+                                                
+Kevles, Patenting Life: 12 January 2002
+
+83
+
+organizations. Some of the comments were ethical, echoing those of Alberts and Krug; some
+
+were legal or practical, raising objections, for example, to granting patents on DNA sequences
+
+such as ESTs by arguing that they should not be patentable because they exist in nature. In
+
+January 2001, the Office found reasons to refuse to incorporate any of the comments in its
+
+policies. Indeed, its responses to the comments in effect promulgated a policy governing the
+
+patentabilty of genes and DNA sequences that is enormously broad.178
+
+Gene patenting has exposed a conflict and, possibly, an incompatability in patent policy
+
+between the United States and the European community. Even though the former does not
+
+impose ethical constraints on the patentability of products, the latter does, with the consequence
+
+that what may be patentable in the U.S. may not be so in Europe. Paradoxically, while trade
+
+barriers have been steadily falling with globalization, at least in the commerce of living
+
+organisms and their parts, patent barriers may be arising to some degree.
+
+The transatlantic mismatch aside, within both the United States and Europe, gene
+
+patenting has prompted important challenges to the scope of intellectual property rights in
+
+genes. The human genome is not only widely regarded as a common birthrate of people
+
+everywhere; it is also finite. Critics in biomedical research and health delivery have begun
+
+contending that monopoly control of its crucial parts -- the genes responsible for common
+
+diseases -- can be counterproductive to both science and health. Their arguments are economic
+
+and consequential rather than, like Rifkin’s, quasi-theological and abstract. They point, for
+
+178 Department of Commerce, Patent and Trademark Office, "Revised Utility Examination Guidelines; Request
+for Comments," *(cid:13)(cid:19)(cid:13)(cid:5)(cid:3)"(cid:11)$(cid:13))(cid:15)(cid:17)(cid:7)(cid:13)(cid:5), 64: no. 244, Dec. 21, 1999, 71440; Department of Commerce, Patent and
+Trademark Office, "Utility Examination Guidelines," *(cid:13)(cid:19)(cid:13)(cid:5)(cid:3)"(cid:11)$(cid:13))(cid:15)(cid:17)(cid:7)(cid:13)(cid:5), 66: no. 4, Jan. 5, 2001, 1092. I am
+indebted to Professor Hal Edgar, Columbia University Law School, for calling my attention to these documents.
+
+                                                
+84
+
+Kevles, Patenting Life: 12 January 2002
+
+example, to the insistence of corporate gene-patent holders on charging license fees to scientists
+
+who want to pursue research on the covered genes; and to the high prices charged for diagnostic
+
+tests using them. They also point out that a good deal of the intellectual capital contained in
+
+these patents was provided at public expenses.
+
+Biotechnologists counter, like Burbank’s posthumous advocates, that they have an
+
+ethical claim on the products of their innovations and that the intellectual property rights in gene
+
+patents must be absolute if investment in that branch of biotechnology is to be sustained. In a
+
+sense, then, gene patenting has produced a conflict between the ethical and practical interests of
+
+innovators on the one side and the larger society on the other. If the conflict grows sharper,
+
+governments may choose to limit the property rights in human DNA sequences by regulating
+
+their use.
+
+European Commission
+
+A history of patenting life in the United States with comparative attention to Europe and Canada
+
+Luxembourg: Office for Official Publications of the European Communities
+
+2002 — iv, 84 pp. — 21 x 29.7 cm
+
+ISBN 92-894-2063-4
+
+

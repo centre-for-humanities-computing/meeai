@@ -1,0 +1,4553 @@
+E
+
+t
+
+h
+
+i
+
+c
+
+s
+
+o
+
+f
+
+s
+
+e
+
+c
+
+u
+
+r
+
+i
+
+t
+
+y
+
+a
+
+n
+
+d
+
+s
+
+u
+
+r
+
+v
+
+e
+
+i
+
+l
+
+l
+
+a
+
+n
+
+c
+
+e
+
+t
+
+e
+
+c
+
+h
+
+n
+
+o
+
+l
+
+o
+
+g
+
+i
+
+e
+
+s
+
+—
+
+P
+
+r
+
+o
+
+c
+
+e
+
+e
+
+d
+
+i
+
+n
+
+g
+
+s
+
+o
+
+f
+
+t
+
+h
+
+e
+
+r
+
+o
+
+u
+
+n
+
+d
+
+-
+
+t
+
+a
+
+b
+
+l
+
+e
+
+d
+
+e
+
+b
+
+a
+
+t
+
+e
+
+B
+
+r
+
+u
+
+s
+
+s
+
+e
+
+l
+
+s
+
+,
+
+1
+
+8
+
+S
+
+e
+
+p
+
+t
+
+e
+
+m
+
+b
+
+e
+
+r
+
+2
+
+0
+
+1
+
+3
+
+Ethics of security 
+
+and surveillance technologies
+
+PROCEEDINGS OF THE ROUND-TABLE DEBATE
+
+Brussels, 18 September 2013
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+European Group
+on Ethics in Science
+and New Technologies
+to the European Commission
+
+Round table on the 
+ethics of security 
+and surveillance 
+technologies
+
+Brussels, 18 September 2013
+
+Jim Dratwa
+Chief Editor
+Head of the EGE Secretariat
+Head of Ethics in Science and New Technologies
+Bureau of European Policy Advisers
+European Commission
+
+Europe Direct is a service to help you find answers 
+to your questions about the European Union
+
+Freephone number (*):
+00 800 6 7 8 9 10 11
+
+(*) Certain mobile telephone operators do not allow access to 00 800 numbers 
+or these calls may be billed.
+
+More information on the European Union is available on the Internet (http://europa.eu).
+
+Luxembourg: Publications Office of the European Union, 2014
+
+ISBN 978-92-79-34133-5
+doi:10.2796/22080
+
+© European Union, 2014
+Reproduction is authorised provided the source is acknowledged.
+
+Photo © Gstudio Group
+
+Printed in Belgium
+
+Printed on white chlorine-free PaPer
+
+Contents
+
+INTRODUCTION 
+
+ROUND-TABLE REPORT 
+Programme 
+
+PRESENTATIONS 
+
+Mr Hendrik Keersmaekers 
+
+Dr Ben Hayes 
+
+Professor Giorgio Agamben 
+
+Dr Patryk Pawlak 
+
+ANNEX I
+List of participants 
+
+ANNEX II
+EGE Secretariat 
+
+5
+
+7
+15
+
+17
+
+61
+
+71
+
+77
+
+89
+
+97
+
+101
+
+EGE round table on the ethics of 
+security and surveillance technologies
+
+Introduction
+
+The European Group on Ethics in Science and New Tech-
+nologies  (EGE)  is  an  independent,  pluralist  and  multi-
+disciplinary body which, since its inception in 1991, has 
+advised the European Commission on ethical aspects of 
+science  and  new  technologies  in  connection  with  the 
+preparation  and  implementation  of  European  Union 
+legislation or policies.
+
+In January 2011 the President of the European Commis-
+sion,  José  Manuel  Barroso,  appointed  the  15  members 
+of the EGE for 2011–16. The selected members serve in 
+a  personal  capacity  and  collectively  offer  independent 
+advice to the Commission. On 22 March 2011 Mr Barroso 
+requested that the EGE issue an opinion on the ethical 
+implications  of  information  and  communication  tech-
+nologies  (ICT)  (1).  The  opinion  was  adopted  on  22 Feb-
+ruary 2012. The president of the European Commission 
+also asked for an opinion on the ethical implications of 
+security  and  surveillance  technologies.  In  March  2012 
+the EGE started its work on ‘Opinion No 27 — An ethical 
+framework  for  assessing  research,  production  and  use 
+of energy’ (2). Opinion No 27 was adopted on 16 Janu-
+ary 2013.  After  the  adoption  of  its  opinion,  the  group 
+came  back  to  President  Barroso’s  request  on  writing 
+an  opinion  on  the  ethical  implications  of  security  and 
+surveillance  technologies.  The  EGE  started  working  on 
+‘Opinion  No  28  —  Ethics  of  security  and  surveillance 
+technologies’ as of February 2013.
+
+On  21 March 2011  President  José  Manuel  Barroso 
+requested that the EGE draft an opinion on the ethical 
+implications  of  information  and  communication  tech-
+nologies and produce, subsequently and separately, an 
+opinion on the ethical implications of security technolo-
+gies,  with  due  attention  given  to  the  development  of 
+security technologies and to surveillance technologies. 
+The  EGE  provided  the  Commission  with  its  opinion  on 
+ethics  of  information  and  communication  technolo-
+gies on 22 February 2012. It also developed and issued 
+an opinion on research, production and use of energy, 
+which was published on 16 January 2013, in response to 
+an intervening request from the president of the Com-
+mission.  In  February  2013  the  EGE  started  working  on 
+opinion No 28 addressing the issues of security and sur-
+veillance technologies from an ethical perspective.
+
+When preparing its opinions the EGE engages in a broad 
+consultation  involving  individual  experts,  representa-
+tives of the European institutions, of other international 
+institutions  and  of  civil  society  and  the  chairs  of  the 
+national  ethics  councils  in  the  European  Union  Mem-
+ber  States.  The  group  organised  an  open  round  table 
+in  Brussels  on  18 September 2013  in  order  to  promote 
+a  transparent  dialogue  between  parties  representing 
+different  interests.  This  report  gives  a  summary  of  the 
+presentations and discussions put forward.
+
+(1)  http://ec.europa.eu/bepa/european-group-ethics/docs/publications/ict_final_22_february-adopted.pdf
+(2)  http://ec.europa.eu/bepa/european-group-ethics/docs/publications/opinion_no_27.pdf
+
+5
+
+EGE round table on the ethics of 
+security and surveillance technologies
+
+Round-table report
+
+1. Main goal of the round table
+
+The EGE is preparing an opinion on the ethics of security 
+and surveillance technologies. As part of its preparatory 
+work the EGE held an open round-table debate on the 
+issues raised by the implications of security and surveil-
+lance  technologies.  The  round  table  was  organised  by 
+the Bureau of European Policy Advisers (BEPA).
+
+As was the case for previous EGE opinions, and in accord-
+ance with the Commission decision on the EGE mandate 
+(Decision 2005/383/EC), a public round table was organ-
+ised to debate openly the ethical, social and legal impli-
+cations  of  security  and  surveillance  technologies.  The 
+main  goal  was  to  give  stakeholders  an  opportunity  to 
+provide the EGE with the relevant data, considerations 
+and viewpoints before it would finalise opinion No 28 by 
+spring 2014.
+
+2. Elements of context
+
+The European Group on Ethics in Science 
+and New Technologies
+
+The  EGE  was  established  in  1991  (with  the  name  the 
+Group of Advisers on the Ethical Implications of Biotech-
+nology (GAEIB)), and the new EGE mandate was adopted 
+by  Commission  Decision  2010/1/EU  of  23 Decem-
+ber 2009 (3). According to this remit the role of the EGE is 
+to provide the Commission with high-quality and inde-
+pendent  advice  on  the  ethical  aspects  of  science  and 
+new  technologies  in  connection  with  the  preparation 
+and  implementation  of  European  Union  legislation  or 
+policies (4).
+
+On 10 January 2011 the President of the European Com-
+mission,  José  Manuel  Barroso,  appointed  the  15  mem-
+bers of the EGE for 2011–16. The selected EGE members 
+serve in a personal capacity and are asked to offer inde-
+pendent  advice  to  the  Commission.  They  have  been 
+appointed  on  the  basis  of  their  expertise  and  a  geo-
+graphical  distribution  that  reflects  Europe’s  diversity. 
+The EGE held its first meeting on 8 and 9 February 2011 
+in  Brussels  and  had  a  session  with  President  Barroso. 
+A second meeting took place on 15 and 16 March 2011. 
+Professor  Julian  Kinderlerer  was  elected  as  the  group’s 
+president and Professor Linda Nielsen as vice-president. 
+The rules of procedure were adopted on 15 March 2011.
+
+The EGE opinion on ethics of security 
+and surveillance technologies
+
+At  the  request  of  the  president  of  the  European  Com-
+mission, the EGE is currently working on an opinion on 
+ethics  of  security  and  surveillance  technologies,  which 
+will provide the Commission with policy options for the 
+use of such technologies.
+
+The EGE round table on ethics of security 
+and surveillance technologies
+
+When preparing its opinions the EGE engages in broad 
+consultations  involving  individual  experts,  representa-
+tives of European institutions, other international insti-
+tutions  and  civil  society  and  the  chairs  of  the  national 
+ethics councils in the European Union Member States.
+
+The EGE organised an open round table on 18 Septem-
+ber 2013,  at  the  European  Commission,  in  the  Robert 
+Schuman room (Berlaymont building).
+
+(3) 
+
+(4) 
+
+The EGE’s mandate was renewed by the Commission Decision of 26 March 2001 for a 4-year period and its remit was slightly modified to 
+improve  the  group’s  working  methods.  The  EGE’s  mandate  was  decided  on  11 May 2005  (Decision  2005/383/EC)  and  extended  by  Com-
+mission Decision 2009/757/EC. Members of the European Parliament cannot be selected as EGE members because this may be considered 
+a conflict of interest and would contradict provisions stated in the remit of the group (Legal Service (JUR(2006)30358 JFP/fag, dated 3.7.2006).
+The Parliament and the Council may draw the Commission’s attention to questions which they consider to be of major ethical importance.
+
+7
+
+Participants came from a broad cross-section of European 
+society,  including  the  scientific  community,  industry, 
+civil society, policymakers, media and the general public. 
+Furthermore, the EGE also welcomed the active partici-
+pation  of  some  members  of  the  International  Dialogue 
+on Bioethics. Invited speakers included Professor Inez de 
+Beaufort  (Professor  of  Healthcare  Ethics  at  the  Erasmus 
+Medical Centre in Rotterdam, the Netherlands), Mr Hen-
+drik Keersmaekers (Legal Affairs Manager, G4S Belgium), 
+Dr Ben Hayes (Statewatch), Professor Giorgio Agamben 
+(Professor of Philosophy, University of Verona, Italy) and 
+Dr Patryk Pawlak (EU Institute for Security Studies).
+
+3. Report of the EGE round table
+
+Professor Julian Kinderlerer, President of the EGE, chaired 
+the  meeting.  He  welcomed  the  participants  and  intro-
+duced  the  public  to  the  role  of  the  EGE.  He  explained 
+
+that, at the request of the European Council, the group 
+was asked to give its opinion on the ethics of energy pro-
+duction  and  research,  thus  stepping  outside  its  remit. 
+Opinion  27  was  adopted  in  February  2013  and  as  of 
+March 2013 the group is working on ‘Opinion No 28 — 
+Ethics of security and surveillance technologies’. Profes-
+sor Kinderlerer highlighted that the PRISM and Snowden 
+scandal shed a different light on the weight of the EGE’s 
+opinion, which would have to be presented to the presi-
+dent of the European Commission at the end of 2013 or 
+the beginning of 2014.
+
+Professor  Kinderlerer  also  explained  that,  during  the 
+process of writing its opinions, the EGE organises open 
+round tables so as to discuss the topic with all interested 
+parties,  to  increase  transparency  and  to  create  a  dia-
+logue  between  representatives  of  academia,  industry 
+and civil society.
+
+8
+
+10:10–11:10 — Prof. Inez de Beaufort 
+(Erasmus Rotterdam University)
+
+Prof. de Beaufort began her presentation by emphasis-
+ing the accuracy of surveillance technologies nowadays 
+(e.g.  NSA  surveillance  operations  in  Europe  and  the 
+PRISM  scandal).  Prof.  de  Beaufort  explained  the  ‘why 
+now’ question to participants through the advancement 
+of security and surveillance technologies post 9/11.
+
+Presently,  state  and  private  surveillance  are  so  inter-
+woven  that  a  distinction  between  the  two  becomes 
+impossible (see American lawyer Neil Richards). Not only 
+is  it  hard  to  distinguish  between  types  of  surveillance, 
+but  also  our  society  faces  dramatic  changes  (moving 
+from local villages to a ‘global village’ or a ‘global aquar-
+ium’).
+
+So  as  to  produce  opinion  No  28,  the  EGE  has  to  look 
+at different contexts and purposes and to find the link 
+between the development of new technologies and the 
+harms  (threats)  that  these  technologies  are  to  resolve. 
+Ethical issues at stake when it comes to security/safety 
+are, among others, privacy, liberty/freedom, justice, dig-
+nity, stigmatisation, efficacy and proportionality.
+
+fort  spoke  about  ‘intellectual  privacy’,  a  term  that  sug-
+gests the need to protect one’s intellectual freedom, or 
+the ability to think without state monitoring or intrusion.
+
+The EGE is now working on a set of recommendations in 
+the field of security and surveillance technologies. Iden-
+tified areas include:
+
+•	 broadening the concept of efficacy;
+
+•	
+
+further  research  into  the  ethical,  social  and  legal 
+aspects;
+
+•	 PET and ‘privacy by design’;
+
+•	 privacy impact assessments;
+
+•	
+
+•	
+
+transparency;
+
+increasing knowledge and awareness;
+
+•	 governance (self-governance, special authority);
+
+•	
+
+legal measures to curtail power (banning drones for 
+private use);
+
+At the beginning of 2010, the Council of the European 
+Union defined security as follows:
+
+•	 proportionality and contextuality;
+
+‘… security means protecting people and the values of 
+freedom  and  democracy,  so  that  everyone  can  enjoy 
+their daily lives without fear.’
+
+Moreover,  academics  distinguish  between  different 
+types  of  privacy  adapted  to  different  contexts,  such  as 
+physical,  psychological,  economic,  informational  and 
+decisional. No agreement on the role of privacy in mod-
+ern society has been reached until now. Prof. de Beau-
+
+9
+
+•	 developing the concept of effectiveness;
+
+•	 depicting a balancing model.
+
+Concluding, Prof. de Beaufort mentioned Prof. Mordini’s 
+viewpoint on the importance of politeness, to which dis-
+cretion was also added, a lost virtue thought of as a sign 
+of respect for others.
+
+Mr Hendrik Keersmaekers (G4S Belgium)
+
+Mr  Keersmaekers,  Legal  Affairs  Manager,  represented 
+the  private  security  company  G4S  Belgium  at  the  EGE 
+round table. G4S Belgium is part of G4S, an international 
+company present in more than 125 countries with more 
+than 650 000 employees. When providing security solu-
+tions  the  company  focuses  on  integrated  solutions, 
+resulting in partnerships with its customers.
+
+Since 9/11 the industry sector has been facing a continu-
+ous increase in the security services provided, combined 
+with fast-changing technological development.
+
+G4S bases its strategy on four pillars, as follows.
+
+1.  Prevention.
+
+2.  Transparent regulatory framework.
+
+3.  Feasibility and practicability.
+
+4.  Partnerships (private–public, the public at large).
+
+Mr  Keersmaekers  explained  that  the  security  industry 
+(G4S  particularly)  focuses  on  prevention  and  risk  mini-
+misation  by  the  use  of  remote  monitoring,  manned 
+guarding and surveillance equipment, all of these aimed 
+at  creating  a  dissuasion  effect.  Responding  in  case  of 
+
+incidents  that  have  occurred  is  equally  important  and 
+is  based  on  customised  training  offered  by  G4S  to  its 
+employees,  creating  job  opportunities  regardless  of 
+their social background or previous experience.
+
+On  the  importance  of  a  transparent  regulatory  frame-
+work,  Mr  Keersemaekers  highlighted  that  regulations 
+should be based on practical solutions, striking the bal-
+ance between the rights and obligations of the parties 
+concerned.  Regulations  should  create  a  level  playing 
+field, making clear what is expected from all actors con-
+cerned, and making sure ‘free riders’ are not allowed to 
+falsify competition.
+
+Lawmakers  should  have  a  higher  level  of  flexibility  to 
+be  able  to  cope  with  fast-changing  technological  and 
+industrial  advances  and,  for  this  to  be  achieved,  this 
+flexibility should be built in at the outset (e.g. a ‘sunset’ 
+clause  or  ‘life-cycle  analysis’  clause  for  technical  and 
+societal evolutions).
+
+G4S  also  welcomes  partnerships  with  society  and  with 
+public  authorities.  Mr  Keersmaekers  pointed  the  audi-
+ence  towards  different  public–private  partnerships  in 
+which G4S is involved, such as in port and airport envir-
+onments,  or  supporting  states  in  outsourcing  certain 
+police  tasks  (administrative  tasks,  supporting  immigra-
+tion centres in the Netherlands, etc.).
+
+10
+
+Dr Ben Hayes (Statewatch)
+
+Dr Ben Hayes presented Statewatch’s experience of the 
+development of surveillance and security technologies. 
+Among their main concerns is the use of public funds by 
+European institutions for developing new security tech-
+nologies in the absence of proper democratic controls.
+
+The criticism of EU security research funding is based on 
+two of the programme’s founding principles.
+
+1.  The transfer of technologies from the military to the 
+civilian field for things like fighting crime, terrorism 
+or immigration.
+
+Dr  Hayes  called  for  ethicists  to  develop  so-called  red 
+lines, or lists of banned security applications.
+
+On the matter of surveillance technologies, Dr Hayes has 
+argued that one of the most profound effects of the post 
+9/11  era  in  Europe  has  been  the  creation  of  a  surveil-
+lance-industrial complex.
+
+The  use  of  data  collected  through  surveillance  should 
+be properly regulated and strictly limited to that which 
+is  absolutely  necessary  and  proportionate,  argued  Dr 
+Hayes,  with  sensitive  data  subject  to  an  even  higher 
+level of protection. As a result of Snowden’s revelations, 
+the EU data protection regulation will be strengthened, 
+but much more reform is needed.
+
+2.  The need to subsidise the European security industry 
+to render it more competitive in the global market-
+place.
+
+Q & A session
+
+Dr Hayes focused his intervention on the issues of drones 
+and  surveillance  technologies.  He  stated  that  despite 
+the considerable funds invested by the EU in this field, 
+no ethical framework is yet in place.
+
+On the issue of drones, Dr Hayes mentioned the continu-
+ous development and improvement of remotely piloted 
+vehicle technologies, to the point where these devices 
+will become not only smaller but also faster and smarter. 
+Recent research undertaken by Statewatch showed that 
+the EU’s total drone investment (e.g. satellite navigation 
+systems,  collision  avoidance  systems,  communication 
+systems, etc.) is almost EUR 500 million, with the possi-
+bility of a substantial increase in the coming years.
+
+Among the major ethical concerns in this case is the impos-
+sibility of preventing dual-use research and the funding of 
+technologies and infrastructure in the name of civil secu-
+rity that can easily be adapted in the military field.
+
+During the question and answer session, the following 
+were discussed:
+
+•	 ethics and its flexibility;
+
+•	
+
+the notion of the ethical corporate citizen;
+
+•	 understanding ‘flexible regulations’;
+
+•	 appropriate  training  in  the  industry  field,  based  on 
+
+geographical location, age group, etc.;
+
+identifying the red lines that should not be crossed;
+
+interpreting and applying the sunset clause model in 
+Europe.
+
+•	
+
+•	
+
+11
+
+Afternoon session
+
+14:30–15:30 — Prof. Giorgio Agamben 
+(University of Verona)
+
+Professor  Giorgio  Agamben  began  his  presentation  by  
+reminding  that  ethics  cannot  consist  in  the  de  facto 
+acceptation  of  an  inhumane  situation  and  in  the  vain 
+attempt  of  putting  de  iure  restrictions  to  it.  Therefore 
+he strongly criticized the  idea that an ethics of security 
+could limit itself to recommending a safer use of tech-
+nologies  that  threaten  the  political  freedom  of  men, 
+without  first  questioning    the  very  legitimacy  of  those 
+technologies.
+
+Professor  Agamben  has  as  a  starting  point  the  wide-
+spread  syntagm  ‘for  security  reasons’.  This  syntagm 
+should have a different understanding, since it does not 
+simply  consist  in  preventing  dangers  or  catastrophes. 
+For a better consideration of this syntagm, a thorough 
+knowledge of the concept and history of the term ‘secu-
+rity’  is  needed,  according  to  Professor  Agamben.  The 
+origins  of  security  are  to  be  found  in  the  times  of  the 
+Roman  Empire  (the  dicta  salus publica suprema lex and 
+consultum ultimum), and more recently the French Revo-
+lution and the famous Article 18 of the Weimar Consti-
+tution (the cornerstone of the national socialist regime).
+
+According to Professor Agamben, the origins of security 
+are to be found at the beginning of modern economy, 
+
+through the works of François Quesnay, the physiocrats 
+and the Treaty of Westphalia where the absolutist pow-
+ers began to spread the idea that the ruler had to ensure 
+the security of his/her subjects.
+
+Slowly,  the  ancient  way  of  governing  was  replaced  by 
+the modern interpretation whereby, as Professor Agam-
+ben observes, modernity no longer governs the causes 
+but  the  effects.  Continuing  this  line  of  thinking,  if  the 
+objective  of  the  government  is  that  of  managing  the 
+effects  and  not  the  causes,  a  multiplication  of  controls 
+occurs as a result.
+
+Due to rapid changes in technology and the increase in 
+control by the state, Professor Agamben observes that 
+legislation  in  certain  EU  countries  in  terms  of  security 
+is  more  restrictive  than  the  1926  Italian  fascist  regime. 
+Presently, the public and the private spheres are blurred 
+and interwoven.
+
+The  wide  use  of  video  surveillance  devices  to  monitor 
+streets and public places results from the model used in 
+prisons for monitoring convicts. Moreover, in the Ameri-
+can  doctrine  post  9/11,  the  syntagm  ‘security  state’ 
+appears, referring to the fact that the state views each 
+citizen as a potential criminal. Having all these different 
+interpretations of the term, Professor Agamben invited 
+guests to reflect on the following definition: ‘the police 
+are the strength ratio of a state with itself’.
+
+12
+
+Dr Patryk Pawlak 
+(EU Institute for Security Studies)
+
+Dr  Pawlak  began  his  presentation  by  highlighting  that 
+some security and surveillance technologies can benefit 
+society at large, assuming that ethics, the rule of law and 
+political responsibility are part of the equation. His pres-
+entation was based on four main ideas, as shown below.
+
+1.  Fewer  security  and  surveillance  technologies  (SSTs) 
+is  also  an  ethical  choice  which  potentially  exposes 
+the lives of innocent individuals to terrorist attacks or 
+criminal activities:
+
+3.  The choice to invest in the development of SSTs is an 
+ethical choice in itself since it has an impact on other 
+areas,  including  spending  on  education  and  social 
+programmes.
+
+•	 Spending more money on prevention or educa-
+
+tion.
+
+4.  Leaders are politically responsible for investment in 
+SSTs and the consequences of their use. It is not tech-
+nology that is a problem but how people use it.
+
+•	 a  recent  Eurobarometer  shows  that  more  than 
+six Europeans out of 10 agree that their govern-
+ments are asking for more personal information;
+
+During the question and answer session, the following 
+were discussed:
+
+Q & A session
+
+•	 3 600 organised crime groups were identified as 
+
+•	
+
+being active in the EU;
+
+security  is  presented  by  some  as  being  linked  to 
+a certain extent to industry, competitiveness and job 
+opportunities;
+
+•	
+
+security technologies are not only about surveil-
+lance — for example Copernicus (a Commission 
+programme which provides up-to-date informa-
+tion  on  environmental  management)  provides 
+early  warnings  in  case  of  floods,  droughts  and 
+desertification.
+
+2. 
+
+In democratic societies the rule of law and oversight 
+mechanisms  are  used  to  deal  with  the  unethical 
+application of SSTs or their unethical or illegal use.
+
+•	 For  example,  European  Parliament,  European 
+Commission, Member States, European Data Pro-
+tection  Supervisor,  Fundamental  Rights  Agency, 
+European Court of Human Rights, Statewatch, Pri-
+vacy International, Transparency International, etc.
+
+•	
+
+the scope of the EGE opinion and limiting the scope 
+to certain technologies;
+
+•	 attempting  to  divide  technology  from  the  use  of 
+
+technology;
+
+•	
+
+•	
+
+the lack of historical references when discussing the 
+issue of security and surveillance;
+
+intergenerational justice and its inclusion in the EGE 
+opinion.
+
+17:30  End of the round table
+
+13
+
+EGE round table on the ethics of 
+security and surveillance technologies
+
+Programme
+
+Brussels — Berlaymont building, Schuman room 
+Wednesday, 18 September 2013 
+10:00–17:30
+
+AGENDA
+
+09:30 
+
+Registration — coffee
+
+Afternoon session
+
+10:00–10:10 
+
+ Welcome address to the round table 
+by Prof. Julian Kinderlerer, 
+President of the EGE
+
+10:10–11:10 
+
+ Prof. Inez de Beaufort 
+(Erasmus Rotterdam University) 
+
+Mr Hendrik Keersmaekers 
+(G4S Belgium) 
+
+Dr Ben Hayes (Statewatch)
+
+11:10–11:30  Coffee break
+
+11:30–12:00  Questions to speakers and EGE
+
+12:00–13:00 
+
+ Discussion and contributions 
+from participants
+
+13:00–14:30  Lunch (Berlaymont hall)
+
+14:30–15:30 
+
+ Prof. Giorgio Agamben 
+(University of Verona) 
+
+Dr Patryk Pawlak 
+(EU Institute for Security Studies)
+
+15:30–15:50  Coffee break
+
+15:50–16:20  Questions to speakers and EGE
+
+16:20–17:20 
+
+ Discussion and contributions 
+from participants
+
+17:20–17:30  Closing remarks from EGE President 
+
+17:30 
+
+End of round table
+
+The round table will be broadcast 
+http://scic.ec.europa.eu/streaming/index.php?es=2&sessionno=e0eacd983971634327ae1819ea8b6214 
+http://ec.europa.eu/bepa/european-group-ethics/index_en.htm
+
+15
+
+ 
+ 
+ 
+Presentations
+
+EGE round table on the ethics of 
+security and surveillance technologies
+
+17
+
+EGE round table on the ethics of 
+security and surveillance technologies
+
+Professor 
+Inez de Beaufort
+
+(Erasmus Rotterdam University)
+
+Inez  de  Beaufort  has  been  Professor  of  Healthcare  Eth-
+ics  and  Head  of  the  Department  of  Medical  Ethics  and 
+Philosophy  of  Medicine  at  the  Erasmus  Medical  Centre 
+in  Rotterdam,  the  Netherlands,  since  1991.  She  studied 
+theology  at  the  University  of  Utrecht  and  has  a  PhD  in 
+human  research  from  the  University  of  Groningen  (cum 
+laude 1985). She has published on various subjects relat-
+ing  to  medical  ethics,  e.g.  human  research,  productive 
+technologies,  personal  responsibility  for  health,  ethics 
+and  beauty,  medical  ethics  in  fiction  (films  and  novels), 
+the elderly (euthanasia and dementia) and public health 
+issues. Together with Frans Meulenberg she wrote a med-
+ical ethical soap story for the Journal of Medical Ethics.
+
+Although  of  an  ‘omnivorous’  ethical  disposition  her 
+present  research  themes  are  ethics  and  obesity,  ethics 
+
+and  paediatrics,  ethics  and  ageing,  ethics  and  beauty, 
+enhancement and medical ethics in literature and films. 
+She  has  been  a  member  of  many  hospital  ethics  com-
+mittees and national committees, such  as  the National 
+Council for Healthcare, and the Dutch National Commit-
+tee for Ethics and Medical Research.
+
+She is, among others, an honorary member of the Dutch 
+Health  Council,  a  member  of  a  regional  euthanasia 
+review committee, a member of the Board of Advice to 
+Dutch Healthcare Insurers, a member of the Healthcare 
+Package  Appraisal  Committee  of  the  Healthcare  Insur-
+ance Board and a member of the Board of the Interna-
+tional Association of Bioethics. She has served two terms 
+on the EGE.
+
+19
+
+Ethics and surveillance 
+
+Global overview of issues to present in the 
+next opinion
+
+This is an informal talk.
+
+Introduction
+
+Do you know who knows what about you? That you are 
+here in Brussels, that you took a certain flight, that you 
+paid by a certain credit card, what you purchased at the 
+airport  tax-free  shop,  that  you  called  home  (or  maybe 
+not  home)  to  say  you  arrived  safely,  what  you  were 
+wearing  when  checking  in,  where  you  are  staying  and 
+who else is staying there, what you mailed to whom, etc. 
+It is quite frightening, I must say.
+
+In the words of the House of Lords:
+
+‘Individuals … leave electronic footprints behind with 
+the click of the mouse, making a phone call, paying 
+with a payment card, using “joined up” government 
+services or just walking down a street where CCTV is 
+in operation. Our transactions are tracked, our inter-
+actions identified and our preferences profiles — all 
+with  potential  to  build  up  an  increasingly  detailed 
+and intrusive picture of how each of us lives our life.’
+
+Neil Richards, a Harvard lawyer, states:
+
+‘The  digital  technologies  that  have  revolutionised 
+our  daily  lives  have  also  created  minutely  detailed 
+records  of  those  lives.  In  an  age  of  terror,  our  gov-
+ernment  has  shown  a  keen  willingness  to  acquire 
+this data and use it for unknown purposes. We know 
+that governments have been buying and borrowing 
+private-sector  databases,  and  we  recently  learned 
+that  the  National  Security  Agency  (NSA)  has  been 
+building a massive data and supercomputing centre 
+in Utah, apparently with the goal of intercepting and 
+storing  much  of  the  world’s  Internet  communica-
+tions for decryption and analysis.’
+
+So,  we  are  watched,  observed,  tracked,  followed.  Not 
+only us, but also criminals and terrorists. The main argu-
+ment brought forward for (increasing) surveillance is the 
+war against terror and combating crime. This is after all 
+the post-9/11 era. That is provided as justification for the 
+PRISM operations that whistle-blower Edward Snowden 
+has recently made public. 
+
+(We did not plan that, of course, but we are even more 
+convinced that this opinion is quite timely.)
+
+Our next opinion is a follow-up of our previous opinion 
+that discussed ethics and the Internet.
+
+On  behalf  of  the  group  and  my  colleague  rapporteurs 
+Siobhan  O’Sullivan  and  Linda  Nielsen,  I  give  this  short 
+presentation. We welcome your comments and views.
+
+Why now?
+
+There  are  new  technologies  —  think  of  GPS,  face  rec-
+ognition,  combinations  of  different  technologies  and 
+combinations  of  different  data  collections.  From  the 
+babyphone  and  the  nannycam  to  something  very 
+sophisticated called Google Glass.
+
+There are different technologies that survey our behav-
+iour in different contexts for different purposes: for our 
+security to protect us from violence, but also in the con-
+text  of  healthcare  to  prevent,  for  example,  demented 
+persons  from  losing  their  way,  observing  us  to  ensure 
+we are alright in order to intervene just in case, tracking 
+the spread of contagious diseases and, in the commercial 
+arena, to know about our buying choices and target pub-
+licity. As well as in the work sphere to observe if we work 
+hard, where our employers can use keyboard tracking.
+
+So  both  in  the  governmental  as  well  as  in  the  non-
+governmental sphere many different surveillance tech-
+nologies are used.
+
+According to the abovementioned American lawyer Neil 
+Richards it is impossible to disentangle government and 
+private surveillance:
+
+20
+
+‘Government and non-government surveillance support 
+each  other  in  a  complex  manner  that  is  often  impos-
+sible to disentangle. At the outset, the technologies of 
+surveillance — software, RFID chips, GPS trackers, cam-
+eras and other cheap sensors — are being used almost 
+interchangeably  by  government  and  non-government 
+watchers. Private industry is also marketing new surveil-
+lance technologies to the state.’
+
+Societies have changed dramatically, also through mod-
+ern  ICT  technologies.  In  a  small,  nice  village,  of  course 
+people  knew  things  about  people,  eavesdropped  and 
+gossiped  and  had  opinions  about  their  fellow  village 
+inhabitants,  but  we  now  live  in  a  truly  global  arena. 
+Maybe  a  global  aquarium.  This  raises  different  funda-
+mental  debates.  What  do  we  mean  by  security?  What 
+actually is security? Is it still the privilege of the state in 
+a Hobbesian way to use violence to protect citizens or is 
+a complete conceptual and moral approach necessary?
+
+The fact that it is about different contexts and different 
+purposes, as well as the interconnectedness of technol-
+ogies and problems, makes our task very complex. We 
+have to focus, to unravel and analyse.
+
+Ethical issues
+
+The Council of the EU in early 2010 gave the following 
+definition:
+
+‘Security means protecting people and the values of 
+freedom and democracy, so that everyone can enjoy 
+their daily lives without fear.’
+
+The  1994  UNDP  Human  Development  Report  (HDR) 
+(UNDP  1994)  synthesised  threats  to  human  security  in 
+seven  components:  economic,  food,  health,  environ-
+mental, personal, community and political security (5).
+
+Privacy
+
+Privacy also is a complex notion. There is a lot of debate 
+on different forms of privacy and different definitions.
+
+In the report on challenges for the EU, scholars distinguish 
+between physical (related to physical protection), psycho-
+logical (related to personal autonomy), economic (related 
+to  property),  informational  (related  to  personal  informa-
+tion) and decisional (related to decisional power) privacy. 
+In  fact,  privacy  means  different  things  in  different  con-
+texts. Although the term ‘privacy’ cannot be found in all 
+languages, the experience of privacy is a cultural univer-
+sal, an essential part of human flourishing and well-being.
+
+What  are  the  ethical  issues  at  stake  when  it  comes  to 
+security and safety? (This is not an exhaustive list.)
+
+Privacy, liberty/freedom, dignity, justice, stigmatisation, 
+efficacy, proportionality.
+
+These are some ethical considerations we will discuss in 
+our opinion.
+
+And there is no agreement on the role of privacy in mod-
+ern society. There is the extreme ‘privacy is dead, accept 
+it’ view.
+
+Few,  however,  would  like  to  live  in  a  panoptic  world 
+in  which  we  are  watched  all  the  time.  Why  is  that  such 
+a nightmare? Well that is in a way a rhetorical question. 
+We flourish in freedom and the liberty to pursue our goals.
+
+Security
+
+Of course we all value security, but which security and at 
+what price? And what is security?
+
+We  flourish  if  we  can  trust  people.  It  is  almost  unbear-
+able to live in a society in which you cannot trust any-
+one, not even your loved ones.
+
+(5)  http://hdr.undp.org/sites/default/files/human_security_guidance_note_r-nhdrs.pdf
+
+21
+
+It is a dystopic scenario to imagine that someone might 
+read  your  thoughts  and  that  we  will  have  mind  scans. 
+How many enemies and how few friends we would have.
+
+In the words of David Lyon, Surveillance Studies Centre, 
+Queen’s University, Canada:
+
+‘Today’s surveillance processes and practices bespeak 
+a world where we know we are not really trusted. Sur-
+veillance  fosters  suspicion  and  thus  threatens  social 
+cohesion and solidarity. The employer who installs key-
+stroke monitors at workstations or GPS devices in ser-
+vice vehicles is saying in effect that he does not trust his 
+employees … Some of this, you object, may seem like 
+simple prudence. But how far can this go? Social rela-
+tionships depend on trust and permitting ourselves to 
+undermine it in this way seems like slow social suicide.’
+
+Therefore the right to privacy is an important right in the 
+European Convention.
+
+It can be humiliating and degrading to be observed in 
+situations that we usually consider to be intimate, per-
+sonal.  Even  against  human  dignity.  Imagine  cameras 
+watching  your  sexual  activities  or  your  other  intimate 
+behaviour. There has been a scandal over cameras put in 
+the toilets of schools.
+
+One of the criticisms of the body scan at airports is the 
+intrusiveness into our most intimate sphere.
+
+We  do  not  want  people  to  share  moments  that  they 
+were not invited to. They belong to us and not to oth-
+ers.  Recently  a  law  was  passed  in  Sweden  stating  that 
+one cannot take photographs of people unless you have 
+explicit permission. 
+
+If we are surveyed we will behave differently and lose our 
+intellectual privacy, as Neil Richards again has stressed. This 
+is the Orwellian fear of being punished for thought crime.
+
+In the words of Richards: 
+
+‘First, surveillance is harmful because it can chill the 
+exercise of our civil liberties, and because it gives the 
+watcher  power  over  the  watched.  With  respect  to 
+
+civil  liberties,  consider  surveillance  of  people  when 
+they are thinking, reading and communicating with 
+others in order to make up their minds about politi-
+cal and social issues. Such intellectual surveillance is 
+especially  dangerous  because  it  can  cause  people 
+not to experiment with new, controversial or deviant 
+ideas.  To  protect  our  intellectual  freedom  to  think 
+without  state  oversight  or  interference,  we  need 
+what I have elsewhere called “intellectual privacy”.’
+
+An  interesting issue  is: what  about  consent? Does  that 
+make it alright? Think of all the television programmes 
+that  involve  living  in  public.  Can  one  relinquish  one’s 
+right to privacy by consenting to being surveyed, filmed, 
+e.g. in television programmes?
+
+So far privacy.
+
+The ‘usual suspects’ and the problem 
+of stigmatisation
+
+Some people are ‘sorted’ out when, for example, observed 
+by CCTV. Others are not. Social sorting: the term itself is 
+actually quite frightening. This can be an intrusion into 
+privacy, and also a serious problem of justice.
+
+Think of the example of the mass fingerprinting of Roma 
+in Italy.
+
+Are we safer? Do we feel safer?
+
+Are we safe? Do we feel safe? What is the efficacy of the 
+measures? Does it lead to even more surveillance tech-
+niques?
+
+Whose data is it anyway?
+
+There are data brokers who sell data to companies who 
+may  be  interested.  Data  are  big  business.  Big  data  are 
+even  bigger  business.  This  of  course  also  gives  rise  to 
+issues of privacy, freedom and possibly justice.
+
+These are just some examples of issues.
+
+22
+
+Possible areas for recommendations
+
+It  is  too  early  to  speak  about  recommendations.  But 
+of  course  we  will  discuss  a  conceptual  issue  regarding 
+security, power and privacy.
+
+And we will look into the efficacy of measures in relation 
+to ethical acceptability.
+
+We will surely say something about:
+
+may in practice aggravate worry on the part of search 
+subjects  and  create  a  false  sense  of  security  that 
+leads  to  a  relaxation  of  other  security  procedures. 
+Finally,  a  reduction  in  privacy  may  have  a  targeted 
+negative effect on certain groups and categories. As 
+security increases, it is common that certain types of 
+individuals  are  disproportionately  included  in  the 
+false positives turned up by government surveillance 
+schemes.’
+
+•	
+
+research into the ethical, social and legal aspects;
+
+Personal view
+
+•	 privacy enhancing technologies and privacy by design;
+
+•	 privacy impact assessments;
+
+•	
+
+•	
+
+transparency;
+
+increasing  knowledge  and  awareness,  the  recent 
+events that were probably quite a shock to many citi-
+zens and options to withhold consent;
+
+•	 governance, 
+authority, etc.
+
+including  self-governance,  special 
+
+•	
+
+legal measures to curtail power, strict rules on when 
+one  can  get  data,  etc.  —  sometimes  a  ban  may  be 
+called for, e.g. on drones for private use;
+
+•	 we  will  look  into  proportionality  and  contextuality. 
+Some measures may be justified in one case but not 
+in the other.
+
+And how to balance all that.
+
+It is insightful that, in an EU report, it is stated that 
+
+‘The  balance  model  is  nevertheless  problematic, 
+since  any  reduction  in  privacy  to  increase  security 
+tends  to  create  new  forms  of  insecurity.  The  crea-
+tion  of  centralised  data  banks  that  facilitate  law 
+enforcement can also expose personal data to new 
+risks related to misuse and theft. Technological body 
+searches (e.g. metal detectors, advanced body scan-
+ners) that in theory should prevent terrorist attacks 
+
+It is interesting that we often think of regulation and the 
+authorities  doing  something  to  resolve  our  problems. 
+And  of  course  that  is  needed.  But  that  does  not  mean 
+that  individuals  cannot  contribute,  even  by  means  of 
+old-fashioned virtues.
+
+Emilio  Mordini,  the  Italian  expert  on  surveillance  and 
+ethics, stresses politeness. I would also like to stress that 
+discretion as a sign of respect for others is a virtue that 
+somehow seems to have got lost. Respecting other peo-
+ple’s privacy and knowing that some things should stay 
+private, some secrets should be respected, would help. 
+We all are curious enough to want to be a fly on the wall 
+sometimes — well I am — but we don’t want a drone fly 
+(and they exist) to be in our bedroom, reporting every-
+thing to who knows who.
+
+This is what the EGE will discuss.
+
+References
+
+European  Commission,  ‘Ethical  and  regulatory  chal-
+lenges to science and research policy at the global level’, 
+2012.
+
+House of Lords, ‘Surveillance: citizens and the state’, 2009.
+
+Lyon,  D.,  ‘Surveillance  society’,  talk  for  the  Festival 
+Diritto, Italy, 2008.
+
+Richards,  N.,  ‘The  dangers  of  society’,  Harvard  Law 
+Review, Vol. 126, No 7, 2013.
+
+23
+
+Professor Inez de Beaufort
+
+24
+
+25
+
+2626
+
+2727
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+EGE round table on the ethics of 
+security and surveillance technologies
+
+Mr Hendrik 
+Keersmaekers
+
+(Legal Affairs Manager, G4S)
+
+Hendrik  Keersmaekers  studied  law  at  KU  Leuven,  Bel-
+gium,  holds  an  LL.M.  in  international  and  comparative 
+law from McGill University, Canada, and a DES in envir-
+onmental and public law from FUSL, Belgium. Hendrik is 
+a former member of the Brussels bar, and is currently legal 
+affairs manager at G4S Belgium, where he is responsible 
+
+for the BELUX region. Hendrik represents G4S within the 
+trade  association  for  guarding  companies  APEG-BVBO, 
+is a member of various professional legal organisations, 
+a member of the redaction board of Private Veiligheid — 
+Sécurité  Privé  and  the  author  of  articles  and  contribu-
+tions on various legal and security-related topics.
+
+61
+
+Ethics and security in a changing world — the 
+industry perspective
+
+We endeavour to create partnerships with our clients in 
+order to develop and modify the chosen security solu-
+tions to adapting circumstances.
+
+Round table on the ethics of security and 
+surveillance technologies
+
+A changing security environment
+
+In a fast-changing world, both on account of technologi-
+cal developments, security threats and of expectations 
+of  society,  the  private  security  industry  needs  to  focus 
+on  security  solutions  that  respond  to  these  facts.  For 
+G4S,  faced  with  these  developments,  good  corporate 
+citizenship works around four cornerstones: a solid focus 
+on  prevention;  a  clear,  transparent  and  flexible  regula-
+tory  framework;  which  is  practical  and  balanced;  and 
+allows for partnerships between the industry, the public 
+authorities and the public at large. Taking up its role in 
+the public security debate is for G4S part and parcel of 
+ethical behaviour.
+
+Introduction
+
+First and foremost, please allow me to thank you for the 
+invitation to the round table and the opportunity to pre-
+sent our views on the ethics of security and surveillance 
+technologies. As legal affairs manager for G4S Belgium, 
+managing  risks,  also  of  an  ethical  nature,  is  what  I  am 
+mostly  confronted  with.  I  am  therefore  pleased  to  join 
+this debate.
+
+On G4S
+
+G4S is a world leader in providing security and surveil-
+lance solutions. We are active worldwide, in more than 
+125 countries, and employ over 675 000 employees. In 
+Belgium  we  work  for  international  institutions  (among 
+others in this very building), airports, ports, large indus-
+tries, office environments, SMEs, the retail business, hos-
+pitals, sports facilities, events and home owners. We pro-
+vide  a  mix  of  security  solutions,  consisting  of  manned 
+guarding,  remote  monitoring,  surveillance  technolo-
+gies,  security  audits  and/or  training  services.  Our  cli-
+ents  are  individuals,  companies  or  public  authorities. 
+
+In  today’s  world  we  are  faced  with  four  facts  that 
+determine  our  role:  security  is  challenged  increasingly 
+and  security  threats  change  rapidly,  e.g.  international 
+threats,  cross-border  crime,  organised  crime,  targeting 
+specific  targets  such  as  private  homes,  retail  environ-
+ments, certain valuables, (air)ports or international insti-
+tutions. Perhaps because of this there has been a sharp 
+rise in security awareness since incidents such as 9/11. 
+Our  industry  faces  a  regulatory  framework  which  is 
+expanding, and obviously technology is changing at an 
+ever-growing pace.
+
+Facing  these  developments,  one  must  continuously 
+question how to act as a responsible corporate citizen. 
+For G4S, this works around four main milestones: focus 
+on  prevention,  uphold  regulation,  promote  feasibility 
+and practicability, and foster partnerships.
+
+Good corporate citizenship
+
+First and foremost, our industry is all about prevention: 
+the solutions we offer, the needs of our clients, the con-
+cerns of our employees — nobody wants the very secu-
+rity  threats  we  deal  with  to  occur.  The  very  essence  of 
+our  business  is  prevention,  and  minimising  harmful 
+behaviour is therefore our prime ethical motive.
+
+For G4S, the most effective prevention consists of a com-
+bination  of  manned  guarding,  remote  monitoring  and 
+surveillance  equipment,  and  visible  solutions  with  the 
+aim of deterring — the dissuasion effect. If an incident 
+occurs, these measures result in evidence that our clients 
+(or police authorities) may use to uphold their rights. It’s 
+also about organising effective response when an inci-
+dent occurs, making sure our clients’ goods and prem-
+ises are affected at little as possible. We see security as 
+
+62
+
+a basic right for all and crime prevention as a matter for 
+both the public and the private sector.
+
+Good  corporate  citizenship  in  this  sense  includes,  for 
+G4S,  a  solid  focus  on  diversity  in  recruitment,  equal 
+opportunity  and  health  and  safety  for  all  our  employ-
+ees, with an important focus on training and screening. 
+Our  goal  is  to  create  opportunities  through  objective 
+recruitment  criteria  and  training  regardless  of  back-
+ground  or  level  of  education.  Many  job  candidates, 
+without  any  background  in  security,  join  G4S  and  are 
+able to give their career a new start through our train-
+ing programmes. Lastly, good corporate citizenship for 
+G4S and its employees means compliance with all appli-
+cable regulations and guidelines (both legal obligations 
+as contractual agreements or clients’ on-site guidelines).
+
+A  second  milestone  is  the  importance  of  a  regulatory 
+framework which is clear and transparent, and balanced, 
+taking into account the rights and responsibilities of all 
+stakeholders concerned — private industry, the general 
+public and the public authorities involved when it comes 
+to security (police, judicial authorities, local authorities). 
+A regulatory framework which applies to all concerned 
+and creates a level playing field, in which it is clear what 
+to expect from all actors in this debate and by which all 
+industry players are treated equally — which is impor-
+tant for legal certainty but also for competitive fairness 
+and to avoid free riders.
+
+It  is  of  great  importance  that  regulations  focus  on  the 
+essence and on practical solutions, and strike the right 
+balance  between  the  rights  and  obligations  of  all  con-
+cerned.  We  subscribe  in  this  respect  to  the  principle 
+of  proportionality,  meaning  —  also  for  legislators  — 
+that  regulatory  measures  should  be  proportionate  to 
+the  objective  they  seek  to  fulfil.  Outright  prohibitions 
+should be avoided when measures with smaller impact 
+resulting in like effects would do the job. This of course 
+requires  flexibility  from  lawmakers  to  meet  the  chang-
+ing  needs  of  society,  of  the  security  industry  and  of 
+technological  developments.  Such  flexibility  should  be 
+incorporated  into  the  regulatory  framework  through, 
+for  example,  sunset  clauses  or  life-cycle  analysis-type 
+clauses for technological developments.
+
+The search for practical solutions and feasibility is there-
+fore of the essence: an ethical rule is a rule that works in 
+practice,  not  only  in  theory.  Our  regulatory  framework 
+should either be practical, or should not exist. Transpar-
+ency, for example by using easy-to-use techniques, pic-
+tograms,  security  methods.  Deadlines  and  transitional 
+periods  which  work  in  practice.  Prior  information  and 
+consultation with the industry sector, and hearing what 
+they have to say. Easy-to-use solutions are key. Balanced 
+and proportionate, without the prohibition of technolo-
+gies or use thereof for one actor that is lawful for another 
+without profound reason.
+
+Lastly, our industry advocates partnerships between all 
+partners in the security debate. G4S believes that, in the 
+currently  ongoing  debate  on  the  core  activities  of  the 
+police  and  judicial  authorities,  private  industry  can  act 
+as  partner  for  certain  tasks  and  activities  (more  of  an 
+administrative  or  support  nature)  so  public  authorities 
+can focus on their core activities. This of course requires 
+openness  and  flexibility  from  both  sides.  It  requires 
+guarantees  from  private  industry,  in  terms  of  training, 
+screening and confidentiality, of a high standard. G4S is 
+ready to take up its role in the public security environ-
+ment, and is doing so already in numerous EU countries: 
+Belgium  (ports,  airports,  public  buildings,  international 
+institutions), the Netherlands (immigration centres), the 
+United Kingdom (prisons, detention centres, police cen-
+tres) and numerous other countries.
+
+Conclusion
+
+In conclusion, I believe it is fair to say that the security 
+world  changes  rapidly,  on  account  of  technological 
+developments,  the  type  and  nature  of  security  threats 
+and the expectations of society towards security in gen-
+eral. For G4S, faced with these developments, good cor-
+porate citizenship works around four milestones: a solid 
+focus  on  prevention;  a  clear,  transparent  and  flexible 
+regulatory framework; which is practical and balanced; 
+and  allows  for  partnerships  between  the  industry,  the 
+public authorities and the public at large. Taking up its 
+role in the public security debate is for G4S part and par-
+cel of ethical behaviour.
+
+63
+
+Mr Hendrik Keersmaekers
+
+Ethics and Security in a changing world – the 
+Industry Perspective
+
+EGE Round Table on the Ethics of Security and 
+Surveillance Technologies
+
+Brussels, 18 September 2013
+Hendrik Keersmaekers
+Legal Affairs Manager – G4S
+
+G4S Group
+
+G4S present globally, in more than 125 countries, with over 
+675.000 employees
+G4S Belgium : international institutions, airports, ports, large 
+industries, office environments, retail, SMEʼs, hospitals, 
+sports facilities, events, homes.
+
+64
+
+G4S Group
+
+Security today = combination of audits & training, manned-guarding, 
+remote monitoring and surveillance technologies
+“clients” are individuals, private companies and public authorities
+Focus on flexible, integrated security solutions in partnership with 
+clients
+
+Ethics and Security
+
+4 Facts facing the Security and Surveillance Industry
+
+Increasing security challenges (e.g. international, organised, 
+targeted)
+Rise in public security awareness
+Expanding regulatory framework
+Ever-changing technology
+
+4 Cornerstones of Ethical behaviour in the Security and Surveillance 
+Industry
+
+Focus on Prevention
+Uphold Regulation
+Promote Feasibility / Practicability
+Foster Partnerships
+
+65
+
+Prevention
+
+Cornerstone 1 : Ethics of the Security Industry = Prevention
+Ethical behaviour of a good corporate citizen starts with focus on 
+prevention
+
+Prevention = how to minimise harmful behaviour
+
+• Combination of manned guarding, remote monitoring and surveillance equipment 
+
+results in visible security – dissuasion
+
+• Establish proof for prosecution / damage claims
+• Organise effective response to potential security incidents
+
+Security = a basic right, both on individual level as society level
+Crime Prevention & Security = a matter of both public and private sector
+
+For G4S, ethical corporate citizenship includes
+
+focus on diversity in the workforce, equal opportunity, H&S
+focus on security training and screening
+
+= creating opportunities through objective recruitment criteria and training 
+regardless of level of education
+
+focus on compliance
+
+Regulation
+
+Cornerstone 2 = the importance of regulatory framework
+
+A clear, transparent regulatory framework
+Taking into account the rights and responsibilities of all stakeholders 
+(industry – general public – police authorities)
+Creating a level playing field for all actors concerned
+• Towards society : clear what to expect from industry players
+•
+
+Internal : all industry players equally treated – competitive concern –
+no free-riders
+
+Focussing on the essence : practical solutions, balance between 
+rights and obligations (proportionality)
+Flexible enough to meet the challenges of technological evolution
+• = requires flexibility from lawmakers
+• = ideally “incorporated” in regulations
+
+e.g. sunset clause, “life-cycle analysis” clause for technological / society evolution  
+
+66
+
+Feasibility
+
+Cornerstone 3 : promotion of feasible / practical solutions
+Regulatory framework should be practical or not be
+•
+
+transparancy e.g. by using easy to use, uniform pictograms; 
+straightforward methods
+
+• Feasible deadlines / transition periods
+• Prior information and consultation of industry
+Upholding regulations that are not feasible in practice, is harmful for 
+all stakeholders involved – industry, general public, public 
+authorities.
+Focus on easy solutions – keep it simple
+Focus on balance between stakeholders : donʼt necessarily prohibit 
+what is lawful for other stakeholders
+
+Privacy rules, Private Security regulations, rules on the use of CCTV 
+equipment, etc should always focus on transparency, proportionality 
+and practicality.
+
+Partnerships
+
+Cornerstone 4 : the fostering of Partnerships
+
+All stakeholders are Partners in the Security Debate
+Core activities of public authorities versus “administrative” or 
+“support” tasks
+Role of Private Security Industry = an effective partner for public 
+authorities, taking over “administrative” or “support” tasks so public 
+authorities can focus on their core business
+Requires flexibility and openness from both sides
+
+Private Security Industry is ready to take up its role in the public 
+security environment – and is doing so in numerous EU countries.
+
+e.g. in ports and airports (BE)
+
+e.g. in migration centers (NL)
+e.g. in prisons and detention centers (UK)
+e.g. in police stations and community centers (UK)
+
+67
+
+Conclusion
+
+Changes in security threats, expectations of society, expanding 
+legislative requirements and technological developments are here to 
+stay (and even increase in impact)
+For G4S, when facing these developments, good corporate 
+citizenship and ethical behaviour works around 
+• Prevention / equal opportunity / training / compliance
+• A clear and transparant regulatory framework
+• Which is practical and balanced
+• And promotes partnerships with authorities, the public at large
+G4S calls on lawmakers to create clear, practical and flexible rules, 
+and to jointly promote these partnerships.
+
+G4S – contact us
+
+Hendrik Keersmaekers
+Legal Affairs Manager
+G4S Belgium
+Koning Boudewijnlaan 30
+1800 Vilvoorde
+
+t : 00 32 499 86 12 35
+@ : hendrik.keersmaekers@be.g4s.com
+
+68
+
+TEAMWORK & 
+COLLABORATION
+
+BEST PEOPLE
+
+CUSTOMER FOCUS 
+
+EXPERTISE
+
+INTEGRITY
+
+PERFORMANCE
+
+69
+
+EGE round table on the ethics of 
+security and surveillance technologies
+
+Dr Ben Hayes
+
+(Statewatch)
+
+Dr Ben Hayes has worked for the civil liberties organisation 
+Statewatch since 1996 and is a fellow of the Trans national 
+Institute.  He  has  written  extensively  on  the  impact  of 
+international surveillance, security and counterterrorism 
+policies  and  EU  justice  and  home  affairs  law.  Dr  Hayes 
+also works as an independent researcher and consultant 
+to NGOs and IGOs such as the European Centre for Consti-
+
+tutional and Human Rights, the European Parliament, the 
+Centre for European Policy Studies and the Heinrich Boll 
+Foundation.  He  been  involved  in  various  ethical  review 
+groups  relating  to  EU-funded  security  projects  and  pro-
+vided extensive advice to the European Commission on 
+its  security  research  programme.  For  more  information 
+see: http://www.tni.org/users/ben-hayes
+
+71
+
+Thanks for having me here.
+
+This  initiative  is  something  I’ve  long  advocated  so  I’m 
+delighted to see the EGE now addressing these issues.
+
+My talk today is going to draw on my experience of the 
+EU security research programme, about which I’ve writ-
+ten several critical reports.
+
+I  guess  I’m  broadly  interested  in  the  consequences  for 
+civil liberties of throwing taxpayers’ money at the devel-
+opment of new security technologies in the absence of 
+meaningful democratic controls.
+
+My criticism of EU security research funding — which has 
+already totalled EUR 1.5 billion to date and which is going 
+to  be  worth  much  more  as  the  new  Horizon  2020  pro-
+gramme gets underway — stems from the three guiding 
+principles on which this programme has been developed:
+
+•	 we need to develop technologies to help us fight ter-
+rorism,  crime,  immigration,  crisis  situations,  etc.  — 
+we could talk about what that means but let’s leave 
+those aside for now;
+
+•	 we need to support the transfer of technologies from 
+the military to the civilian domain to help us do this;
+
+•	 we  need  to  subsidise  the  development  of  the  EU 
+security industry so they can compete in the increas-
+ingly lucrative global market for ‘homeland security’.
+
+I’ve argued that these premises — which are mirrored in 
+the EU Member States and copied from the United States 
+—  have  essentially  unleashed  a  new  kind  of  arms  race, 
+one in which all the weapons are steadily turning inwards, 
+as governments move away from external threats to the 
+threats allegedly posed by their own citizens.
+
+Since  writing  these  reports  I’ve  spent  far  longer  than 
+I could ever have imagined looking at how EU security 
+research is done. I’ve sat on three European Commission 
+advisory groups; I’ve been an ethical reviewer of funding 
+applications for the EC; and I’ve sat on ethical advisory 
+boards for EU security projects.
+
+So what I’m going to say today is very much influenced 
+by the practical experience of how ethics are addressed 
+in the security research field at the EU level.
+
+And I’m going to talk about two of my research interests 
+— drones and surveillance technologies — to try to help 
+us think through the problems of applying and enforc-
+ing meaningful ethical standards.
+
+But  I  want  to  preface  what  I’m  about  to  say  by  stat-
+ing  that  I’m  fairly  cynical  about  what  can  be  achieved 
+through the application of ‘better ethics’ because I think 
+that many of the problems that we face are fundamen-
+tally of a political and legal nature.
+
+Political in the sense of the  mania for all things home-
+land security that I’ve written about in my work over the 
+past decade.
+
+Legal in the sense of the failure of the law to keep pace 
+with  the  proliferation  of  new  security  and  surveillance 
+technologies — which brings us back to politics again.
+
+So to temper my cynicism I want to start by encouraging 
+you to be as ambitious as you can in your forthcoming 
+opinion.
+
+I for one find it extremely troubling that while the pur-
+veyors  and  users  of  some  new  security  technologies 
+have  clearly  lost  their  moral  compass,  we  still  haven’t 
+managed to develop anything like the kind of dedicated 
+ethical  frameworks  that  exist  for  the  development  of 
+medicine or biotechnologies in the security field.
+
+This despite the billions that we’re throwing at it and the 
+obvious threats to values that society holds dear.
+
+On the contrary, all we’ve really done is borrow from those 
+other fields with the result — at least at the EU level — that 
+ethics in the security field still resembles little more than 
+a checkbox exercise: animals (no), children (no), informed 
+consent (yes), data protection (yes) and so on.
+
+Unless  we  can  move  beyond  this,  I  fear  our  time  here 
+may be wasted.
+
+72
+
+So let’s start with drones, or unmanned aerial vehicles, 
+or remotely piloted vehicles as industry now prefers us 
+to call them. I’m going to call them drones.
+
+Drones  have  sadly  become  synonymous  with  the  tar-
+geted killing programme of the United States in which 
+pilotless  aircraft  controlled  by  domestic  operators  are 
+sent  to  deliver  precision  missile  strikes  in  places  like 
+Afghanistan, Pakistan, Yemen and Somalia.
+
+Except  that  they’re  not  apparently  all  that  precise  and 
+countless  innocents  have  died.  That’s  not  the  fault  of 
+drone  technology,  of  course,  that’s  the  fault  of  the  US 
+government  and  an  international  community  that  has 
+failed to check their use.
+
+So  that’s  how  we  perceive  of  drones  now,  but  this  is 
+apparently just the beginning of the drone revolution.
+
+Drones  are  going  to  get  smarter;  they’re  going  to  get 
+smaller.
+
+And they’re going to get much more problematic from 
+a civil liberties perspective. The drone industry promises 
+a world awash with drones:
+
+•	 microdrones,
+
+•	
+
+surveillance drones,
+
+•	 weaponised drones,
+
+•	
+
+less lethal drones,
+
+•	 autonomous drones — and we’re talking here about 
+
+both flight and target acquisition,
+
+•	 aggressive drones,
+
+•	 defensive drones,
+
+•	 passive drones,
+
+•	
+
+life-saving drones,
+
+•	 passenger-carrying drones,
+
+•	 even  drones  that  deliver  the  mail,  if  the  industry 
+
+salesman are to be believed.
+
+It seems to me that the fundamental question for ethics 
+that the drone revolution now poses, and please excuse 
+me for oversimplifying things, is how to stop the devel-
+opment of the ‘bad drones’, for want of a better descrip-
+tion, without impeding the development of drones for 
+legitimate purposes, of which there are surely many.
+
+Before we try to answer that question its worth looking at 
+what’s  happening  in  the  EU,  which  has  decided  that  we 
+need to invest heavily in the good drones to enhance both 
+our security and our global competitiveness. For example:
+
+•	
+
+•	
+
+the  drones  that  we’re  going  to  use  to  intercept 
+unwanted  migrants  and  refugees  in  the  Mediterra-
+nean;
+
+the drones that we need to use to stop stolen or sus-
+picious vehicles autonomously;
+
+•	 and the drones that we’re going to use for search and 
+rescue and crisis management in the event of man-
+made or natural disasters.
+
+All of these are actual EU-funded research and develop-
+ment projects by the way.
+
+The EU is also making substantial investments in generic 
+drone technologies and the infrastructure needed to fly 
+them  —  satellite  navigation  systems,  communications 
+systems,  air  traffic  control  systems,  collision  avoidance 
+systems,  autonomous  flight  and  targeting  capacities 
+and so on.
+
+Our research suggests that the EU’s drone investment is 
+already fast approaching EUR 500 million and is likely to 
+increase substantially over the coming years.
+
+And while it hasn’t funded any of the really bad drones — 
+the  autonomous  killing  machines  that  so  many  have 
+warned  of  —  it  is  simultaneously  subsidising  many  of 
+
+73
+
+the components used by those drones and the defence 
+conglomerates that are making them.
+
+All  of  this  in  the  name  of  ensuring  that  drones  can  be 
+introduced into Europe’s civilian airspace by 2028.
+
+What are the problems with this approach and what is 
+the role of applied ethics here?
+
+To my mind the principle problem is one of dual use. We 
+are  funding  technologies  in  the  name  of  civil  security 
+that are every bit as likely to be used in a military scenario 
+or for new forms of highly militarised internal security.
+
+I also fear that once the genie is out of the bottle in terms 
+of  the  technology  —  be  it  military,  surveillance,  less 
+lethal or whatever — it is extremely difficult if not impos-
+sible to put it back in. The technology is ubiquitous and 
+the technological development is spread across global 
+production and development lines.
+
+So what can be done?
+
+I  think  that  we  obviously  need  to  think  very  carefully 
+about  how  to  prevent  new  drone  technologies  being 
+used for nefarious purposes.
+
+I  think  we  need  to  think  about  research  and  develop-
+ment, not just the use of new technologies.
+
+I think we need to think about dual use and whether we 
+have the proper safeguards in place to prevent nefarious 
+technologies  being  developed  on  the  back  of  benign 
+investment.
+
+Is the fact that the same GPS applications and satellites 
+are  used  to  fly  armed  drones,  surveillance  drones  and 
+guided missiles an issue that can be addressed through 
+applied ethics?
+
+How can dual use controls be effective when security is 
+the new defence, to coin a well-worn phrase?
+
+Is  it  relevant  that  security  technologies  subject  to 
+notional democratic control in the EU can become overt 
+
+instruments of repression in the hands of undemocratic 
+governments  (a  problem  made  more  pressing  by  the 
+absence of effective export controls)?
+
+What is the role of applied ethics in the governance of 
+new security technologies? At present it plays no formal 
+role — why? How does this compare to other new fields 
+and technologies?
+
+Ultimately I think we’re going to have to start thinking 
+and talking about red lines — a list of banned applica-
+tions and such like.
+
+And, given the failure of politicians and lawyers, we need 
+ethicists, among others, to tell us where those red lines 
+are.
+
+Now a few words about surveillance technologies.
+
+When  I  started  at  Statewatch  in  1996  we  were  on  the 
+cusp of the current surveillance revolution.
+
+Prior  to  that  point,  surveillance  was  targeted  at  sus-
+pected  individuals  and  regulated  by  the  judiciary, 
+through warrants and legal controls.
+
+Since  then  we  have  moved  rapidly  towards  an  era  of 
+mass surveillance in which everyone is considered a pri-
+ori a suspect, and in which many of the entities doing the 
+surveillance are now self-regulating rather than strictly 
+controlled by the judiciary.
+
+I’ve also argued that the post-9/11 confluence of politi-
+cal  and  economic  relations  has  created  a  surveillance-
+industrial  complex  in  Europe,  and  that  left  unchecked 
+this promises to deliver ever more powerful surveillance 
+technologies in perpetuity.
+
+The genie is already out of the bottle and, as more and 
+more  of  our  social  and  material  lives  move  online,  the 
+more difficult it is to put it back in.
+
+Edward  Snowden  has  revealed  not  just  the  extent  of 
+communications surveillance in the US, but the way in 
+which  the  NSA  was  evidently  trying  to  build  an  infra-
+
+74
+
+structure in which its analysts could effectively Google 
+the profiles and social networks of citizens and suspects 
+and foreigners alike.
+
+You  may  say  this  is,  again,  a  US  problem  and  one  that 
+can be solved through better regulation of the US intel-
+ligence services.
+
+I would argue that what Snowden has shown us is the 
+tendency  innate  to  the  development  of  surveillance 
+and security systems — the idea that we should use all 
+available information to develop as detailed as possible 
+a  profile  of  individuals  and  to  use  what  is  now  being 
+called ‘big data’ to identify risks in large populations.
+
+We see this in the commercial world, at the border and 
+in our intelligence and security apparatuses, and we’re 
+going to see it more and more in the workplace, on our 
+streets and in cyberspace.
+
+We’re also going to see the same kind of automation and 
+targeting technology being developed for drones being 
+used for surveillance systems — smart CCTV for example.
+
+Of course, we do have laws and principles and standards 
+that should govern the use of surveillance, but as I said 
+earlier  these  have  not  kept  pace  with  technological  or 
+practical developments.
+
+Surveillance should, according to established principles 
+of international law and jurisprudence:
+
+•	 only be used where information cannot be obtained 
+
+using less intrusive means;
+
+•	 be targeted rather than indiscriminate;
+
+•	 be prescribed by law and under judicial control;
+
+•	 be  legitimate  and  proportionate  in  a  democratic 
+
+society;
+
+•	 be  transparent  and  accountable,  and  individuals 
+
+should be able to challenge its use and effect.
+
+Moreover, the use of data collected through surveillance 
+must be restricted (the so-called purpose limitation prin-
+ciple), and sensitive data such as that revealing racial ori-
+gin, political beliefs and affiliations, genetic characteris-
+tics and so on should be subject to an even higher level 
+of protection.
+
+But  policy  and  principle  appear  to  have  long  since 
+parted company, a situation which should be modestly 
+improved  by  the  new  EU  data  protection  regulation, 
+which  thanks  to  Edward  Snowden  is  now  likely  to  be 
+stronger than it otherwise would have been.
+
+But  protecting  the  personal  data  gathered  by  private 
+entities  is  not  the  same  as  regulating  surveillance, 
+never mind mitigating its obviously corrosive effects on 
+democracy or human rights.
+
+So what is the role for ethics here?
+
+I’d  like  to  think  that  rigorous  ethical  standards  might 
+prevent  the  development  of  surveillance  technologies 
+whose  deployment  would  obviously  be  contrary  to 
+international law, but I was forced to resign from an EC 
+advisory group on ethics after being accused of trying to 
+use ethics to enforce the law.
+
+So I’ll finish with a few things that you might like to think 
+about.
+
+Is it ethical to develop surveillance technologies whose 
+use  would  breach  the  legal  standards  and  principles 
+I mentioned a moment ago?
+
+When  is  surveillance  necessary  and  proportionate  in 
+a  democratic  society?  Why  aren’t  we  even  thinking 
+about — never mind investing in — alternatives to sur-
+veillance and control?
+
+Just  because  commercial  entities  are  building  up 
+detailed  profiles  about  their  customers,  does  the  state 
+have  the  right  to  access  them,  or  to  build  up  its  own 
+detailed profiles?
+
+75
+
+Why do we talk about surveillance as if all forms of sur-
+veillance are the same?
+
+Isn’t it ridiculous to argue that just because people have 
+accepted  CCTV/surveillance  cameras,  they  must  there-
+fore be accepting of smart CCTV and surveillance cam-
+eras that they can’t even see?
+
+Shouldn’t people have a reasonable expectation of pri-
+vacy  in  public  places  and  on  public  communications 
+networks?
+
+We wouldn’t accept state agents recording and analys-
+ing every conversation we have in a park or a restaurant, 
+so why do we accept the argument that social networks 
+and websites are fair game?
+
+When is data mining acceptable in a security context?
+
+And  how  do  we  measure  its  acceptability  or  effective-
+ness?
+
+I  think  that  civil  libertarians  and  ethicists  would  prob-
+ably agree on the answers to many of these questions; 
+the difficulty is translating those answers into the practi-
+cal tools we need to defend our democracy and human 
+rights and hope that the EGE can make a much needed 
+contribution in this regard.
+
+Thanks again.
+
+76
+
+EGE round table on the ethics of 
+security and surveillance technologies
+
+Professor Giorgio 
+Agamben
+
+(University of Verona)
+
+Giorgio  Agamben  graduated  from  the  University  of 
+Rome after writing a dissertation on the political thought 
+of Simone Weil. In the 1960s he was close friends with 
+Elsa  Morante,  Pier  Paolo  Pasolini  and  Ingeborg  Bach-
+mann. 
+
+In 1966 and 1968 he participated in Martin Heidegger’s 
+Le Thor seminars (on Heraclitus and Hegel).
+
+From  1970 to 1974  he  lived  in  Paris,  where  he  taught 
+Italian  at  the  University  of  Haute-Bretagne.  He  studied 
+linguistics  and  medieval  culture.  He  was  friends  with 
+Pierre Klossowski and Italo Calvino.
+
+From  1975 to 1975  he  conducted  research  at  the  War-
+burg Institute library in London. He worked on the book  
+Stanzas: Word and Phantasm in Western Culture (Einaudi, 
+1997).
+
+Returning  to  Italy  in  1978  he  edited  the  Italian  edition 
+of  the  complete  works  of  Walter  Benjamin  for  Einaudi, 
+containing important manuscripts.
+
+From  1968 to 1993  he  was  director  of  programmes  at 
+the Collège International de Philosopbie (Paris). 
+
+From 1988 to 2009 he taught at the Universities of Mac-
+erata, Verona and Venice. 
+
+He  began  to  work  on  political  philosophy  from  the 
+1990s. By rereading Aristotelian politics, and the ideas of 
+Michel Foucault and Carl Schmitt, he developed a theory 
+on the relationship between law and life and a criticism 
+of the concept of sovereignty (Homer Sacer I: Sovereign 
+Power  and  Bare  Life  (Einaudi,  1995)  followed  by  Homer 
+Sacer II: State of Exception (Bollati 2003)), which marked 
+a new direction in contemporary political thought.
+
+Since 1994 he has been a visiting professor at universi-
+ties in America (Berkeley, Harvard, Princeton, Los Ange-
+les and Evanston).
+
+He was appointed Distinguished Professor at New York 
+University in 2003, but he left the post in protest against 
+the United States’ government policy.
+
+He has received an honorary doctorate from the univer-
+sities of Fribourg (Switzerland), Buenos Aires and Rio de 
+la Plata (Argentina) and is an Albertus Magnus professor 
+at the University of Cologne. He was awarded the Leo-
+pold Lucas Prize in 2012 by the University of Tübingen.
+
+77
+
+Présentation (original version in French)
+
+Lorsque j’ai reçu votre invitation, j’ai tout d’abord pensé 
+que la seule façon juste d’y répondre était de venir ici et 
+de me taire. Car, aujourd’hui, on est arrivé à un tel point en 
+matière d’éthique qu’accepter la discussion signifie avoir 
+déjà cédé sur l’essentiel. L’éthique ne peut jamais consis-
+ter dans l’acceptation de facto d’une situation inhumaine 
+et  la  prétention  d’y  poser  des  limites  de  jure.  Si,  après 
+la  décision  sur  la  «solution  finale»,  on  avait  trouvé  des 
+experts pour s’asseoir autour d’une table et discuter de la 
+légitimité des camps et de la façon de les rendre un peu 
+moins atroces, on aurait estimé que ces gens-là étaient 
+éthiquement  aveugles.  Pourtant,  nous  savons  que  des 
+commissions de la Croix-Rouge ont bel et bien visité cer-
+tains camps et donné des avis et des conseils tout à fait 
+modérés de cet ordre. Ces responsables auraient dû faire 
+l’objet d’un procès comme les commandants des camps, 
+même si, comme cela a été le cas pour l’architecte d’Aus-
+chwitz (qui avait fait ses études au Bauhaus), il est pro-
+bable qu’ils eussent été absous. Actuellement, il semble 
+que  l’éthique  professionnelle  ne  consiste  pas  à  refuser 
+de faire ce qui est inhumain, mais uniquement à le faire 
+selon  les  règles  techniques  de  la  profession.  Je  dis  cela 
+car il y a en ce moment même des architectes célèbres 
+qui bâtissent en Chine des villes nouvelles où le gouver-
+nement  chinois  va  loger  des  millions  de  personnes  qui 
+ont  été  déplacées  contre  leur  volonté,  sans  se  deman-
+der s’il est légitime de collaborer ainsi à ce qu’il faut bien 
+appeler une déportation.
+
+Bien  sûr,  aujourd’hui,  personne  n’admettrait  de  telles 
+discussions  sur  Auschwitz.  On  trouve  cependant  légi-
+time  de  discuter  du  nucléaire,  bien  qu’un  jour  on  esti-
+mera peut-être que ceux qui le font sont tout aussi éthi-
+quement  aveugles,  mais  ce  genre  d’aveuglement  est 
+une pathologie aujourd’hui très répandue, surtout chez 
+ceux qui se déclarent experts en bioéthique.
+
+Or,  dans  une  toute  autre  sphère,  qui  est  celle  du  gou-
+vernement des hommes, j’estime que la formule qu’on 
+entend  constamment  dans  toute  l’Europe  aujourd’hui: 
+«pour  des  raisons  de  sécurité»  («for  security  reasons», 
+«per ragioni di sicurezza», etc.) ne peut pas être acceptée 
+en tant que base de discussion. Mais, au lieu de me taire, 
+
+j’estime pour une fois devoir essayer de vous exposer les 
+raisons de ce refus.
+
+Il  s’agit  tout  d’abord  de  comprendre  le  but  véritable 
+des mesures de sécurité, qui n’est pas, comme on pour-
+rait le croire, de simplement prévenir des dangers, des 
+troubles, voire des catastrophes. Il me faudra pour cela 
+retracer brièvement les origines du concept de sécurité. 
+Il va de soi qu’il ne saurait être question ici de retracer 
+l’histoire  de  la  notion.  Les  recherches  historiques  dans 
+ce domaine sont d’ailleurs tout à fait insuffisantes, car on 
+y  voit  confondus  des  notions  et  des  dispositifs  hétéro-
+gènes, et ces dispositifs sont par ailleurs traités sans tenir 
+aucun compte de la stratégie dans le cadre de laquelle 
+ils sont employés. Ainsi, il semble tout à fait correct de 
+faire  remonter  les  origines  de  la  sécurité  au  célèbre 
+proverbe  romain  Salus  publica  suprema  lex  et  d’en  ins-
+crire  l’histoire  dans  le  paradigme  de  l’état  d’exception. 
+On devra alors mentionner le senatus consultum ultimum 
+et la dictature à Rome, le principe du droit canon selon 
+lequel  necessitas  legem  non  habet,  les  Comités  de  salut 
+public  pendant  la  Révolution  française  et  la  Constitu-
+tion  du  22  frimaire  de  l’an  VIII  (1799),  qui  évoque  spé-
+cifiquement  «les  troubles  qui  menaceraient  la  sécurité 
+de l’État», jusqu’au fameux article 18 de la Constitution 
+de  Weimar,  qui  fut  le  fondement  juridique  du  régime 
+national-socialiste et dans lequel la sécurité publique est 
+expressément mentionnée.
+
+Une  telle  généalogie  est  sans  doute  correcte,  mais  elle 
+ne  nous  permet  pas  de  comprendre  les  dispositifs  de 
+sécurité qui nous sont familiers. Tandis que les dispositifs 
+d’exception  visaient  un  état  essentiellement  provisoire, 
+une menace immédiate et réelle qu’il fallait à tout prix éli-
+miner, en suspendant pour un temps limité les garanties 
+de la loi, les raisons de sécurité dont on parle aujourd’hui 
+constituent  au  contraire  une  technique  normale  et 
+stable  de  gouvernement.  Si  l’on  veut  se  référer  à  l’état 
+d’exception, il faut donc le faire à partir d’une situation 
+où l’exception se confond avec la règle, comme ce fut le 
+cas pour le régime nazi, qui a été du début à la fin parfai-
+tement légal, puisque l’état d’exception que Hitler avait 
+immédiatement  déclaré  sur  la  base  de  l’article  18  de  la 
+Constitution de Weimar ne fut jamais révoqué.
+
+78
+
+Il est donc préférable de suivre le conseil de Michel Fou-
+cault  et  de  chercher  l’origine  de  la  sécurité  ailleurs,  au 
+début  de  l’économie  moderne,  chez  François  Quesnay 
+et  les  physiocrates,  dont  on  ne  saurait  surestimer  l’in-
+fluence  sur  la  pratique  gouvernementale  de  la  moder-
+nité. Bien avant les physiocrates, à compter du traité de 
+Westphalie,  les  grands  États  absolutistes  avaient  com-
+mencé à introduire dans leurs discours l’idée que le sou-
+verain devait veiller à la sécurité des sujets. Mais ce n’est 
+qu’avec Quesnay que la sécurité — ou, comme il le dit, 
+la sûreté — devient le concept central de la doctrine du 
+gouvernement, et cela, comme nous allons le voir, dans 
+une forme très particulière. La lecture de l’article «Grains» 
+qu’il  publia  dans  l’Encyclopédie  est  encore  aujourd’hui 
+indispensable  pour  comprendre  la  gouvernementalité 
+moderne, et on comprend pourquoi Voltaire a pu écrire 
+que, une fois cet article paru, tous les Parisiens, au lieu 
+de discuter de littérature ou de théâtre, ne parlaient plus 
+que de grains et d’économie.
+
+L’un  des  problèmes  majeurs  que  les  gouvernements 
+devaient à l’époque affronter était celui des disettes et 
+des  famines.  Jusqu’à  Quesnay,  on  essayait  de  prévenir 
+les  famines  en  établissant  des  greniers  publics  et  en 
+interdisant  l’exportation  de  graines,  mais  ces  mesures 
+préventives  avaient  souvent  des  effets  négatifs  sur  la 
+production.  L’idée  sans  doute  géniale  de  Quesnay  fut 
+de renverser le procédé: au lieu d’essayer de prévenir les 
+famines, il fallait les laisser se produire et, par la libéra-
+lisation  du  commerce  aussi  bien  extérieur  qu’intérieur, 
+être en mesure de les gouverner. Gouverner reprend ici 
+son sens étymologique, c’est-à-dire «cybernétique»: un 
+bon commandant ne peut pas éviter la tempête, mais, si 
+la tempête se produit, il doit être capable de gouverner 
+son bateau.
+
+C’est dans ce sens qu’il faut comprendre le fameux dic-
+ton qu’on attribue à Quesnay: «laissez faire, laissez pas-
+ser».  Ce  n’est  pas  seulement  la  devise  du  libéralisme 
+économique, c’est un paradigme de gouvernement, qui 
+identifie la sécurité (Quesnay parle de «la sûreté des fer-
+miers et des laboureurs») non pas dans la prévention des 
+troubles  et  des  désastres,  mais  dans  la  capacité  de  les 
+orienter dans une direction utile une fois qu’ils se sont 
+produits.
+
+Il  faut  mesurer  toute  la  portée  philosophique  du  ren-
+versement dont il est ici question. Il s’agit, en effet, d’un 
+tournant dans l’idée même de gouvernement, qui ren-
+verse la traditionnelle relation hiérarchique entre causes 
+et effets: puisqu’il est vain et, en tout cas, coûteux de gou-
+verner les causes, il est plus utile et plus sûr de gouverner les 
+effets. On peut donc établir un premier axiome: l’Ancien 
+régime  essayait  de  gouverner  les  causes,  les  régimes 
+modernes  prétendent  gouverner  les  effets.  L’impor-
+tance de cet axiome n’est pas négligeable, car c’est bien 
+ce paradigme qui va désormais régir de façon générale 
+nos sociétés, de l’économie à l’écologie, de la politique 
+étrangère  et  militaire  jusqu’aux  mesures  internes  de 
+sécurité et de police. La modernité ne gouverne pas les 
+causes mais les effets.
+
+C’est cet axiome qui permet de comprendre ce fait autre-
+ment  inexplicable:  la  convergence  actuelle  d’un  para-
+digme  libéral  absolu  en  économie  avec  un  paradigme 
+étatique  de  contrôle  sécuritaire  peut-être  sans  précé-
+dent. Si l’objet du gouvernement est les effets et non pas 
+les causes, il est évident qu’on sera forcé d’étendre et de 
+multiplier les contrôles.
+
+Je voudrais en donner deux exemples.
+
+L’eau potable
+
+Bien qu’on sache que l’eau potable va bientôt manquer 
+dans de nombreux pays de la planète, aucun pays n’a de 
+politique sérieuse pour éviter les gaspillages. En même 
+temps, on voit se développer et se multiplier dans plu-
+sieurs  pays  les  techniques  et  les  usines  pour  le  traite-
+ment des eaux polluées, qui vont devenir le grand busi-
+ness des années à venir.
+
+Mon  second  exemple  a  trait  aux  dispositifs  biomé-
+triques, un des aspects les plus inquiétants des techno-
+logies sécuritaires contemporaines.
+
+La biométrie est apparue en France au XIXe siècle avec 
+Alphonse  Bertillon,  sous  la  forme  de  la  photographie 
+signalétique  et  des  mesures  anthropométriques  qui 
+devaient  constituer  ensemble  son  fameux  «portrait 
+parlé».  Peu  après,  en  Angleterre,  Francis  Galton,  cou-
+
+79
+
+sin  de  Darwin  et  admirateur  de  Bertillon,  mit  au  point 
+la  technologie  des  empreintes  digitales  (qui,  curieuse-
+ment,  dans  ses  intentions  était  destinée  aux  indigènes 
+des colonies dont les traits physiques tendaient à se res-
+sembler pour un œil européen). Or, ces dispositifs ne ser-
+vaient pas à prévenir le crime, mais à pouvoir reconnaître 
+les criminels récidivistes. C’était encore le paradigme de 
+la sécurité des physiocrates: ce n’est qu’une fois le crime 
+accompli qu’on peut intervenir de façon efficace.
+
+tronique  qui  contiendra  des  éléments  d’identification 
+(empreintes  digitales  et  photographie  numérique). 
+Il  semblerait  que  l’avis  négatif  d’une  commission  sem-
+blable à la vôtre va retarder sa réalisation; mais, dans la 
+dérive  gouvernementale  inéluctable  du  pouvoir  poli-
+tique, les démocraties occidentales se préparent à mettre 
+en place l’archivage de l’ADN de tous les citoyens, aussi 
+bien dans un but de sécurité et de répression du crime 
+que dans celui de la gestion de la santé publique.
+
+Les  techniques  anthropométriques,  qui  avaient  donc 
+été pensées pour les délinquants récidivistes, ont long-
+temps  été  utilisées  dans  ce  but  exclusif.  En  1943,  le 
+Congrès des États-Unis refusait encore le Citizen Identi-
+fication Act, destiné à établir pour tous les citoyens des 
+cartes d’identité avec les empreintes digitales. Mais, en 
+vertu de la loi qui veut que ce qui a été inventé pour les 
+criminels,  les  étrangers  et  les  Juifs  finisse  immanqua-
+blement par être, tôt ou tard, appliqué à tous les êtres 
+humains, les techniques qui avaient été élaborées pour 
+les récidivistes furent étendues, au cours du XXe siècle, 
+à  l’ensemble  des  citoyens.  La  photographie  signalé-
+tique, accompagnée parfois des empreintes digitales, fit 
+ainsi intégralement partie du document d’identité (une 
+sorte de «carte Bertillon» en condensé) qui devenait pro-
+gressivement obligatoire dans tous les États du monde.
+
+Mais le dernier pas vient d’être franchi, ou du moins le 
+sera-t-il  bientôt  complètement.  Grâce  au  développe-
+ment des technologies biométriques qui peuvent rele-
+ver rapidement les empreintes digitales ou la structure 
+de la rétine ou de l’iris grâce à des scanners optiques, les 
+dispositifs  biométriques  tendent  à  sortir  des  commis-
+sariats  de  police  et  des  bureaux  de  l’immigration  pour 
+pénétrer  dans  la  vie  quotidienne.  Dans  certains  pays, 
+l’entrée  dans  les  cantines  d’université,  dans  les  lycées 
+et  même  dans  les  écoles  primaires  est  déjà  contrôlée 
+par un dispositif biométrique sur lequel l’étudiant pose 
+distraitement sa main. Les industries du secteur biomé-
+trique, qui connaissent actuellement un développement 
+frénétique, préconisent d’habituer les citoyens à ce type 
+de contrôle dès leur plus jeune âge.
+
+La  nouvelle  carte  d’identité  biométrique  (INES)  est  en 
+préparation;  elle  devrait  être  munie  d’une  puce  élec-
+
+Des voix se sont élevées de différents côtés pour attirer 
+l’attention  sur  les  dangers  que  comporte  un  contrôle 
+absolu et sans limites de la part d’un pouvoir qui dispo-
+serait  des  données  biométriques  et  génétiques  de  ses 
+citoyens.  Dans  les  mains  d’un  tel  pouvoir,  l’extermina-
+tion  des  Juifs  (et  tout  autre  génocide  imaginable),  qui 
+a  été  menée  sur  une  base  documentaire  incompara-
+blement moins efficace, eût été totale et extrêmement 
+rapide. L’objection selon laquelle ces choses-là ne pour-
+raient  pas  arriver  dans  nos  sociétés  démocratiques  est 
+particulièrement stupide, vu l’état d’inconsistance et de 
+corruption morale extrême dans lequel se trouvent les 
+classes dirigeantes.
+
+Il y a d’ailleurs un fait inquiétant sur lequel je vous invite 
+à réfléchir: la législation actuellement en vigueur dans les 
+pays européens en matière de sécurité est, par certains 
+aspects, sensiblement plus restrictive que la législation 
+correspondante  dans  les  États  fascistes  du  XXe  siècle. 
+En tout cas, en ce qui concerne l’État dans lequel je vis, 
+l’Italie, une simple comparaison avec le TULPS, le «texte 
+unique des lois sur la sécurité publique» issu du régime 
+fasciste  en  1926,  montre  que  celui-ci  est,  pour  l’essen-
+tiel, encore en vigueur; mais les lois contre le terrorisme 
+votées  dans  les  «années  de  plomb»  (fin  des  années 
+70-années  80)  ont  sensiblement  restreint  les  garanties 
+qu’il contenait. Et comme la législation française contre 
+le terrorisme est plus sévère que la législation italienne, 
+je crois que le résultat d’une comparaison avec la législa-
+tion fasciste serait le même.
+
+Mais ce n’est pas sur cet aspect important du problème 
+sécuritaire  que  je  vais  m’arrêter,  puisque  je  le  suppose 
+parfaitement connu par vous. Les réflexions que je vou-
+drais vous proposer concernent plutôt la transformation 
+
+80
+
+des  relations  politiques  que  les  dispositifs  sécuritaires 
+impliquent.  Cette  transformation  est  si  extrême  qu’on 
+peut  légitimement  se  demander  non  seulement  si  les 
+sociétés  dans  lesquelles  nous  vivons  peuvent  encore 
+être  qualifiées  de  démocratiques,  mais  aussi  et  avant 
+tout  si  elles  peuvent  encore  être  considérées  comme 
+des sociétés politiques.
+
+Christian Meier a montré comment, au Ve siècle av. J.-C., 
+une transformation du concept politique s’est produite 
+en Grèce, en passant par le biais d’une politisation (Politi-
+sierung) de la citoyenneté. Tandis que, jusque-là, l’appar-
+tenance  à  la polis,  à  la  cité,  était  avant  tout  définie  par 
+des  conditions  et  statuts  sociaux  différents  (nobles  et 
+membres des communautés culturelles, paysans et mar-
+chands, seigneurs et clients, pères de famille et parents, 
+etc.), désormais, la citoyenneté devient en tant que telle 
+le critère de l’identité sociale.
+
+«Il  se  produit  ainsi,  écrit  Meier,  une  identité  politique 
+spécifiquement grecque de la citoyenneté, dans laquelle 
+le fait que les individus devaient se conduire comme des 
+citoyens  trouva  une  forme  institutionnelle.  L’apparte-
+nance aux groupes constitués à partir des communautés 
+économiques ou religieuses, etc., fut reléguée au second 
+plan. Dans la mesure où les citoyens d’une démocratie 
+se vouaient à la vie politique, ils se comprenaient eux-
+mêmes  comme  membres  de  la  polis.  Polis  et  politela, 
+cité  et  citoyenneté,  se  définissaient  réciproquement. 
+La citoyenneté devint ainsi une activité et une forme de 
+vie, par laquelle la cité (polis) se constitua en un domaine 
+clairement  distinct  de  la  maison  (Yoikos).  La  politique 
+devint ainsi un espace public opposé à l’espace privé où 
+régnait la nécessité.»
+
+Selon  Meier,  ce  processus  de  politisation  spécifique-
+ment grec a été transmis en héritage à la politique occi-
+dentale, dans laquelle la citoyenneté est restée — bien 
+sûr avec des changements et des hauts et des bas — le 
+facteur décisif.
+
+dépolitisation.  De  seuil  de  politisation  actif  et  irréduc-
+tible,  il  est  devenu  une  condition  purement  passive, 
+où l’action et l’inaction, le public et le privé s’estompent 
+et  se  confondent.  Ce  processus  de  dépolitisation  de 
+la citoyenneté est tellement évident que je ne m’y arrê-
+terai pas.
+
+L’hypothèse que je vous propose est que les dispositifs 
+de  sécurité  ont  joué  dans  ce  processus  un  rôle  décisif. 
+L’extension  progressive  aux  citoyens  des  techniques 
+d’identification qui étaient réservées aux criminels (ou, 
+plus  tard,  aux  Juifs)  ne  peut  pas  ne  pas  rétroagir  sur 
+l’identité politique de ceux-ci. Pour la première fois dans 
+l’histoire de l’humanité, l’identité n’est plus fonction de 
+la «personne» sociale et de sa reconnaissance, du «nom» 
+et de la «renommée», mais de données biologiques qui 
+ne peuvent entretenir aucun rapport avec elle, telles les 
+arabesques  insensées  que  mon  pouce  teinté  d’encre 
+a  laissées  sur  une  feuille  dans  un  bureau  de  police  ou 
+l’ordonnance des gènes dans la double hélice de l’ADN. 
+Le fait le plus neutre et privé devient ainsi le véhicule de 
+l’identité sociale, qui perd ainsi son caractère public.
+
+Mais si mon identité est désormais déterminée en der-
+nière analyse par des faits biologiques, qui ne dépendent 
+en  rien  de  ma  volonté  et  sur  lesquels  je  n’ai  pas  la 
+moindre prise, la construction de quelque chose comme 
+une  identité  politique  devient  problématique.  Quel 
+type  de  relations  puis-je  établir  avec  mes  empreintes 
+digitales  ou  avec  mon  code  génétique?  La  nouvelle 
+identité est une identité sans personne, où l’espace de 
+l’éthique  et  de  la  politique  que  nous  étions  habitués 
+à concevoir perd son sens et exige qu’on le repense de 
+fond  en  comble.  Tandis  que  le  citoyen  grec  se  définis-
+sait par l’opposition entre le privé et le public, la maison, 
+siège de la vie reproductive, et la cité, lieu du politique, 
+le  citoyen  moderne  semble  plutôt  évoluer  dans  une 
+zone d’indifférence entre le public et le privé, ou, pour 
+employer les termes de Hobbes, entre le corps physique 
+et le corps politique.
+
+Or,  c’est  précisément  ce  facteur  politique  essentiel  qui 
+se trouve pris aujourd’hui de façon progressive et appa-
+remment  irrévocable  dans  un  processus  inverse  qu’on 
+peut  raisonnablement  définir  comme  un  processus  de 
+
+La  matérialisation  dans  l’espace  de  cette  indifférence 
+est la vidéo-surveillance des rues et des places dans nos 
+villes. Un dispositif qui avait été conçu pour les prisons 
+et les banques a été progressivement étendu aux lieux 
+
+81
+
+publics. Mais il est évident qu’un espace vidéo-surveillé 
+n’est plus une agora, n’a plus aucun caractère public, ou, 
+mieux,  c’est  un  espace  non  défini  entre  le  public  et  le 
+privé, la prison et le forum.
+
+Or,  cette  transformation  est  un  phénomène  complexe, 
+qui relève de causes multiples, parmi lesquelles la dérive 
+du pouvoir moderne vers la biopolitique et le souci du 
+vivant  occupe  une  place  particulière.  C’est  sans  doute 
+à  l’émergence  de  la  vie  au  centre  du  politique  qu’on 
+doit la primauté de l’identité physique sur l’identité poli-
+tique. Mais on ne saurait oublier que l’aplatissement de 
+l’identité  sociale  sur  l’identité  corporelle  a  commencé 
+par  le  souci  d’identifier  les  criminels  récidivistes  et  les 
+individus dangereux. Il ne faudra donc pas s’étonner si 
+les citoyens que nous sommes acceptent comme allant 
+de soi que le rapport normal que l’État entretient avec 
+eux  soit  le  soupçon,  le  fichage  et  le  contrôle.  L’axiome 
+tacite, qu’il faut bien prendre ici le risque d’énoncer, est: 
+«tout citoyen — en tant qu’être vivant — est un terro-
+riste  potentiel».  Mais  qu’est-ce  qu’un  État,  qu’est-ce 
+qu’une société régie par un tel axiome? Peut-elle encore 
+être  définie  comme  démocratique,  voire  comme  une 
+société politique?
+
+Vous savez sans doute qu’une classification typologique 
+des États modernes a été esquissée par Michel Foucault 
+dans  ses  cours  au  Collège  de  France  et  dans  son  livre 
+Surveiller  et  punir.  Foucault  montre  comment  l’État  de 
+l’Ancien régime, défini comme État territorial ou de sou-
+veraineté,  dont  la  devise  était  «mourir  et  laisser  vivre» 
+a  évolué  progressivement  vers  un  État  de  population 
+et  vers  un  État  de  discipline  dont  la  devise  s’inverse 
+en  «faire  vivre  et  laisser  mourir»,  car  il  va  s’occuper  de 
+la  vie  des  sujets  afin  de  produire  des  corps  dociles  et 
+ordonnés.
+
+Il est évident que l’État dans lequel nous vivons à présent 
+n’est pas un État de discipline. Gilles Deleuze a proposé 
+de l’appeler «État de contrôle», car ce que veut cet État, 
+ce n’est pas ordonner et discipliner, mais gérer et contrô-
+ler. La définition est sans doute correcte, car gestion et 
+contrôle  ne  coïncident  pas  nécessairement  avec  ordre 
+et discipline. Le fonctionnaire de la police italienne, qui, 
+après les émeutes de Gênes en juillet 2001, déclara que 
+
+le  gouvernement  ne  voulait  pas  que  la  police  main-
+tienne l’ordre, mais qu’elle gère le désordre, ne croyait 
+pas si bien dire.
+
+Dans  la  doctrine  américaine,  qui  a  essayé  de  réfléchir 
+sur  les  changements  constitutionnels  induits  par  le 
+Patriot Act  et  la  législation  qui  a  suivi  septembre  2001, 
+on préfère parler de Security State. Mais que veut dire ici 
+security? Il est instructif de voir comment, au cours de la 
+Révolution française, la notion de sécurité — ou, comme 
+on disait alors, de sûreté — se noue avec celle de police. 
+La loi du 16 mars 1791 et la loi suivante du 11 août 1792 
+introduisent dans la législation française la notion, qui va 
+avoir une longue histoire dans la modernité, de «police 
+de sûreté». Si l’on suit les débats qui précédèrent le vote 
+de  ces  lois,  on  s’aperçoit  que  police  et  sûreté  se  défi-
+nissent réciproquement, mais que les orateurs qui par-
+ticipent aux débats (entre autres Gensonné, Hérault de 
+Séchelles, Brissot) ne sont pas en mesure de définir ni la 
+police ni la sûreté.
+
+Au centre des débats se trouve en effet la situation de 
+la police par rapport à la justice et au pouvoir judiciaire. 
+Ainsi,  Gensonné  affirme  qu’il  s’agit  de  «deux  pouvoirs 
+parfaitement distincts et séparés»; pourtant, tandis que 
+le rôle du pouvoir judiciaire est clair, il est impossible de 
+définir celui de la police par rapport à la justice. Ce qui 
+ressort de l’analyse des discours des députés est que le 
+lieu  de  la  police  est  proprement  indéfinissable  et  doit 
+rester tel, car si elle était entièrement absorbée dans la 
+justice, la police ne pourrait plus exister. C’est la fameuse 
+«marge de discrétion» qui caractérise encore maintenant 
+l’activité  de  l’officier  de  police,  qui,  par  rapport  à  une 
+situation concrète qui menace la sécurité publique, agit 
+pour ainsi dire en souverain. Mais, ce faisant, il ne décide 
+pas,  comme  fera  le  juge,  ni,  comme  on  le  répète  sans 
+fondement,  ne  prépare  la  décision  pour  le  juge.  Toute 
+décision implique des causes, tandis que la police inter-
+vient sur les effets, c’est-à-dire sur un indécidable.
+
+Cet indécidable ne se nomme plus, comme au XVIIe siècle, 
+«raison  d’État»:  il  se  nomme  «raison  de  sécurité».  Le 
+«security State» est donc un État de police. Malheureuse-
+ment, la définition de la police est une sorte de trou noir 
+dans  la  doctrine  du  droit  public.  La  seule  chose  qu’on 
+
+82
+
+peut  dire  est  que,  lorsque,  au  XVIIIe  siècle,  paraissent, 
+en France, le Traité de la police de Delamare et, en Alle-
+magne, le livre sur la Gesamte Polizeiwissenschaft de Von 
+Justi,  la  police  est  ramenée  à  son  étymologie  (politela) 
+et tend à se poser comme la politique véritable, en relé-
+guant  la  «politique»  à  la  politique  étrangère.  Von  Justi 
+appelle ainsi Politik le rapport d’un État avec les autres et 
+Polizei le rapport d’un État avec lui-même. Je vous invite 
+à réfléchir à cette définition: «La police est le rapport en 
+force d’un État avec lui-même.»
+
+On  peut  donc  émettre  l’hypothèse  que,  en  invoquant 
+la sécurité, l’État moderne est sorti du domaine du poli-
+tique  pour  entrer  dans  un  no  man’s  land  dont  on  per-
+çoit mal la géographie et les frontières et pour lequel la 
+conceptualité  nous  fait  défaut.  Le  moins  qu’on  puisse 
+dire, me semble-t-il, est que cet État, dont le nom ren-
+voie étymologiquement à une absence de soucis (secu-
+rus  =  sine  cura),  ne  peut  au  contraire  que  nous  rendre 
+plus  soucieux  à  l’égard  des  dangers  qu’il  peut  entraî-
+ner  pour  la  démocratie,  puisqu’une  vie  politique  y  est 
+devenue impossible, et que démocratie et vie politique 
+sont — au moins dans notre tradition — synonymes.
+
+Il est tout aussi clair que, face à un tel État, il nous faut 
+repenser  de  fond  en  comble  les  stratégies  tradition-
+nelles du conflit politique. Il est implicite, dans le para-
+digme sécuritaire, que chaque conflit, et chaque tenta-
+tive  plus  ou  moins  violente  pour  renverser  l’État,  n’est 
+pour lui que l’occasion d’en gouverner les effets au pro-
+fit des intérêts qui lui sont propres. C’est ce que montre 
+la dialectique qui lie étroitement terrorisme et réponse 
+étatique dans une spirale vicieuse et virtuellement infi-
+nie.  La  tradition  politique  de  la  modernité  a  pensé  les 
+changements  politiques  radicaux  sous  la  forme  d’une 
+révolution  qui  agit  comme  le  pouvoir  constituant  d’un 
+nouvel  ordre  constitué.  Je  crois  qu’il  faut  abandonner 
+ce paradigme et concevoir quelque chose comme une 
+puissance purement destituante, qui ne saurait être cap-
+turée  dans  le  dogme  de  la  sécurité  à  tout  prix.  Et  si  je 
+devais imaginer ici et maintenant un exemple d’une telle 
+puissance destituante, ce serait que, face à la politique 
+sécuritaire qui domine en Europe, tous les membres de 
+l’EGE  démissionnent.  Ce  n’est  qu’une  fiction,  mais  ce 
+serait  —  me  semble-t-il  —  la  seule  façon  adéquate  de 
+démontrer  l’incompatibilité  entre  démocratie  et  État 
+sécuritaire.
+
+83
+
+English translation:
+
+When  I  received  your  invitation,  my  first  thought  was 
+that  the  only  appropriate  response  would  be  to  come 
+here  and  remain  silent.  Today,  the  whole  question  of 
+ethics has reached a point where even to accept debate 
+would be to give up what is essential. Ethics can never 
+mean de facto acceptance of an inhumane situation and 
+claiming to put de jure limits on it. If we were to imagine 
+that, after the Final Solution had been decided, a group 
+of experts had been chosen to sit around a table and dis-
+cuss the legitimacy of concentration camps and ways to 
+make them less atrocious, we would consider that such 
+people were blind to all ethical considerations. And yet 
+we  know  that  Red  Cross  commissions  visited  certain 
+camps  and  gave  very  moderate  advice  along  exactly 
+these  lines.  These  officials  should  have  been  put  on 
+trial alongside the commanders of the camps, although 
+like the architect of Auschwitz (who had studied at the 
+Bauhaus), they would probably have been acquitted. It 
+appears  today  that  professional  ethics  does  not  mean 
+refusing  to  do  what  is  inhumane,  but  merely  doing  it 
+according to the technical rules of the profession. I say 
+this because, at this very moment, famous architects are 
+building new towns in China for the government to set-
+tle  millions  of  people  in  against  their  will  after  having 
+thrown them out of their homes, without asking them-
+selves if it is legitimate to collaborate with what can only 
+be called deportation.
+
+Obviously, no one today would accept such debate on 
+Auschwitz. But we do consider it acceptable to debate 
+the  nuclear  issue,  although  one  day  people  may  well 
+consider  that  this  is  ethical  blindness,  but  such  blind-
+ness is a very common condition these days, especially 
+among those who proclaim themselves experts in bio-
+ethics.
+
+We must first of all clarify the true aim of security meas-
+ures,  which  is  not  simply  to  avert  danger,  trouble  or 
+catastrophes,  as  one  might  think.  To  do  this,  I  must 
+briefly  explain  the  origins  of  the  concept  of  security. 
+Naturally, I cannot give a complete history of the notion 
+here. In addition, historical research in this field is insuf-
+ficient,  firstly  because  it  does  not  distinguish  between 
+different  notions  and  measures,  and  secondly  because 
+it observes these measures without examining the con-
+text in which they are applied. In this way, it may seem 
+justified to retrace the origins of security to the famous 
+Roman dictum salus publica suprema lex and to place its 
+history within that of the state of exception. This would 
+lead us to discuss the senatus consultum ultimatum and 
+the Roman dictatorship, the principle of canon law that 
+necessitas  legem  non  habet,  the  committees  of  public 
+safety  during  the  French  Revolution  and  the  Constitu-
+tion of 22 Frimaire VIII (1799) which specifically mentions 
+‘disorder threatening state security’, not to mention the 
+infamous  Article  18  of  the  Weimar  Constitution,  which 
+served as the legal basis for the national socialist regime 
+and which explicitly mentions public security.
+
+This family tree is undoubtedly accurate, but it does not 
+help  us  to  understand  the  security  measures  that  we 
+are  familiar  with.  Exceptional  measures  concern  what 
+is essentially a temporary state of affairs, an immediate 
+and  real  threat  that  must  be  eliminated  at  any  cost  by 
+suspending legal guarantees for a time, whereas the rea-
+sons of security we talk about today are, on the contrary, 
+an ordinary and stable governing technique. If we want 
+to refer to a state of exception, we must examine a situ-
+ation where the exception merges with the rule, such as 
+the Nazi regime, which was perfectly legal from begin-
+ning to end, since the state of emergency Hitler declared 
+on the basis of Article 18 of the Weimar Constitution was 
+never revoked.
+
+In a completely different sphere, that of human govern-
+ment, I do not believe that the words we hear constantly 
+all  over  Europe:  ‘pour  raisons  de  sécurité,  for  security 
+reasons, per ragioni di sicurezza’, etc. can serve as a basis 
+for discussion. Instead of remaining silent, though, I feel 
+I must make an attempt to explain why I refuse to enter 
+into this debate.
+
+It  would  therefore  be  preferable  to  follow  the  advice 
+of  Michel  Foucault  and  look  for  the  origins  of  security 
+elsewhere,  at  the  beginning  of  modern  economics  in 
+the  theories  of  François  Quesnay  and  the  physiocrats, 
+whose  influence  on  modern  governance  cannot  be 
+underestimated.  Well  before  the  physiocrats,  around 
+the time of the Treaty of Westphalia, the great absolutist 
+
+84
+
+states had started to adopt the position that sovereigns 
+should  ensure  the  security  of  their  subjects.  It  was  not 
+until Quesnay, though, that security — or safety, to use 
+his term — became a central part of the doctrine of gov-
+ernment, and in a very specific way, as we will see. Even 
+today, one must read the article ‘Grain’ that he published 
+in the Encyclopédie in order to understand modern gov-
+ernment,  and  it  is  easy  to  see  why  Voltaire  wrote  that 
+after  that  article  was  published,  Parisian  conversations 
+turned  away  from  literature  and  theatre  and  towards 
+grain and the economy.
+
+One  of  the  main  problems  governments  faced  at  that 
+time  was  food  shortages  and  famine.  Before  Quesnay, 
+they attempted to ward off famine by organising pub-
+lic grain reserves and banning grain exports, but these 
+preventative  measures  often  had  adverse  effects  on 
+production.  Quesnay’s  stroke  of  genius  was  to  invert 
+the  equation:  instead  of  trying  to  prevent  famine,  the 
+authorities  should  let  famines  happen  and  make  sure 
+that  they  are  in  a  position  to  govern  them  when  they 
+do occur by liberalising both internal and international 
+trade. This brings us back to the etymological — ‘cyber-
+netic’ — meaning of the word ‘to govern’ as in ‘to steer’: 
+a ship’s pilot cannot avoid storms, but must be able to 
+steer the ship when a storm comes.
+
+This is how we must understand the famous expression 
+(wrongly) attributed to Quesnay: ‘laisser faire, laisser pas-
+ser’ (let do and let pass). This is not just the slogan of eco-
+nomic liberalism: it is a paradigm of governance which 
+identifies  security  (Quesnay  wrote  about  the  ‘safety  of 
+farmers  and  labourers’)  not  as  the  prevention  of  prob-
+lems and disasters, but as the ability to deal with them 
+appropriately when they occur. 
+
+We should not underestimate the philosophical impor-
+tance of this change. It is, in fact, a watershed moment in 
+the very idea of government, which overturns the tradi-
+tional hierarchical relationship of cause and effect itself: 
+since it is pointless and expensive to govern causes, it is 
+more useful and more certain to govern effects. On this 
+basis, we can establish an axiom: the ancien régime tried 
+to govern causes, whereas modern governments claim 
+to govern effects. I do not believe we can overlook the 
+
+importance  of  this  axiom,  as  this  is  the  very  paradigm 
+that governs our society in general, from economics to 
+the environment, and from foreign and defence policy 
+to  internal  security  and  policing.  Modernity  does  not 
+govern causes, but effects.
+
+This axiom allows us to understand the otherwise inex-
+plicable  fact  that  a  paradigm  of  absolute  economic 
+liberalism  coexists  with  a  paradigm  of  what  may  be 
+unprecedented state control over security. If the focus of 
+government is on the effects, and not on the causes, it is 
+obvious that controls must be extended and multiplied.
+
+Two examples:
+
+Drinking  water,  on  the  one  hand.  Although  we  know 
+that drinking water will soon be scarce in many parts of 
+the  world,  no  country  has  any  serious  policy  aimed  at 
+avoiding waste. At the same time, in several countries, 
+we  can  see  more  and  more  techniques  and  plants  for 
+the treatment of waste water, which will become the big 
+business of the years to come.
+
+Biometrics, on the other hand, which is one of the most 
+worrying aspects of contemporary security technology.
+
+Biometrics  appeared 
+in  19th  century  France  with 
+Alphonse Bertillon, inventor of a system of photographic 
+identification and anthropometric measurement which 
+together formed his famous ‘speaking portrait’. Shortly 
+afterwards,  in  England,  Darwin’s  cousin  Francis  Galton, 
+an  admirer  of  Bertillon,  developed  fingerprint  technol-
+ogy  (which,  surprisingly  enough,  he  intended  for  use 
+on  colonial  natives  who  all  seemed  to  look  the  same 
+to  European  eyes).  However,  it  is  obvious  that  these 
+techniques do not prevent crime, but only allow repeat 
+offenders to be identified. Once again, we see the physio -
+cratic security paradigm: it is only possible to intervene 
+effectively after the crime has been committed.
+
+Anthropometric  techniques  were  for  a  long  time  the 
+exclusive  privilege  of  the  repeat  offenders  they  had 
+been designed for. In 1943, the US Congress still refused 
+the Citizen Identification Act, which aimed to implement 
+identity  cards  with  fingerprints  for  all  citizens.  But  it  is 
+
+85
+
+a law of nature that any measure invented for criminals, 
+foreigners  and  Jews  will  sooner  or  later  end  up  being 
+applied  to  every  single  individual,  and  the  techniques 
+developed  for  repeat  offenders  were  extended  to  the 
+entire population during the 20th century. Identification 
+photographs, sometimes accompanied by fingerprints, 
+thereby became part of identity documents (a compact 
+form  of  the  Bertillon  card)  that  progressively  became 
+compulsory throughout the world.
+
+The final step, though, was not taken until recently, and 
+is still not fully completed. Thanks to the development of 
+biometric technology that can rapidly scan fingerprints 
+or the structure of the retina or the iris with optic scan-
+ners, biometrics is starting to go beyond police stations 
+and immigration offices to become part of everyday life. 
+In some countries, students have to run their hands over 
+a biometric device in order to access canteens, second-
+ary  schools  and  even  primary  schools.  The  biometrics 
+industry, which is spreading like wildfire, suggests that 
+people should be given the opportunity to get used to 
+biometrics from the earliest possible age.
+
+France’s  new  biometric  ID  card  (INES),  which  is  in  the 
+pipeline, is expected to have an electronic chip contain-
+ing  identifying  elements  (fingerprints  and  digital  photo-
+graph).  It  seems  that  the  opposition  of  a  commission 
+similar  to  yours  will  slow  down  its  implementation,  but 
+the  current  is  inexorably  dragging  Western  democracy 
+towards recording the DNA of all its citizens, both for secu-
+rity and crime prevention and for reasons of public health.
+
+Many different voices have spoken out against the dan-
+ger of absolute and unlimited control by a government 
+that possesses the biometric and genetic data of its citi-
+zens.  With  such  power,  the  extermination  of  the  Jews 
+(or  any  other  imaginable  genocide),  which  was  carried 
+out on the basis of incomparably less efficient data col-
+lection, would have been total and extremely quick. It is 
+particularly idiotic to say that this would be impossible 
+in a modern democracy, given the inconsistency and the 
+extreme moral corruption of our ruling classes.
+
+I  invite  you  to  consider  another  worrying  fact:  current 
+security  legislation  in  European  countries  is,  in  some 
+
+areas, much more restrictive than that of fascist states in 
+the 20th century. In Italy, where I live, a simple compari-
+son shows that most of the provisions of the TULPS, the 
+‘consolidated law on public security’ enacted by the fas-
+cist regime in 1926, are still in force today. However, anti-
+terrorist laws voted in during the ‘Years of Lead’ (end of 
+the  1970s–80s)  have  reduced  the  guarantees  given  by 
+the law. Since anti-terrorism law is stricter in France than 
+in  Italy,  I  imagine  that  a  comparison  with  fascist  laws 
+would give the same result.
+
+Although this is an important aspect of the question of 
+security, it is not what I came here to talk about, as I imag-
+ine you are familiar enough with these facts already. The 
+reflection I want to share with you concerns instead the 
+transformation of political relations under the influence 
+of security measures. This transformation is so extreme 
+that  we  can  ask  ourselves  not  only  if  our  societies  can 
+still  be  called  ‘democratic’,  but  even  (and  especially)  if 
+they can still be considered political societies.
+
+Christian  Meier  has  shown  how,  in  the  5th  century  BC, 
+political concepts were transformed in Greece through 
+the  politicisation  (Politisierung)  of  citizenship.  Whereas 
+membership  of  the  city  (polis)  had  until  then  been 
+linked  above  all  to  various  social  statuses  and  condi-
+tions  (nobles,  clergy,  peasants,  merchants,  magnates 
+and  those  beholden  to  them,  heads  of  families,  etc.), 
+citizenship became in and of itself the criterion of social 
+identity.
+
+As Meier wrote: 
+
+‘A  specifically  Greek  political  identity  of  citizenship,  in 
+which individuals were expected to act as citizens, was 
+institutionalised.  Membership  of  religious,  economic, 
+etc. communities became secondary. To the extent that 
+citizens  of  a  democracy  devoted  themselves  to  pub-
+lic  life,  they  considered  themselves  as  members  of  the 
+polis. Polis and politeia, city and citizenship defined each 
+other. Citizenship thereby became an activity and a way 
+of life, in which the city (polis) formed a domain clearly 
+distinct from the home (oikos). Politics thereby became 
+a  public  space,  distinct  from  the  private  sphere  which 
+was governed by necessity.’
+
+86
+
+According to Meier, this process of politicisation specific 
+to Greece was bequeathed to Western politics, in which 
+citizenship  —  naturally,  with  changes  and  fluctuations 
+— remained the decisive factor.
+
+It is precisely this essential political factor that is being 
+slowly but irreversibly eaten away as a result of what it 
+would  be  justified  to  call  a  process  of  depoliticisation. 
+The  threshold  of  active  and  unconditional  politicisa-
+tion has given way to a purely passive condition where 
+action and inaction, public and private life are lumped 
+together. This process of depoliticising citizenship is so 
+obvious that I will not expand on it any further.
+
+The hypothesis I offer you is that security measures played 
+a decisive role in this process. The extension to all citizens 
+of  identification  techniques  designed  for  criminals  (and 
+later  for  Jews)  could  not  fail  to  affect  citizens’  political 
+identity.  For  the  first  time  in  human  history,  identity  is 
+not determined by social ‘persons’ and their recognition, 
+name  and  reputation,  but  by  biological  facts  which  are 
+completely unrelated to these, such as the meaningless 
+curves of ink left by a thumb on a police record card or the 
+order of genes in a double helix of DNA. The most neutral 
+and private information is becoming the vehicle of social 
+identity, which is thereby losing its public character.
+
+But if my identity is now ultimately determined by bio-
+logical facts, which I am unable to choose for myself and 
+over which I have no control whatsoever, it becomes dif-
+ficult to construct anything resembling a political iden-
+tity. What relationship can I establish with my fingerprints 
+or my genome? The new identity is an identity without 
+the person, where the ethical and political sphere we are 
+used  to  becomes  meaningless  and  must  be  rethought 
+from beginning to end. While the Greek citizen defined 
+himself through the private–public dichotomy between 
+the home — the seat of procreative life — and the city 
+—  the  place  of  politics  —  modern  citizens  seem  to  be 
+moving  towards  indifference  between  public  and  pri-
+vate life or, in the words of Hobbes, between the body 
+natural and the body politic.
+
+The video surveillance of the streets and squares of our 
+towns is the material manifestation of this indifference. 
+
+A  measure  originally  designed  for  prisons  and  banks 
+has been gradually extended to public places. It is obvi-
+ous, though, that an area under video surveillance is no 
+longer  an  agora,  it  no  longer  has  any  public  character, 
+or rather that it is in limbo between the public and the 
+private, between the prison and the forum.
+
+This transformation is a complex phenomenon with mul-
+tiple  causes,  among  which  modern  power’s  slide  into 
+biopolitics and concern for life plays an important role. It 
+is  no  doubt  due  to  the  emergence  of  life  as  the  central 
+point of politics that physical identity is gaining the upper 
+hand over political identity. However, we should not for-
+get  that  social  identity  was  first  ironed  onto  corporeal 
+identity  with  the  intention  of  identifying  repeat  offend-
+ers and dangerous individuals. It is therefore hardly sur-
+prising  if  we,  as  citizens,  accept  suspicion,  profiling  and 
+checks as a perfectly normal way for our state to treat us. 
+The tacit assumption, which I am taking the risk of mak-
+ing explicit here, is that every citizen — as a living being 
+— is a potential terrorist. But what sort of state, what sort 
+of society, is governed by such an axiom? Can it still be 
+defined as democratic, or even as a political society?
+
+You  no  doubt  know  that  Michel  Foucault  established 
+a  basic  classification  of  modern  states  in  his  lectures 
+at the Collège de France and in his book Discipline and 
+punish. Foucault explained how the states of the ancien 
+régime, defined by territory and sovereignty and whose 
+motto  was  ‘take  life  and  let  live’,  were  gradually  trans-
+formed  into  states  of  population  and  discipline  whose 
+motto was, on the contrary, ‘give life and let die’, because 
+they look after the life of their subjects in order to turn 
+them into docile and disciplined bodies.
+
+It is clear that the states we live in today are not states 
+of  discipline.  Gilles  Deleuze  proposed  the  term  ‘state 
+of  control’,  because  its  aim  is  not  order  and  discipline, 
+but management and control. The definition is certainly 
+accurate,  since  management  and  control  do  not  nec-
+essarily  coincide  with  order  and  discipline.  The  Italian 
+police officer who, after the Genoa riots of July 2001, said 
+that the government did not want the police to maintain 
+order, but to manage disorder, did not know how right 
+he was.
+
+87
+
+American legal thinking, which has tried to examine the 
+constitutional  changes  brought  about  by  the  Patriot 
+Act  and  the  legislation  that  followed  September  2001, 
+prefers to talk about the ‘security state’. But what does 
+security  mean  in  this  case?  It  is  interesting  to  look  at 
+how, during the French Revolution, the notion of secu-
+rity (or, in the words of the time, safety) was tied in with 
+the  notion  of  police.  The  laws  of  16 March 1791  and 
+11 August 1792  introduced  into  French  legislation  the 
+notion of ‘safety police’ or ‘security police’, which would 
+continue to exist well into modernity. If we look at the 
+debates just before these laws were passed, we see that 
+police and safety define each other, but that none of the 
+speakers (including Gensonné, Hérault de Séchelles and 
+Brissot) were capable of providing a definition either of 
+‘police’ or of ‘safety’.
+
+The  debate  concerned  above  all  the  place  of  the  police 
+in  relation  to  justice  and  the  judiciary.  Gensonné  stated 
+that  they  were  ‘two  completely  different  and  separate 
+powers’,  and  yet,  while  the  role  of  the  judiciary  is  clear, 
+it is impossible to define the role of the police in relation 
+to justice. The representatives’ speeches, when analysed, 
+show that the role of the police is undefinable and must 
+remain  so,  because  if  policing  were  to  be  entirely  sub-
+sumed by justice, the police could no longer exist. This is 
+the famous ‘discretion’ that still characterises the activity 
+of police officers, who, when faced with a specific situation 
+that threatens public order, act as sole arbiters. However, 
+police officers do not make a decision thereby, as a judge 
+would, nor do they prepare a decision for the judge, as is 
+often said without any justification. Any decision implies 
+causes, whereas the role of the police is to act in function 
+of the effects, something which is undecidable.
+
+This undecidable is no longer called ‘reasons of state’, as 
+in the 17th century, but ‘security reasons’. The ‘security 
+state’  is  therefore  a  police  state,  but  unfortunately  the 
+definition of ‘police’ is almost a black hole in the doctrine 
+of public law. All we can say is that in the 18th century, 
+when  Delamare’s  Traité de la police  appeared  in  France 
+
+and von Justi’s Gesamte Polizeiwissenschaft in Germany, 
+the term ‘police’ was brought back to its etymology (from 
+politeia)  and  was  increasingly  characterised  as  the  true 
+essence of politics, the word ‘politics’ being restricted to 
+foreign affairs. Von Justi defined Politik as a state’s rela-
+tion  to  other  states  and  Polizei  as  a  state’s  relation  to 
+itself. I invite you to think about this definition: ‘the way 
+in which a state relates to itself is through its police’.
+
+We  can  therefore  put  forward  the  hypothesis  that,  by 
+calling on ‘security’, the modern state has left the politi-
+cal  domain  behind  to  enter  a  no  man’s  land,  the  geo-
+graphy  and  borders  of  which  we  can  barely  discern 
+and which we lack the concepts to analyse. However, it 
+appears clear to me that this state, whose name derives 
+etymologically from the absence of concern (securus = 
+sine cura) can in fact only make us more concerned about 
+the threat it poses to democracy, since it makes political 
+life impossible and, at least in our tradition, democracy 
+and political life are synonyms.
+
+It is equally clear that, faced with such a state, we must 
+completely rethink the traditional strategies of political 
+conflict. The paradigm of security implies that any con-
+flict, and any more or less violent attempt to overthrow 
+the  state,  is  only  an  opportunity  for  it  to  serve  its  own 
+interests in governing the effects. This is shown by the 
+dialectic  which  binds  terrorism  and  the  state  response 
+together  in  an  almost  infinite  self-serving  spiral.  The 
+modern  political  tradition  imagined  radical  political 
+changes  in  the  form  of  revolutions,  acting  as  the  con-
+stituent power of a new constitutional order. I think it is 
+time to abandon this paradigm and imagine something 
+along the lines of a purely destituent power, which could 
+not be sucked in by the dogma of security at any price. 
+And if I were to imagine an example of such destituent 
+power here and now, it would be for all the members of 
+the EGE to resign in protest at the dominant security pol-
+icies in Europe. This is pure fiction, but I believe it would 
+be the only adequate means of showing the incompat-
+ibility between democracy and the security state.
+
+88
+
+EGE round table on the ethics of 
+security and surveillance technologies
+
+Dr Patryk Pawlak
+
+(EU Institute for Security Studies)
+
+Patryk  Pawlak  is  a  senior  analyst  at  the  EU  Institute  for 
+Security  Studies  in  Paris.  At  the  institute,  he  deals  with 
+internal  security  policies  of  the  EU,  in  particular  border 
+protection, counterterrorism and cybersecurity. Prior to 
+joining the EUISS, he was a visiting scholar at numerous 
+research institutions, including the Center for Transatlan-
+tic Relations (Washington, DC), the Center for Peace and 
+Security Studies at Georgetown University (Washington, 
+DC) and the Centre for European Policy Studies (Brussels). 
+
+Since  September  2006,  Patryk  has  also  been  a  fellow 
+in  the  European  foreign  policy  studies  programme 
+founded jointly by Compagnia di San Paolo, Volkswagen 
+Stiftung  and  Riksbankens  Jubileumsfond.  His  current 
+research  focuses  on  linkages  between  internal  security 
+and foreign policy. He has published in numerous peer-
+reviewed journals and contributed to several collabora-
+tive projects. Dr Pawlak holds a PhD in political science 
+from the European University Institute in Florence.
+
+89
+
+Dr Patryk Pawlak
+
+90
+
+91
+
+92
+
+93
+
+94
+
+95
+
+96
+
+Annex I
+
+List of participants
+
+EGE round table on the ethics of 
+security and surveillance technologies
+
+97
+
+Round table on ethics of security and surveillance technologies, 18 September 2013, Brussels
+
+Speakers
+
+Prof.
+
+De Beaufort
+
+Inez
+
+Hendrik
+
+Ben
+
+Giorgio
+
+Patryk 
+
+Erasmus Rotterdam University — The Netherlands
+
+G4S — Belgium
+
+Statewatch — United Kingdom
+
+University of Verona — Italy
+
+EU Institute for Security Studies — France
+
+Emmanuel
+
+EGE Member
+
+Keersmaekers
+
+Hayes 
+
+Agamben
+
+Pawlak
+
+Participants
+
+Agius
+
+Allard
+
+Amato 
+
+Andrieu
+
+Andre
+
+Salvatore 
+
+Michel 
+
+Ascensao 
+
+Jose Ramos
+
+Balogh
+
+Beeckmans 
+de West-Meerbeek
+
+Timea
+
+André
+
+Beerden
+
+Biname
+
+Binder 
+
+Bird
+
+Black
+
+Bojinova
+
+Čas
+
+Renée
+
+Georges
+
+Patrice
+
+Adrienne 
+
+Elizabeth
+
+Silvia
+
+Johann
+
+Comité Ethique de l’Hôpital Psychiatrique du Beau Vallon — Belgium
+
+Comitato Nazionale per la Bioetica — Italy
+
+European Commission — DG Research and Innovation — Eureka 
+Secretariat
+
+Comece — Commission of the Bishop’s Conferences of the European 
+Community — Belgium
+
+European Commission — DG Research and Innovation
+
+Belgian Nuclear Research Centre — Belgium
+
+European Commission — DG Interpretation
+
+Parlement Federal Belge — Belgium
+
+French National Institute of Health and Medical Research (INSERM)
+
+European Commission — DG Interpretation
+
+European Commission — DG Interpretation
+
+European Commission — DG Research and Innovation
+
+Institute of Technology Assessment — Austrian Academy of Sciences 
+— Austria
+
+Catenhusen
+
+Wolf-Michael
+
+German Ethics Council
+
+Cath
+
+Cath
+
+Cerrens
+
+Cunningham 
+
+Prof.
+
+Dabrock 
+
+Mr
+
+Dr
+
+Mr
+
+Dafydd
+
+Daquino
+
+D’Aura
+
+Prof.
+
+De Castro
+
+Dratwa
+
+Druml
+
+Du Toit
+
+Corinne
+
+Esnestine
+
+Ludovic
+
+Frank
+
+Peter
+
+Ab Lago
+
+Giuseppe 
+Giovanni
+
+Stephane
+
+Leonardo
+
+Jim
+
+Freelance Researcher — The Netherlands
+
+Student — London — The Netherlands
+
+European Commission — DG Interpretation
+
+European Commission — DG Connect
+
+EGE Member
+
+EU Correspondent — Belgium
+
+European Commission — Research Executive Agency 
+
+Thales’s Ethics and Corporate Responsibility Department — France
+
+Philippine Health Research Ethics Board (PHREB) 
+
+European Commission — BEPA
+
+Christiane
+
+Austrian Bioethics Commission
+
+Daniel 
+
+National Health Research Ethics Council — South Africa
+
+Dubois-Flynn
+
+Geneviève
+
+Canadian Institutes of Health Research
+
+Effa
+
+Evsen
+
+Fernando
+
+Geerts
+
+Gefenas
+
+Gerhardt
+
+Gorski 
+
+Grosman
+
+Pierre
+
+Jessica 
+
+Tasmine
+
+Sofie
+
+Pan African Congress for Ethics and Bioethics (COPAB)
+
+European Commission — DG Interpretation
+
+European Commission — DG Interpretation
+
+Globethics.net — Ethics Institute of South Africa —Belgium
+
+Eugenijus 
+
+Lithuanian Bioethics Committee
+
+Ralph
+
+Andrzej
+
+Jeremy 
+
+European Commission — DG Interpretation
+
+EGE Member
+
+Université de Namur — Belgium
+
+98
+
+Mr
+
+Dr
+
+Prof.
+
+Dr
+
+Prof.
+
+Prof.
+
+Prof.
+
+Dr
+
+Dr
+
+Dr
+
+Prof.
+
+Ms
+
+Dr
+
+Dr 
+
+Ms
+
+Ms
+
+Dr
+
+Dr
+
+Dr
+
+Ms
+
+Ms
+
+Mr
+
+Dr
+
+Dr
+
+Dr
+
+Prof.
+
+Dr
+
+Prof.
+
+Ms
+
+Ms
+
+Dr
+
+Prof.
+
+Mr
+
+Prof.
+
+Dr
+
+ 
+ 
+ 
+ 
+ 
+ 
+Round table on ethics of security and surveillance technologies, 18 September 2013, Brussels
+
+Participants
+
+Guerriero
+
+Iara Coelho Zito  Comissão Nacional de Ética em Pesquisa (CONEP) — Brazil
+
+Dr
+
+Dr
+
+Prof.
+
+Dr
+
+Ms
+
+Ms
+
+Hafez
+
+Halila 
+
+Hatzinger
+
+Hay
+
+Hendry
+
+Prof.
+
+Ida
+
+Ms
+
+Dr
+
+Kaempfe
+
+Karatzas
+
+Prof.
+
+Kinderlerer
+
+Dr
+
+Mr
+
+Mr
+
+Dr 
+
+Dr
+
+Dr
+
+Kortsidaki
+
+Kotz
+
+Kritikos
+
+Kuhn
+
+Kulic
+
+Laroche 
+
+Prof.
+
+Laszlo
+
+Mohamed Hafi
+
+Supreme Committee for Medical Specialities — Egypt
+
+Ritva 
+
+Katrin
+
+Emily
+
+Kathryn 
+
+Ryuichi
+
+Sabine
+
+Isidoros
+
+Julian
+
+Agni
+
+Colin
+
+Mihalis
+
+Michael
+
+Slavko
+
+Gilles
+
+Szonyi
+
+EGE Member
+
+Protestant Church in Germany — Belgium
+
+Lorenz International Lawyers—Belgium
+
+Brahma Kumaris — Belgium
+
+Kyoto University — Doshisha University — Japan
+
+European Commission — DG Interpretation
+
+European Commission — DG Research and Innovation
+
+EGE Member
+
+European Commission — DG Research and Innovation
+
+European Commission — DG Interpretation
+
+EIPA
+
+Commission of the Bishop’s Conferences of the EU — Belgium
+
+Institute on World Problems — Croatia
+
+European Commission — DG Research and Innovation
+
+Health Science Council, Scientific and Research Ethics Commission 
+— Hungary
+
+Mrs
+
+Dr
+
+Mrs
+
+Mrs
+
+Prof.
+
+Prof.
+
+Dr 
+
+Ms
+
+Prof.
+
+Prof.
+
+Dr
+
+Dr
+
+Prof.
+
+Prof.
+
+Dr
+
+Prof.
+
+Dr
+
+Dr
+
+Lê 
+
+Kim-Hoàng
+
+European Commission — BEPA
+
+Liberatore
+
+Angela
+
+European Commission — DG Research and Innovation
+
+Martinho da Silva 
+
+Paula
+
+EGE Member
+
+Mustajab
+
+Nielsen
+
+Nys 
+
+Omanovic
+
+Oltean
+
+Pagallo
+
+Palazzani 
+
+Peneva
+
+Peyre
+
+Pfleiderer
+
+Puigdomenech
+
+Palupi 
+Sukiyantini 
+
+Linda
+
+Herman
+
+Edin
+
+Embassy of the Republic of Indonesia
+
+EGE Member
+
+EGE Member
+
+Privacy International — United Kingdom
+
+Adriana-Sorina 
+
+European Commission — BEPA
+
+Ugo 
+
+Laura
+
+Pavlina 
+
+University of Torino — Italy
+
+EGE Member
+
+European Commission — DG Research and Innovation
+
+Marie-Sophie
+
+European Commission — DG Research and Innovation
+
+Georg
+
+Pere
+
+Federal Ethics Committee on Biotechnology — Switzerland
+
+EGE Member
+
+Rath
+
+Johannes
+
+University of Vienna, Department of Evolutionary Biology — Austria
+
+Renzong
+
+Qiu
+
+Centre for Bioethics, Chinese Academy of Medical Sciences/Peking Union 
+Medical College
+
+Roelof Vijay
+
+Pieterson
+
+Brahma Kumaris, World Spiritual University — The Netherlands
+
+Ruffo de Calabre
+
+Marie-des-neiges  Université Paris-Sorbonne — Université de Namur — Belgium
+
+Prof.
+
+Ruiz de Chavez 
+
+Dr
+
+Dr
+
+Dr
+
+Rupcic
+
+Salvi
+
+Saxena
+
+Colonel
+
+Schneider
+
+Prof.
+
+Prof.
+
+Prof.
+
+Dr
+
+Smith 
+
+Tallacchini
+
+Thiel 
+
+Tsigaridas
+
+Manuel
+
+Danijela
+
+Maurizio
+
+Abha
+
+Thomas
+
+David 
+
+Comisión Nacional de Bioética — Mexico
+
+LLM Bioethics — European University of Rome — Italy
+
+European Commission — DG Research and Innovation — JRC
+
+World Health Organisation
+
+German Confederation of Managers, DFK — Germany
+
+Irish Council for Bioethics
+
+Mariachiara 
+
+European Commission — DG Research and Innovation — JRC
+
+Marie-Jo 
+
+Elektra
+
+EGE Member
+
+European Commissions — DG ENT
+
+99
+
+ 
+ 
+ 
+Round table on ethics of security and surveillance technologies, 18 September 2013, Brussels
+
+Participants
+
+Ulfhielm
+
+Valcu
+
+Van Assche
+
+Van Oort
+
+Van Woensel 
+
+Vassallo
+
+Ms
+
+Dr
+
+Dr
+
+Dr
+
+Dr
+
+Mr
+
+Prof.
+
+Virt
+
+Dr
+
+Dr
+
+Prof.
+
+Prof.
+
+Voniatis
+
+Wolfslehner 
+
+Yudin
+
+Zormpas
+
+Sara
+
+George 
+
+Kristof 
+
+Sander
+
+Lieve 
+
+Henrik
+
+Günter
+
+SaaB Belgium
+
+Romanian Orthodox Church to the European Institutions — Belgium
+
+Council of Europe
+
+TNO — The Netherlands
+
+European Parliament — Brussels
+
+SaaB Belgium
+
+EGE Member
+
+Michalis
+
+The Cyprus National Bioethics Committee
+
+Doris 
+
+Boris
+
+Austrian Bioethics Commission
+
+Russian National Committee on Bioethics (RCB)
+
+Konstantinos
+
+Theologian Sociologist — Belgium
+
+100
+
+ 
+ 
+ 
+Annex II
+
+EGE Secretariat
+
+EGE round table on the ethics of 
+security and surveillance technologies
+
+101
+
+EGE Secretariat
+
+Address 
+European Commission 
+Berl 8/362 
+1049 Brussels 
+BELGIUM 
+Fax +32 22994565   
+Email: BEPA-ETHICS-GROUP@ec.europa.eu
+
+Jim DRATWA 
+European Commission 
+Adviser, Bureau of European Policy Advisers 
+Secretary-General of the IDB 
+Head of the EGE Secretariat 
+
+Berl 8/358, 1049 Brussels – BELGIUM
+Tel. +32 22958253  
+E-mail: jim.dratwa@ec.europa.eu
+
+Kim Hoang LE 
+European Commission 
+EGE Secretariat 
+
+Berl 8/362, 1049 Brussels – BELGIUM
+Tel. +32 22999228 
+E-mail: kim-hoang.le@ec.europa.eu
+
+Adriana Sorina OLTEAN 
+European Commission 
+EGE Secretariat 
+
+Berl 8/362, 1049 Brussels – BELGIUM
+Tel. +32 22993016 
+E-mail: adriana-sorina.oltean@ec.europa.eu
+
+Internet: 
+http://ec.europa.eu/european_group_ethics/index_en.htm
+
+102
+
+Mail address
+
+European Commission
+
+Secretariat of the European Group on Ethics in Science  
+and New Technologies
+
+Berlaymont Building
+BERL 8/362
+Rue de la Loi/Wetstraat 200
+1049 Bruxelles/Brussel
+BELGIQUE/BELGÏE
+
+Office
+
+European Commission
+Berlaymont Building
+Rue de la Loi/Wetstraat 200
+1049 Bruxelles/Brussel
+BELGIQUE/BELGÏE
+
+Website
+
+http://ec.europa.eu/european_group_ethics/index_en.htm
+
+103
+
+HOW TO OBTAIN EU PUBLICATIONS
+
+Free publications:
+
+•	
+
+one copy: 
+via EU Bookshop (http://bookshop.europa.eu);
+
+•	 more than one copy or posters/maps: 
+
+from the European Union’s representations (http://ec.europa.eu/represent_en.htm); 
+from the delegations in non-EU countries (http://eeas.europa.eu/delegations/index_en.htm); 
+by contacting the Europe Direct service (http://europa.eu/europedirect/index_en.htm) or 
+calling 00 800 6 7 8 9 10 11 (freephone number from anywhere in the EU) (*).
+
+(*) 
+
+The information given is free, as are most calls (though some operators, phone boxes or hotels may charge you).
+
+Priced publications:
+
+•	
+
+via EU Bookshop (http://bookshop.europa.eu).
+
+Priced subscriptions:
+
+•	
+
+via one of the sales agents of the Publications Office of the European Union 
+(http://publications.europa.eu/others/agents/index_en.htm).
+
+N
+J
+-
+0
+1
+-
+1
+3
+-
+7
+7
+4
+-
+2
+A
+-
+C
+
+E
+
+t
+
+h
+
+i
+
+c
+
+s
+
+o
+
+f
+
+s
+
+e
+
+c
+
+u
+
+r
+
+i
+
+t
+
+y
+
+a
+
+n
+
+d
+
+s
+
+u
+
+r
+
+v
+
+e
+
+i
+
+l
+
+l
+
+a
+
+n
+
+c
+
+e
+
+t
+
+e
+
+c
+
+h
+
+n
+
+o
+
+l
+
+o
+
+g
+
+i
+
+e
+
+s
+
+—
+
+P
+
+r
+
+o
+
+c
+
+e
+
+e
+
+d
+
+i
+
+n
+
+g
+
+s
+
+o
+
+f
+
+t
+
+h
+
+e
+
+r
+
+o
+
+u
+
+n
+
+d
+
+-
+
+t
+
+a
+
+b
+
+l
+
+e
+
+d
+
+e
+
+b
+
+a
+
+t
+
+e
+
+B
+
+r
+
+u
+
+s
+
+s
+
+e
+
+l
+
+s
+
+,
+
+1
+
+8
+
+S
+
+e
+
+p
+
+t
+
+e
+
+m
+
+b
+
+e
+
+r
+
+2
+
+0
+
+1
+
+3
+
+doi:10.2796/22080
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
